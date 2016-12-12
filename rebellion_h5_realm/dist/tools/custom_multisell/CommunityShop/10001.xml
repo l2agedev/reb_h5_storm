@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='utf-8'?>
+  <!-- by 4ipolino -->
+<!--Masterwork-->
+<list>
+<item id="1">
+<ingredient id="57" count="146873000" enchant="0"/>
+<production id="16074" count="1" enchant="0"/>
+</item>
+<item id="2">
+<ingredient id="57" count="146873000" enchant="0"/>
+<production id="16075" count="1" enchant="0"/>
+</item>
+<item id="3">
+<ingredient id="57" count="146873000" enchant="0"/>
+<production id="16076" count="1" enchant="0"/>
+</item>
+<item id="4">
+<ingredient id="57" count="146873000" enchant="0"/>
+<production id="16062" count="1" enchant="0"/>
+</item>
+<item id="5">
+<ingredient id="57" count="146873000" enchant="0"/>
+<production id="16063" count="1" enchant="0"/>
+</item>
+<item id="6">
+<ingredient id="57" count="146873000" enchant="0"/>
+<production id="16064" count="1" enchant="0"/>
+</item>
+<item id="7">
+<ingredient id="57" count="146873000" enchant="0"/>
+<production id="16080" count="1" enchant="0"/>
+</item>
+<item id="8">
+<ingredient id="57" count="146873000" enchant="0"/>
+<production id="16081" count="1" enchant="0"/>
+</item>
+<item id="9">
+<ingredient id="57" count="146873000" enchant="0"/>
+<production id="16082" count="1" enchant="0"/>
+</item>
+<item id="10">
+<ingredient id="57" count="146873000" enchant="0"/>
+<production id="16056" count="1" enchant="0"/>
+</item>
+<item id="11">
+<ingredient id="57" count="146873000" enchant="0"/>
+<production id="16057" count="1" enchant="0"/>
+</item>
+<item id="12">
+<ingredient id="57" count="146873000" enchant="0"/>
+<production id="16058" count="1" enchant="0"/>
+</item>
+
+</list> 

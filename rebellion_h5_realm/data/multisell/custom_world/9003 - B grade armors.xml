@@ -1,0 +1,1286 @@
+<?xml version='1.0' encoding='utf-8'?>
+<list>
+	<config showall="true" notax="true" keepenchanted="true" />
+	<item>
+		<production id="2402" count="1" /> <!-- Stockings of Zubei -->
+		<ingredient id="57" count="748300" />
+	</item>
+	<item>
+		<production id="2403" count="1" /> <!-- Blue Wolf Stockings -->
+		<ingredient id="57" count="1160300" />
+	</item>
+	<item>
+		<production id="2404" count="1" /> <!-- Stockings of Doom -->
+		<ingredient id="57" count="1160300" />
+	</item>
+	<item>
+		<production id="2406" count="1" /> <!-- Avadon Robe -->
+		<ingredient id="57" count="1946000" />
+	</item>
+	<item>
+		<production id="2415" count="1" /> <!-- Avadon Circlet -->
+		<ingredient id="57" count="598600" />
+	</item>
+	<item>
+		<production id="2416" count="1" /> <!-- Blue Wolf Helmet -->
+		<ingredient id="57" count="928300" />
+	</item>
+	<item>
+		<production id="2417" count="1" /> <!-- Doom Helmet -->
+		<ingredient id="57" count="928300" />
+	</item>
+	<item>
+		<production id="2439" count="1" /> <!-- Sealed Blue Wolf Boots -->
+		<ingredient id="57" count="618800" />
+	</item>
+	<item>
+		<production id="2464" count="1" /> <!-- Sealed Avadon Gloves -->
+		<ingredient id="57" count="399100" />
+	</item>
+	<item>
+		<production id="2465" count="1" /> <!-- Chain Gloves of Silence -->
+		<ingredient id="57" count="399100" />
+	</item>
+	<item>
+		<production id="2466" count="1" /> <!-- Guardian's Gloves -->
+		<ingredient id="57" count="399100" />
+	</item>
+	<item>
+		<production id="2467" count="1" /> <!-- Gloves of Blessing -->
+		<ingredient id="57" count="399100" />
+	</item>
+	<item>
+		<production id="2475" count="1" /> <!-- Sealed Doom Gloves -->
+		<ingredient id="57" count="618800" />
+	</item>
+	<item>
+		<production id="2480" count="1" /> <!-- Elemental Gloves -->
+		<ingredient id="57" count="618800" />
+	</item>
+	<item>
+		<production id="2481" count="1" /> <!-- Gloves of Grace -->
+		<ingredient id="57" count="618800" />
+	</item>
+	<item>
+		<production id="2485" count="1" /> <!-- Implosion Gauntlets -->
+		<ingredient id="57" count="618800" />
+	</item>
+	<item>
+		<production id="2486" count="1" /> <!-- Paradia Gloves -->
+		<ingredient id="57" count="618800" />
+	</item>
+	<item>
+		<production id="2487" count="1" /> <!-- Sealed Blue Wolf Gloves -->
+		<ingredient id="57" count="618800" />
+	</item>
+	<item>
+		<production id="11349" count="1" /> <!-- Sealed Zubei's Gauntlet -->
+		<ingredient id="57" count="399100" />
+		<ingredient id="14678" count="1" /> <!-- Neolithic Crystal - B -->
+	</item>
+	<item>
+		<production id="11350" count="1" /> <!-- Sealed Zubei's Boots -->
+		<ingredient id="57" count="399100" />
+		<ingredient id="14678" count="1" /> <!-- Neolithic Crystal - B -->
+	</item>
+	<item>
+		<production id="11351" count="1" /> <!-- Sealed Avadon Gloves -->
+		<ingredient id="57" count="399100" />
+		<ingredient id="14678" count="1" /> <!-- Neolithic Crystal - B -->
+	</item>
+	<item>
+		<production id="11352" count="1" /> <!-- Sealed Avadon Boots -->
+		<ingredient id="57" count="399100" />
+		<ingredient id="14678" count="1" /> <!-- Neolithic Crystal - B -->
+	</item>
+	<item>
+		<production id="11353" count="1" /> <!-- Zubei's Leather Gaiters -->
+		<ingredient id="57" count="748300" />
+		<ingredient id="14678" count="1" /> <!-- Neolithic Crystal - B -->
+	</item>
+	<item>
+		<production id="11355" count="1" /> <!-- Zubei's Gaiters -->
+		<ingredient id="57" count="997700" />
+		<ingredient id="14678" count="1" /> <!-- Neolithic Crystal - B -->
+	</item>
+	<item>
+		<production id="11356" count="1" /> <!-- Zubei's Gauntlet - Heavy Armor -->
+		<ingredient id="57" count="399100" />
+		<ingredient id="14678" count="1" /> <!-- Neolithic Crystal - B -->
+	</item>
+	<item>
+		<production id="11357" count="1" /> <!-- Zubei's Gauntlet - Light Armor Use -->
+		<ingredient id="57" count="399100" />
+		<ingredient id="14678" count="1" /> <!-- Neolithic Crystal - B -->
+	</item>
+	<item>
+		<production id="11358" count="1" /> <!-- Zubei's Gauntlet - Robe -->
+		<ingredient id="57" count="399100" />
+		<ingredient id="14678" count="1" /> <!-- Neolithic Crystal - B -->
+	</item>
+	<item>
+		<production id="11359" count="1" /> <!-- Zubei's Boots - Heavy Armor -->
+		<ingredient id="57" count="399100" />
+		<ingredient id="14678" count="1" /> <!-- Neolithic Crystal - B -->
+	</item>
+	<item>
+		<production id="11360" count="1" /> <!-- Zubei's Boots - Light Armor Use -->
+		<ingredient id="57" count="399100" />
+		<ingredient id="14678" count="1" /> <!-- Neolithic Crystal - B -->
+	</item>
+	<item>
+		<production id="11361" count="1" /> <!-- Zubei's Boots - Robe -->
+		<ingredient id="57" count="399100" />
+		<ingredient id="14678" count="1" /> <!-- Neolithic Crystal - B -->
+	</item>
+	<item>
+		<production id="11362" count="1" /> <!-- Zubei's Shield -->
+		<ingredient id="57" count="419000" />
+		<ingredient id="14678" count="1" /> <!-- Neolithic Crystal - B -->
+	</item>
+	<item>
+		<production id="11363" count="1" /> <!-- Zubei's Helmet - Heavy Armor -->
+		<ingredient id="57" count="598600" />
+		<ingredient id="14678" count="1" /> <!-- Neolithic Crystal - B -->
+	</item>
+	<item>
+		<production id="11364" count="1" /> <!-- Zubei's Breastplate -->
+		<ingredient id="57" count="1596000" />
+		<ingredient id="14678" count="1" /> <!-- Neolithic Crystal - B -->
+	</item>
+	<item>
+		<production id="11365" count="1" /> <!-- Avadon Gloves - Heavy Armor -->
+		<ingredient id="57" count="399100" />
+		<ingredient id="14678" count="1" /> <!-- Neolithic Crystal - B -->
+	</item>
+	<item>
+		<production id="11366" count="1" /> <!-- Avadon Gloves - Light Armor Use -->
+		<ingredient id="57" count="399100" />
+		<ingredient id="14678" count="1" /> <!-- Neolithic Crystal - B -->
+	</item>
+	<item>
+		<production id="11367" count="1" /> <!-- Avadon Gloves - Robe -->
+		<ingredient id="57" count="399100" />
+		<ingredient id="14678" count="1" /> <!-- Neolithic Crystal - B -->
+	</item>
+	<item>
+		<production id="11368" count="1" /> <!-- Avadon Leather Armor -->
+		<ingredient id="57" count="1946000" />
+		<ingredient id="14678" count="1" /> <!-- Neolithic Crystal - B -->
+	</item>
+	<item>
+		<production id="11369" count="1" /> <!-- Avadon Robe -->
+		<ingredient id="57" count="1946000" />
+		<ingredient id="14678" count="1" /> <!-- Neolithic Crystal - B -->
+	</item>
+	<item>
+		<production id="11370" count="1" /> <!-- Avadon Boots - Heavy Armor -->
+		<ingredient id="57" count="399100" />
+		<ingredient id="14678" count="1" /> <!-- Neolithic Crystal - B -->
+	</item>
+	<item>
+		<production id="11371" count="1" /> <!-- Avadon Boots - Light Armor Use -->
+		<ingredient id="57" count="399100" />
+		<ingredient id="14678" count="1" /> <!-- Neolithic Crystal - B -->
+	</item>
+	<item>
+		<production id="11372" count="1" /> <!-- Avadon Boots - Robe -->
+		<ingredient id="57" count="399100" />
+		<ingredient id="14678" count="1" /> <!-- Neolithic Crystal - B -->
+	</item>
+	<item>
+		<production id="11373" count="1" /> <!-- Avadon Circlet - Heavy Armor -->
+		<ingredient id="57" count="598600" />
+		<ingredient id="14678" count="1" /> <!-- Neolithic Crystal - B -->
+	</item>
+	<item>
+		<production id="11374" count="1" /> <!-- Avadon Shield -->
+		<ingredient id="57" count="419000" />
+		<ingredient id="14678" count="1" /> <!-- Neolithic Crystal - B -->
+	</item>
+	<item>
+		<production id="11375" count="1" /> <!-- Avadon Gaiters -->
+		<ingredient id="57" count="997700" />
+		<ingredient id="14678" count="1" /> <!-- Neolithic Crystal - B -->
+	</item>
+	<item>
+		<production id="11376" count="1" /> <!-- Avadon Breastplate -->
+		<ingredient id="57" count="1596000" />
+		<ingredient id="14678" count="1" /> <!-- Neolithic Crystal - B -->
+	</item>
+	<item>
+		<production id="11377" count="1" /> <!-- Tunic of Zubei -->
+		<ingredient id="57" count="1197000" />
+		<ingredient id="14678" count="1" /> <!-- Neolithic Crystal - B -->
+	</item>
+	<item>
+		<production id="11378" count="1" /> <!-- Stockings of Zubei -->
+		<ingredient id="57" count="748300" />
+		<ingredient id="14678" count="1" /> <!-- Neolithic Crystal - B -->
+	</item>
+	<item>
+		<production id="11379" count="1" /> <!-- Doom Gloves - Heavy Armor -->
+		<ingredient id="57" count="618800" />
+		<ingredient id="14678" count="1" /> <!-- Neolithic Crystal - B -->
+	</item>
+	<item>
+		<production id="11380" count="1" /> <!-- Doom Gloves - Light Armor Use -->
+		<ingredient id="57" count="618800" />
+		<ingredient id="14678" count="1" /> <!-- Neolithic Crystal - B -->
+	</item>
+	<item>
+		<production id="11381" count="1" /> <!-- Doom Gloves - Robe -->
+		<ingredient id="57" count="618800" />
+		<ingredient id="14678" count="1" /> <!-- Neolithic Crystal - B -->
+	</item>
+	<item>
+		<production id="11382" count="1" /> <!-- Doom Boots - Heavy Armor -->
+		<ingredient id="57" count="618800" />
+		<ingredient id="14678" count="1" /> <!-- Neolithic Crystal - B -->
+	</item>
+	<item>
+		<production id="11383" count="1" /> <!-- Doom Boots - Light Armor Use -->
+		<ingredient id="57" count="618800" />
+		<ingredient id="14678" count="1" /> <!-- Neolithic Crystal - B -->
+	</item>
+	<item>
+		<production id="11384" count="1" /> <!-- Doom Boots - Robe -->
+		<ingredient id="57" count="618800" />
+		<ingredient id="14678" count="1" /> <!-- Neolithic Crystal - B -->
+	</item>
+	<item>
+		<production id="11385" count="1" /> <!-- Doom Shield -->
+		<ingredient id="57" count="649800" />
+		<ingredient id="14678" count="1" /> <!-- Neolithic Crystal - B -->
+	</item>
+	<item>
+		<production id="11386" count="1" /> <!-- Doom Plate Armor -->
+		<ingredient id="57" count="4022000" />
+		<ingredient id="14678" count="1" /> <!-- Neolithic Crystal - B -->
+	</item>
+	<item>
+		<production id="11387" count="1" /> <!-- Doom Helmet - Heavy Armor -->
+		<ingredient id="57" count="928300" />
+		<ingredient id="14678" count="1" /> <!-- Neolithic Crystal - B -->
+	</item>
+	<item>
+		<production id="11388" count="1" /> <!-- Leather Armor of Doom -->
+		<ingredient id="57" count="3017000" />
+		<ingredient id="14678" count="1" /> <!-- Neolithic Crystal - B -->
+	</item>
+	<item>
+		<production id="11389" count="1" /> <!-- Sealed Doom Gloves -->
+		<ingredient id="57" count="618800" />
+		<ingredient id="14678" count="1" /> <!-- Neolithic Crystal - B -->
+	</item>
+	<item>
+		<production id="11390" count="1" /> <!-- Sealed Doom Boots -->
+		<ingredient id="57" count="618800" />
+		<ingredient id="14678" count="1" /> <!-- Neolithic Crystal - B -->
+	</item>
+	<item>
+		<production id="11391" count="1" /> <!-- Sealed Blue Wolf Boots -->
+		<ingredient id="57" count="618800" />
+		<ingredient id="14678" count="1" /> <!-- Neolithic Crystal - B -->
+	</item>
+	<item>
+		<production id="11392" count="1" /> <!-- Sealed Blue Wolf Gloves -->
+		<ingredient id="57" count="618800" />
+		<ingredient id="14678" count="1" /> <!-- Neolithic Crystal - B -->
+	</item>
+	<item>
+		<production id="11393" count="1" /> <!-- Tunic of Doom -->
+		<ingredient id="57" count="1857000" />
+		<ingredient id="14678" count="1" /> <!-- Neolithic Crystal - B -->
+	</item>
+	<item>
+		<production id="11394" count="1" /> <!-- Blue Wolf Gaiters -->
+		<ingredient id="57" count="1547100" />
+		<ingredient id="14678" count="1" /> <!-- Neolithic Crystal - B -->
+	</item>
+	<item>
+		<production id="11395" count="1" /> <!-- Blue Wolf Leather Armor -->
+		<ingredient id="57" count="3017000" />
+		<ingredient id="14678" count="1" /> <!-- Neolithic Crystal - B -->
+	</item>
+	<item>
+		<production id="11396" count="1" /> <!-- Blue Wolf Boots - Heavy Armor -->
+		<ingredient id="57" count="618800" />
+		<ingredient id="14678" count="1" /> <!-- Neolithic Crystal - B -->
+	</item>
+	<item>
+		<production id="11397" count="1" /> <!-- Blue Wolf Boots - Light Armor Use -->
+		<ingredient id="57" count="618800" />
+		<ingredient id="14678" count="1" /> <!-- Neolithic Crystal - B -->
+	</item>
+	<item>
+		<production id="11398" count="1" /> <!-- Blue Wolf Boots - Robe -->
+		<ingredient id="57" count="618800" />
+		<ingredient id="14678" count="1" /> <!-- Neolithic Crystal - B -->
+	</item>
+	<item>
+		<production id="11399" count="1" /> <!-- Blue Wolf Gloves - Heavy Armor -->
+		<ingredient id="57" count="618800" />
+		<ingredient id="14678" count="1" /> <!-- Neolithic Crystal - B -->
+	</item>
+	<item>
+		<production id="503" count="1" /> <!-- Zubei's Helmet -->
+		<ingredient id="57" count="598600" />
+	</item>
+	<item>
+		<production id="505" count="1" /> <!-- Wolf Helmet -->
+		<ingredient id="57" count="928300" />
+	</item>
+	<item>
+		<production id="506" count="1" /> <!-- Shining Dragon Helmet -->
+		<ingredient id="57" count="1336000" />
+	</item>
+	<item>
+		<production id="507" count="1" /> <!-- Helmet of Victory -->
+		<ingredient id="57" count="928300" />
+	</item>
+	<item>
+		<production id="508" count="1" /> <!-- Helmet of Valor -->
+		<ingredient id="57" count="1336000" />
+	</item>
+	<item>
+		<production id="511" count="1" /> <!-- Elven Crystal Helmet -->
+		<ingredient id="57" count="928300" />
+	</item>
+	<item>
+		<production id="513" count="1" /> <!-- Implosion Helmet -->
+		<ingredient id="57" count="928300" />
+	</item>
+	<item>
+		<production id="514" count="1" /> <!-- Dark Dragon Helmet -->
+		<ingredient id="57" count="1336000" />
+	</item>
+	<item>
+		<production id="519" count="1" /> <!-- Art of Helmet -->
+		<ingredient id="57" count="928300" />
+	</item>
+	<item>
+		<production id="521" count="1" /> <!-- Helmet of Silence -->
+		<ingredient id="57" count="928300" />
+	</item>
+	<item>
+		<production id="522" count="1" /> <!-- Gust Helmet -->
+		<ingredient id="57" count="1336000" />
+	</item>
+	<item>
+		<production id="523" count="1" /> <!-- Prairie Helmet -->
+		<ingredient id="57" count="928300" />
+	</item>
+	<item>
+		<production id="524" count="1" /> <!-- Helm of Underworld -->
+		<ingredient id="57" count="1336000" />
+	</item>
+	<item>
+		<production id="525" count="1" /> <!-- Helmet of Concentration -->
+		<ingredient id="57" count="928300" />
+	</item>
+	<item>
+		<production id="526" count="1" /> <!-- Ace's Helmet -->
+		<ingredient id="57" count="1336000" />
+	</item>
+	<item>
+		<production id="527" count="1" /> <!-- Guardian's Helmet -->
+		<ingredient id="57" count="928300" />
+	</item>
+	<item>
+		<production id="528" count="1" /> <!-- Marksman Helmet -->
+		<ingredient id="57" count="1336000" />
+	</item>
+	<item>
+		<production id="530" count="1" /> <!-- Sage's Cap -->
+		<ingredient id="57" count="598600" />
+	</item>
+	<item>
+		<production id="532" count="1" /> <!-- Inferno Hood -->
+		<ingredient id="57" count="598600" />
+	</item>
+	<item>
+		<production id="534" count="1" /> <!-- Hood of Black Ore -->
+		<ingredient id="57" count="598600" />
+	</item>
+	<item>
+		<production id="536" count="1" /> <!-- Otherworldly Hood -->
+		<ingredient id="57" count="598600" />
+	</item>
+	<item>
+		<production id="538" count="1" /> <!-- Hood of Phantom -->
+		<ingredient id="57" count="598600" />
+	</item>
+	<item>
+		<production id="540" count="1" /> <!-- Hood of Holy Spirit -->
+		<ingredient id="57" count="598600" />
+	</item>
+	<item>
+		<production id="542" count="1" /> <!-- Cerberus Hood -->
+		<ingredient id="57" count="598600" />
+	</item>
+	<item>
+		<production id="544" count="1" /> <!-- Hood of Blessing -->
+		<ingredient id="57" count="598600" />
+	</item>
+	<item>
+		<production id="546" count="1" /> <!-- Helm of Bravery -->
+		<ingredient id="57" count="598600" />
+	</item>
+	<item>
+		<production id="548" count="1" /> <!-- Absolute Helm -->
+		<ingredient id="57" count="598600" />
+	</item>
+	<item>
+		<production id="550" count="1" /> <!-- Helm of Doom -->
+		<ingredient id="57" count="598600" />
+	</item>
+	<item>
+		<production id="552" count="1" /> <!-- Divine Helm -->
+		<ingredient id="57" count="598600" />
+	</item>
+	<item>
+		<production id="554" count="1" /> <!-- Sealed Zubei's Boots -->
+		<ingredient id="57" count="399100" />
+	</item>
+	<item>
+		<production id="556" count="1" /> <!-- Wolf Boots -->
+		<ingredient id="57" count="399100" />
+	</item>
+	<item>
+		<production id="557" count="1" /> <!-- Shining Dragon Boots -->
+		<ingredient id="57" count="618800" />
+	</item>
+	<item>
+		<production id="558" count="1" /> <!-- Boots of Victory -->
+		<ingredient id="57" count="399100" />
+	</item>
+	<item>
+		<production id="559" count="1" /> <!-- Boots of Valor -->
+		<ingredient id="57" count="618800" />
+	</item>
+	<item>
+		<production id="560" count="1" /> <!-- Glorious Boots -->
+		<ingredient id="57" count="399100" />
+	</item>
+	<item>
+		<production id="562" count="1" /> <!-- Elven Crystal Boots -->
+		<ingredient id="57" count="399100" />
+	</item>
+	<item>
+		<production id="564" count="1" /> <!-- Implosion Boots -->
+		<ingredient id="57" count="618800" />
+	</item>
+	<item>
+		<production id="565" count="1" /> <!-- Dark Dragon Boots -->
+		<ingredient id="57" count="618800" />
+	</item>
+	<item>
+		<production id="566" count="1" /> <!-- Elven Vagian Boots -->
+		<ingredient id="57" count="399100" />
+	</item>
+	<item>
+		<production id="567" count="1" /> <!-- Dark Vagian Boots -->
+		<ingredient id="57" count="618800" />
+	</item>
+	<item>
+		<production id="569" count="1" /> <!-- Hell Boots -->
+		<ingredient id="57" count="618800" />
+	</item>
+	<item>
+		<production id="570" count="1" /> <!-- Art of Boots -->
+		<ingredient id="57" count="399100" />
+	</item>
+	<item>
+		<production id="571" count="1" /> <!-- Masterpiece Boots -->
+		<ingredient id="57" count="618800" />
+	</item>
+	<item>
+		<production id="572" count="1" /> <!-- Boots of Silence -->
+		<ingredient id="57" count="399100" />
+	</item>
+	<item>
+		<production id="574" count="1" /> <!-- Prairie Boots -->
+		<ingredient id="57" count="399100" />
+	</item>
+	<item>
+		<production id="576" count="1" /> <!-- Boots of Concentration -->
+		<ingredient id="57" count="399100" />
+	</item>
+	<item>
+		<production id="577" count="1" /> <!-- Ace's Boots -->
+		<ingredient id="57" count="618800" />
+	</item>
+	<item>
+		<production id="578" count="1" /> <!-- Guardian's Boots -->
+		<ingredient id="57" count="399100" />
+	</item>
+	<item>
+		<production id="579" count="1" /> <!-- Marksman Boots -->
+		<ingredient id="57" count="618800" />
+	</item>
+	<item>
+		<production id="580" count="1" /> <!-- Boots of Mana -->
+		<ingredient id="57" count="399100" />
+	</item>
+	<item>
+		<production id="581" count="1" /> <!-- Sage's Boots -->
+		<ingredient id="57" count="618800" />
+	</item>
+	<item>
+		<production id="582" count="1" /> <!-- Paradia Boots -->
+		<ingredient id="57" count="618800" />
+	</item>
+	<item>
+		<production id="584" count="1" /> <!-- Boots of Solar Eclipse -->
+		<ingredient id="57" count="399100" />
+	</item>
+	<item>
+		<production id="585" count="1" /> <!-- Boots of Black Ore -->
+		<ingredient id="57" count="618800" />
+	</item>
+	<item>
+		<production id="586" count="1" /> <!-- Boots of Summoning -->
+		<ingredient id="57" count="399100" />
+	</item>
+	<item>
+		<production id="587" count="1" /> <!-- Otherworldly Boots -->
+		<ingredient id="57" count="618800" />
+	</item>
+	<item>
+		<production id="588" count="1" /> <!-- Elemental Boots -->
+		<ingredient id="57" count="618800" />
+	</item>
+	<item>
+		<production id="590" count="1" /> <!-- Boots of Grace -->
+		<ingredient id="57" count="618800" />
+	</item>
+	<item>
+		<production id="591" count="1" /> <!-- Boots of Holy Spirit -->
+		<ingredient id="57" count="618800" />
+	</item>
+	<item>
+		<production id="594" count="1" /> <!-- Boots of Aid -->
+		<ingredient id="57" count="399100" />
+	</item>
+	<item>
+		<production id="595" count="1" /> <!-- Boots of Blessing -->
+		<ingredient id="57" count="399100" />
+	</item>
+	<item>
+		<production id="596" count="1" /> <!-- Flame Boots -->
+		<ingredient id="57" count="890000" />
+	</item>
+	<item>
+		<production id="597" count="1" /> <!-- Boots of Bravery -->
+		<ingredient id="57" count="890000" />
+	</item>
+	<item>
+		<production id="599" count="1" /> <!-- Absolute Boots -->
+		<ingredient id="57" count="890000" />
+	</item>
+	<item>
+		<production id="357" count="1" /> <!-- Zubei's Breastplate -->
+		<ingredient id="57" count="1596000" />
+	</item>
+	<item>
+		<production id="358" count="1" /> <!-- Blue Wolf Breastplate -->
+		<ingredient id="57" count="2475000" />
+	</item>
+	<item>
+		<production id="359" count="1" /> <!-- Shining Dragon Armor -->
+		<ingredient id="57" count="5788000" />
+	</item>
+	<item>
+		<production id="360" count="1" /> <!-- Armor of Victory -->
+		<ingredient id="57" count="2475000" />
+	</item>
+	<item>
+		<production id="361" count="1" /> <!-- Breastplate of Valor -->
+		<ingredient id="57" count="3562000" />
+	</item>
+	<item>
+		<production id="362" count="1" /> <!-- Glorious Armor -->
+		<ingredient id="57" count="4022000" />
+	</item>
+	<item>
+		<production id="363" count="1" /> <!-- Red Flame Armor -->
+		<ingredient id="57" count="5788000" />
+	</item>
+	<item>
+		<production id="364" count="1" /> <!-- Elven Crystal Breastplate -->
+		<ingredient id="57" count="2475000" />
+	</item>
+	<item>
+		<production id="366" count="1" /> <!-- Implosion Armor -->
+		<ingredient id="57" count="4022000" />
+	</item>
+	<item>
+		<production id="367" count="1" /> <!-- Dark Dragon Armor -->
+		<ingredient id="57" count="5788000" />
+	</item>
+	<item>
+		<production id="368" count="1" /> <!-- Elven Vagian Armor -->
+		<ingredient id="57" count="4022000" />
+	</item>
+	<item>
+		<production id="369" count="1" /> <!-- Dark Vagian Armor -->
+		<ingredient id="57" count="5788000" />
+	</item>
+	<item>
+		<production id="370" count="1" /> <!-- Complete Set of Plate Armor -->
+		<ingredient id="57" count="4022000" />
+	</item>
+	<item>
+		<production id="371" count="1" /> <!-- Hell Plate -->
+		<ingredient id="57" count="5788000" />
+	</item>
+	<item>
+		<production id="372" count="1" /> <!-- Art of Plate -->
+		<ingredient id="57" count="4022000" />
+	</item>
+	<item>
+		<production id="373" count="1" /> <!-- Masterpiece Armor -->
+		<ingredient id="57" count="5788000" />
+	</item>
+	<item>
+		<production id="383" count="1" /> <!-- Zubei's Gaiters -->
+		<ingredient id="57" count="997700" />
+	</item>
+	<item>
+		<production id="384" count="1" /> <!-- Wolf Gaiters -->
+		<ingredient id="57" count="1547100" />
+	</item>
+	<item>
+		<production id="385" count="1" /> <!-- Gaiters of Victory -->
+		<ingredient id="57" count="1547100" />
+	</item>
+	<item>
+		<production id="386" count="1" /> <!-- Gaiters of Valor -->
+		<ingredient id="57" count="2226000" />
+	</item>
+	<item>
+		<production id="387" count="1" /> <!-- Elven Crystal Gaiters -->
+		<ingredient id="57" count="1547100" />
+	</item>
+	<item>
+		<production id="402" count="1" /> <!-- Chain Mail of Silence -->
+		<ingredient id="57" count="3017000" />
+	</item>
+	<item>
+		<production id="403" count="1" /> <!-- Gust Chain Mail -->
+		<ingredient id="57" count="4341000" />
+	</item>
+	<item>
+		<production id="404" count="1" /> <!-- Prairie Leather Armor -->
+		<ingredient id="57" count="1857000" />
+	</item>
+	<item>
+		<production id="405" count="1" /> <!-- Leather Armor of Underworld -->
+		<ingredient id="57" count="2671000" />
+	</item>
+	<item>
+		<production id="406" count="1" /> <!-- Leather Armor of Concentration -->
+		<ingredient id="57" count="3017000" />
+	</item>
+	<item>
+		<production id="407" count="1" /> <!-- Ace's Leather Armor -->
+		<ingredient id="57" count="4341000" />
+	</item>
+	<item>
+		<production id="408" count="1" /> <!-- Guardian's Leather Armor -->
+		<ingredient id="57" count="1857000" />
+	</item>
+	<item>
+		<production id="409" count="1" /> <!-- Marksman's Leather Armor -->
+		<ingredient id="57" count="2671000" />
+	</item>
+	<item>
+		<production id="421" count="1" /> <!-- Prairie Leather Gaiters -->
+		<ingredient id="57" count="1160300" />
+	</item>
+	<item>
+		<production id="422" count="1" /> <!-- Gaiters of Underworld -->
+		<ingredient id="57" count="1670000" />
+	</item>
+	<item>
+		<production id="423" count="1" /> <!-- Guardian's Leather Gaiters -->
+		<ingredient id="57" count="1160300" />
+	</item>
+	<item>
+		<production id="424" count="1" /> <!-- Marksman's Leather Gaiters -->
+		<ingredient id="57" count="1670000" />
+	</item>
+	<item>
+		<production id="443" count="1" /> <!-- Tunic of Mana -->
+		<ingredient id="57" count="1857000" />
+	</item>
+	<item>
+		<production id="444" count="1" /> <!-- Sage's Robe -->
+		<ingredient id="57" count="4341000" />
+	</item>
+	<item>
+		<production id="445" count="1" /> <!-- Paradia Tunic -->
+		<ingredient id="57" count="1857000" />
+	</item>
+	<item>
+		<production id="446" count="1" /> <!-- Inferno Tunic -->
+		<ingredient id="57" count="2671000" />
+	</item>
+	<item>
+		<production id="447" count="1" /> <!-- Tunic of Solar Eclipse -->
+		<ingredient id="57" count="1857000" />
+	</item>
+	<item>
+		<production id="448" count="1" /> <!-- Robe of Black Ore -->
+		<ingredient id="57" count="4341000" />
+	</item>
+	<item>
+		<production id="449" count="1" /> <!-- Tunic of Summoning -->
+		<ingredient id="57" count="1857000" />
+	</item>
+	<item>
+		<production id="450" count="1" /> <!-- Otherworldly Robe -->
+		<ingredient id="57" count="4341000" />
+	</item>
+	<item>
+		<production id="451" count="1" /> <!-- Elemental Tunic -->
+		<ingredient id="57" count="1857000" />
+	</item>
+	<item>
+		<production id="452" count="1" /> <!-- Tunic of Phantom -->
+		<ingredient id="57" count="2671000" />
+	</item>
+	<item>
+		<production id="453" count="1" /> <!-- Tunic of Grace -->
+		<ingredient id="57" count="1857000" />
+	</item>
+	<item>
+		<production id="454" count="1" /> <!-- Robe of Holy Spirit -->
+		<ingredient id="57" count="4341000" />
+	</item>
+	<item>
+		<production id="455" count="1" /> <!-- Phoenix Tunic -->
+		<ingredient id="57" count="1857000" />
+	</item>
+	<item>
+		<production id="456" count="1" /> <!-- Cerberus Tunic -->
+		<ingredient id="57" count="2671000" />
+	</item>
+	<item>
+		<production id="457" count="1" /> <!-- Tunic of Aid -->
+		<ingredient id="57" count="1857000" />
+	</item>
+	<item>
+		<production id="458" count="1" /> <!-- Robe of Blessing -->
+		<ingredient id="57" count="4341000" />
+	</item>
+	<item>
+		<production id="474" count="1" /> <!-- Stockings of Mana -->
+		<ingredient id="57" count="1160300" />
+	</item>
+	<item>
+		<production id="475" count="1" /> <!-- Paradia Stockings -->
+		<ingredient id="57" count="1160300" />
+	</item>
+	<item>
+		<production id="476" count="1" /> <!-- Inferno Stockings -->
+		<ingredient id="57" count="1670000" />
+	</item>
+	<item>
+		<production id="477" count="1" /> <!-- Stockings of Solar Eclipse -->
+		<ingredient id="57" count="1160300" />
+	</item>
+	<item>
+		<production id="478" count="1" /> <!-- Stockings of Summoning -->
+		<ingredient id="57" count="1160300" />
+	</item>
+	<item>
+		<production id="479" count="1" /> <!-- Elemental Stockings -->
+		<ingredient id="57" count="1160300" />
+	</item>
+	<item>
+		<production id="480" count="1" /> <!-- Stockings of Phantom -->
+		<ingredient id="57" count="1670000" />
+	</item>
+	<item>
+		<production id="481" count="1" /> <!-- Stockings of Grace -->
+		<ingredient id="57" count="1160300" />
+	</item>
+	<item>
+		<production id="482" count="1" /> <!-- Phoenix Stockings -->
+		<ingredient id="57" count="1160300" />
+	</item>
+	<item>
+		<production id="483" count="1" /> <!-- Cerberus Stockings -->
+		<ingredient id="57" count="1670000" />
+	</item>
+	<item>
+		<production id="484" count="1" /> <!-- Stockings of Aid -->
+		<ingredient id="57" count="1160300" />
+	</item>
+	<item>
+		<production id="12200" count="1" /> <!-- Common Item - Blue Wolf Gloves - Robe -->
+		<ingredient id="57" count="37600" />
+	</item>
+	<item>
+		<production id="12201" count="1" /> <!-- Common Item - Blue Wolf Tunic -->
+		<ingredient id="57" count="112700" />
+	</item>
+	<item>
+		<production id="12202" count="1" /> <!-- Common Item - Blue Wolf Helmet -->
+		<ingredient id="57" count="56300" />
+	</item>
+	<item>
+		<production id="11400" count="1" /> <!-- Blue Wolf Gloves - Light Armor Use -->
+		<ingredient id="57" count="618800" />
+		<ingredient id="14678" count="1" /> <!-- Neolithic Crystal - B -->
+	</item>
+	<item>
+		<production id="11401" count="1" /> <!-- Blue Wolf Gloves - Robe -->
+		<ingredient id="57" count="618800" />
+		<ingredient id="14678" count="1" /> <!-- Neolithic Crystal - B -->
+	</item>
+	<item>
+		<production id="11402" count="1" /> <!-- Blue Wolf Tunic -->
+		<ingredient id="57" count="1857000" />
+		<ingredient id="14678" count="1" /> <!-- Neolithic Crystal - B -->
+	</item>
+	<item>
+		<production id="11403" count="1" /> <!-- Blue Wolf Helmet - Heavy Armor -->
+		<ingredient id="57" count="928300" />
+		<ingredient id="14678" count="1" /> <!-- Neolithic Crystal - B -->
+	</item>
+	<item>
+		<production id="11404" count="1" /> <!-- Blue Wolf Stockings -->
+		<ingredient id="57" count="1160300" />
+		<ingredient id="14678" count="1" /> <!-- Neolithic Crystal - B -->
+	</item>
+	<item>
+		<production id="11405" count="1" /> <!-- Blue Wolf Breastplate -->
+		<ingredient id="57" count="2475000" />
+		<ingredient id="14678" count="1" /> <!-- Neolithic Crystal - B -->
+	</item>
+	<item>
+		<production id="11406" count="1" /> <!-- Stockings of Doom -->
+		<ingredient id="57" count="1160300" />
+		<ingredient id="14678" count="1" /> <!-- Neolithic Crystal - B -->
+	</item>
+	<item>
+		<production id="600" count="1" /> <!-- Sealed Avadon Boots -->
+		<ingredient id="57" count="399100" />
+	</item>
+	<item>
+		<production id="601" count="1" /> <!-- Sealed Doom Boots -->
+		<ingredient id="57" count="618800" />
+	</item>
+	<item>
+		<production id="602" count="1" /> <!-- Boots of Pledge -->
+		<ingredient id="57" count="890000" />
+	</item>
+	<item>
+		<production id="610" count="1" /> <!-- Saint Knight's Gauntlets -->
+		<ingredient id="57" count="399100" />
+	</item>
+	<item>
+		<production id="611" count="1" /> <!-- Soul Leech Gauntlets -->
+		<ingredient id="57" count="618800" />
+	</item>
+	<item>
+		<production id="612" count="1" /> <!-- Sealed Zubei's Gauntlets -->
+		<ingredient id="57" count="399100" />
+	</item>
+	<item>
+		<production id="633" count="1" /> <!-- Zubei's Shield -->
+		<ingredient id="57" count="419000" />
+	</item>
+	<item>
+		<production id="635" count="1" /> <!-- Wolf Shield -->
+		<ingredient id="57" count="419000" />
+	</item>
+	<item>
+		<production id="636" count="1" /> <!-- Shining Dragon Shield -->
+		<ingredient id="57" count="649800" />
+	</item>
+	<item>
+		<production id="637" count="1" /> <!-- Shield of Valor -->
+		<ingredient id="57" count="649800" />
+	</item>
+	<item>
+		<production id="638" count="1" /> <!-- Glorious Shield -->
+		<ingredient id="57" count="419000" />
+	</item>
+	<item>
+		<production id="639" count="1" /> <!-- Red Flame Shield -->
+		<ingredient id="57" count="649800" />
+	</item>
+	<item>
+		<production id="640" count="1" /> <!-- Elven Crystal Shield -->
+		<ingredient id="57" count="419000" />
+	</item>
+	<item>
+		<production id="642" count="1" /> <!-- Elven Vagian Shield -->
+		<ingredient id="57" count="419000" />
+	</item>
+	<item>
+		<production id="643" count="1" /> <!-- Dark Vagian Shield -->
+		<ingredient id="57" count="649800" />
+	</item>
+	<item>
+		<production id="644" count="1" /> <!-- Hell Shield -->
+		<ingredient id="57" count="649800" />
+	</item>
+	<item>
+		<production id="645" count="1" /> <!-- Art of Shield -->
+		<ingredient id="57" count="419000" />
+	</item>
+	<item>
+		<production id="646" count="1" /> <!-- Shield of Silence -->
+		<ingredient id="57" count="419000" />
+	</item>
+	<item>
+		<production id="647" count="1" /> <!-- Gust Shield -->
+		<ingredient id="57" count="649800" />
+	</item>
+	<item>
+		<production id="648" count="1" /> <!-- Prairie Shield -->
+		<ingredient id="57" count="419000" />
+	</item>
+	<item>
+		<production id="649" count="1" /> <!-- Shield of Underworld -->
+		<ingredient id="57" count="649800" />
+	</item>
+	<item>
+		<production id="650" count="1" /> <!-- Shield of Concentration -->
+		<ingredient id="57" count="419000" />
+	</item>
+	<item>
+		<production id="651" count="1" /> <!-- Ace's Shield -->
+		<ingredient id="57" count="649800" />
+	</item>
+	<item>
+		<production id="652" count="1" /> <!-- Guardian's Shield -->
+		<ingredient id="57" count="419000" />
+	</item>
+	<item>
+		<production id="653" count="1" /> <!-- Marksman Shield -->
+		<ingredient id="57" count="649800" />
+	</item>
+	<item>
+		<production id="654" count="1" /> <!-- Shield of Mana -->
+		<ingredient id="57" count="419000" />
+	</item>
+	<item>
+		<production id="655" count="1" /> <!-- Sage's Shield -->
+		<ingredient id="57" count="649800" />
+	</item>
+	<item>
+		<production id="656" count="1" /> <!-- Paradia Shield -->
+		<ingredient id="57" count="419000" />
+	</item>
+	<item>
+		<production id="657" count="1" /> <!-- Inferno Shield -->
+		<ingredient id="57" count="649800" />
+	</item>
+	<item>
+		<production id="658" count="1" /> <!-- Shield of Black Ore -->
+		<ingredient id="57" count="649800" />
+	</item>
+	<item>
+		<production id="659" count="1" /> <!-- Shield of Summoning -->
+		<ingredient id="57" count="419000" />
+	</item>
+	<item>
+		<production id="660" count="1" /> <!-- Otherworldly Shield -->
+		<ingredient id="57" count="649800" />
+	</item>
+	<item>
+		<production id="661" count="1" /> <!-- Elemental Shield -->
+		<ingredient id="57" count="419000" />
+	</item>
+	<item>
+		<production id="662" count="1" /> <!-- Shield of Phantom -->
+		<ingredient id="57" count="649800" />
+	</item>
+	<item>
+		<production id="663" count="1" /> <!-- Shield of Grace -->
+		<ingredient id="57" count="419000" />
+	</item>
+	<item>
+		<production id="664" count="1" /> <!-- Shield of Holy Spirit -->
+		<ingredient id="57" count="649800" />
+	</item>
+	<item>
+		<production id="665" count="1" /> <!-- Phoenix Shield -->
+		<ingredient id="57" count="419000" />
+	</item>
+	<item>
+		<production id="666" count="1" /> <!-- Cerberus Shield -->
+		<ingredient id="57" count="649800" />
+	</item>
+	<item>
+		<production id="667" count="1" /> <!-- Shield of Aid -->
+		<ingredient id="57" count="419000" />
+	</item>
+	<item>
+		<production id="668" count="1" /> <!-- Shield of Blessing -->
+		<ingredient id="57" count="649800" />
+	</item>
+	<item>
+		<production id="669" count="1" /> <!-- Flame Shield -->
+		<ingredient id="57" count="419000" />
+	</item>
+	<item>
+		<production id="670" count="1" /> <!-- Shield of Bravery -->
+		<ingredient id="57" count="649800" />
+	</item>
+	<item>
+		<production id="671" count="1" /> <!-- Blood Shield -->
+		<ingredient id="57" count="419000" />
+	</item>
+	<item>
+		<production id="672" count="1" /> <!-- Absolute Shield -->
+		<ingredient id="57" count="649800" />
+	</item>
+	<item>
+		<production id="673" count="1" /> <!-- Avadon Shield -->
+		<ingredient id="57" count="419000" />
+	</item>
+	<item>
+		<production id="674" count="1" /> <!-- Divine Shield -->
+		<ingredient id="57" count="649800" />
+	</item>
+	<item>
+		<production id="104" count="1" /> <!-- Shield of Victory -->
+		<ingredient id="57" count="419000" />
+	</item>
+	<item>
+		<production id="105" count="1" /> <!-- Implosion Shield -->
+		<ingredient id="57" count="419000" />
+	</item>
+	<item>
+		<production id="106" count="1" /> <!-- Dark Dragon Shield -->
+		<ingredient id="57" count="649800" />
+	</item>
+	<item>
+		<production id="108" count="1" /> <!-- Masterpiece Shield -->
+		<ingredient id="57" count="649800" />
+	</item>
+	<item>
+		<production id="109" count="1" /> <!-- Shield of Solar Eclipse -->
+		<ingredient id="57" count="419000" />
+	</item>
+	<item>
+		<production id="110" count="1" /> <!-- Doom Shield -->
+		<ingredient id="57" count="649800" />
+	</item>
+	<item>
+		<production id="111" count="1" /> <!-- Shield of Pledge -->
+		<ingredient id="57" count="419000" />
+	</item>
+	<item>
+		<production id="12978" count="1" /> <!-- Zubei's Helmet - Light Armor Use -->
+		<ingredient id="57" count="598600" />
+	</item>
+	<item>
+		<production id="12979" count="1" /> <!-- Zubei's Helmet - Robe -->
+		<ingredient id="57" count="598600" />
+	</item>
+	<item>
+		<production id="12980" count="1" /> <!-- Avadon Circlet - Light Armor Use -->
+		<ingredient id="57" count="598600" />
+	</item>
+	<item>
+		<production id="12981" count="1" /> <!-- Avadon Circlet - Robe -->
+		<ingredient id="57" count="598600" />
+	</item>
+	<item>
+		<production id="12982" count="1" /> <!-- Doom Helmet - Light Armor Use -->
+		<ingredient id="57" count="928300" />
+	</item>
+	<item>
+		<production id="12983" count="1" /> <!-- Doom Helmet - Robe -->
+		<ingredient id="57" count="928300" />
+	</item>
+	<item>
+		<production id="12984" count="1" /> <!-- Blue Wolf Helmet - Light Armor Use -->
+		<ingredient id="57" count="928300" />
+	</item>
+	<item>
+		<production id="12985" count="1" /> <!-- Blue Wolf Helmet - Robe -->
+		<ingredient id="57" count="928300" />
+	</item>
+	<item>
+		<production id="2376" count="1" /> <!-- Avadon Breastplate -->
+		<ingredient id="57" count="1596000" />
+	</item>
+	<item>
+		<production id="2379" count="1" /> <!-- Avadon Gaiters -->
+		<ingredient id="57" count="997700" />
+	</item>
+	<item>
+		<production id="2380" count="1" /> <!-- Blue Wolf Gaiters -->
+		<ingredient id="57" count="1547100" />
+	</item>
+	<item>
+		<production id="2381" count="1" /> <!-- Doom Plate Armor -->
+		<ingredient id="57" count="4022000" />
+	</item>
+	<item>
+		<production id="2388" count="1" /> <!-- Zubei's Leather Gaiters -->
+		<ingredient id="57" count="748300" />
+	</item>
+	<item>
+		<production id="2390" count="1" /> <!-- Avadon Leather Armor -->
+		<ingredient id="57" count="1946000" />
+	</item>
+	<item>
+		<production id="2391" count="1" /> <!-- Blue Wolf Leather Armor -->
+		<ingredient id="57" count="3017000" />
+	</item>
+	<item>
+		<production id="2392" count="1" /> <!-- Leather Armor of Doom -->
+		<ingredient id="57" count="3017000" />
+	</item>
+	<item>
+		<production id="2397" count="1" /> <!-- Tunic of Zubei -->
+		<ingredient id="57" count="1197000" />
+	</item>
+	<item>
+		<production id="2398" count="1" /> <!-- Blue Wolf Tunic -->
+		<ingredient id="57" count="1857000" />
+	</item>
+	<item>
+		<production id="2399" count="1" /> <!-- Tunic of Doom -->
+		<ingredient id="57" count="1857000" />
+	</item>
+	<item>
+		<production id="5709" count="1" /> <!-- Sealed Zubei's Gauntlets -->
+		<ingredient id="57" count="399100" />
+	</item>
+	<item>
+		<production id="5710" count="1" /> <!-- Zubei's Gauntlets - Heavy Armor -->
+		<ingredient id="57" count="399100" />
+	</item>
+	<item>
+		<production id="5711" count="1" /> <!-- Zubei's Gauntlets - Light Armor -->
+		<ingredient id="57" count="399100" />
+	</item>
+	<item>
+		<production id="5712" count="1" /> <!-- Zubei's Gauntlets - Robe -->
+		<ingredient id="57" count="399100" />
+	</item>
+	<item>
+		<production id="5713" count="1" /> <!-- Sealed Avadon Gloves -->
+		<ingredient id="57" count="399100" />
+	</item>
+	<item>
+		<production id="5714" count="1" /> <!-- Avadon Gloves - Heavy Armor -->
+		<ingredient id="57" count="399100" />
+	</item>
+	<item>
+		<production id="5715" count="1" /> <!-- Avadon Gloves - Light Armor -->
+		<ingredient id="57" count="399100" />
+	</item>
+	<item>
+		<production id="5716" count="1" /> <!-- Avadon Gloves - Robe -->
+		<ingredient id="57" count="399100" />
+	</item>
+	<item>
+		<production id="5717" count="1" /> <!-- Sealed Blue Wolf Gloves -->
+		<ingredient id="57" count="618800" />
+	</item>
+	<item>
+		<production id="5718" count="1" /> <!-- Blue Wolf Gloves - Heavy Armor -->
+		<ingredient id="57" count="618800" />
+	</item>
+	<item>
+		<production id="5719" count="1" /> <!-- Blue Wolf Gloves - Light Armor -->
+		<ingredient id="57" count="618800" />
+	</item>
+	<item>
+		<production id="5720" count="1" /> <!-- Blue Wolf Gloves - Robe -->
+		<ingredient id="57" count="618800" />
+	</item>
+	<item>
+		<production id="5721" count="1" /> <!-- Sealed Doom Gloves -->
+		<ingredient id="57" count="618800" />
+	</item>
+	<item>
+		<production id="5722" count="1" /> <!-- Doom Gloves - Heavy Armor -->
+		<ingredient id="57" count="618800" />
+	</item>
+	<item>
+		<production id="5723" count="1" /> <!-- Doom Gloves - Light Armor -->
+		<ingredient id="57" count="618800" />
+	</item>
+	<item>
+		<production id="5724" count="1" /> <!-- Doom Gloves - Robe -->
+		<ingredient id="57" count="618800" />
+	</item>
+	<item>
+		<production id="5725" count="1" /> <!-- Sealed Zubei's Boots -->
+		<ingredient id="57" count="399100" />
+	</item>
+	<item>
+		<production id="5726" count="1" /> <!-- Zubei's Boots - Heavy Armor -->
+		<ingredient id="57" count="399100" />
+	</item>
+	<item>
+		<production id="5727" count="1" /> <!-- Zubei's Boots - Light Armor -->
+		<ingredient id="57" count="399100" />
+	</item>
+	<item>
+		<production id="5728" count="1" /> <!-- Zubei's Boots - Robe -->
+		<ingredient id="57" count="399100" />
+	</item>
+	<item>
+		<production id="5729" count="1" /> <!-- Sealed Avadon Boots -->
+		<ingredient id="57" count="399100" />
+	</item>
+	<item>
+		<production id="5730" count="1" /> <!-- Avadon Boots - Heavy Armor -->
+		<ingredient id="57" count="399100" />
+	</item>
+	<item>
+		<production id="5731" count="1" /> <!-- Avadon Boots - Light Armor -->
+		<ingredient id="57" count="399100" />
+	</item>
+	<item>
+		<production id="5732" count="1" /> <!-- Avadon Boots - Robe -->
+		<ingredient id="57" count="399100" />
+	</item>
+	<item>
+		<production id="5733" count="1" /> <!-- Sealed Blue Wolf Boots -->
+		<ingredient id="57" count="618800" />
+	</item>
+	<item>
+		<production id="5734" count="1" /> <!-- Blue Wolf Boots - Heavy Armor -->
+		<ingredient id="57" count="618800" />
+	</item>
+	<item>
+		<production id="5735" count="1" /> <!-- Blue Wolf Boots - Light Armor -->
+		<ingredient id="57" count="618800" />
+	</item>
+	<item>
+		<production id="5736" count="1" /> <!-- Blue Wolf Boots - Robe -->
+		<ingredient id="57" count="618800" />
+	</item>
+	<item>
+		<production id="5737" count="1" /> <!-- Sealed Doom Boots -->
+		<ingredient id="57" count="618800" />
+	</item>
+	<item>
+		<production id="5738" count="1" /> <!-- Doom Boots - Heavy Armor -->
+		<ingredient id="57" count="618800" />
+	</item>
+	<item>
+		<production id="5739" count="1" /> <!-- Doom Boots - Light Armor -->
+		<ingredient id="57" count="618800" />
+	</item>
+	<item>
+		<production id="5740" count="1" /> <!-- Doom Boots - Robe -->
+		<ingredient id="57" count="618800" />
+	</item>
+
+</list>

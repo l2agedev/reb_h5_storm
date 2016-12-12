@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE list SYSTEM "spawn.dtd">
+<list>
+	<!-- Titanum Chamber -->
+	<spawn count="1" respawn="60" respawn_random="0" group="custom_hall">
+		<point x="80769" y="56740" z="-1545" h="17358" />
+		<npc id="301" />
+	</spawn>
+	
+	<!-- Knights Chamber -->
+	<spawn count="1" respawn="60" respawn_random="0" group="custom_hall">
+		<point x="82976" y="56275" z="-1510" h="16905" />
+		<npc id="302" />
+	</spawn>
+	
+	<!-- Phoenix Chamber -->
+	<spawn count="1" respawn="60" respawn_random="0" group="custom_hall">
+		<point x="81775" y="53138" z="-1483" h="49700" />
+		<npc id="303" />
+	</spawn>
+	
+	<!-- Waterfall Hall -->
+	<spawn count="1" respawn="60" respawn_random="0" group="custom_hall">
+		<point x="113954" y="217226" z="-3628" h="32964" />
+		<npc id="304" />
+	</spawn>
+	
+	<!-- Giants Hall -->
+	<spawn count="1" respawn="60" respawn_random="0" group="custom_hall">
+		<point x="114047" y="222708" z="-3626" h="16058" />
+		<npc id="305" />
+	</spawn>
+	
+	<!-- Earth Hall -->
+	<spawn count="1" respawn="60" respawn_random="0" group="custom_hall">
+		<point x="108620" y="222411" z="-3599" h="17251" />
+		<npc id="306" />
+	</spawn>
+	
+	<!-- Wenus Chamber -->
+	<spawn count="1" respawn="60" respawn_random="0" group="custom_hall">
+		<point x="108967" y="218009" z="-3645" h="16818" />
+		<npc id="307" />
+	</spawn>
+	
+	<!-- Saturn Chamber -->
+	<spawn count="1" respawn="60" respawn_random="0" group="custom_hall">
+		<point x="107716" y="220589" z="-3584" h="193" />
+		<npc id="308" />
+	</spawn>
+	
+	<!-- Hunters Hall -->
+	<spawn count="1" respawn="60" respawn_random="0" group="custom_hall">
+		<point x="120931" y="77111" z="-2128" h="51052" />
+		<npc id="309" />
+	</spawn>
+	
+	<!-- Forbidden Hall -->
+	<spawn count="1" respawn="60" respawn_random="0" group="custom_hall">
+		<point x="119833" y="78450" z="-1802" h="7152" />
+		<npc id="310" />
+	</spawn>
+	
+	<!-- Enchanted Hall -->
+	<spawn count="1" respawn="60" respawn_random="0" group="custom_hall">
+		<point x="118931" y="79701" z="-1596" h="22723" />
+		<npc id="311" />
+	</spawn>
+	
+	<!-- Lion Hall -->
+	<spawn count="1" respawn="60" respawn_random="0" group="custom_hall">
+		<point x="17274" y="169753" z="-3483" h="49151" />
+		<npc id="312" />
+	</spawn>
+	
+	<!-- Puma Hall -->
+	<spawn count="1" respawn="60" respawn_random="0" group="custom_hall">
+		<point x="17874" y="170637" z="-3488" h="16383" />
+		<npc id="313" />
+	</spawn>
+	
+	<!-- Broken Hall -->
+	<spawn count="1" respawn="60" respawn_random="0" group="custom_hall">
+		<point x="-79984" y="155459" z="-3162" h="64633" />
+		<npc id="314" />
+	</spawn>
+	
+	<!-- Talking Hall -->
+	<spawn count="1" respawn="60" respawn_random="0" group="custom_hall">
+		<point x="-85800" y="243873" z="-3724" h="42938" />
+		<npc id="315" />
+	</spawn>
+	
+	<!-- Silent Hall -->
+	<spawn count="1" respawn="60" respawn_random="0" group="custom_hall">
+		<point x="-85354" y="241231" z="-3723" h="55653" />
+		<npc id="316" />
+	</spawn>
+	
+	<!-- Dusk Chamber -->
+	<spawn count="1" respawn="60" respawn_random="0" group="custom_hall">
+		<point x="9280" y="16647" z="-4535" h="45728" />
+		<npc id="317" />
+	</spawn>
+ 
+	<!-- Night Chamber -->
+	<spawn count="1" respawn="60" respawn_random="0" group="custom_hall">
+		<point x="12382" y="18653" z="-4547" h="46257" />
+		<npc id="318" />
+	</spawn>
+ 
+ 	<!-- Moonlight Chamber -->
+	<spawn count="1" respawn="60" respawn_random="0" group="custom_hall">
+ 		<point x="43448" y="47859" z="-2980" h="21468" />
+		<npc id="319" />
+	</spawn>
+	
+	<!-- Dawn Chamber -->
+	<spawn count="1" respawn="60" respawn_random="0" group="custom_hall">
+		<point x="46152" y="47356" z="-2980" h="21563" />
+		<npc id="320" />
+	</spawn>
+ 
+	<!-- Deviastated Hall -->
+	<spawn count="1" respawn="60" respawn_random="0" group="custom_hall">
+		<point x="-15585" y="143053" z="-3675" h="14139" />
+		<npc id="321" />
+	</spawn>
+ 
+	<!-- Deviastated Chamber -->
+	<spawn count="1" respawn="60" respawn_random="0" group="custom_hall">
+		<point x="-17397" y="141441" z="-3862" h="62533" />
+		<npc id="322" />
+	</spawn>
+ 
+	<!-- Burned Hall -->
+	<spawn count="1" respawn="60" respawn_random="0" group="custom_hall">
+		<point x="-18754" y="143657" z="-3805" h="64256" />
+ 		<npc id="323" />
+	</spawn>
+ 
+	<!-- Hall of Agony -->
+	<spawn count="1" respawn="60" respawn_random="0" group="custom_hall">
+		<point x="-48879" y="110415" z="-3570" h="55513" />
+		<npc id="324" />
+	</spawn>
+ 
+	<!-- Ruined Hall -->
+	<spawn count="1" respawn="60" respawn_random="0" group="custom_hall">
+		<point x="-50206" y="111454" z="-3570" h="39618" />
+		<npc id="325" />
+	</spawn>
+ 
+	<!-- Wrecked Hall -->
+	<spawn count="1" respawn="60" respawn_random="0" group="custom_hall">
+		<point x="-47714" y="111467" z="-3567" h="46219" />
+		<npc id="326" />
+	</spawn>
+ 
+	<!-- Demolished Hall -->
+	<spawn count="1" respawn="60" respawn_random="0" group="custom_hall">
+		<point x="-49104" y="112604" z="-3568" h="49700" />
+		<npc id="327" />
+	</spawn>
+ 
+	<!-- Hell Chamber -->
+	<spawn count="1" respawn="60" respawn_random="0" group="custom_hall">
+		<point x="-23740" y="253294" z="-3032" h="15586" />
+		<npc id="328" />
+	</spawn>
+ 
+ 	<!-- Desert Chamber -->
+	<spawn count="1" respawn="60" respawn_random="0" group="custom_hall">
+ 		<point x="-24146" y="250796" z="-3250" h="47617" />
+ 		<npc id="329" />
+	</spawn>
+ 
+ 	<!-- Hall of Illusion -->
+	<spawn count="1" respawn="60" respawn_random="0" group="custom_hall">
+		<point x="60942" y="-43063" z="-2993" h="63720" />
+		<npc id="330" />
+	</spawn>
+</list>

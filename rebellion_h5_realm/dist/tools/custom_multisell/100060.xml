@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='utf-8'?>
+
+<!-- Bracelet -->
+<!-- © 2011 by 007Florin -->
+
+<list>
+<config showall="true" notax="true" keepenchanted="true" />
+  <!-- Mount Bracelet - Darkmane Pacer -->
+  <item id="1">
+  	<ingredient id="57" count="5"/>
+    <production id="21383" count="1"/>
+  </item>
+
+  <!-- Mount Bracelet - Steam Beatle -->
+  <item id="1">
+  	<ingredient id="57" count="5"/>
+    <production id="21395" count="1"/>
+  </item>
+
+  <!-- Mount Bracelet - Gold Maned Lion -->
+  <item id="1">
+  	<ingredient id="57" count="5"/>
+    <production id="21407" count="1"/>
+  </item>
+
+  <!-- Mount Bracelet - Jet Bike -->
+  <item id="1">
+  	<ingredient id="57" count="5"/>
+    <production id="21419" count="1"/>
+  </item>
+
+  <!-- Rocking Horse Mount Bracelet -->
+  <item id="1">
+  	<ingredient id="57" count="5"/>
+    <production id="22193" count="1"/>
+  </item>
+
+</list>

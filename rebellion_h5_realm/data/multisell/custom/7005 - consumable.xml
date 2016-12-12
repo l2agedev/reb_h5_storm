@@ -1,0 +1,256 @@
+<?xml version='1.0' encoding='utf-8'?>
+<list>
+	<config showall="true" notax="true" keepenchanted="true" />
+	<!-- Wooden Arrow -->
+	<item id="1">
+		<ingredient id="57" count="3" />
+		<production id="17" count="1" />
+	</item>
+
+	<!-- Bone Arrow -->
+	<item id="2">
+		<ingredient id="57" count="4" />
+		<production id="1341" count="1" />
+	</item>
+
+	<!-- Fine Steel Arrow -->
+	<item id="3">
+		<ingredient id="57" count="5" />
+		<production id="1342" count="1" />
+	</item>
+
+	<!-- Silver Arrow -->
+	<item id="4">
+		<ingredient id="57" count="25" />
+		<production id="1343" count="1" />
+	</item>
+
+	<!-- Mithril Arrow -->
+	<item id="5">
+		<ingredient id="57" count="100" />
+		<production id="1344" count="1" />
+	</item>
+
+	<!-- Shining Arrow -->
+	<item id="6">
+		<ingredient id="57" count="1000" />
+		<production id="1345" count="1" />
+	</item>
+
+	<!-- Wooden Bolt -->
+	<item id="7">
+		<ingredient id="57" count="4" />
+		<production id="9632" count="1" />
+	</item>
+
+	<!-- Bone Bolt -->
+	<item id="8">
+		<ingredient id="57" count="5" />
+		<production id="9633" count="1" />
+	</item>
+
+	<!-- Steel Bolt -->
+	<item id="9">
+		<ingredient id="57" count="8" />
+		<production id="9634" count="1" />
+	</item>
+
+	<!-- Silver Bolt -->
+	<item id="10">
+		<ingredient id="57" count="25" />
+		<production id="9635" count="1" />
+	</item>
+
+	<!-- Mithril Bolt -->
+	<item id="11">
+		<ingredient id="57" count="100" />
+		<production id="9636" count="1" />
+	</item>
+
+	<!-- Shining Bolt -->
+	<item id="12">
+		<ingredient id="57" count="1000" />
+		<production id="9637" count="1" />
+	</item>
+
+	<!-- Spirit Ore -->
+	<item id="14">
+		<ingredient id="57" count="440" />
+		<production id="3031" count="1" />
+	</item>
+
+	<!-- Soul Ore -->
+	<item id="15">
+		<ingredient id="57" count="280" />
+		<production id="1785" count="1" />
+	</item>
+
+	<!-- Battle Symbol -->
+	<item id="16">
+		<ingredient id="57" count="50000" />
+		<production id="8875" count="1" />
+	</item>
+
+	<!-- Magic Symbol -->
+	<item id="17">
+		<ingredient id="57" count="50000" />
+		<production id="8876" count="1" />
+	</item>
+
+	<!-- Phoenix Blood -->
+	<item id="18">
+		<ingredient id="57" count="50000" />
+		<production id="8873" count="1" />
+	</item>
+
+	<!-- Einhasad's Holy Water -->
+	<item id="19">
+		<ingredient id="57" count="50000" />
+		<production id="8874" count="1" />
+	</item>
+
+	<!-- Cursed Bone -->
+	<item id="20">
+		<ingredient id="57" count="450" />
+		<production id="2508" count="1" />
+	</item>
+
+	<!-- Energy Stone -->
+	<item id="21">
+		<ingredient id="57" count="110" />
+		<production id="5589" count="1" />
+	</item>
+
+	<!-- Dimension Diamond -->
+	<item id="22">
+		<ingredient id="57" count="25000" />
+		<production id="7562" count="1" />
+	</item>
+
+	<!-- Thief Key -->
+	<item id="23">
+		<ingredient id="57" count="1100" />
+		<production id="1661" count="1" />
+	</item>
+
+	<!-- Gemstone D -->
+	<item id="24">
+		<ingredient id="57" count="1100" />
+		<production id="2130" count="1" />
+	</item>
+
+	<!-- Gemstone C -->
+	<item id="25">
+		<ingredient id="57" count="3300" />
+		<production id="2131" count="1" />
+	</item>
+
+	<!-- Gemstone B -->
+	<item id="26">
+		<ingredient id="57" count="11000" />
+		<production id="2132" count="1" />
+	</item>
+
+	<!-- Rope of Magic: D-Grade -->
+	<item id="27">
+		<ingredient id="57" count="110" />
+		<production id="5192" count="1" />
+	</item>
+
+	<!-- Rope of Magic: C-Grade -->
+	<item id="28">
+		<ingredient id="57" count="165" />
+		<production id="5193" count="1" />
+	</item>
+
+	<!-- Rope of Magic: B-Grade -->
+	<item id="29">
+		<ingredient id="57" count="275" />
+		<production id="5194" count="1" />
+	</item>
+
+	<!-- Rope of Magic: A-Grade -->
+	<item id="30">
+		<ingredient id="57" count="440" />
+		<production id="5195" count="1" />
+	</item>
+
+	<!-- Rope of Magic: S-Grade -->
+	<item id="31">
+		<ingredient id="57" count="1600" />
+		<production id="5196" count="1" />
+	</item>
+
+	<!-- Scroll: Recovery (No Grade) -->
+	<item id="32">
+		<ingredient id="57" count="2200" />
+		<production id="8594" count="1" />
+	</item>
+
+	<!-- Scroll: Recovery (Grade D) -->
+	<item id="33">
+		<ingredient id="57" count="5300" />
+		<production id="8595" count="1" />
+	</item>
+
+	<!-- Scroll: Recovery (Grade C) -->
+	<item id="34">
+		<ingredient id="57" count="15400" />
+		<production id="8596" count="1" />
+	</item>
+
+	<!-- Scroll: Recovery (Grade B) -->
+	<item id="35">
+		<ingredient id="57" count="30800" />
+		<production id="8597" count="1" />
+	</item>
+
+	<!-- Scroll: Recovery (Grade A) -->
+	<item id="36">
+		<ingredient id="57" count="52800" />
+		<production id="8598" count="1" />
+	</item>
+
+	<!-- Scroll: Recovery (Grade S) -->
+	<item id="37">
+		<ingredient id="57" count="147000" />
+		<production id="8599" count="1" />
+	</item>
+
+	<!-- Summoning Crystal -->
+	<item id="38">
+		<ingredient id="57" count="38500" />
+		<production id="8615" count="1" />
+	</item>
+
+	<!-- A Bottle of Souls -->
+	<item id="39">
+		<ingredient id="57" count="550" />
+		<production id="10409" count="1" />
+	</item>
+
+
+	<!-- Scroll of Escape -->
+	<item id="44">
+		<ingredient id="57" count="1000" />
+		<production id="736" count="1" />
+	</item>
+
+	<!-- Scroll of Escape Castle -->
+	<item id="45">
+		<ingredient id="57" count="1000" />
+		<production id="1830" count="1" />
+	</item>
+
+	<!-- Scroll of Escape Clan Hall -->
+	<item id="46">
+		<ingredient id="57" count="1000" />
+		<production id="1829" count="1" />
+	</item>
+
+	<item id="47">
+		<ingredient id="57" count="5000" />
+		<production id="737" count="1" />
+	</item>
+
+</list>

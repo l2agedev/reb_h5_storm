@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<list>
+	<!-- Date format dd/mm/yyy HH:mm -->
+	<!-- canGmshop - player can use the Admin gmshop with command .gmshop -->
+	<!-- maxLevel - on player enter he receive maximum level from config -->
+	<!-- maxSp - on enter adds Integer.MAX_VALUE to his SP -->
+	<!-- autoNoble - gives him noble status on login, autoHero - hero status on login. -->
+	<!-- noClanPenalty - remove clan join/leave penalty. -->
+	<!-- maxSkillEnchant - when player enchant skill, it sets it on the max possible level. -->
+	<!-- itemCreationEnchant - default 0 = not working, when above 0 on item creation if the item is armor/weap/jewel it get enchanted to that value. -->
+	<!-- adenaOnLogin - default 0 - disabled, set the amount which the player will have when login, if the amount is higher player adena wont be reduced -->
+	<!-- spawnPoint - default "" - disabled, set x,y,z cordinates to port only characters level 1. example: val="82698,148638,3473" -->
+	
+	<settings startDate="02/05/2016 12:10" endDate="12/05/2016 20:10">
+		<canGmshop val="false" />
+		<maxLevel val="false" />
+		<maxSp val="false" />
+		<autoNoble val="false" />
+		<autoHero val="false" />
+		<noClanPenalty val="false" />
+		<maxSkillEnchant val="false" />
+		<itemCreationEnchant val="0" />
+		<adenaOnLogin val="0" />
+		<spawnPoint val="" />
+		
+	</settings>
+</list>

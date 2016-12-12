@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE list SYSTEM "zone.dtd">
+<list>
+	<zone name="[giran_stairs_offlinebuff]" type="offbuff">
+		<set name="enabled" val="true"/>
+		<polygon>
+			<coords loc="82904 147464"/>
+			<coords loc="82920 147656"/>
+			<coords loc="83336 147656"/>
+			<coords loc="83352 147464"/>
+		</polygon>
+	</zone>
+	<zone name="[giran_church_offlinebuff]" type="offbuff">
+		<set name="enabled" val="true"/>
+		<polygon>
+			<coords loc="83896 148376"/>
+			<coords loc="84296 148360"/>
+			<coords loc="84344 147990"/>
+			<coords loc="83880 147976"/>
+		</polygon>
+	</zone>
+	<zone name="[aden_near_church_offlinebuff]" type="offbuff">
+		<set name="enabled" val="true"/>
+		<polygon>
+			<coords loc="146984 25640"/>
+			<coords loc="147000 25560"/>
+			<coords loc="147048 25496"/>
+			<coords loc="147256 25496"/>
+			<coords loc="147256 25624"/>
+		</polygon>
+	</zone>
+	<zone name="[hunters_near_gk_offlinebuffer]" type="offbuff">
+		<set name="enabled" val="true"/>
+		<polygon>
+			<coords loc="116872 77304"/>
+			<coords loc="116984 77416"/>
+			<coords loc="116792 77592"/>
+			<coords loc="116664 77480"/>
+		</polygon>
+	</zone>
+</list>

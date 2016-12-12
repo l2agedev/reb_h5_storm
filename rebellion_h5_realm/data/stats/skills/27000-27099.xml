@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+	<skill id="27000" levels="1" name="Olf's T-shirt: Blessed Protection Ability" >
+		<set name="icon" val="BranchSys2.icon.7anni_shirt_i00" />
+		<set name="magicLevel" val="20" />
+		<set name="target" val="TARGET_SELF" />
+		<set name="skillType" val="BUFF" />
+		<set name="operateType" val="OP_PASSIVE" />
+		<for>
+			<add order="0x40" stat="mDef" value="18" />
+			<add order="0x40" stat="runSpd" value="7" />
+			<add order="0x40" stat="skillPower" value="93"/>
+			<mul order="0x30" stat="mpConsum" value="0.97"/>
+			<mul order="0x30" stat="mpConsumePhysical" value="0.97"/>
+			<add order="0x40" stat="cAtkStatic" value="41.3" />
+			<add order="0x40" stat="mCritRate" value="2" />
+		</for>
+	</skill>
+</list>

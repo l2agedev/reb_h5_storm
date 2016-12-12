@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+
+
+<!-- name - name of the boss (only for your info, in announcements NPC name from the DB is used -->
+<!-- npcid - the npcID of the boss -->
+<!-- chanceToAppear - chance that this boss will be selected for the event (if all bosses have chance 100%, then all will  -->
+<!-- x, y, z - the spawn cords of the boss -->
+<!-- playerX, playerY, playerZ - the cords of where the players are teleported to when they join the event -->
+
+<boss name="Malog" npcid="25001" chanceToAppear="100" x="-83027" y="150871" z="-3132" playerX="-80651" playerY="149981" playerZ="-3044">
+	<reward itemId="57" ammount="10000" chance="100"/>
+	<reward itemId="6393" ammount="1" chance="100"/>
+	<reward itemId="6392" ammount="1" chance="50"/>
+</boss>
+
+</list>

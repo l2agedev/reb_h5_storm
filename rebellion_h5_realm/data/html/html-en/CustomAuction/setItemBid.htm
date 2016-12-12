@@ -1,0 +1,88 @@
+<html>
+<title>Auction</title>
+<body>
+	<center>
+		<table width="290" cellpadding="3" cellspacing="0">
+			<tr>
+				<td width="290" valign="top">
+					<table width="290" height="50" cellspacing="0" cellpadding="7">
+						<tr>
+							<td width="32" valign="top"><img src="icon.skill0818"
+								width="32" height="32" align="top" /></td>
+							<td valign="top">
+								<table width="210" cellspacing="0" cellpadding="0">
+									<tr>
+										<td>Add items to auction here.</td>
+									</tr>
+								</table>
+							</td>
+						</tr>
+					</table> <img src="L2UI_CT1.ChatBalloon_DF_TopCenter" width="290"
+					height="1" align="top" />
+					<table width="290" height="25" bgcolor="000000" cellspacing="0"
+						cellpadding="7">
+						<tr>
+							<td>
+								<table width="290" cellspacing="0" cellpadding="0">
+									<tr>
+										<td>Set auction time in hours and starting price.</td>
+									</tr>
+								</table>
+							</td>
+						</tr>
+					</table> <img src="L2UI_CT1.ChatBalloon_DF_TopCenter" width="290"
+					height="1" align="top" />
+					<table width="270" height="120" bgcolor="090908" cellspacing="0"
+						cellpadding="7">
+						<tr>
+							<td width="32" valign="top"><img src="%icon%" width="32"
+								height="32" align="top" /></td>
+							<td width="270" valign="top">
+								<table cellspacing="0" cellpadding="0">
+									<tr>
+										<td height="24" valign="top">%name%</td>
+									</tr>
+									<tr>
+										<td>
+											<table height="15" cellspacing="0" cellpadding="0">
+												<tr>
+													<td width="50">Bid:</td>
+													<td><edit var="startBid" width=165 height=11 length=14
+															type=number></td>
+												</tr>
+											</table>
+											<table height="15" cellspacing="0" cellpadding="0">
+												<tr>
+													<td width="50">Buyout:</td>
+													<td><edit var="buyout" width=165 height=11 length=14
+															type=number></td>
+												</tr>
+											</table>
+											<button width=0 height=0>
+												<table cellspacing="0" cellpadding="0">
+													<tr>
+														<td width="40">Time:</td>
+														<td><combobox width=165 height=20 var=time
+																list=2;4;8;12;24;36;48;72;120;168></td>
+													</tr>
+												</table>
+										</td>
+									</tr>
+								</table>
+							</td>
+						</tr>
+					</table> <img src="L2UI_CT1.ChatBalloon_DF_TopCenter" width="290"
+					height="1" align="top" /> <br>
+					<center>
+						<font color="5b574c">To disable buyout set price 0.</font>
+					</center>
+				</td>
+			</tr>
+		</table>
+		<button value="Add to Auction"
+			action="bypass _bbs_Auction:addItemToAuction %itemObjId% %count% $startBid $buyout $time"
+			width=130 height=40 back="L2UI_CT1.Button_DF_Down"
+			fore="L2UI_CT1.Button_DF">
+	</center>
+</body>
+</html>

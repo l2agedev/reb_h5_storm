@@ -1,0 +1,141 @@
+<html>
+<title>%title% v3.0</title>
+<body>
+	<center>
+		<table width=270 border=0 bgcolor="666666">
+			<tr>
+				<td><button value="Main Events"
+						action="bypass -h admin_event_manage edit_events_menu edit_events_menu"
+						width=90 height=20 back="L2UI_ct1.button_df"
+						fore="L2UI_ct1.button_df"></td>
+				<td><button value="Mini Events"
+						action="bypass -h admin_event_manage mini_menu" width=90 height=20
+						back="L2UI_ct1.button_df" fore="L2UI_ct1.button_df"></td>
+				<td><button value="Config"
+						action="bypass -h admin_event_manage globalconfig_menu Core 1"
+						width=90 height=20 back="L2UI_ct1.button_df"
+						fore="L2UI_ct1.button_df"></td>
+			</tr>
+		</table>
+
+		<br1>
+	</center>
+	<table bgcolor=2f2f2f width=300>
+
+		<tr>
+			<td width=15></td>
+			<td width=140 align=left><button value="Custom scheduler SWITCH"
+					action="bypass -h admin_event_manage autoevents" width=160
+					height=23 back="L2UI_ct1.button_df" fore="L2UI_ct1.button_df"></td>
+			<td width=70 align=left><font color=9f9f9f>%autoevents%</font></td>
+		</tr>
+
+	</table>
+
+	<table bgcolor=2f2f2f width=300>
+
+		<tr>
+			<td width=15></td>
+			<td width=100 align=left><font color=ac9887>Next state in</font></td>
+			<td width=100 align=left><font color=9f9f9f>%scheduler_nextsegmentdelay%</font></td>
+		</tr>
+
+		<tr>
+			<td width=15></td>
+			<td width=100 align=left><font color=ac9887>Next event</font></td>
+			<td width=100 align=left><font color=9f9f9f>%scheduler_nextsegmenttype%</font></td>
+		</tr>
+
+	</table>
+
+	<center>
+
+		<br>
+
+		<center>
+
+			<font color=LEVEL>[Main Event]</font>
+			<br1>
+
+			<table width=270>
+
+				<tr>
+					<td><font color=ac9887>Current event</font></td>
+					<td><font color=9f9f9f>%event%</font></td>
+				</tr>
+
+				<tr>
+					<td><font color=ac9887>Current map</font></td>
+					<td><font color=9f9f9f>%map%</font></td>
+				</tr>
+
+				<tr>
+					<td><font color=ac9887>Current state</font></td>
+					<td><font color=9f9f9f>%state%</font></td>
+				</tr>
+
+				<tr>
+					<td><font color=ac9887>Time left</font></td>
+					<td><font color=9f9f9f>%time%</font></td>
+				</tr>
+
+				<tr>
+					<td><font color=ac9887>Players count</font></td>
+					<td><font color=9f9f9f>%players%</font></td>
+				</tr>
+
+			</table>
+			<br1>
+			<table width=280>
+				<tr>
+					<td><button value="Abort"
+							action="bypass -h admin_event_manage abort_current" width=70
+							height=23 back="L2UI_ct1.button_df" fore="L2UI_ct1.button_df"></td>
+					<td><button value="Launch event"
+							action="bypass -h admin_event_manage new_event " width=120
+							height=23 back="L2UI_ct1.button_df" fore="L2UI_ct1.button_df"></td>
+					<td>%runEventAction%</td>
+				</tr>
+			</table>
+
+			<br1> <img src="L2UI_CH3.onscrmsg_pattern01_1" width=300
+				height=32 align=left> <br1>
+
+			<table bgcolor=2f2f2f width=300>
+
+				<tr>
+					<td width=75></td>
+					<td width=60 align=left><font color=LEVEL>[Mini Events]</font>
+					<br1></td>
+					<td width=60 align=right><font color=9f9f9f><button
+								value="More Info"
+								action="bypass -h admin_event_manage menu_mini" width=70
+								height=21 back="L2UI_ct1.button_df" fore="L2UI_ct1.button_df"></font></td>
+				</tr>
+
+			</table>
+
+			%miniEventsList% <br1> <img src="L2UI_CH3.onscrmsg_pattern01_1"
+				width=300 height=32 align=left> <br1>
+
+			<table bgcolor=2f2f2f width=300>
+
+				<tr>
+					<td width=75></td>
+					<td width=60 align=left><font color=LEVEL>[Global
+							Event]</font>
+					<br1></td>
+					<td width=60 align=right><font color=9f9f9f><button
+								value="More Info"
+								action="bypass -h admin_event_manage global_event menu" width=70
+								height=21 back="L2UI_ct1.button_df" fore="L2UI_ct1.button_df"></font></td>
+				</tr>
+
+			</table>
+
+			%globalEventList% <br1> <img
+				src="L2UI_CH3.onscrmsg_pattern01_1" width=300 height=32 align=left>
+			<br1>
+		</center>
+</body>
+</html>

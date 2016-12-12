@@ -1,0 +1,13 @@
+!Set new clan leader: Type the name of the new clan leader:
+
+<edit var="name" width=80> *WARNING: The new clan leader will be
+set only when the server restarts*
+
+<button value="Enter"
+	action="bypass -h npc_%objectId%_assign_new_clan_leader $name "
+	width=60 height=20 back="L2UI_CT1.Button_DF_Down"
+	fore="L2UI_CT1.Button_DF">
+	<button value="Cancel"
+		action="bypass -h npc_%objectId%_Link villagemaster/clan-01.htm"
+		width=60 height=20 back="L2UI_CT1.Button_DF_Down"
+		fore="L2UI_CT1.Button_DF">

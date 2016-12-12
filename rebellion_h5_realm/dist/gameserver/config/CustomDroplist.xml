@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="CustomDroplist.xsd">
+	<npc minLevel="1" maxLevel="10">
+		<rewardlist type="RATED_GROUPED">
+			<group chance="70.0">
+				<reward item_id="57" min="99" max="140" chance="100.0000" />	<!--Adena-->
+			</group>
+			<group chance="0.0535">
+				<reward item_id="271" min="1" max="1" chance="100.0000" />	<!--Hunting Bow-->
+			</group>
+			<group chance="11.6767">
+				<reward item_id="1866" min="1" max="1" chance="21.1765" />	<!--Suede-->
+				<reward item_id="1871" min="1" max="1" chance="31.7647" />	<!--Charcoal-->
+				<reward item_id="1799" min="1" max="1" chance="47.0588" />	<!--Recipe: Leather Gloves-->
+			</group>
+		</rewardlist>
+		<rewardlist type="SWEEP">
+			<reward item_id="1833" min="1" max="1" chance="50.2269" />	<!--Bandage-->
+			<reward item_id="1866" min="1" max="1" chance="12.5567" />	<!--Suede-->
+			<reward item_id="1792" min="1" max="1" chance="1.3849" />	<!--Recipe: Short Spear-->
+		</rewardlist>
+	</npc>
+	<npc minLevel="11" maxLevel="20">
+		<rewardlist type="RATED_GROUPED">
+			<group chance="70.0">
+				<reward item_id="57" min="99" max="140" chance="100.0000" />	<!--Adena-->
+			</group>
+			<group chance="0.0535">
+				<reward item_id="271" min="1" max="1" chance="100.0000" />	<!--Hunting Bow-->
+			</group>
+			<group chance="11.6767">
+				<reward item_id="1866" min="1" max="1" chance="21.1765" />	<!--Suede-->
+				<reward item_id="1871" min="1" max="1" chance="31.7647" />	<!--Charcoal-->
+				<reward item_id="1799" min="1" max="1" chance="47.0588" />	<!--Recipe: Leather Gloves-->
+			</group>
+		</rewardlist>
+		<rewardlist type="SWEEP">
+			<reward item_id="1833" min="1" max="1" chance="50.2269" />	<!--Bandage-->
+			<reward item_id="1866" min="1" max="1" chance="12.5567" />	<!--Suede-->
+			<reward item_id="1792" min="1" max="1" chance="1.3849" />	<!--Recipe: Short Spear-->
+		</rewardlist>
+	</npc>
+</list>

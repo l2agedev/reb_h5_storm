@@ -1,0 +1,95 @@
+<html>
+<title>Notification</title>
+<body>
+	<center>
+		<table width="469" cellpadding="3" cellspacing="0">
+			<tr>
+				<td width="469" valign="top">
+					<table width="436" height="50" cellspacing="0" cellpadding="7">
+						<tr>
+							<td width="32" valign="top"><img src="icon.skill0165"
+								width="32" height="32" align="top" /></td>
+							<td valign="top">
+								<table width="410" cellspacing="0" cellpadding="0">
+									<tr>
+										<td>Complete the form to post clan presentation.</td>
+									</tr>
+								</table>
+							</td>
+						</tr>
+					</table> <img src="L2UI_CT1.ChatBalloon_DF_TopCenter" width="470"
+					height="1" align="top" />
+					<table width="200" height="0" bgcolor="090908" cellspacing="0"
+						cellpadding="7">
+						<tr>
+							<td>
+								<table width="456" cellspacing="0" cellpadding="0">
+									<tr>
+										<td>Add info:</td>
+									</tr>
+								</table>
+							</td>
+						</tr>
+					</table>
+					<table width="200" height="214" bgcolor="090908" cellspacing="0"
+						cellpadding="7">
+						<tr>
+							<td valign="top">
+								<table width="456" cellspacing="0" cellpadding="0">
+									<tr>
+										<td><multiedit var="msg" width=455 height=200></td>
+									</tr>
+								</table>
+							</td>
+						</tr>
+					</table>
+					<table width="100" height="50" bgcolor="090908" cellspacing="0"
+						cellpadding="7">
+						<tr>
+							<td valign="top">
+								<table width="456" cellspacing="0" cellpadding="0">
+									<tr>
+										<td height="25">Adena reward:</td>
+									</tr>
+									<tr>
+										<td><edit type="number" var="adena" length=14
+												" width="457"></td>
+									</tr>
+								</table>
+							</td>
+						</tr>
+					</table>
+					<table width="200" height="40" bgcolor="090908" cellspacing="0"
+						cellpadding="7">
+						<tr>
+							<td valign="top">
+								<table width="457" cellspacing="0" cellpadding="0">
+									<tr>
+										<td valign="top" align="center"><button
+												value="Set Presentation"
+												action="bypass -h scripts_services.ClanSearcher:sendEvent add $adena $msg"
+												width=140 height=25 back="L2UI_CT1.Button_DF_Down"
+												fore="L2UI_CT1.Button_DF"></td>
+										<td valign="top" align="center"><button
+												value="Delete Presentation"
+												action="bypass -h scripts_services.ClanSearcher:sendEvent newclan"
+												width=140 height=25 back="L2UI_CT1.Button_DF_Down"
+												fore="L2UI_CT1.Button_DF"></td>
+									</tr>
+								</table>
+							</td>
+						</tr>
+					</table> <img src="L2UI_CT1.ChatBalloon_DF_TopCenter" width="470"
+					height="1" align="top" /> <br>
+					<center>
+						<button value="Go Back"
+							action="bypass -h scripts_services.ClanSearcher:sendEvent show_list"
+							width=180 height=25 back="L2UI_CT1.Button_DF_Down"
+							fore="L2UI_CT1.Button_DF">
+					</center>
+				</td>
+			</tr>
+		</table>
+	</center>
+</body>
+</html>

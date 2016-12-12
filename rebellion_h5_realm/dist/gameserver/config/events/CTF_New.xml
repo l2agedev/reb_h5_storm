@@ -1,0 +1,211 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<list>
+	<!-- Set time at what hour event will start, timeToEvent = duration of event in sec. -->
+	<ctf hour="00" min="56" TimeToEvent="900">  
+		<!-- The minimum and maximum number of players to start the opening event -->
+		<Participants min="2" max="100" />
+		
+		<!-- Minimum and maximum level for participation in the Event -->
+		<Level min="62" max="85" />
+
+		<!-- Allow Hero weapons and skills to events? -->
+		<AllowHeroSkillAndWeapons val="false"/>
+		
+		<!-- Ban the use of items, list ID through "," default Events flags-->
+		<RestrictItems val="13560,13561"/>
+		
+		<!-- Disable skill usage in event for -->
+		<RestrictSkills val="485,794,996,5260,1016,1254,701,740,2014,2049,2062,2079,2321,2393,2596,22104,3160,3236,2079,21054,21095,21102,21221,5541,5545,5662,23005,23009,23014,23030,23062,2166,2289,2402,2403,22119,22220,90001,2002,2031,2032,2017,2038,1508,2592,2863,2864,26024,26025,22178,2863,2864,2003,26030"/>
+		
+		<!-- Time for registration (in seconds) -->
+		<TimeToRegistration val="300" />
+		
+		<AllowKillBonus val="false"/>
+		<KillReward id="57" count="80000"/>
+		
+		<!-- ID Awards at the end and count -->
+		<Reward id="6673" count="5"/>
+
+		<!-- Take Items fto register? -->
+		<AllowTakeItems val="false" />
+		<TakeItems id="57" count="100000" />
+		
+		<StopAllEffects val="true" />
+
+		<ListMageMagSupport val="1517,1518,1519,1535,1536,1537,1538"/>
+		<ListMageFaiterSupport val="1499,1500,1501,1502,1503,1504,1517"/>
+		
+		<!-- Minimum number of awards for prize (if you win). -->
+		<RewardForKill val="1" />
+		
+		<TeamCoords name="Blue Team"/>
+		<TeamCoords name="Red Team"/>
+		
+		<!-- Spawn flag indicates coordinates in the same order as the coordinates, spawn commands. -->
+		<FlagCords x="-81912" y="-51848" z="-10642" h="16383" />
+		<FlagCords x="-83464" y="-47032" z="-10641" h="55285" />
+		
+		<!-- The time between the start of the fight and teleport / early rounds (in seconds) -->
+		<PauseTime val="15" />
+		
+		<!-- How many flags needed for victory (Tech win) -->
+		<NeedFlags val="5" />
+	</ctf>
+	
+	<!-- Set time at what hour event will start, timeToEvent = duration of event in sec. -->
+	<ctf hour="07" min="30" TimeToEvent="900">  
+		<!-- The minimum and maximum number of players to start the opening event -->
+		<Participants min="2" max="100" />
+		
+		<!-- Minimum and maximum level for participation in the Event -->
+		<Level min="62" max="85" />
+
+		<!-- Allow Hero weapons and skills to events? -->
+		<AllowHeroSkillAndWeapons val="false"/>
+		
+		<!-- Ban the use of items, list ID through "," default Events flags-->
+		<RestrictItems val="13560,13561"/>
+		
+		<!-- Disable skill usage in event for -->
+		<RestrictSkills val="485,794,996,5260,1016,1254,701,740,2014,2049,2062,2079,2321,2393,2596,22104,3160,3236,2079,21054,21095,21102,21221,5541,5545,5662,23005,23009,23014,23030,23062,2166,2289,2402,2403,22119,22220,90001,2002,2031,2032,2017,2038,1508,2592,2863,2864,26024,26025,22178,2863,2864,2003,26030"/>
+		
+		<!-- Time for registration (in seconds) -->
+		<TimeToRegistration val="300" />
+		
+		<AllowKillBonus val="false"/>
+		<KillReward id="57" count="80000"/>
+		
+		<!-- ID Awards at the end and count -->
+		<Reward id="6673" count="5"/>
+
+		<!-- Take Items fto register? -->
+		<AllowTakeItems val="false" />
+		<TakeItems id="57" count="100000" />
+		
+		<StopAllEffects val="true" />
+
+		<ListMageMagSupport val="1517,1518,1519,1535,1536,1537,1538"/>
+		<ListMageFaiterSupport val="1499,1500,1501,1502,1503,1504,1517"/>
+		
+		<!-- Minimum number of awards for prize (if you win). -->
+		<RewardForKill val="1" />
+		
+		<TeamCoords name="Blue Team"/>
+		<TeamCoords name="Red Team"/>
+		
+		<!-- Spawn flag indicates coordinates in the same order as the coordinates, spawn commands. -->
+		<FlagCords x="-81912" y="-51848" z="-10642" h="16383" />
+		<FlagCords x="-83464" y="-47032" z="-10641" h="55285" />
+		
+		<!-- The time between the start of the fight and teleport / early rounds (in seconds) -->
+		<PauseTime val="15" />
+		
+		<!-- How many flags needed for victory (Tech win) -->
+		<NeedFlags val="5" />
+	</ctf>
+	
+	<!-- Set time at what hour event will start, timeToEvent = duration of event in sec. -->
+	<ctf hour="13" min="35" TimeToEvent="900">  
+		<!-- The minimum and maximum number of players to start the opening event -->
+		<Participants min="2" max="100" />
+		
+		<!-- Allow Hero weapons and skills to events? -->
+		<AllowHeroSkillAndWeapons val="false"/>
+		
+		<!-- Ban the use of items, list ID through "," default Events flags-->
+		<RestrictItems val="13560,13561"/>
+		
+		<!-- Disable skill usage in event for -->
+		<RestrictSkills val="485,794,996,5260,1016,1254,701,740,2014,2049,2062,2079,2321,2393,2596,22104,3160,3236,2079,21054,21095,21102,21221,5541,5545,5662,23005,23009,23014,23030,23062,2166,2289,2402,2403,22119,22220,90001,2002,2031,2032,2017,2038,1508,2592,2863,2864,26024,26025,22178,2863,2864,2003,26030"/>
+		
+		<!-- Minimum and maximum level for participation in the Event -->
+		<Level min="62" max="85" />
+
+		<!-- Time for registration (in seconds) -->
+		<TimeToRegistration val="300" />
+		
+		<AllowKillBonus val="false"/>
+		<KillReward id="57" count="80000"/>
+		
+		<!-- ID Awards at the end and count -->
+		<Reward id="6673" count="5"/>
+
+		<!-- Take Items fto register? -->
+		<AllowTakeItems val="false" />
+		<TakeItems id="57" count="100000" />
+		
+		<StopAllEffects val="true" />
+
+		<ListMageMagSupport val="1517,1518,1519,1535,1536,1537,1538"/>
+		<ListMageFaiterSupport val="1499,1500,1501,1502,1503,1504,1517"/>
+		
+		<!-- Minimum number of awards for prize (if you win). -->
+		<RewardForKill val="1" />
+		
+		<TeamCoords name="Blue Team"/>
+		<TeamCoords name="Red Team"/>
+		
+		<!-- Spawn flag indicates coordinates in the same order as the coordinates, spawn commands. -->
+		<FlagCords x="-81912" y="-51848" z="-10642" h="16383" />
+		<FlagCords x="-83464" y="-47032" z="-10641" h="55285" />
+		
+		<!-- The time between the start of the fight and teleport / early rounds (in seconds) -->
+		<PauseTime val="15" />
+		
+		<!-- How many flags needed for victory (Tech win) -->
+		<NeedFlags val="5" />
+	</ctf>
+	
+	<!-- Set time at what hour event will start, timeToEvent = duration of event in sec. -->
+	<ctf hour="18" min="01" TimeToEvent="900">  
+		<!-- The minimum and maximum number of players to start the opening event -->
+		<Participants min="2" max="100" />
+		
+		<!-- Minimum and maximum level for participation in the Event -->
+		<Level min="62" max="85" />
+
+		<!-- Allow Hero weapons and skills to events? -->
+		<AllowHeroSkillAndWeapons val="false"/>
+		
+		<!-- Ban the use of items, list ID through "," default Events flags-->
+		<RestrictItems val="13560,13561"/>
+		
+		<!-- Disable skill usage in event for -->
+		<RestrictSkills val="485,794,996,5260,1016,1254,701,740,2014,2049,2062,2079,2321,2393,2596,22104,3160,3236,2079,21054,21095,21102,21221,5541,5545,5662,23005,23009,23014,23030,23062,2166,2289,2402,2403,22119,22220,90001,2002,2031,2032,2017,2038,1508,2592,2863,2864,26024,26025,22178,2863,2864,2003,26030"/>
+		
+		<!-- Time for registration (in seconds) -->
+		<TimeToRegistration val="300" />
+		
+		<AllowKillBonus val="false"/>
+		<KillReward id="57" count="80000"/>
+		
+		<!-- ID Awards at the end and count -->
+		<Reward id="6673" count="5"/>
+
+		<!-- Take Items fto register? -->
+		<AllowTakeItems val="false" />
+		<TakeItems id="57" count="100000" />
+		
+		<StopAllEffects val="true" />
+
+		<ListMageMagSupport val="1517,1518,1519,1535,1536,1537,1538"/>
+		<ListMageFaiterSupport val="1499,1500,1501,1502,1503,1504,1517"/>
+		
+		<!-- Minimum number of awards for prize (if you win). -->
+		<RewardForKill val="1" />
+		
+		<TeamCoords name="Blue Team"/>
+		<TeamCoords name="Red Team"/>
+		
+		<!-- Spawn flag indicates coordinates in the same order as the coordinates, spawn commands. -->
+		<FlagCords x="-81912" y="-51848" z="-10642" h="16383" />
+		<FlagCords x="-83464" y="-47032" z="-10641" h="55285" />
+		
+		<!-- The time between the start of the fight and teleport / early rounds (in seconds) -->
+		<PauseTime val="15" />
+		
+		<!-- How many flags needed for victory (Tech win) -->
+		<NeedFlags val="5" />
+	</ctf>
+	
+</list>

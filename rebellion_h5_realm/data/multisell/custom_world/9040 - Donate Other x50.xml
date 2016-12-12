@@ -1,0 +1,125 @@
+<?xml version='1.0' encoding='utf-8'?>
+<list>
+	<config showall="true" notax="true" keepenchanted="true" />
+
+	<item>
+		<ingredient id="37000" count="2" /> <!-- Gracian Anniversary Coin -->
+		<production id="14166" count="1" /> <!-- Life Stone - Level 84 -->
+	</item>
+	<item>
+		<ingredient id="37000" count="4" /> <!-- Gracian Anniversary Coin -->
+		<production id="14167" count="1" /> <!-- Mid-Grade Life Stone - Level 84 -->
+	</item>
+	<item>
+		<ingredient id="37000" count="10" /> <!-- Gracian Anniversary Coin -->
+		<production id="14168" count="1" /> <!-- High-Grade Life Stone - Level 84 -->
+	</item>
+	<item>
+		<ingredient id="37000" count="20" /> <!-- Gracian Anniversary Coin -->
+		<production id="14169" count="1" /> <!-- Top-Grade Life Stone - Level 84 -->
+	</item>
+	<item>
+		<ingredient id="37000" count="6" /> <!-- Gracian Anniversary Coin -->
+		<production id="6622" count="1" /> <!-- Giant's Codex -->
+	</item>
+	<item>
+		<ingredient id="37000" count="20" /> <!-- Gracian Anniversary Coin -->
+		<production id="9626" count="1" /> <!-- Giant's Codex - Discipline -->
+	</item>
+	<item>
+		<production id="10413" count="1" /> <!-- Dynastic Essence II -->
+		<ingredient id="37000" count="250" />
+	</item>
+	<item>
+		<production id="10210" count="1" /> <!-- Enhanced Mithril Bracelet -->
+		<ingredient id="37000" count="1000" />
+	</item>
+	<item>
+		<production id="10512" count="1" /> <!-- Striped Mithril Shirt HP -->
+		<ingredient id="37000" count="1000" />
+	</item>
+	<item>
+		<production id="10513" count="1" /> <!-- Striped Mithril Shirt MP -->
+		<ingredient id="37000" count="1000" />
+	</item>
+	<item>
+		<production id="10514" count="1" /> <!-- Striped Mithril Shirt CP -->
+		<ingredient id="37000" count="1000" />
+	</item>
+	<item>
+		<production id="14052" count="500" /> <!-- Noble Stone -->
+		<ingredient id="37000" count="250" />
+	</item>
+	<item>
+		<production id="-300" count="25000" /> <!-- Fame -->
+		<ingredient id="37000" count="1500" />
+	</item>
+	<item>
+		<production id="6408" count="1" /> <!-- Formal wear -->
+		<ingredient id="37000" count="300" />
+	</item>
+	<item>
+		<production id="21717" count="1" /> <!-- Freya Cloak -->
+		<ingredient id="37000" count="1000" />
+	</item>
+	<item>
+		<production id="21720" count="1" /> <!-- Soul Freya Cloak -->
+		<ingredient id="37000" count="1500" />
+	</item>
+	<item>
+		<production id="21716" count="1" /> <!-- Zaken Cloak -->
+		<ingredient id="37000" count="1000" />
+	</item>
+	<item>
+		<production id="21719" count="1" /> <!-- Soul Zaken Cloak -->
+		<ingredient id="37000" count="1500" />
+	</item>
+	<item>
+		<production id="21718" count="1" /> <!-- Frinteza Cloak -->
+		<ingredient id="37000" count="1000" />
+	</item>
+	<item>
+		<production id="21721" count="1" /> <!-- Soul Frinteza Cloak -->
+		<ingredient id="37000" count="1500" />
+	</item>
+	<item>
+		<production id="21583" count="1" /> <!-- 7th Anniversary Cloak - Pitch Black -->
+		<ingredient id="37000" count="800" />
+	</item>
+	<item>
+		<production id="21587" count="1" /> <!-- 7th Anniversary Cloak - Blood Red -->
+		<ingredient id="37000" count="800" />
+	</item>
+	<item>
+		<production id="21588" count="1" /> <!-- 7th Anniversary Cloak - Pearl White -->
+		<ingredient id="37000" count="800" />
+	</item>
+	<item>
+		<production id="17277" count="1" /> <!-- 100kk SP -->
+		<ingredient id="37000" count="100" />
+	</item>
+	<item>
+		<production id="13961" count="1" /> <!-- Belt B -->
+		<ingredient id="37000" count="500" />
+	</item>
+	<item>
+		<production id="13945" count="1" /> <!-- Belt B -->
+		<ingredient id="37000" count="500" />
+	</item>
+	<item>
+		<production id="3865" count="1" /> <!-- Antharas Q item -->
+		<ingredient id="37000" count="200" />
+	</item>
+	<item>
+		<production id="7267" count="1" /> <!-- Valakas Q item -->
+		<ingredient id="37000" count="200" />
+	</item>
+	<item>
+		<production id="4295" count="1" /> <!-- Baium Q item -->
+		<ingredient id="37000" count="100" />
+	</item>
+	<item>
+		<production id="13021" count="1" /> <!-- Color Name -->
+		<ingredient id="37000" count="100" />
+	</item>
+</list>

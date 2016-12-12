@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="list" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+  <xs:element name="reward">
+    <xs:complexType>
+      <xs:attribute name="item_id" type="xs:string" />
+      <xs:attribute name="min" type="xs:string" />
+      <xs:attribute name="max" type="xs:string" />
+      <xs:attribute name="chance" type="xs:string" />
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="list" msdata:IsDataSet="true" msdata:UseCurrentLocale="true">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element ref="reward" />
+        <xs:element name="npc">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="rewardlist" minOccurs="0" maxOccurs="unbounded">
+                <xs:complexType>
+                  <xs:sequence>
+                    <xs:element ref="reward" minOccurs="0" maxOccurs="unbounded" />
+                    <xs:element name="group" minOccurs="0" maxOccurs="unbounded">
+                      <xs:complexType>
+                        <xs:sequence>
+                          <xs:element ref="reward" minOccurs="0" maxOccurs="unbounded" />
+                        </xs:sequence>
+                        <xs:attribute name="chance" type="xs:string" />
+                      </xs:complexType>
+                    </xs:element>
+                  </xs:sequence>
+                  <xs:attribute name="type" type="xs:string" />
+                </xs:complexType>
+              </xs:element>
+            </xs:sequence>
+            <xs:attribute name="minLevel" type="xs:string" />
+            <xs:attribute name="maxLevel" type="xs:string" />
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+  <!-- by 4ipolino -->
+<list maintainEnchantment="true">
+
+  <!-- Wooden Helmet -->
+  <item id="1">
+    <ingredient id="57" count="200000"/>
+    <production id="43" count="1"/>
+    <production id="23" count="1"/>
+    <production id="2386" count="1"/>
+  </item>
+
+</list>

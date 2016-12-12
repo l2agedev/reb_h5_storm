@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<list>
+	<config showall="true" notax="true" keepenchanted="true" />
+	<item>
+		<ingredient id="37000" count="12000" />
+		<production id="15562" count="1" />  <!-- Feather Eye Blade -->
+	</item>
+	<item>
+		<ingredient id="37000" count="12000" />
+		<production id="15563" count="1" />  <!-- Octo Claw -->
+	</item>
+	<item>
+		<ingredient id="37000" count="12000" />
+		<production id="15564" count="1" />  <!-- Doubletop Spear -->
+	</item>
+	<item>
+		<ingredient id="37000" count="12000" />
+		<production id="15565" count="1" />  <!-- Rising Star -->
+	</item>
+	<item>
+		<ingredient id="37000" count="12000" />
+		<production id="15566" count="1" />  <!-- Black Visage -->
+	</item>
+	<item>
+		<ingredient id="37000" count="12000" />
+		<production id="15567" count="1" />  <!-- Veniplant Sword -->
+	</item>
+	<item>
+		<ingredient id="37000" count="12000" />
+		<production id="15568" count="1" />  <!-- Skull Carnium Bow -->
+	</item>
+
+</list>

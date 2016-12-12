@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<list>
+	<config showall="true" notax="true" keepenchanted="true" />
+	<item>
+		<production id="847" count="1" /> <!-- Red Crescent Earring -->
+		<ingredient id="57" count="20700" />
+	</item>
+	<item>
+		<production id="848" count="1" /> <!-- Enchanted Earring -->
+		<ingredient id="57" count="32800" />
+	</item>
+	<item>
+		<production id="849" count="1" /> <!-- Tiger's Eye Earring -->
+		<ingredient id="57" count="49400" />
+	</item>
+	<item>
+		<production id="850" count="1" /> <!-- Elven Earring -->
+		<ingredient id="57" count="71900" />
+	</item>
+	<item>
+		<production id="851" count="1" /> <!-- Omen Beast's Eye Earring -->
+		<ingredient id="57" count="93300" />
+	</item>
+	<item>
+		<production id="879" count="1" /> <!-- Enchanted Ring -->
+		<ingredient id="57" count="21800" />
+	</item>
+	<item>
+		<production id="880" count="1" /> <!-- Black Pearl Ring -->
+		<ingredient id="57" count="33000" />
+	</item>
+	<item>
+		<production id="881" count="1" /> <!-- Elven Ring -->
+		<ingredient id="57" count="47900" />
+	</item>
+	<item>
+		<production id="882" count="1" /> <!-- Mithril Ring -->
+		<ingredient id="57" count="62200" />
+	</item>
+	<item>
+		<production id="890" count="1" /> <!-- Ring of Devotion -->
+		<ingredient id="57" count="13800" />
+	</item>
+	<item>
+		<production id="910" count="1" /> <!-- Necklace of Devotion -->
+		<ingredient id="57" count="27600" />
+	</item>
+	<item>
+		<production id="911" count="1" /> <!-- Enchanted Necklace -->
+		<ingredient id="57" count="43700" />
+	</item>
+	<item>
+		<production id="912" count="1" /> <!-- Near Forest Necklace -->
+		<ingredient id="57" count="65900" />
+	</item>
+	<item>
+		<production id="913" count="1" /> <!-- Elven Necklace -->
+		<ingredient id="57" count="95800" />
+	</item>
+	<item>
+		<production id="914" count="1" /> <!-- Necklace of Darkness -->
+		<ingredient id="57" count="124400" />
+	</item>
+</list>

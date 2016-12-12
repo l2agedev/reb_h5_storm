@@ -1,0 +1,101 @@
+<html>
+<body>
+	<center>
+		<table width=751>
+			<tr>
+				<td fixwidth=650 valign=top><br>
+					<center>
+						<font color=LEVEL>Игровой проект Lineage II High Five 5</font>
+					</center>
+					<center>
+						<img src=L2UI.SquareWhite width=650 height=1>
+					</center> <br>
+					<table width=600>
+						<tr>
+							<td width=600 align=center>%items%</td>
+						</tr>
+					</table>
+					<table height=10>
+						<tr>
+							<td height=10><img src="L2UI.SquareWhite" width=600 height=1></td>
+						</tr>
+					</table>
+					<table>
+						<tr>
+							<td width=200 align=center>
+								<table>
+									<tr>
+										<td align=center fixwidth=200>Выберите предмет, который
+											хотите добавить в награду за цель, введите кол-во и нажмите
+											на кнопку, с его названием.</td>
+									</tr>
+									<tr>
+										<td align=center><edit var="count" width=140 height=13></td>
+									</tr>
+								</table>
+							</td>
+
+							<td>
+								<table>
+									<tr>
+										<td align=center fixwidth=200>Если хотите, можете
+											засекретить свой ник (не будет отображаться в списке целей),
+											цена увеличится в 3 раза.</td>
+									</tr>
+									<tr>
+										<td align=center><combobox width=80 var="hide"
+												list="NoHide;Hide"></td>
+									</tr>
+								</table>
+							</td>
+
+							<td>
+								<table>
+									<tr>
+										<td align=center fixwidth=200>Ведите кол-во убийств:</td>
+									</tr>
+									<tr>
+										<td align=center><edit var="countToKill" width=140
+												height=13></td>
+									</tr>
+								</table>
+							</td>
+
+							<td>
+								<table>
+									<tr>
+										<td align=center fixwidth=200>Введите ник персонажа,
+											которого хотите заказать и нажмите соответствующую кнопку.</td>
+									</tr>
+									<tr>
+										<td align=center fixwidth=200><font color=LEVEL>Цена:
+												300000 Adena</font></td>
+									</tr>
+									<tr>
+										<td align=center><edit var="name" width=140 height=13></td>
+									</tr>
+									<tr>
+										<td></td>
+									</tr>
+									<tr>
+										<td align=center>%button_addOrder%</td>
+									</tr>
+								</table>
+							</td>
+						</tr>
+						<tr>
+							<td>
+								<table border="1" bgcolor="#9acd32">
+									<tr>
+										<td>Выбранные предметы:</td>
+									</tr>
+									%items_added%
+								</table>
+							</td>
+						</tr>
+					</table></td>
+			</tr>
+		</table>
+	</center>
+</body>
+</html>

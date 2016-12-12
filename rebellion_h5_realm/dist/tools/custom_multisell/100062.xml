@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+
+<!-- S-84 Armor -->
+<!-- � 2010 by mathuza -->
+<!-- Opicional Set PVP -->
+
+<list>
+<config showall="true" notax="true" keepenchanted="true" />
+  <!-- Vesper Breastplate -->
+  <item id="1">
+    <ingredient id="57" count="5"/>
+    <production id="728" count="1"/>
+  </item>
+</list>

@@ -1,0 +1,71 @@
+<?xml version='1.0' encoding='utf-8'?>
+<list>
+	<config showall="true" notax="true" keepenchanted="true" />
+
+	<!-- Moirai Sets -->
+
+	<!-- Moirai heavy Set -->
+	<item>
+		<ingredient id="37000" count="1500" />
+		<production id="15609" count="1" />
+		<production id="15612" count="1" />
+		<production id="15615" count="1" />
+		<production id="15618" count="1" />
+		<production id="15621" count="1" />
+		<production id="15606" count="1" />
+	</item>
+
+	<!-- Moirai light Set -->
+	<item>
+		<ingredient id="37000" count="1500" />
+		<production id="15610" count="1" />
+		<production id="15613" count="1" />
+		<production id="15616" count="1" />
+		<production id="15619" count="1" />
+		<production id="15607" count="1" />
+	</item>
+
+	<!-- Moirai robe Set -->
+	<item>
+		<ingredient id="37000" count="1500" />
+		<production id="15611" count="1" />
+		<production id="15614" count="1" />
+		<production id="15617" count="1" />
+		<production id="15620" count="1" />
+		<production id="15622" count="1" />
+		<production id="15608" count="1" />
+	</item>
+
+	<!-- Vesper Heavy Set -->
+	<item>
+		<ingredient id="37000" count="3000" />
+		<production id="13432" count="1" />
+		<production id="13438" count="1" />
+		<production id="13439" count="1" />
+		<production id="13440" count="1" />
+		<production id="13471" count="1" />
+		<production id="13137" count="1" />
+	</item>
+
+	<!-- Vesper Leather Set -->
+	<item>
+		<ingredient id="37000" count="3000" />
+		<production id="13433" count="1" />
+		<production id="13441" count="1" />
+		<production id="13442" count="1" />
+		<production id="13443" count="1" />
+		<production id="13138" count="1" />
+	</item>
+
+	<!-- Vesper Robe Set -->
+	<item>
+		<ingredient id="37000" count="3000" />
+		<production id="13434" count="1" />
+		<production id="13444" count="1" />
+		<production id="13445" count="1" />
+		<production id="13446" count="1" />
+		<production id="12813" count="1" />
+		<production id="13139" count="1" />
+	</item>
+
+</list>

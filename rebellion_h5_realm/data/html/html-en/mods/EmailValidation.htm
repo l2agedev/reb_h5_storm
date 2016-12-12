@@ -1,0 +1,90 @@
+<html>
+<title>Email Validation & Friend referral</title>
+<body>
+	<center>
+		<font color=LEVEL>You need to register an e-mail address for
+			this account.</font><br> To recover a lost password or deal with an
+		account problem, a valid e-mail address is required. <br> If the
+		e-mail address is invalid or someone else's, keep in mind that you
+		will be unable to use properly those functions. Therefore, you wont be
+		able to recover your password if its lost. <br>
+		<br>
+		<br>
+		<table width=300>
+			<tr>
+				<td><font color=LEVEL>Set your account's E-Mail Address:</font></td>
+			</tr>
+			<tr>
+				<td></td>
+			</tr>
+			<tr>
+				<td>
+					<table width=200>
+						<tr>
+							<td width=76>E-Mail</td>
+							<td><multiedit var="mail" width=200 height=12 length=50></td>
+						</tr>
+					</table>
+				</td>
+			</tr>
+			<tr>
+				<td height=10></td>
+			</tr>
+			<tr>
+				<td>
+					<table width=200>
+						<tr>
+							<td width=70>Repeat E-Mail</td>
+							<td><multiedit var="mail2" width=200 height=12 length=50></td>
+						</tr>
+					</table>
+				</td>
+			</tr>
+			<tr>
+				<td>
+					<table width=200>
+						<tr>
+							<td></td>
+							<td></td>
+						</tr>
+					</table>
+				</td>
+			</tr>
+			<tr>
+				<td></td>
+			</tr>
+			<tr>
+				<td><font color=LEVEL>Referral System (may leave blank)</font></td>
+			</tr>
+			<tr>
+				<td>If you have been invited to the server by <br1>someone,
+					type down his character's name.</td>
+			</tr>
+			<tr>
+				<td>
+					<table width=200>
+						<tr>
+							<td width=90>Referral's Name</td>
+							<td><edit var="friend" width=150 height=12 length=50></td>
+						</tr>
+					</table>
+				</td>
+			</tr>
+			<tr>
+				<td align=center>
+					<table>
+						<tr>
+							<td><button
+									action="bypass -h emailvalidation $mail $mail2 $friend"
+									value="Complete" width=100 height=21 back="L2UI_ct1.button_df"
+									fore="L2UI_ct1.button_df" /></td>
+						</tr>
+					</table>
+				</td>
+			</tr>
+		</table>
+		<br>
+		<br>
+	</center>
+</body>
+</html>

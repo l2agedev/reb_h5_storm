@@ -1,0 +1,1250 @@
+<?xml version='1.0' encoding='utf-8'?>
+<list>
+	<config showall="true" notax="true" keepenchanted="true" />
+	<item>
+		<production id="2400" count="1" /> <!-- Tallum Tunic -->
+		<ingredient id="57" count="2671000" />
+	</item>
+	<item>
+		<production id="2405" count="1" /> <!-- Tallum Stockings -->
+		<ingredient id="57" count="1670000" />
+	</item>
+	<item>
+		<production id="2407" count="1" /> <!-- Dark Crystal Robe -->
+		<ingredient id="57" count="4341000" />
+	</item>
+	<item>
+		<production id="2408" count="1" /> <!-- Robe of Nightmare -->
+		<ingredient id="57" count="6603000" />
+	</item>
+	<item>
+		<production id="2409" count="1" /> <!-- Majestic Robe -->
+		<ingredient id="57" count="6603000" />
+	</item>
+	<item>
+		<production id="2418" count="1" /> <!-- Helm of Nightmare -->
+		<ingredient id="57" count="2032000" />
+	</item>
+	<item>
+		<production id="2419" count="1" /> <!-- Majestic Circlet -->
+		<ingredient id="57" count="2032000" />
+	</item>
+	<item>
+		<production id="2440" count="1" /> <!-- Boots of Nightmare -->
+		<ingredient id="57" count="1355000" />
+	</item>
+	<item>
+		<production id="2441" count="1" /> <!-- Dark Legion Boots -->
+		<ingredient id="57" count="1355000" />
+	</item>
+	<item>
+		<production id="2442" count="1" /> <!-- Dasparion's Boots -->
+		<ingredient id="57" count="1355000" />
+	</item>
+	<item>
+		<production id="2445" count="1" /> <!-- Dragon Scale Boots -->
+		<ingredient id="57" count="1355000" />
+	</item>
+	<item>
+		<production id="2469" count="1" /> <!-- Gloves of Underworld -->
+		<ingredient id="57" count="890000" />
+	</item>
+	<item>
+		<production id="2470" count="1" /> <!-- Gloves of Phantom -->
+		<ingredient id="57" count="1355000" />
+	</item>
+	<item>
+		<production id="2471" count="1" /> <!-- Dark Legion Gloves -->
+		<ingredient id="57" count="1355000" />
+	</item>
+	<item>
+		<production id="2472" count="1" /> <!-- Dark Crystal Gloves -->
+		<ingredient id="57" count="890000" />
+	</item>
+	<item>
+		<production id="2474" count="1" /> <!-- Dasparion's Gloves -->
+		<ingredient id="57" count="1355000" />
+	</item>
+	<item>
+		<production id="2478" count="1" /> <!-- Tallum Gloves -->
+		<ingredient id="57" count="890000" />
+	</item>
+	<item>
+		<production id="2479" count="1" /> <!-- Gauntlets of Nightmare -->
+		<ingredient id="57" count="1355000" />
+	</item>
+	<item>
+		<production id="2482" count="1" /> <!-- Majestic Gauntlets -->
+		<ingredient id="57" count="1355000" />
+	</item>
+	<item>
+		<production id="2483" count="1" /> <!-- Gust Bracer -->
+		<ingredient id="57" count="890000" />
+	</item>
+	<item>
+		<production id="2484" count="1" /> <!-- Cerberus Gloves -->
+		<ingredient id="57" count="1355000" />
+	</item>
+	<item>
+		<production id="2488" count="1" /> <!-- Phoenix Gloves -->
+		<ingredient id="57" count="890000" />
+	</item>
+	<item>
+		<production id="2489" count="1" /> <!-- Gloves of Black Ore -->
+		<ingredient id="57" count="890000" />
+	</item>
+	<item>
+		<production id="2498" count="1" /> <!-- Shield of Nightmare -->
+		<ingredient id="57" count="1422000" />
+	</item>
+	<item>
+		<production id="5287" count="1" /> <!-- Sealed Dark Crystal breastplate -->
+		<ingredient id="57" count="3562000" />
+	</item>
+	<item>
+		<production id="5288" count="1" /> <!-- Sealed Dark Crystal Gaiters -->
+		<ingredient id="57" count="2226000" />
+	</item>
+	<item>
+		<production id="5289" count="1" /> <!-- Sealed Dark Crystal Helmet -->
+		<ingredient id="57" count="1336000" />
+	</item>
+	<item>
+		<production id="5290" count="1" /> <!-- Sealed Dark Crystal Gloves -->
+		<ingredient id="57" count="890000" />
+	</item>
+	<item>
+		<production id="5291" count="1" /> <!-- Sealed Dark Crystal Boots -->
+		<ingredient id="57" count="890000" />
+	</item>
+	<item>
+		<production id="5292" count="1" /> <!-- Sealed Dark Crystal Shield -->
+		<ingredient id="57" count="935000" />
+	</item>
+	<item>
+		<production id="5293" count="1" /> <!-- Sealed Tallum Plate Armor -->
+		<ingredient id="57" count="5788000" />
+	</item>
+	<item>
+		<production id="5294" count="1" /> <!-- Sealed Tallum Helmet -->
+		<ingredient id="57" count="1336000" />
+	</item>
+	<item>
+		<production id="5295" count="1" /> <!-- Sealed Tallum Gloves -->
+		<ingredient id="57" count="890000" />
+	</item>
+	<item>
+		<production id="5296" count="1" /> <!-- Sealed Tallum Boots -->
+		<ingredient id="57" count="890000" />
+	</item>
+	<item>
+		<production id="5297" count="1" /> <!-- Sealed Dark Crystal Leather Armor -->
+		<ingredient id="57" count="2671000" />
+	</item>
+	<item>
+		<production id="5298" count="1" /> <!-- Sealed Dark Crystal Leggings -->
+		<ingredient id="57" count="1670000" />
+	</item>
+	<item>
+		<production id="5299" count="1" /> <!-- Sealed Gloves of Underworld -->
+		<ingredient id="57" count="890000" />
+	</item>
+	<item>
+		<production id="502" count="1" /> <!-- Close Helmet -->
+		<ingredient id="57" count="1198000" />
+	</item>
+	<item>
+		<production id="509" count="1" /> <!-- Glorious Helmet -->
+		<ingredient id="57" count="1566000" />
+	</item>
+	<item>
+		<production id="510" count="1" /> <!-- Red Flame Helmet -->
+		<ingredient id="57" count="2032000" />
+	</item>
+	<item>
+		<production id="512" count="1" /> <!-- Dark Crystal Helmet -->
+		<ingredient id="57" count="1336000" />
+	</item>
+	<item>
+		<production id="515" count="1" /> <!-- Elven Vagian Helm -->
+		<ingredient id="57" count="1566000" />
+	</item>
+	<item>
+		<production id="516" count="1" /> <!-- Dark Vagian Helm -->
+		<ingredient id="57" count="2032000" />
+	</item>
+	<item>
+		<production id="518" count="1" /> <!-- Hell Helm -->
+		<ingredient id="57" count="2032000" />
+	</item>
+	<item>
+		<production id="520" count="1" /> <!-- Masterpiece Helm -->
+		<ingredient id="57" count="2032000" />
+	</item>
+	<item>
+		<production id="547" count="1" /> <!-- Tallum Helm -->
+		<ingredient id="57" count="1336000" />
+	</item>
+	<item>
+		<production id="561" count="1" /> <!-- Red Flame Boots -->
+		<ingredient id="57" count="890000" />
+	</item>
+	<item>
+		<production id="563" count="1" /> <!-- Dark Crystal Boots -->
+		<ingredient id="57" count="890000" />
+	</item>
+	<item>
+		<production id="573" count="1" /> <!-- Gust Boots -->
+		<ingredient id="57" count="890000" />
+	</item>
+	<item>
+		<production id="575" count="1" /> <!-- Boots of Underworld -->
+		<ingredient id="57" count="890000" />
+	</item>
+	<item>
+		<production id="583" count="1" /> <!-- Majestic Boots -->
+		<ingredient id="57" count="1355000" />
+	</item>
+	<item>
+		<production id="589" count="1" /> <!-- Boots of Phantom -->
+		<ingredient id="57" count="1355000" />
+	</item>
+	<item>
+		<production id="592" count="1" /> <!-- Phoenix Boots -->
+		<ingredient id="57" count="890000" />
+	</item>
+	<item>
+		<production id="593" count="1" /> <!-- Cerberus Boots -->
+		<ingredient id="57" count="1355000" />
+	</item>
+	<item>
+		<production id="598" count="1" /> <!-- Blood Boots -->
+		<ingredient id="57" count="890000" />
+	</item>
+	<item>
+		<production id="365" count="1" /> <!-- Dark Crystal Breastplate -->
+		<ingredient id="57" count="3562000" />
+	</item>
+	<item>
+		<production id="374" count="1" /> <!-- Armor of Nightmare -->
+		<ingredient id="57" count="8804000" />
+	</item>
+	<item>
+		<production id="388" count="1" /> <!-- Dark Crystal Gaiters -->
+		<ingredient id="57" count="2226000" />
+	</item>
+	<item>
+		<production id="410" count="1" /> <!-- Unicorn Leather Armor -->
+		<ingredient id="57" count="6603000" />
+	</item>
+	<item>
+		<production id="459" count="1" /> <!-- Dasparion's Robe -->
+		<ingredient id="57" count="6603000" />
+	</item>
+	<item>
+		<production id="13000" count="1" /> <!-- Sealed Helm of Nightmare - Light Armor Use -->
+		<ingredient id="57" count="2032000" />
+	</item>
+	<item>
+		<production id="13001" count="1" /> <!-- Sealed Helm of Nightmare - Robe -->
+		<ingredient id="57" count="2032000" />
+	</item>
+	<item>
+		<production id="5300" count="1" /> <!-- Sealed Boots of Underworld -->
+		<ingredient id="57" count="890000" />
+	</item>
+	<item>
+		<production id="5301" count="1" /> <!-- Sealed Tallum Leather Armor -->
+		<ingredient id="57" count="4341000" />
+	</item>
+	<item>
+		<production id="5302" count="1" /> <!-- Sealed Gust Bracer -->
+		<ingredient id="57" count="890000" />
+	</item>
+	<item>
+		<production id="5303" count="1" /> <!-- Sealed Gust Boots -->
+		<ingredient id="57" count="890000" />
+	</item>
+	<item>
+		<production id="5304" count="1" /> <!-- Sealed Tallum Tunic -->
+		<ingredient id="57" count="2671000" />
+	</item>
+	<item>
+		<production id="5305" count="1" /> <!-- Sealed Tallum Stockings -->
+		<ingredient id="57" count="1670000" />
+	</item>
+	<item>
+		<production id="5306" count="1" /> <!-- Sealed Gloves of Black Ore -->
+		<ingredient id="57" count="890000" />
+	</item>
+	<item>
+		<production id="5307" count="1" /> <!-- Sealed Red Flame Boots -->
+		<ingredient id="57" count="890000" />
+	</item>
+	<item>
+		<production id="5308" count="1" /> <!-- Sealed Dark Crystal Robe -->
+		<ingredient id="57" count="4341000" />
+	</item>
+	<item>
+		<production id="5309" count="1" /> <!-- Sealed Phoenix Gloves -->
+		<ingredient id="57" count="890000" />
+	</item>
+	<item>
+		<production id="5310" count="1" /> <!-- Sealed Phoenix Boots -->
+		<ingredient id="57" count="890000" />
+	</item>
+	<item>
+		<production id="5311" count="1" /> <!-- Sealed Armor of Nightmare -->
+		<ingredient id="57" count="8804000" />
+	</item>
+	<item>
+		<production id="5312" count="1" /> <!-- Sealed Helm of Nightmare -->
+		<ingredient id="57" count="2032000" />
+	</item>
+	<item>
+		<production id="5313" count="1" /> <!-- Sealed Gauntlets of Nightmare -->
+		<ingredient id="57" count="1355000" />
+	</item>
+	<item>
+		<production id="5314" count="1" /> <!-- Sealed Boots of Nightmare -->
+		<ingredient id="57" count="1355000" />
+	</item>
+	<item>
+		<production id="5315" count="1" /> <!-- Sealed Shield of Nightmare -->
+		<ingredient id="57" count="1422000" />
+	</item>
+	<item>
+		<production id="5316" count="1" /> <!-- Sealed Majestic Plate Armor -->
+		<ingredient id="57" count="8804000" />
+	</item>
+	<item>
+		<production id="5317" count="1" /> <!-- Sealed Majestic Circlet -->
+		<ingredient id="57" count="2032000" />
+	</item>
+	<item>
+		<production id="5318" count="1" /> <!-- Sealed Majestic Gauntlets -->
+		<ingredient id="57" count="1355000" />
+	</item>
+	<item>
+		<production id="5319" count="1" /> <!-- Sealed Majestic Boots -->
+		<ingredient id="57" count="1355000" />
+	</item>
+	<item>
+		<production id="5320" count="1" /> <!-- Sealed Leather Armor of Nightmare -->
+		<ingredient id="57" count="6603000" />
+	</item>
+	<item>
+		<production id="5321" count="1" /> <!-- Sealed Dark Legion Gloves -->
+		<ingredient id="57" count="1355000" />
+	</item>
+	<item>
+		<production id="5322" count="1" /> <!-- Sealed Dark Legion Boots -->
+		<ingredient id="57" count="1355000" />
+	</item>
+	<item>
+		<production id="5323" count="1" /> <!-- Sealed Majestic Leather Armor -->
+		<ingredient id="57" count="6603000" />
+	</item>
+	<item>
+		<production id="5324" count="1" /> <!-- Sealed Gloves of Phantom -->
+		<ingredient id="57" count="1355000" />
+	</item>
+	<item>
+		<production id="5325" count="1" /> <!-- Sealed Boots of Phantom -->
+		<ingredient id="57" count="1355000" />
+	</item>
+	<item>
+		<production id="5326" count="1" /> <!-- Sealed Robe of Nightmare -->
+		<ingredient id="57" count="6603000" />
+	</item>
+	<item>
+		<production id="5327" count="1" /> <!-- Sealed Cerberus Gloves -->
+		<ingredient id="57" count="1355000" />
+	</item>
+	<item>
+		<production id="5328" count="1" /> <!-- Sealed Cerberus Boots -->
+		<ingredient id="57" count="1355000" />
+	</item>
+	<item>
+		<production id="5329" count="1" /> <!-- Sealed Majestic Robe -->
+		<ingredient id="57" count="6603000" />
+	</item>
+	<item>
+		<production id="5330" count="1" /> <!-- Sealed Dasparion's Gloves -->
+		<ingredient id="57" count="1355000" />
+	</item>
+	<item>
+		<production id="5331" count="1" /> <!-- Sealed Dasparion's Boots -->
+		<ingredient id="57" count="1355000" />
+	</item>
+	<item>
+		<production id="11407" count="1" /> <!-- Dark Crystal Gaiters -->
+		<ingredient id="57" count="2226000" />
+		<ingredient id="14679" count="1" /> <!-- Neolithic Crystal - A -->
+	</item>
+	<item>
+		<production id="11408" count="1" /> <!-- Dark Crystal Gloves - Heavy Armor -->
+		<ingredient id="57" count="890000" />
+		<ingredient id="14679" count="1" /> <!-- Neolithic Crystal - A -->
+	</item>
+	<item>
+		<production id="11409" count="1" /> <!-- Dark Crystal Gloves - Light Armor Use -->
+		<ingredient id="57" count="890000" />
+		<ingredient id="14679" count="1" /> <!-- Neolithic Crystal - A -->
+	</item>
+	<item>
+		<production id="11410" count="1" /> <!-- Dark Crystal Gloves - Robe -->
+		<ingredient id="57" count="890000" />
+		<ingredient id="14679" count="1" /> <!-- Neolithic Crystal - A -->
+	</item>
+	<item>
+		<production id="11411" count="1" /> <!-- Dark Crystal Leather Armor -->
+		<ingredient id="57" count="2671000" />
+		<ingredient id="14679" count="1" /> <!-- Neolithic Crystal - A -->
+	</item>
+	<item>
+		<production id="11412" count="1" /> <!-- Dark Crystal Robe -->
+		<ingredient id="57" count="4341000" />
+		<ingredient id="14679" count="1" /> <!-- Neolithic Crystal - A -->
+	</item>
+	<item>
+		<production id="11413" count="1" /> <!-- Dark Crystal Boots - Heavy Armor -->
+		<ingredient id="57" count="890000" />
+		<ingredient id="14679" count="1" /> <!-- Neolithic Crystal - A -->
+	</item>
+	<item>
+		<production id="11414" count="1" /> <!-- Dark Crystal Boots - Light Armor Use -->
+		<ingredient id="57" count="890000" />
+		<ingredient id="14679" count="1" /> <!-- Neolithic Crystal - A -->
+	</item>
+	<item>
+		<production id="11415" count="1" /> <!-- Dark Crystal Boots - Robe -->
+		<ingredient id="57" count="890000" />
+		<ingredient id="14679" count="1" /> <!-- Neolithic Crystal - A -->
+	</item>
+	<item>
+		<production id="11416" count="1" /> <!-- Dark Crystal Shield -->
+		<ingredient id="57" count="935000" />
+		<ingredient id="14679" count="1" /> <!-- Neolithic Crystal - A -->
+	</item>
+	<item>
+		<production id="11417" count="1" /> <!-- Dark Crystal Helmet - Heavy Armor -->
+		<ingredient id="57" count="1336000" />
+		<ingredient id="14679" count="1" /> <!-- Neolithic Crystal - A -->
+	</item>
+	<item>
+		<production id="11418" count="1" /> <!-- Dark Crystal Breastplate -->
+		<ingredient id="57" count="3562000" />
+		<ingredient id="14679" count="1" /> <!-- Neolithic Crystal - A -->
+	</item>
+	<item>
+		<production id="11419" count="1" /> <!-- Dark Crystal Leggings -->
+		<ingredient id="57" count="1670000" />
+		<ingredient id="14679" count="1" /> <!-- Neolithic Crystal - A -->
+	</item>
+	<item>
+		<production id="11420" count="1" /> <!-- Sealed Dark Crystal Gaiters -->
+		<ingredient id="57" count="2226000" />
+		<ingredient id="14679" count="1" /> <!-- Neolithic Crystal - A -->
+	</item>
+	<item>
+		<production id="11421" count="1" /> <!-- Sealed Dark Crystal Gloves -->
+		<ingredient id="57" count="890000" />
+		<ingredient id="14679" count="1" /> <!-- Neolithic Crystal - A -->
+	</item>
+	<item>
+		<production id="11422" count="1" /> <!-- Sealed Dark Crystal Leather Armor -->
+		<ingredient id="57" count="2671000" />
+		<ingredient id="14679" count="1" /> <!-- Neolithic Crystal - A -->
+	</item>
+	<item>
+		<production id="11423" count="1" /> <!-- Sealed Dark Crystal Robe -->
+		<ingredient id="57" count="4341000" />
+		<ingredient id="14679" count="1" /> <!-- Neolithic Crystal - A -->
+	</item>
+	<item>
+		<production id="11424" count="1" /> <!-- Sealed Dark Crystal Boots -->
+		<ingredient id="57" count="890000" />
+		<ingredient id="14679" count="1" /> <!-- Neolithic Crystal - A -->
+	</item>
+	<item>
+		<production id="11425" count="1" /> <!-- Sealed Dark Crystal Shield -->
+		<ingredient id="57" count="935000" />
+		<ingredient id="14679" count="1" /> <!-- Neolithic Crystal - A -->
+	</item>
+	<item>
+		<production id="11426" count="1" /> <!-- Sealed Dark Crystal Helmet - Heavy Armor -->
+		<ingredient id="57" count="1336000" />
+		<ingredient id="14679" count="1" /> <!-- Neolithic Crystal - A -->
+	</item>
+	<item>
+		<production id="11427" count="1" /> <!-- Sealed Dark Crystal breastplate -->
+		<ingredient id="57" count="3562000" />
+		<ingredient id="14679" count="1" /> <!-- Neolithic Crystal - A -->
+	</item>
+	<item>
+		<production id="11428" count="1" /> <!-- Sealed Dark Crystal Leggings -->
+		<ingredient id="57" count="1670000" />
+		<ingredient id="14679" count="1" /> <!-- Neolithic Crystal - A -->
+	</item>
+	<item>
+		<production id="11429" count="1" /> <!-- Sealed Tallum Gloves -->
+		<ingredient id="57" count="890000" />
+		<ingredient id="14679" count="1" /> <!-- Neolithic Crystal - A -->
+	</item>
+	<item>
+		<production id="11430" count="1" /> <!-- Sealed Tallum Leather Armor -->
+		<ingredient id="57" count="4341000" />
+		<ingredient id="14679" count="1" /> <!-- Neolithic Crystal - A -->
+	</item>
+	<item>
+		<production id="11431" count="1" /> <!-- Sealed Tallum Boots -->
+		<ingredient id="57" count="890000" />
+		<ingredient id="14679" count="1" /> <!-- Neolithic Crystal - A -->
+	</item>
+	<item>
+		<production id="11432" count="1" /> <!-- Sealed Tallum Tunic -->
+		<ingredient id="57" count="2671000" />
+		<ingredient id="14679" count="1" /> <!-- Neolithic Crystal - A -->
+	</item>
+	<item>
+		<production id="11433" count="1" /> <!-- Sealed Tallum Plate Armor -->
+		<ingredient id="57" count="5788000" />
+		<ingredient id="14679" count="1" /> <!-- Neolithic Crystal - A -->
+	</item>
+	<item>
+		<production id="11434" count="1" /> <!-- Sealed Tallum Helmet - Heavy Armor -->
+		<ingredient id="57" count="1336000" />
+		<ingredient id="14679" count="1" /> <!-- Neolithic Crystal - A -->
+	</item>
+	<item>
+		<production id="11435" count="1" /> <!-- Sealed Tallum Stockings -->
+		<ingredient id="57" count="1670000" />
+		<ingredient id="14679" count="1" /> <!-- Neolithic Crystal - A -->
+	</item>
+	<item>
+		<production id="11437" count="1" /> <!-- Tallum Gloves - Heavy Armor -->
+		<ingredient id="57" count="890000" />
+		<ingredient id="14679" count="1" /> <!-- Neolithic Crystal - A -->
+	</item>
+	<item>
+		<production id="11438" count="1" /> <!-- Tallum Gloves - Light Armor Use -->
+		<ingredient id="57" count="890000" />
+		<ingredient id="14679" count="1" /> <!-- Neolithic Crystal - A -->
+	</item>
+	<item>
+		<production id="11439" count="1" /> <!-- Tallum Gloves - Robe -->
+		<ingredient id="57" count="890000" />
+		<ingredient id="14679" count="1" /> <!-- Neolithic Crystal - A -->
+	</item>
+	<item>
+		<production id="11440" count="1" /> <!-- Tallum Leather Armor -->
+		<ingredient id="57" count="4341000" />
+		<ingredient id="14679" count="1" /> <!-- Neolithic Crystal - A -->
+	</item>
+	<item>
+		<production id="11441" count="1" /> <!-- Tallum Boots - Heavy Armor -->
+		<ingredient id="57" count="890000" />
+		<ingredient id="14679" count="1" /> <!-- Neolithic Crystal - A -->
+	</item>
+	<item>
+		<production id="11442" count="1" /> <!-- Tallum Boots - Light Armor Use -->
+		<ingredient id="57" count="890000" />
+		<ingredient id="14679" count="1" /> <!-- Neolithic Crystal - A -->
+	</item>
+	<item>
+		<production id="11443" count="1" /> <!-- Tallum Boots - Robe -->
+		<ingredient id="57" count="890000" />
+		<ingredient id="14679" count="1" /> <!-- Neolithic Crystal - A -->
+	</item>
+	<item>
+		<production id="11444" count="1" /> <!-- Tallum Tunic -->
+		<ingredient id="57" count="2671000" />
+		<ingredient id="14679" count="1" /> <!-- Neolithic Crystal - A -->
+	</item>
+	<item>
+		<production id="11445" count="1" /> <!-- Tallum Plate Armor -->
+		<ingredient id="57" count="5788000" />
+		<ingredient id="14679" count="1" /> <!-- Neolithic Crystal - A -->
+	</item>
+	<item>
+		<production id="11446" count="1" /> <!-- Tallum Helmet - Heavy Armor -->
+		<ingredient id="57" count="1336000" />
+		<ingredient id="14679" count="1" /> <!-- Neolithic Crystal - A -->
+	</item>
+	<item>
+		<production id="11447" count="1" /> <!-- Tallum Stockings -->
+		<ingredient id="57" count="1670000" />
+		<ingredient id="14679" count="1" /> <!-- Neolithic Crystal - A -->
+	</item>
+	<item>
+		<production id="11448" count="1" /> <!-- Majestic Gauntlet - Heavy Armor -->
+		<ingredient id="57" count="1355000" />
+		<ingredient id="14679" count="1" /> <!-- Neolithic Crystal - A -->
+	</item>
+	<item>
+		<production id="11449" count="1" /> <!-- Majestic Gauntlet - Light Armor Use -->
+		<ingredient id="57" count="1355000" />
+		<ingredient id="14679" count="1" /> <!-- Neolithic Crystal - A -->
+	</item>
+	<item>
+		<production id="11450" count="1" /> <!-- Majestic Gauntlet - Robe -->
+		<ingredient id="57" count="1355000" />
+		<ingredient id="14679" count="1" /> <!-- Neolithic Crystal - A -->
+	</item>
+	<item>
+		<production id="11451" count="1" /> <!-- Majestic Leather Armor -->
+		<ingredient id="57" count="6603000" />
+		<ingredient id="14679" count="1" /> <!-- Neolithic Crystal - A -->
+	</item>
+	<item>
+		<production id="11452" count="1" /> <!-- Majestic Robe -->
+		<ingredient id="57" count="6603000" />
+		<ingredient id="14679" count="1" /> <!-- Neolithic Crystal - A -->
+	</item>
+	<item>
+		<production id="11453" count="1" /> <!-- Majestic Boots - Heavy Armor -->
+		<ingredient id="57" count="1355000" />
+		<ingredient id="14679" count="1" /> <!-- Neolithic Crystal - A -->
+	</item>
+	<item>
+		<production id="11454" count="1" /> <!-- Majestic Boots - Light Armor Use -->
+		<ingredient id="57" count="1355000" />
+		<ingredient id="14679" count="1" /> <!-- Neolithic Crystal - A -->
+	</item>
+	<item>
+		<production id="11455" count="1" /> <!-- Majestic Boots - Robe -->
+		<ingredient id="57" count="1355000" />
+		<ingredient id="14679" count="1" /> <!-- Neolithic Crystal - A -->
+	</item>
+	<item>
+		<production id="11456" count="1" /> <!-- Majestic Circlet - Heavy Armor -->
+		<ingredient id="57" count="2032000" />
+		<ingredient id="14679" count="1" /> <!-- Neolithic Crystal - A -->
+	</item>
+	<item>
+		<production id="11457" count="1" /> <!-- Majestic Plate Armor -->
+		<ingredient id="57" count="8804000" />
+		<ingredient id="14679" count="1" /> <!-- Neolithic Crystal - A -->
+	</item>
+	<item>
+		<production id="11458" count="1" /> <!-- Sealed Majestic Gauntlet -->
+		<ingredient id="57" count="1355000" />
+		<ingredient id="14679" count="1" /> <!-- Neolithic Crystal - A -->
+	</item>
+	<item>
+		<production id="11459" count="1" /> <!-- Sealed Majestic Leather Armor -->
+		<ingredient id="57" count="6603000" />
+		<ingredient id="14679" count="1" /> <!-- Neolithic Crystal - A -->
+	</item>
+	<item>
+		<production id="11460" count="1" /> <!-- Sealed Majestic Robe -->
+		<ingredient id="57" count="6603000" />
+		<ingredient id="14679" count="1" /> <!-- Neolithic Crystal - A -->
+	</item>
+	<item>
+		<production id="11461" count="1" /> <!-- Sealed Majestic Boots -->
+		<ingredient id="57" count="1355000" />
+		<ingredient id="14679" count="1" /> <!-- Neolithic Crystal - A -->
+	</item>
+	<item>
+		<production id="11462" count="1" /> <!-- Sealed Majestic Circlet - Heavy Armor -->
+		<ingredient id="57" count="2032000" />
+		<ingredient id="14679" count="1" /> <!-- Neolithic Crystal - A -->
+	</item>
+	<item>
+		<production id="11463" count="1" /> <!-- Sealed Majestic Plate Armor -->
+		<ingredient id="57" count="8804000" />
+		<ingredient id="14679" count="1" /> <!-- Neolithic Crystal - A -->
+	</item>
+	<item>
+		<production id="11464" count="1" /> <!-- Sealed Armor of Nightmare -->
+		<ingredient id="57" count="8804000" />
+		<ingredient id="14679" count="1" /> <!-- Neolithic Crystal - A -->
+	</item>
+	<item>
+		<production id="11465" count="1" /> <!-- Sealed Gauntlet of Nightmare -->
+		<ingredient id="57" count="1355000" />
+		<ingredient id="14679" count="1" /> <!-- Neolithic Crystal - A -->
+	</item>
+	<item>
+		<production id="11466" count="1" /> <!-- Sealed Leather Armor of Nightmare -->
+		<ingredient id="57" count="6603000" />
+		<ingredient id="14679" count="1" /> <!-- Neolithic Crystal - A -->
+	</item>
+	<item>
+		<production id="11467" count="1" /> <!-- Sealed Robe of Nightmare -->
+		<ingredient id="57" count="6603000" />
+		<ingredient id="14679" count="1" /> <!-- Neolithic Crystal - A -->
+	</item>
+	<item>
+		<production id="11468" count="1" /> <!-- Sealed Boots of Nightmare -->
+		<ingredient id="57" count="1355000" />
+		<ingredient id="14679" count="1" /> <!-- Neolithic Crystal - A -->
+	</item>
+	<item>
+		<production id="11469" count="1" /> <!-- Sealed Shield of Nightmare -->
+		<ingredient id="57" count="1422000" />
+		<ingredient id="14679" count="1" /> <!-- Neolithic Crystal - A -->
+	</item>
+	<item>
+		<production id="11470" count="1" /> <!-- Sealed Helm of Nightmare - Heavy Armor -->
+		<ingredient id="57" count="2032000" />
+		<ingredient id="14679" count="1" /> <!-- Neolithic Crystal - A -->
+	</item>
+	<item>
+		<production id="11471" count="1" /> <!-- Armor of Nightmare -->
+		<ingredient id="57" count="8804000" />
+		<ingredient id="14679" count="1" /> <!-- Neolithic Crystal - A -->
+	</item>
+	<item>
+		<production id="11472" count="1" /> <!-- Gauntlet of Nightmare - Heavy Armor -->
+		<ingredient id="57" count="1355000" />
+		<ingredient id="14679" count="1" /> <!-- Neolithic Crystal - A -->
+	</item>
+	<item>
+		<production id="11473" count="1" /> <!-- Gauntlet of Nightmare - Light Armor Use -->
+		<ingredient id="57" count="1355000" />
+		<ingredient id="14679" count="1" /> <!-- Neolithic Crystal - A -->
+	</item>
+	<item>
+		<production id="11474" count="1" /> <!-- Gauntlet of Nightmare - Robe -->
+		<ingredient id="57" count="1355000" />
+		<ingredient id="14679" count="1" /> <!-- Neolithic Crystal - A -->
+	</item>
+	<item>
+		<production id="11475" count="1" /> <!-- Leather Armor of Nightmare -->
+		<ingredient id="57" count="6603000" />
+		<ingredient id="14679" count="1" /> <!-- Neolithic Crystal - A -->
+	</item>
+	<item>
+		<production id="11476" count="1" /> <!-- Robe of Nightmare -->
+		<ingredient id="57" count="6603000" />
+		<ingredient id="14679" count="1" /> <!-- Neolithic Crystal - A -->
+	</item>
+	<item>
+		<production id="11477" count="1" /> <!-- Boots of Nightmare - Heavy Armor -->
+		<ingredient id="57" count="1355000" />
+		<ingredient id="14679" count="1" /> <!-- Neolithic Crystal - A -->
+	</item>
+	<item>
+		<production id="11478" count="1" /> <!-- Boots of Nightmare - Light Armor Use -->
+		<ingredient id="57" count="1355000" />
+		<ingredient id="14679" count="1" /> <!-- Neolithic Crystal - A -->
+	</item>
+	<item>
+		<production id="11479" count="1" /> <!-- Boots of Nightmare - Robe -->
+		<ingredient id="57" count="1355000" />
+		<ingredient id="14679" count="1" /> <!-- Neolithic Crystal - A -->
+	</item>
+	<item>
+		<production id="11480" count="1" /> <!-- Shield of Nightmare -->
+		<ingredient id="57" count="1422000" />
+		<ingredient id="14679" count="1" /> <!-- Neolithic Crystal - A -->
+	</item>
+	<item>
+		<production id="11481" count="1" /> <!-- Helm of Nightmare - Heavy Armor -->
+		<ingredient id="57" count="2032000" />
+		<ingredient id="14679" count="1" /> <!-- Neolithic Crystal - A -->
+	</item>
+	<item>
+		<production id="613" count="1" /> <!-- Sand Dragon Gloves -->
+		<ingredient id="57" count="1355000" />
+		<ingredient id="14679" count="1" /> <!-- Neolithic Crystal - A -->
+	</item>
+	<item>
+		<production id="641" count="1" /> <!-- Dark Crystal Shield -->
+		<ingredient id="57" count="935000" />
+		<ingredient id="14679" count="1" /> <!-- Neolithic Crystal - A -->
+	</item>
+	<item>
+		<production id="12986" count="1" /> <!-- Dark Crystal Helmet - Light Armor Use -->
+		<ingredient id="57" count="1336000" />
+		<ingredient id="14679" count="1" /> <!-- Neolithic Crystal - A -->
+	</item>
+	<item>
+		<production id="12987" count="1" /> <!-- Dark Crystal Helmet - Robe -->
+		<ingredient id="57" count="1336000" />
+		<ingredient id="14679" count="1" /> <!-- Neolithic Crystal - A -->
+	</item>
+	<item>
+		<production id="12988" count="1" /> <!-- Tallum Helmet - Light Armor Use -->
+		<ingredient id="57" count="1336000" />
+		<ingredient id="14679" count="1" /> <!-- Neolithic Crystal - A -->
+	</item>
+	<item>
+		<production id="12989" count="1" /> <!-- Tallum Helmet - Robe -->
+		<ingredient id="57" count="1336000" />
+		<ingredient id="14679" count="1" /> <!-- Neolithic Crystal - A -->
+	</item>
+	<item>
+		<production id="12990" count="1" /> <!-- Majestic Circlet - Light Armor Use -->
+		<ingredient id="57" count="2032000" />
+		<ingredient id="14679" count="1" /> <!-- Neolithic Crystal - A -->
+	</item>
+	<item>
+		<production id="12991" count="1" /> <!-- Majestic Circlet - Robe -->
+		<ingredient id="57" count="2032000" />
+		<ingredient id="14679" count="1" /> <!-- Neolithic Crystal - A -->
+	</item>
+	<item>
+		<production id="12992" count="1" /> <!-- Helm of Nightmare - Light Armor Use -->
+		<ingredient id="57" count="2032000" />
+		<ingredient id="14679" count="1" /> <!-- Neolithic Crystal - A -->
+	</item>
+	<item>
+		<production id="12993" count="1" /> <!-- Helm of Nightmare - Robe -->
+		<ingredient id="57" count="2032000" />
+		<ingredient id="14679" count="1" /> <!-- Neolithic Crystal - A -->
+	</item>
+	<item>
+		<production id="12994" count="1" /> <!-- Sealed Dark Crystal Helmet - Light Armor Use -->
+		<ingredient id="57" count="1336000" />
+		<ingredient id="14679" count="1" /> <!-- Neolithic Crystal - A -->
+	</item>
+	<item>
+		<production id="12995" count="1" /> <!-- Sealed Dark Crystal Helmet - Robe -->
+		<ingredient id="57" count="1336000" />
+		<ingredient id="14679" count="1" /> <!-- Neolithic Crystal - A -->
+	</item>
+	<item>
+		<production id="12996" count="1" /> <!-- Sealed Tallum Helmet - Light Armor Use -->
+		<ingredient id="57" count="1336000" />
+		<ingredient id="14679" count="1" /> <!-- Neolithic Crystal - A -->
+	</item>
+	<item>
+		<production id="12997" count="1" /> <!-- Sealed Tallum Helmet - Robe -->
+		<ingredient id="57" count="1336000" />
+		<ingredient id="14679" count="1" /> <!-- Neolithic Crystal - A -->
+	</item>
+	<item>
+		<production id="12998" count="1" /> <!-- Sealed Majestic Circlet - Light Armor Use -->
+		<ingredient id="57" count="2032000" />
+		<ingredient id="14679" count="1" /> <!-- Neolithic Crystal - A -->
+	</item>
+	<item>
+		<production id="12999" count="1" /> <!-- Sealed Majestic Circlet - Robe -->
+		<ingredient id="57" count="2032000" />
+		<ingredient id="14679" count="1" /> <!-- Neolithic Crystal - A -->
+	</item>
+	<item>
+		<production id="2382" count="1" /> <!-- Tallum Plate Armor -->
+		<ingredient id="57" count="5788000" />
+	</item>
+	<item>
+		<production id="2383" count="1" /> <!-- Majestic Plate Armor -->
+		<ingredient id="57" count="8804000" />
+	</item>
+	<item>
+		<production id="2385" count="1" /> <!-- Dark Crystal Leather Armor -->
+		<ingredient id="57" count="2671000" />
+	</item>
+	<item>
+		<production id="2389" count="1" /> <!-- Dark Crystal Leggings -->
+		<ingredient id="57" count="1670000" />
+	</item>
+	<item>
+		<production id="2393" count="1" /> <!-- Tallum Leather Armor -->
+		<ingredient id="57" count="4341000" />
+	</item>
+	<item>
+		<production id="2394" count="1" /> <!-- Leather Armor of Nightmare -->
+		<ingredient id="57" count="6603000" />
+	</item>
+	<item>
+		<production id="2395" count="1" /> <!-- Majestic Leather Armor -->
+		<ingredient id="57" count="6603000" />
+	</item>
+	<item>
+		<production id="5765" count="1" /> <!-- Dark Crystal Gloves - Heavy Armor -->
+		<ingredient id="57" count="890000" />
+	</item>
+	<item>
+		<production id="5766" count="1" /> <!-- Dark Crystal Gloves - Light Armor -->
+		<ingredient id="57" count="890000" />
+	</item>
+	<item>
+		<production id="5767" count="1" /> <!-- Dark Crystal Gloves - Robe -->
+		<ingredient id="57" count="890000" />
+	</item>
+	<item>
+		<production id="5768" count="1" /> <!-- Tallum Gloves - Heavy Armor -->
+		<ingredient id="57" count="890000" />
+	</item>
+	<item>
+		<production id="5769" count="1" /> <!-- Tallum Gloves - Light Armor -->
+		<ingredient id="57" count="890000" />
+	</item>
+	<item>
+		<production id="5770" count="1" /> <!-- Tallum Gloves - Robe -->
+		<ingredient id="57" count="890000" />
+	</item>
+	<item>
+		<production id="5771" count="1" /> <!-- Gauntlets of Nightmare - Heavy Armor -->
+		<ingredient id="57" count="1355000" />
+	</item>
+	<item>
+		<production id="5772" count="1" /> <!-- Gauntlets of Nightmare - Light Armor -->
+		<ingredient id="57" count="1355000" />
+	</item>
+	<item>
+		<production id="5773" count="1" /> <!-- Gauntlets of Nightmare - Robe -->
+		<ingredient id="57" count="1355000" />
+	</item>
+	<item>
+		<production id="5774" count="1" /> <!-- Majestic Gauntlets - Heavy Armor -->
+		<ingredient id="57" count="1355000" />
+	</item>
+	<item>
+		<production id="5775" count="1" /> <!-- Majestic Gauntlets - Light Armor -->
+		<ingredient id="57" count="1355000" />
+	</item>
+	<item>
+		<production id="5776" count="1" /> <!-- Majestic Gauntlets - Robe -->
+		<ingredient id="57" count="1355000" />
+	</item>
+	<item>
+		<production id="5777" count="1" /> <!-- Dark Crystal Boots - Heavy Armor -->
+		<ingredient id="57" count="890000" />
+	</item>
+	<item>
+		<production id="5778" count="1" /> <!-- Dark Crystal Boots - Light Armor -->
+		<ingredient id="57" count="890000" />
+	</item>
+	<item>
+		<production id="5779" count="1" /> <!-- Dark Crystal Boots - Robe -->
+		<ingredient id="57" count="890000" />
+	</item>
+	<item>
+		<production id="5780" count="1" /> <!-- Tallum Boots - Heavy Armor -->
+		<ingredient id="57" count="890000" />
+	</item>
+	<item>
+		<production id="5781" count="1" /> <!-- Tallum Boots - Light Armor -->
+		<ingredient id="57" count="890000" />
+	</item>
+	<item>
+		<production id="5782" count="1" /> <!-- Tallum Boots - Robe -->
+		<ingredient id="57" count="890000" />
+	</item>
+	<item>
+		<production id="5783" count="1" /> <!-- Boots of Nightmare - Heavy Armor -->
+		<ingredient id="57" count="1355000" />
+	</item>
+	<item>
+		<production id="5784" count="1" /> <!-- Boots of Nightmare - Light Armor -->
+		<ingredient id="57" count="1355000" />
+	</item>
+	<item>
+		<production id="5785" count="1" /> <!-- Boots of Nightmare - Robe -->
+		<ingredient id="57" count="1355000" />
+	</item>
+	<item>
+		<production id="5786" count="1" /> <!-- Majestic Boots - Heavy Armor -->
+		<ingredient id="57" count="1355000" />
+	</item>
+	<item>
+		<production id="5787" count="1" /> <!-- Majestic Boots - Light Armor -->
+		<ingredient id="57" count="1355000" />
+	</item>
+	<item>
+		<production id="5788" count="1" /> <!-- Majestic Boots - Robe -->
+		<ingredient id="57" count="1355000" />
+	</item>
+	<item>
+		<production id="12206" count="1" /> <!-- Common Item - Dark Crystal Gaiters -->
+		<ingredient id="57" count="115000" />
+	</item>
+	<item>
+		<production id="12207" count="1" /> <!-- Common Item - Dark Crystal Gloves - Heavy Armor -->
+		<ingredient id="57" count="45900" />
+	</item>
+	<item>
+		<production id="12208" count="1" /> <!-- Common Item - Dark Crystal Gloves - Tans Armor Use -->
+		<ingredient id="57" count="45900" />
+	</item>
+	<item>
+		<production id="12209" count="1" /> <!-- Common Item - Dark Crystal Gloves - Robe -->
+		<ingredient id="57" count="45900" />
+	</item>
+	<item>
+		<production id="12210" count="1" /> <!-- Common Item - Dark Crystal Leather Armor -->
+		<ingredient id="57" count="137700" />
+	</item>
+	<item>
+		<production id="12211" count="1" /> <!-- Common Item - Dark Crystal Robe -->
+		<ingredient id="57" count="224000" />
+	</item>
+	<item>
+		<production id="12212" count="1" /> <!-- Common Item - Dark Crystal Boots - Heavy Armor -->
+		<ingredient id="57" count="45900" />
+	</item>
+	<item>
+		<production id="12213" count="1" /> <!-- Common Item - Dark Crystal Boots - Tans Armor Use -->
+		<ingredient id="57" count="45900" />
+	</item>
+	<item>
+		<production id="12214" count="1" /> <!-- Common Item - Dark Crystal Boots - Robe -->
+		<ingredient id="57" count="45900" />
+	</item>
+	<item>
+		<production id="12215" count="1" /> <!-- Common Item - Dark Crystal Shield -->
+		<ingredient id="57" count="48200" />
+	</item>
+	<item>
+		<production id="12216" count="1" /> <!-- Common Item - Dark Crystal Helmet -->
+		<ingredient id="57" count="68800" />
+	</item>
+	<item>
+		<production id="12217" count="1" /> <!-- Common Item - Dark Crystal Breastplate -->
+		<ingredient id="57" count="183500" />
+	</item>
+	<item>
+		<production id="12218" count="1" /> <!-- Common Item - Dark Crystal Leggings -->
+		<ingredient id="57" count="86000" />
+	</item>
+	<item>
+		<production id="12220" count="1" /> <!-- Common Item - Sealed Dark Crystal Gaiters -->
+		<ingredient id="57" count="115000" />
+	</item>
+	<item>
+		<production id="12221" count="1" /> <!-- Common Item - Sealed Dark Crystal Gloves -->
+		<ingredient id="57" count="45900" />
+	</item>
+	<item>
+		<production id="12222" count="1" /> <!-- Common Item - Sealed Dark Crystal Leather Armor -->
+		<ingredient id="57" count="137700" />
+	</item>
+	<item>
+		<production id="12223" count="1" /> <!-- Common Item - Sealed Dark Crystal Robe -->
+		<ingredient id="57" count="224000" />
+	</item>
+	<item>
+		<production id="12224" count="1" /> <!-- Common Item - Sealed Dark Crystal Boots -->
+		<ingredient id="57" count="45900" />
+	</item>
+	<item>
+		<production id="12225" count="1" /> <!-- Common Item - Sealed Dark Crystal Shield -->
+		<ingredient id="57" count="48200" />
+	</item>
+	<item>
+		<production id="12226" count="1" /> <!-- Common Item - Sealed Dark Crystal Helmet -->
+		<ingredient id="57" count="68800" />
+	</item>
+	<item>
+		<production id="12227" count="1" /> <!-- Common Item - Sealed Dark Crystal Breastplate -->
+		<ingredient id="57" count="183500" />
+	</item>
+	<item>
+		<production id="12228" count="1" /> <!-- Common Item - Sealed Dark Crystal Leggings -->
+		<ingredient id="57" count="86000" />
+	</item>
+	<item>
+		<production id="12229" count="1" /> <!-- Common Item - Sealed Tallum Gloves -->
+		<ingredient id="57" count="45900" />
+	</item>
+	<item>
+		<production id="12230" count="1" /> <!-- Common Item - Sealed Tallum Leather Armor -->
+		<ingredient id="57" count="224000" />
+	</item>
+	<item>
+		<production id="12231" count="1" /> <!-- Common Item - Sealed Tallum Boots -->
+		<ingredient id="57" count="45900" />
+	</item>
+	<item>
+		<production id="12232" count="1" /> <!-- Common Item - Sealed Tallum Tunic -->
+		<ingredient id="57" count="137700" />
+	</item>
+	<item>
+		<production id="12233" count="1" /> <!-- Common Item - Sealed Tallum Plate Armor -->
+		<ingredient id="57" count="298000" />
+	</item>
+	<item>
+		<production id="12234" count="1" /> <!-- Common Item - Sealed Tallum Helmet -->
+		<ingredient id="57" count="68800" />
+	</item>
+	<item>
+		<production id="12235" count="1" /> <!-- Common Item - Sealed Tallum Stockings -->
+		<ingredient id="57" count="86000" />
+	</item>
+	<item>
+		<production id="12236" count="1" /> <!-- Common Item - Tallum Gloves - Heavy Armor -->
+		<ingredient id="57" count="45900" />
+	</item>
+	<item>
+		<production id="12237" count="1" /> <!-- Common Item - Tallum Gloves - Tans Armor Use -->
+		<ingredient id="57" count="45900" />
+	</item>
+	<item>
+		<production id="12238" count="1" /> <!-- Common Item - Tallum Gloves - Robe -->
+		<ingredient id="57" count="45900" />
+	</item>
+	<item>
+		<production id="12239" count="1" /> <!-- Common Item - Tallum Leather Armor -->
+		<ingredient id="57" count="224000" />
+	</item>
+	<item>
+		<production id="12240" count="1" /> <!-- Common Item - Tallum Boots - Heavy Armor -->
+		<ingredient id="57" count="45900" />
+	</item>
+	<item>
+		<production id="12241" count="1" /> <!-- Common Item - Tallum Boots - Tans Armor Use -->
+		<ingredient id="57" count="45900" />
+	</item>
+	<item>
+		<production id="12242" count="1" /> <!-- Common Item - Tallum Boots - Robe -->
+		<ingredient id="57" count="45900" />
+	</item>
+	<item>
+		<production id="12243" count="1" /> <!-- Common Item - Tallum Tunic -->
+		<ingredient id="57" count="137700" />
+	</item>
+	<item>
+		<production id="12244" count="1" /> <!-- Common Item - Tallum Plate Armor -->
+		<ingredient id="57" count="298000" />
+	</item>
+	<item>
+		<production id="12245" count="1" /> <!-- Common Item - Tallum Helmet -->
+		<ingredient id="57" count="68800" />
+	</item>
+	<item>
+		<production id="12246" count="1" /> <!-- Common Item - Tallum Stockings -->
+		<ingredient id="57" count="86000" />
+	</item>
+	<item>
+		<production id="12247" count="1" /> <!-- Common Item - Majestic Gauntlet - Heavy Armor -->
+		<ingredient id="57" count="73500" />
+	</item>
+	<item>
+		<production id="12248" count="1" /> <!-- Common Item - Majestic Gauntlet - Tans Armor Use -->
+		<ingredient id="57" count="73500" />
+	</item>
+	<item>
+		<production id="12249" count="1" /> <!-- Common Item - Majestic Gauntlet - Robe -->
+		<ingredient id="57" count="73500" />
+	</item>
+	<item>
+		<production id="12250" count="1" /> <!-- Common Item - Majestic Leather Armor -->
+		<ingredient id="57" count="358000" />
+	</item>
+	<item>
+		<production id="12251" count="1" /> <!-- Common Item - Majestic Robe -->
+		<ingredient id="57" count="358000" />
+	</item>
+	<item>
+		<production id="12252" count="1" /> <!-- Common Item - Majestic Boots - Heavy Armor -->
+		<ingredient id="57" count="73500" />
+	</item>
+	<item>
+		<production id="12253" count="1" /> <!-- Common Item - Majestic Boots - Tans Armor Use -->
+		<ingredient id="57" count="73500" />
+	</item>
+	<item>
+		<production id="12254" count="1" /> <!-- Common Item - Majestic Boots - Robe -->
+		<ingredient id="57" count="73500" />
+	</item>
+	<item>
+		<production id="12255" count="1" /> <!-- Common Item - Majestic Circlet -->
+		<ingredient id="57" count="110200" />
+	</item>
+	<item>
+		<production id="12256" count="1" /> <!-- Common Item - Majestic Plate Armor -->
+		<ingredient id="57" count="477000" />
+	</item>
+	<item>
+		<production id="12257" count="1" /> <!-- Common Item - Sealed Majestic Gauntlet -->
+		<ingredient id="57" count="73500" />
+	</item>
+	<item>
+		<production id="12258" count="1" /> <!-- Common Item - Sealed Majestic Leather Armor -->
+		<ingredient id="57" count="358000" />
+	</item>
+	<item>
+		<production id="12259" count="1" /> <!-- Common Item - Sealed Majestic Robe -->
+		<ingredient id="57" count="358000" />
+	</item>
+	<item>
+		<production id="12260" count="1" /> <!-- Common Item - Sealed Majestic Boots -->
+		<ingredient id="57" count="73500" />
+	</item>
+	<item>
+		<production id="12261" count="1" /> <!-- Common Item - Sealed Majestic Circlet -->
+		<ingredient id="57" count="110200" />
+	</item>
+	<item>
+		<production id="12262" count="1" /> <!-- Common Item - Sealed Majestic Plate Armor -->
+		<ingredient id="57" count="477000" />
+	</item>
+	<item>
+		<production id="12263" count="1" /> <!-- Common Item - Sealed Armor of Nightmare -->
+		<ingredient id="57" count="477000" />
+	</item>
+	<item>
+		<production id="12264" count="1" /> <!-- Common Item - Sealed Gauntlet of Nightmare -->
+		<ingredient id="57" count="73500" />
+	</item>
+	<item>
+		<production id="12265" count="1" /> <!-- Common Item - Sealed Leather Armor of Nightmare -->
+		<ingredient id="57" count="358000" />
+	</item>
+	<item>
+		<production id="12266" count="1" /> <!-- Common Item - Sealed Robe of Nightmare -->
+		<ingredient id="57" count="358000" />
+	</item>
+	<item>
+		<production id="12267" count="1" /> <!-- Common Item - Sealed Boots of Nightmare -->
+		<ingredient id="57" count="73500" />
+	</item>
+	<item>
+		<production id="12268" count="1" /> <!-- Common Item - Sealed Shield of Nightmare -->
+		<ingredient id="57" count="77100" />
+	</item>
+	<item>
+		<production id="12269" count="1" /> <!-- Common Item - Sealed Helm of Nightmare -->
+		<ingredient id="57" count="110200" />
+	</item>
+	<item>
+		<production id="12270" count="1" /> <!-- Common Item - Armor of Nightmare -->
+		<ingredient id="57" count="477000" />
+	</item>
+	<item>
+		<production id="12271" count="1" /> <!-- Common Item - Gauntlet of Nightmare - Heavy Armor -->
+		<ingredient id="57" count="73500" />
+	</item>
+	<item>
+		<production id="12272" count="1" /> <!-- Common Item - Gauntlet of Nightmare - Tans Armor Use -->
+		<ingredient id="57" count="73500" />
+	</item>
+	<item>
+		<production id="12273" count="1" /> <!-- Common Item - Gauntlet of Nightmare - Robe -->
+		<ingredient id="57" count="73500" />
+	</item>
+	<item>
+		<production id="12274" count="1" /> <!-- Common Item - Leather Armor of Nightmare -->
+		<ingredient id="57" count="358000" />
+	</item>
+	<item>
+		<production id="12275" count="1" /> <!-- Common Item - Robe of Nightmare -->
+		<ingredient id="57" count="358000" />
+	</item>
+	<item>
+		<production id="12276" count="1" /> <!-- Common Item - Boots of Nightmare - Heavy Armor -->
+		<ingredient id="57" count="73500" />
+	</item>
+	<item>
+		<production id="12277" count="1" /> <!-- Common Item - Boots of Nightmare - Tans Armor Use -->
+		<ingredient id="57" count="73500" />
+	</item>
+	<item>
+		<production id="12278" count="1" /> <!-- Common Item - Boots of Nightmare - Robe -->
+		<ingredient id="57" count="73500" />
+	</item>
+	<item>
+		<production id="12279" count="1" /> <!-- Common Item - Shield of Nightmare -->
+		<ingredient id="57" count="77100" />
+	</item>
+	<item>
+		<production id="12280" count="1" /> <!-- Common Item - Helm of Nightmare -->
+		<ingredient id="57" count="110200" />
+	</item>
+</list>

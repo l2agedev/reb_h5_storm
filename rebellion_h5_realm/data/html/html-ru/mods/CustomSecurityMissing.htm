@@ -1,0 +1,79 @@
+<html>
+<title>Установка пароля игрового персонажа.</title>
+<body>
+	<center>
+		<table width="280" cellpadding="3" cellspacing="0">
+			<tr>
+				<td width="280" valign="top">
+					<table width="250" height="50" cellspacing="0" cellpadding="7">
+						<tr>
+							<td width="32" valign="top"><img src="icon.etc_old_key_i02"
+								width="32" height="32" align="top" /></td>
+							<td width="150" valign="top">
+								<table cellspacing="0" cellpadding="0">
+									<tr>
+										<td>Здравствуйте <font color="LEVEL">%playername%</font></td>
+									</tr>
+								</table>
+							</td>
+						</tr>
+					</table> <img src="L2UI_CT1.ChatBalloon_DF_TopCenter" width="290"
+					height="1" align="top" />
+					<table width="280" height="24" bgcolor="5b574c" cellspacing="0"
+						cellpadding="7">
+						<tr>
+							<td valign="top">
+								<table width="280" cellspacing="0" cellpadding="0">
+									<tr>
+										<td>Установки пароля для защиты вашей собственности!</td>
+									</tr>
+								</table>
+							</td>
+						</tr>
+					</table> <img src="L2UI_CT1.ChatBalloon_DF_TopCenter" width="290"
+					height="1" align="top" />
+					<table width="305" cellpadding="0" cellspacing="0" valign="top">
+						<tr>
+							<td valign="top">
+								<table width="305" height="50" bgcolor="0f100f" cellspacing="0"
+									cellpadding="7">
+									<tr>
+										<td width="32" valign="top">
+										<td width="270" valign="top">
+											<table width="270" cellspacing="0" cellpadding="0">
+												<tr>
+													<td height="24" width="60" valign="top"><font
+														color="af9f47">Установить пароль:</font></td>
+												</tr>
+												<tr>
+													<td height="24" valign="top">Пароль:</td>
+													<td height="24" valign="top"><edit type="password"
+															var="pass1" width=130 height=15></td>
+												</tr>
+												<tr>
+													<td height="24" valign="top">Повторите Пароль:</td>
+													<td height="24" valign="top"><edit type="password"
+															var="pass2" width=130 height=15></td>
+												</tr>
+												<tr>
+													<td height="24" valign="top"><button
+															action="bypass -h user_security_set_passwd $pass1 $pass2"
+															value="Установка пароля" width=125 height=21
+															back="L2UI_ct1.button_df" fore="L2UI_ct1.button_df" /></td>
+												</tr>
+											</table>
+										</td>
+									</tr>
+								</table>
+							</td>
+						</tr>
+					</table>
+					<button value="" action="" width=1 height=0 back="" fore="">
+						<img src="L2UI_CT1.ChatBalloon_DF_TopCenter" width="290"
+							height="1" align="top" />
+				</td>
+			</tr>
+		</table>
+	</center>
+</body>
+</html>

@@ -1,0 +1,160 @@
+<?xml version='1.0' encoding='utf-8'?>
+<list>
+	<config showall="true" notax="true" keepenchanted="true" />
+	<item>
+		<production id="117" count="1" /> <!-- Ring of Mana -->
+		<ingredient id="57" count="310600" />
+	</item>
+	<item>
+		<production id="856" count="1" /> <!-- Adamantite Earring -->
+		<ingredient id="57" count="465900" />
+	</item>
+	<item>
+		<production id="859" count="1" /> <!-- Earring of Mana -->
+		<ingredient id="57" count="465900" />
+	</item>
+	<item>
+		<production id="860" count="1" /> <!-- Sage's Earring -->
+		<ingredient id="57" count="711000" />
+	</item>
+	<item>
+		<production id="861" count="1" /> <!-- Paradia Earring -->
+		<ingredient id="57" count="711000" />
+	</item>
+	<item>
+		<production id="863" count="1" /> <!-- Earring of Solar Eclipse -->
+		<ingredient id="57" count="465900" />
+	</item>
+	<item>
+		<production id="864" count="1" /> <!-- Earring of Black Ore -->
+		<ingredient id="57" count="711000" />
+	</item>
+	<item>
+		<production id="865" count="1" /> <!-- Earring of Summoning -->
+		<ingredient id="57" count="465900" />
+	</item>
+	<item>
+		<production id="866" count="1" /> <!-- Otherworldly Earring -->
+		<ingredient id="57" count="711000" />
+	</item>
+	<item>
+		<production id="867" count="1" /> <!-- Elemental Earring -->
+		<ingredient id="57" count="711000" />
+	</item>
+	<item>
+		<production id="869" count="1" /> <!-- Earring of Grace -->
+		<ingredient id="57" count="465900" />
+	</item>
+	<item>
+		<production id="870" count="1" /> <!-- Earring of Holy Spirit -->
+		<ingredient id="57" count="711000" />
+	</item>
+	<item>
+		<production id="873" count="1" /> <!-- Earring of Aid -->
+		<ingredient id="57" count="465900" />
+	</item>
+	<item>
+		<production id="874" count="1" /> <!-- Earring of Blessing -->
+		<ingredient id="57" count="465900" />
+	</item>
+	<item>
+		<production id="887" count="1" /> <!-- Adamantite Ring -->
+		<ingredient id="57" count="310600" />
+	</item>
+	<item>
+		<production id="891" count="1" /> <!-- Sage's Ring -->
+		<ingredient id="57" count="474000" />
+	</item>
+	<item>
+		<production id="892" count="1" /> <!-- Paradia Ring -->
+		<ingredient id="57" count="474000" />
+	</item>
+	<item>
+		<production id="894" count="1" /> <!-- Ring of Solar Eclipse -->
+		<ingredient id="57" count="310600" />
+	</item>
+	<item>
+		<production id="895" count="1" /> <!-- Ring of Black Ore -->
+		<ingredient id="57" count="474000" />
+	</item>
+	<item>
+		<production id="896" count="1" /> <!-- Ring of Summoning -->
+		<ingredient id="57" count="310600" />
+	</item>
+	<item>
+		<production id="897" count="1" /> <!-- Otherworldly Ring -->
+		<ingredient id="57" count="474000" />
+	</item>
+	<item>
+		<production id="898" count="1" /> <!-- Elemental Ring -->
+		<ingredient id="57" count="474000" />
+	</item>
+	<item>
+		<production id="900" count="1" /> <!-- Ring of Grace -->
+		<ingredient id="57" count="310600" />
+	</item>
+	<item>
+		<production id="901" count="1" /> <!-- Ring of Holy Spirit -->
+		<ingredient id="57" count="474000" />
+	</item>
+	<item>
+		<production id="904" count="1" /> <!-- Ring of Aid -->
+		<ingredient id="57" count="310600" />
+	</item>
+	<item>
+		<production id="905" count="1" /> <!-- Ring of Blessing -->
+		<ingredient id="57" count="310600" />
+	</item>
+	<item>
+		<production id="918" count="1" /> <!-- Adamantite Necklace -->
+		<ingredient id="57" count="621200" />
+	</item>
+	<item>
+		<production id="921" count="1" /> <!-- Necklace of Mana -->
+		<ingredient id="57" count="621200" />
+	</item>
+	<item>
+		<production id="922" count="1" /> <!-- Sage's Necklace -->
+		<ingredient id="57" count="948000" />
+	</item>
+	<item>
+		<production id="923" count="1" /> <!-- Paradia Necklace -->
+		<ingredient id="57" count="948000" />
+	</item>
+	<item>
+		<production id="925" count="1" /> <!-- Necklace of Solar Eclipse -->
+		<ingredient id="57" count="621200" />
+	</item>
+	<item>
+		<production id="926" count="1" /> <!-- Necklace of Black Ore -->
+		<ingredient id="57" count="948000" />
+	</item>
+	<item>
+		<production id="927" count="1" /> <!-- Necklace of Summoning -->
+		<ingredient id="57" count="621200" />
+	</item>
+	<item>
+		<production id="928" count="1" /> <!-- Otherworldly Necklace -->
+		<ingredient id="57" count="948000" />
+	</item>
+	<item>
+		<production id="929" count="1" /> <!-- Elemental Necklace -->
+		<ingredient id="57" count="948000" />
+	</item>
+	<item>
+		<production id="931" count="1" /> <!-- Necklace of Grace -->
+		<ingredient id="57" count="621200" />
+	</item>
+	<item>
+		<production id="932" count="1" /> <!-- Necklace of Holy Spirit -->
+		<ingredient id="57" count="948000" />
+	</item>
+	<item>
+		<production id="935" count="1" /> <!-- Necklace of Aid -->
+		<ingredient id="57" count="621200" />
+	</item>
+	<item>
+		<production id="936" count="1" /> <!-- Necklace of Blessing -->
+		<ingredient id="57" count="621200" />
+	</item>
+</list>

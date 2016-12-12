@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='utf-8'?>
+<list>
+	<config showall="true" notax="true" keepenchanted="true" />
+
+	<!-- Dynasty Heavy Set -->
+	<item>
+		<ingredient id="9143" count="10" />
+		<production id="9422" count="1" />
+		<production id="9423" count="1" />
+		<production id="9424" count="1" />
+		<production id="9441" count="1" />
+		<production id="9416" count="1" />
+		<production id="9421" count="1" />
+	</item>
+
+	<!-- Dynasty Leather Set -->
+	<item>
+		<ingredient id="9143" count="10" />
+		<production id="9429" count="1" />
+		<production id="9430" count="1" />
+		<production id="9431" count="1" />
+		<production id="9428" count="1" />
+		<production id="9425" count="1" />
+	</item>
+
+
+	<!-- Dynasty Robe Set -->
+	<item>
+		<ingredient id="9143" count="10" />
+		<production id="9438" count="1" />
+		<production id="9439" count="1" />
+		<production id="9440" count="1" />
+		<production id="9432" count="1" />
+		<production id="9437" count="1" />
+		<production id="12812" count="1" />
+	</item>
+
+</list>

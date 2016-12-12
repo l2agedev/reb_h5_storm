@@ -1,0 +1,366 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Belts -->
+
+<list>
+<config showall="true" notax="true" keepenchanted="true" />
+	<!-- Low-Grade Magic Pin Cloth Belt -->
+	<item id="1">
+		<ingredient id="57" count="1" />
+		<production id="13954" count="1" />
+	</item>
+	<!-- Regular Magic Pin Cloth Belt -->
+	<item id="2">
+		<ingredient id="57" count="1" />
+		<production id="13955" count="1" />
+	</item>
+	<!-- High-Grade Magic Pin Cloth Belt -->
+	<item id="3">
+		<ingredient id="57" count="1" />
+		<production id="13956" count="1" />
+	</item>
+	<!-- Top-Grade Magic Pin Cloth Belt -->
+	<item id="4">
+		<ingredient id="57" count="1" />
+		<production id="13957" count="1" />
+	</item>
+	<!-- Low-Grade Magic Pin Leather Belt -->
+	<item id="5">
+		<ingredient id="57" count="1" />
+		<production id="13958" count="1" />
+	</item>
+	<!-- Regular Magic Pin Leather Belt -->
+	<item id="6">
+		<ingredient id="57" count="1" />
+		<production id="13959" count="1" />
+	</item>
+	<!-- High-Grade Magic Pin Leather Belt -->
+	<item id="7">
+		<ingredient id="57" count="1" />
+		<production id="13960" count="1" />
+	</item>
+	<!-- Top-Grade Magic Pin Leather Belt -->
+	<item id="8">
+		<ingredient id="57" count="1" />
+		<production id="13961" count="1" />
+	</item>
+	<!-- Low-Grade Magic Pin Iron Belt -->
+	<item id="9">
+		<ingredient id="57" count="1" />
+		<production id="13962" count="1" />
+	</item>
+	<!-- Regular Magic Pin Iron Belt -->
+	<item id="10">
+		<ingredient id="57" count="1" />
+		<production id="13963" count="1" />
+	</item>
+	<!-- High-Grade Magic Pin Iron Belt -->
+	<item id="11">
+		<ingredient id="57" count="1" />
+		<production id="13964" count="1" />
+	</item>
+	<!-- Top-Grade Magic Pin Iron Belt -->
+	<item id="12">
+		<ingredient id="57" count="1" />
+		<production id="13965" count="1" />
+	</item>
+	<!-- Low-Grade Magic Pin Mithril Belt -->
+	<item id="13">
+		<ingredient id="57" count="1" />
+		<production id="13966" count="1" />
+	</item>
+	<!-- Regular Magic Pin Mithril Belt -->
+	<item id="14">
+		<ingredient id="57" count="1" />
+		<production id="13967" count="1" />
+	</item>
+	<!-- High-Grade Magic Pin Mithril Belt -->
+	<item id="15">
+		<ingredient id="57" count="1" />
+		<production id="13968" count="1" />
+	</item>
+	<!-- Top-Grade Magic Pin Mithril Belt -->
+	<item id="16">
+		<ingredient id="57" count="1" />
+		<production id="13969" count="1" />
+	</item>
+	<!-- Low-Grade Magic Pouch Cloth Belt -->
+	<item id="17">
+		<ingredient id="57" count="1" />
+		<production id="13938" count="1" />
+	</item>
+	<!-- Regular Magic Pouch Cloth Belt -->
+	<item id="18">
+		<ingredient id="57" count="1" />
+		<production id="13939" count="1" />
+	</item>
+	<!-- High-Grade Magic Pouch Cloth Belt -->
+	<item id="19">
+		<ingredient id="57" count="1" />
+		<production id="13940" count="1" />
+	</item>
+	<!-- Top-Grade Magic Pouch Cloth Belt -->
+	<item id="20">
+		<ingredient id="57" count="1" />
+		<production id="13941" count="1" />
+	</item>
+	<!-- Low-Grade Magic Pouch Leather Belt -->
+	<item id="21">
+		<ingredient id="57" count="1" />
+		<production id="13942" count="1" />
+	</item>
+	<!-- Regular Magic Pouch Leather Belt -->
+	<item id="22">
+		<ingredient id="57" count="1" />
+		<production id="13943" count="1" />
+	</item>
+	<!-- High-Grade Magic Pouch Leather Belt -->
+	<item id="23">
+		<ingredient id="57" count="1" />
+		<production id="13944" count="1" />
+	</item>
+	<!-- Top-Grade Magic Pouch Leather Belt -->
+	<item id="24">
+		<ingredient id="57" count="1" />
+		<production id="13945" count="1" />
+	</item>
+	<!-- Low-Grade Magic Pouch Iron Belt -->
+	<item id="25">
+		<ingredient id="57" count="1" />
+		<production id="13946" count="1" />
+	</item>
+	<!-- Regular Magic Pouch Iron Belt -->
+	<item id="26">
+		<ingredient id="57" count="1" />
+		<production id="13947" count="1" />
+	</item>
+	<!-- High-Grade Magic Pouch Iron Belt -->
+	<item id="27">
+		<ingredient id="57" count="1" />
+		<production id="13948" count="1" />
+	</item>
+	<!-- Top-Grade Magic Pouch Iron Belt -->
+	<item id="28">
+		<ingredient id="57" count="1" />
+		<production id="13949" count="1" />
+	</item>
+	<!-- Low-Grade Magic Pouch Mithril Belt -->
+	<item id="29">
+		<ingredient id="57" count="1" />
+		<production id="13950" count="1" />
+	</item>
+	<!-- Regular Magic Pouch Mithril Belt -->
+	<item id="30">
+		<ingredient id="57" count="1" />
+		<production id="13951" count="1" />
+	</item>
+	<!-- High-Grade Magic Pouch Mithril Belt -->
+	<item id="31">
+		<ingredient id="57" count="1" />
+		<production id="13952" count="1" />
+	</item>
+	<!-- Top-Grade Magic Pouch Mithril Belt -->
+	<item id="32">
+		<ingredient id="57" count="1" />
+		<production id="13953" count="1" />
+	</item>
+	<!-- Low-grade Magic Rune Clip Iron Belt -->
+	<item id="33">
+		<ingredient id="57" count="1" />
+		<production id="14922" count="1" />
+	</item>
+	<!-- Ordinary Magic Rune Clip Iron Belt -->
+	<item id="34">
+		<ingredient id="57" count="1" />
+		<production id="14923" count="1" />
+	</item>
+	<!-- High-grade Magic Rune Clip Iron Belt -->
+	<item id="35">
+		<ingredient id="57" count="1" />
+		<production id="14924" count="1" />
+	</item>
+	<!-- Top-grade Magic Rune Clip Iron Belt -->
+	<item id="36">
+		<ingredient id="57" count="1" />
+		<production id="14925" count="1" />
+	</item>
+	<!-- Low-grade Magic Rune Clip Mithril Belt -->
+	<item id="37">
+		<ingredient id="57" count="1" />
+		<production id="14926" count="1" />
+	</item>
+	<!-- Ordinary Magic Rune Clip Mithril Belt -->
+	<item id="38">
+		<ingredient id="57" count="1" />
+		<production id="14927" count="1" />
+	</item>
+	<!-- High-grade Magic Rune Clip Mithril Belt -->
+	<item id="39">
+		<ingredient id="57" count="1" />
+		<production id="14928" count="1" />
+	</item>
+	<!-- Top-grade Magic Rune Clip Mithril Belt -->
+	<item id="40">
+		<ingredient id="57" count="1" />
+		<production id="14929" count="1" />
+	</item>
+	<!-- Low-grade Magic Rune Clip Iron Belt -->
+	<item id="41">
+		<ingredient id="57" count="1" />
+		<production id="14930" count="1" />
+	</item>
+	<!-- Ordinary Magic Rune Clip Iron Belt -->
+	<item id="42">
+		<ingredient id="57" count="1" />
+		<production id="14931" count="1" />
+	</item>
+	<!-- High-grade Magic Rune Clip Iron Belt -->
+	<item id="43">
+		<ingredient id="57" count="1" />
+		<production id="14932" count="1" />
+	</item>
+	<!-- Top-grade Magic Rune Clip Iron Belt -->
+	<item id="44">
+		<ingredient id="57" count="1" />
+		<production id="14933" count="1" />
+	</item>
+	<!-- Low-grade Magic Rune Clip Mithril Belt -->
+	<item id="45">
+		<ingredient id="57" count="1" />
+		<production id="14934" count="1" />
+	</item>
+	<!-- Ordinary Magic Rune Clip Mithril Belt -->
+	<item id="46">
+		<ingredient id="57" count="1" />
+		<production id="14935" count="1" />
+	</item>
+	<!-- High-grade Magic Rune Clip Mithril Belt -->
+	<item id="47">
+		<ingredient id="57" count="1" />
+		<production id="14936" count="1" />
+	</item>
+	<!-- Top-grade Magic Rune Clip Mithril Belt -->
+	<item id="48">
+		<ingredient id="57" count="1" />
+		<production id="14937" count="1" />
+	</item>
+	<!-- Low-grade Magic Ornament Iron Belt -->
+	<item id="49">
+		<ingredient id="57" count="1" />
+		<production id="14938" count="1" />
+	</item>
+	<!-- Ordinary Magic Ornament Iron Belt -->
+	<item id="50">
+		<ingredient id="57" count="1" />
+		<production id="14939" count="1" />
+	</item>
+	<!-- High-grade Magic Ornament Iron Belt -->
+	<item id="51">
+		<ingredient id="57" count="1" />
+		<production id="14940" count="1" />
+	</item>
+	<!-- Top-grade Magic Ornament Iron Belt -->
+	<item id="52">
+		<ingredient id="57" count="1" />
+		<production id="14941" count="1" />
+	</item>
+	<!-- Low-grade Magic Ornament Iron Belt -->
+	<item id="53">
+		<ingredient id="57" count="1" />
+		<production id="14942" count="1" />
+	</item>
+	<!-- Ordinary Magic Ornament Iron Belt -->
+	<item id="54">
+		<ingredient id="57" count="1" />
+		<production id="14943" count="1" />
+	</item>
+	<!-- High-grade Magic Ornament Iron Belt -->
+	<item id="55">
+		<ingredient id="57" count="1" />
+		<production id="14944" count="1" />
+	</item>
+	<!-- Top-grade Magic Ornament Iron Belt -->
+	<item id="56">
+		<ingredient id="57" count="1" />
+		<production id="14945" count="1" />
+	</item>
+	<!-- Low-grade Magic Ornament Iron Belt -->
+	<item id="57">
+		<ingredient id="57" count="1" />
+		<production id="14946" count="1" />
+	</item>
+	<!-- Ordinary Magic Ornament Iron Belt -->
+	<item id="58">
+		<ingredient id="57" count="1" />
+		<production id="14947" count="1" />
+	</item>
+	<!-- High-grade Magic Ornament Iron Belt -->
+	<item id="59">
+		<ingredient id="57" count="1" />
+		<production id="14948" count="1" />
+	</item>
+	<!-- Top-grade Magic Ornament Iron Belt -->
+	<item id="60">
+		<ingredient id="57" count="1" />
+		<production id="14949" count="1" />
+	</item>
+	<!-- Low-grade Magic Ornament Mithril Belt -->
+	<item id="61">
+		<ingredient id="57" count="1" />
+		<production id="14950" count="1" />
+	</item>
+	<!-- Ordinary Magic Ornament Mithril Belt -->
+	<item id="62">
+		<ingredient id="57" count="1" />
+		<production id="14951" count="1" />
+	</item>
+	<!-- High-grade Magic Ornament Mithril Belt -->
+	<item id="63">
+		<ingredient id="57" count="1" />
+		<production id="14952" count="1" />
+	</item>
+	<!-- Top-grade Magic Ornament Mithril Belt -->
+	<item id="64">
+		<ingredient id="57" count="1" />
+		<production id="14953" count="1" />
+	</item>
+	<!-- Low-grade Magic Ornament Mithril Belt -->
+	<item id="65">
+		<ingredient id="57" count="1" />
+		<production id="14954" count="1" />
+	</item>
+	<!-- Ordinary Magic Ornament Mithril Belt -->
+	<item id="66">
+		<ingredient id="57" count="1" />
+		<production id="14955" count="1" />
+	</item>
+	<!-- High-grade Magic Ornament Mithril Belt -->
+	<item id="67">
+		<ingredient id="57" count="1" />
+		<production id="14956" count="1" />
+	</item>
+	<!-- Top-grade Magic Ornament Mithril Belt -->
+	<item id="68">
+		<ingredient id="57" count="1" />
+		<production id="14957" count="1" />
+	</item>
+	<!-- Low-grade Magic Ornament Mithril Belt -->
+	<item id="69">
+		<ingredient id="57" count="1" />
+		<production id="14958" count="1" />
+	</item>
+	<!-- Ordinary Magic Ornament Mithril Belt -->
+	<item id="70">
+		<ingredient id="57" count="1" />
+		<production id="14959" count="1" />
+	</item>
+	<!-- High-grade Magic Ornament Mithril Belt -->
+	<item id="71">
+		<ingredient id="57" count="1" />
+		<production id="14960" count="1" />
+	</item>
+	<!-- Top-grade Magic Ornament Mithril Belt -->
+	<item id="72">
+		<ingredient id="57" count="1" />
+		<production id="14961" count="1" />
+	</item>
+</list>

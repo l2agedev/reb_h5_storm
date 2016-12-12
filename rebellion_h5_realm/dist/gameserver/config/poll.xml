@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<list>
+	<!-- id = id of the poll, you can make multiple polls in one time -->
+	<!-- name = the name of poll title that you make. -->
+	<!-- maxPerHWID = maximum answers that player can select on 1 poll -->
+	<!-- active = to activate that poll -->
+	
+	<vote id="1" name="Increase Rates of Exp" maxPerHWID="1" active="False">
+		<variant id="1" desc="Yes" />
+		<variant id="2" desc="No" />
+	</vote>
+</list>

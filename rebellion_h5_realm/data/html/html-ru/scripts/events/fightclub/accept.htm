@@ -1,0 +1,31 @@
+﻿<html>
+<title>Бойцовский клуб менеджер</title>
+<body>
+	<center>
+		<img src="L2UI_CH3.onscrmsg_pattern01_1" width=295 height=32>
+	</center>
+	<br> Имя персонажа:
+	<font color="LEVEL">%name%</font>
+	<br> Класс персонажа:
+	<font color="LEVEL">%class%</font>, Левел
+	<font color="LEVEL">%level%</font>
+	<br> Ставка:
+	<font color="LEVEL">%rate%</font>
+	<br>
+	<br> Пожалуйста, обратите внимание! Вы и игрок, который создает
+	запросу должен иметь достаточное количество элементов (равно или больше
+	ставка). После боя победителя готовой принимает суммы ставок.
+	<br1> После боя победителя готовой принимает суммы ставок. <br>
+	<center>
+		<button value="Accept the batlle"
+			action="bypass -h npc_%objectId%_accept %storedId%" width=200
+			height=25 back="L2UI_CT1.Button_DF" fore="L2UI_CT1.Button_DF" />
+		<center>
+			<button value="See more requests"
+				action="bypass -h npc_%objectId%_openpage 1" width=200 height=25
+				back="L2UI_CT1.Button_DF" fore="L2UI_CT1.Button_DF" />
+			<center>
+				<img src="L2UI_CH3.onscrmsg_pattern01_2" width=295 height=32>
+			</center>
+</body>
+</html>

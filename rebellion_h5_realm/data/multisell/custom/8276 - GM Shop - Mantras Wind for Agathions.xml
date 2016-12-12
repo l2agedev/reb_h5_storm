@@ -1,0 +1,171 @@
+<?xml version='1.0' encoding='utf-8'?>
+<list>
+	<config showall="true" notax="true" keepenchanted="false" />
+
+	<!-- Masterwork WEAPONS S Grade -->
+
+	<item id="1">
+		<production id="10607" count="1" />
+		<ingredient id="5572" count="300" />
+	</item>
+	<item id="2">
+		<production id="10320" count="1" />
+		<ingredient id="5572" count="300" />
+	</item>
+	<item id="3">
+		<production id="10326" count="1" />
+		<ingredient id="5572" count="300" />
+	</item>
+	<item id="4">
+		<production id="10316" count="1" />
+		<ingredient id="5572" count="300" />
+	</item>
+	<item id="5">
+		<production id="10317" count="1" />
+		<ingredient id="5572" count="300" />
+	</item>
+	<item id="6">
+		<production id="10318" count="1" />
+		<ingredient id="5572" count="300" />
+	</item>
+	<item id="7">
+		<production id="10319" count="1" />
+		<ingredient id="5572" count="300" />
+	</item>
+	<item id="8">
+		<production id="10322" count="1" />
+		<ingredient id="5572" count="300" />
+	</item>
+	<item id="9">
+		<production id="10323" count="1" />
+		<ingredient id="5572" count="300" />
+	</item>
+	<item id="10">
+		<production id="10324" count="1" />
+		<ingredient id="5572" count="300" />
+	</item>
+	<item id="11">
+		<production id="10325" count="1" />
+		<ingredient id="5572" count="300" />
+	</item>
+	<item id="12">
+		<production id="14675" count="1" />
+		<ingredient id="5572" count="500" />
+	</item>
+	<item id="13">
+		<production id="20009" count="1" />
+		<ingredient id="5572" count="500" />
+	</item>
+	<item id="14">
+		<production id="20010" count="1" />
+		<ingredient id="5572" count="500" />
+	</item>
+	<item id="15">
+		<production id="20011" count="1" />
+		<ingredient id="5572" count="500" />
+	</item>
+	<item id="16">
+		<production id="20013" count="1" />
+		<ingredient id="5572" count="500" />
+	</item>
+	<item id="17">
+		<production id="20014" count="1" />
+		<ingredient id="5572" count="500" />
+	</item>
+	<item id="18">
+		<production id="20015" count="1" />
+		<ingredient id="5572" count="500" />
+	</item>
+	<item id="19">
+		<production id="20066" count="1" />
+		<ingredient id="5572" count="500" />
+	</item>
+	<item id="20">
+		<production id="20067" count="1" />
+		<ingredient id="5572" count="500" />
+	</item>
+	<item id="21">
+		<production id="20068" count="1" />
+		<ingredient id="5572" count="500" />
+	</item>
+	<item id="22">
+		<production id="20212" count="1" />
+		<ingredient id="5572" count="800" />
+	</item>
+	<item id="23">
+		<production id="20213" count="1" />
+		<ingredient id="5572" count="800" />
+	</item>
+	<item id="24">
+		<production id="20221" count="1" />
+		<ingredient id="5572" count="800" />
+	</item>
+	<item id="25">
+		<production id="20222" count="1" />
+		<ingredient id="5572" count="800" />
+	</item>
+	<item id="26">
+		<production id="20223" count="1" />
+		<ingredient id="5572" count="800" />
+	</item>
+	<item id="27">
+		<production id="20224" count="1" />
+		<ingredient id="5572" count="800" />
+	</item>
+	<item id="28">
+		<production id="20225" count="1" />
+		<ingredient id="5572" count="800" />
+	</item>
+	<item id="29">
+		<production id="20230" count="1" />
+		<ingredient id="5572" count="800" />
+	</item>
+	<item id="30">
+		<production id="20231" count="1" />
+		<ingredient id="5572" count="800" />
+	</item>
+	<item id="31">
+		<production id="20236" count="1" />
+		<ingredient id="5572" count="800" />
+	</item>
+	<item id="32">
+		<production id="20237" count="1" />
+		<ingredient id="5572" count="800" />
+	</item>
+	<item id="33">
+		<production id="20238" count="1" />
+		<ingredient id="5572" count="800" />
+	</item>
+	<item id="34">
+		<production id="20245" count="1" />
+		<ingredient id="5572" count="800" />
+	</item>
+	<item id="35">
+		<production id="20246" count="1" />
+		<ingredient id="5572" count="800" />
+	</item>
+	<item id="36">
+		<production id="20247" count="1" />
+		<ingredient id="5572" count="800" />
+	</item>
+	<item id="37">
+		<production id="20248" count="1" />
+		<ingredient id="5572" count="800" />
+	</item>
+	<item id="38">
+		<production id="20249" count="1" />
+		<ingredient id="5572" count="800" />
+	</item>
+	<item id="39">
+		<production id="20250" count="1" />
+		<ingredient id="5572" count="800" />
+	</item>
+	<item id="40">
+		<production id="20252" count="1" />
+		<ingredient id="5572" count="800" />
+	</item>
+	<item id="41">
+		<production id="20253" count="1" />
+		<ingredient id="5572" count="800" />
+	</item>
+</list>

@@ -1,0 +1,226 @@
+<?xml version='1.0' encoding='utf-8'?>
+<list>
+	<!-- Set time at what hour event will start, timeToEvent = duration of event in sec. -->
+	<tvt hour="17" min="57" TimeToEvent="300">  
+		<!-- The minimum and maximum number of players to start the opening event -->
+		<Participants min="1" max="20"/>
+		
+		<!-- Minimum and maximum level for participation in the Event -->
+		<Level min="62" max="85" />
+
+		<!-- Time for registration (in seconds) -->
+		<TimeToRegistration val="300" />
+		
+		<!-- Allow Hero weapons and skills to events? -->
+		<AllowHeroSkillAndWeapons val="false"/>
+		
+		<!-- Ban the use of items, list ID through "," default potions-->
+		<RestrictItems val="725,726,727"/>
+		
+		<!-- Disable skill usage in event for -->
+		<RestrictSkills val="485,794,996,5260,1016,1254,701,740,2014,2049,2062,2079,2321,2393,2596,22104,3160,3236,2079,21054,21095,21102,21221,5541,5545,5662,23005,23009,23014,23030,23062,2166,2289,2402,2403,22119,22220,90001,2002,2031,2032,2017,2038,1508,2592,2863,2864,26024,26025,22178,2863,2864,2003,26030"/>
+		
+		<AllowKillBonus val="false"/>
+		<KillReward id="57" count="100000"/>
+		
+		<!-- ID Awards at the end and count -->
+		<Reward id="6673" count="5"/>
+		
+		<!-- Take Items fto register? -->
+		<AllowTakeItems val="false"/>
+		<TakeItems id="57" count="100000"/>
+		
+		<StopAllEffects val="true"/>
+
+		<ListMageMagSupport val="1517,1518,1519,1535,1536,1537,1538"/>
+		<ListMageFaiterSupport val="1499,1500,1501,1502,1503,1504,1517"/>
+		
+		<TeamCoords name="Blue Team"/>
+		<TeamCoords name="Red Team"/>
+		
+		<!-- The time between the start of the fight and teleport / early rounds (in seconds) -->
+		<PauseTime val="10" />
+		
+		<!-- 
+			In total there are 2 types of TVT:
+			(1) The winning team is determined by number of dead characters rivals.
+			In this case, you must use the <ResurrectionTime val="5" /> (time in seconds)
+
+			(2) The winning team is determined by number of rounds won (sleduyuyuschy round starts after
+			as a living will remain only the members of one of the teams.
+			In this case, you must use the <NumberOfRounds val="5" /> number of rounds.
+			!! Also, "the time for periodic event" in this case stands out for each round!!
+
+			Do not use together!
+		-->
+		<ResurrectionTime val="5" />
+	</tvt>
+	
+	<!-- Set time at what hour event will start, timeToEvent = duration of event in sec. -->
+	<tvt hour="10" min="40" TimeToEvent="900">  
+		<!-- The minimum and maximum number of players to start the opening event -->
+		<Participants min="1" max="20"/>
+		
+		<!-- Minimum and maximum level for participation in the Event -->
+		<Level min="62" max="85" />
+
+		<!-- Allow Hero weapons and skills to events? -->
+		<AllowHeroSkillAndWeapons val="false"/>
+		
+		<!-- Ban the use of items, list ID through "," default potions-->
+		<RestrictItems val="725,726,727"/>
+		
+		<!-- Disable skill usage in event for -->
+		<RestrictSkills val="485,794,996,5260,1016,1254,701,740,2014,2049,2062,2079,2321,2393,2596,22104,3160,3236,2079,21054,21095,21102,21221,5541,5545,5662,23005,23009,23014,23030,23062,2166,2289,2402,2403,22119,22220,90001,2002,2031,2032,2017,2038,1508,2592,2863,2864,26024,26025,22178,2863,2864,2003,26030"/>
+		
+		<!-- Time for registration (in seconds) -->
+		<TimeToRegistration val="300" />
+		
+		<AllowKillBonus val="false"/>
+		<KillReward id="57" count="100000"/>
+		
+		<!-- ID Awards at the end and count -->
+		<Reward id="6673" count="5"/>
+		
+		<!-- Take Items fto register? -->
+		<AllowTakeItems val="false"/>
+		<TakeItems id="57" count="100000"/>
+		
+		<StopAllEffects val="true"/>
+
+		<ListMageMagSupport val="1517,1518,1519,1535,1536,1537,1538"/>
+		<ListMageFaiterSupport val="1499,1500,1501,1502,1503,1504,1517"/>
+		
+		<TeamCoords name="Blue Team"/>
+		<TeamCoords name="Red Team"/>
+		
+		<!-- The time between the start of the fight and teleport / early rounds (in seconds) -->
+		<PauseTime val="10" />
+		
+		<!-- 
+			In total there are 2 types of TVT:
+			(1) The winning team is determined by number of dead characters rivals.
+			In this case, you must use the <ResurrectionTime val="5" /> (time in seconds)
+
+			(2) The winning team is determined by number of rounds won (sleduyuyuschy round starts after
+			as a living will remain only the members of one of the teams.
+			In this case, you must use the <NumberOfRounds val="5" /> number of rounds.
+			!! Also, "the time for periodic event" in this case stands out for each round!!
+
+			Do not use together!
+		-->
+		<ResurrectionTime val="5" />
+	</tvt>
+	
+	<!-- Set time at what hour event will start, timeToEvent = duration of event in sec. -->
+	<tvt hour="16" min="20" TimeToEvent="900">  
+		<!-- The minimum and maximum number of players to start the opening event -->
+		<Participants min="1" max="20"/>
+		
+		<!-- Minimum and maximum level for participation in the Event -->
+		<Level min="62" max="85" />
+
+		<!-- Allow Hero weapons and skills to events? -->
+		<AllowHeroSkillAndWeapons val="false"/>
+		
+		<!-- Ban the use of items, list ID through "," default potions-->
+		<RestrictItems val="725,726,727"/>
+		
+		<!-- Disable skill usage in event for -->
+		<RestrictSkills val="485,794,996,5260,1016,1254,701,740,2014,2049,2062,2079,2321,2393,2596,22104,3160,3236,2079,21054,21095,21102,21221,5541,5545,5662,23005,23009,23014,23030,23062,2166,2289,2402,2403,22119,22220,90001,2002,2031,2032,2017,2038,1508,2592,2863,2864,26024,26025,22178,2863,2864,2003,26030"/>
+		
+		<!-- Time for registration (in seconds) -->
+		<TimeToRegistration val="300" />
+		
+		<AllowKillBonus val="false"/>
+		<KillReward id="57" count="100000"/>
+		
+		<!-- ID Awards at the end and count -->
+		<Reward id="6673" count="5"/>
+		
+		<!-- Take Items fto register? -->
+		<AllowTakeItems val="false"/>
+		<TakeItems id="57" count="100000"/>
+		
+		<StopAllEffects val="true"/>
+
+		<ListMageMagSupport val="1517,1518,1519,1535,1536,1537,1538"/>
+		<ListMageFaiterSupport val="1499,1500,1501,1502,1503,1504,1517"/>
+		
+		<TeamCoords name="Blue Team"/>
+		<TeamCoords name="Red Team"/>
+		
+		<!-- The time between the start of the fight and teleport / early rounds (in seconds) -->
+		<PauseTime val="10" />
+		
+		<!-- 
+			In total there are 2 types of TVT:
+			(1) The winning team is determined by number of dead characters rivals.
+			In this case, you must use the <ResurrectionTime val="5" /> (time in seconds)
+
+			(2) The winning team is determined by number of rounds won (sleduyuyuschy round starts after
+			as a living will remain only the members of one of the teams.
+			In this case, you must use the <NumberOfRounds val="5" /> number of rounds.
+			!! Also, "the time for periodic event" in this case stands out for each round!!
+
+			Do not use together!
+		-->
+		<ResurrectionTime val="5" />
+	</tvt>
+	
+	<!-- Set time at what hour event will start, timeToEvent = duration of event in sec. -->
+	<tvt hour="22" min="30" TimeToEvent="900">  
+		<!-- The minimum and maximum number of players to start the opening event -->
+		<Participants min="1" max="20"/>
+		
+		<!-- Minimum and maximum level for participation in the Event -->
+		<Level min="62" max="85" />
+
+		<!-- Allow Hero weapons and skills to events? -->
+		<AllowHeroSkillAndWeapons val="false"/>
+		
+		<!-- Ban the use of items, list ID through "," default potions-->
+		<RestrictItems val="725,726,727"/>
+		
+		<!-- Disable skill usage in event for -->
+		<RestrictSkills val="485,794,996,5260,1016,1254,701,740,2014,2049,2062,2079,2321,2393,2596,22104,3160,3236,2079,21054,21095,21102,21221,5541,5545,5662,23005,23009,23014,23030,23062,2166,2289,2402,2403,22119,22220,90001,2002,2031,2032,2017,2038,1508,2592,2863,2864,26024,26025,22178,2863,2864,2003,26030"/>
+		
+		<!-- Time for registration (in seconds) -->
+		<TimeToRegistration val="300" />
+		
+		<AllowKillBonus val="false"/>
+		<KillReward id="57" count="100000"/>
+		
+		<!-- ID Awards at the end and count -->
+		<Reward id="6673" count="5"/>
+		
+		<!-- Take Items fto register? -->
+		<AllowTakeItems val="false"/>
+		<TakeItems id="57" count="100000"/>
+		
+		<StopAllEffects val="true"/>
+
+		<ListMageMagSupport val="1517,1518,1519,1535,1536,1537,1538"/>
+		<ListMageFaiterSupport val="1499,1500,1501,1502,1503,1504,1517"/>
+		
+		<TeamCoords name="Blue Team"/>
+		<TeamCoords name="Red Team"/>
+		
+		<!-- The time between the start of the fight and teleport / early rounds (in seconds) -->
+		<PauseTime val="10" />
+		
+		<!-- 
+			In total there are 2 types of TVT:
+			(1) The winning team is determined by number of dead characters rivals.
+			In this case, you must use the <ResurrectionTime val="5" /> (time in seconds)
+
+			(2) The winning team is determined by number of rounds won (sleduyuyuschy round starts after
+			as a living will remain only the members of one of the teams.
+			In this case, you must use the <NumberOfRounds val="5" /> number of rounds.
+			!! Also, "the time for periodic event" in this case stands out for each round!!
+
+			Do not use together!
+		-->
+		<ResurrectionTime val="5" />
+	</tvt>
+</list>

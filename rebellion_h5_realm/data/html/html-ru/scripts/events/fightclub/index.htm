@@ -1,0 +1,34 @@
+﻿<html>
+<title>Клуб Борьбы менеджер</title>
+<body>
+	<center>
+		<img src="L2UI_CH3.onscrmsg_pattern01_1" width=295 height=32>
+	</center>
+	Не все могут справиться с дуэлью. Иногда это нуждается только в одной
+	удар меча может уменьшить вашу HP до нуля.
+	<br1> Вы можете принять участие в боях и заработать награду, если
+	вы уверены в своей силе.<br>
+	<center>
+		<font color="8b00ff">Вы можете создать новую боевой<br1>
+			или вы можете открыть список запросах</font><br>
+		<button value="Create a battle"
+			action="bypass -h npc_%objectId%_makebattle" width=180 height=35
+			back="L2UI_CT1.Button_DF" fore="L2UI_CT1.Button_DF" />
+		<br1>
+		<button value="Open a list with requests"
+			action="bypass -h npc_%objectId%_openpage 1" width=180 height=35
+			back="L2UI_CT1.Button_DF" fore="L2UI_CT1.Button_DF" />
+		<br1>
+		<button value="Delete your requests"
+			action="bypass -h npc_%objectId%_delete" width=180 height=35
+			back="L2UI_CT1.Button_DF" fore="L2UI_CT1.Button_DF" />
+		<br1> <br>
+		<button value="Information" action="bypass -h npc_%objectId%_info"
+			width=180 height=20 back="L2UI_CT1.Button_DF"
+			fore="L2UI_CT1.Button_DF" />
+	</center>
+	<center>
+		<img src="L2UI_CH3.onscrmsg_pattern01_2" width=295 height=32>
+	</center>
+</body>
+</html>

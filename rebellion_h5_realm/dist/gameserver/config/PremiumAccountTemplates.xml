@@ -1,0 +1,283 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list enabled="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="PremiumAccountTemplates.xsd">
+
+<!-- QUICK INFO:
+
+	You can set MULTIPLE premium account templates, each premium account template has individual parameters.
+	Only ONE premium account template will be set for an account.
+	
+#######################################################################
+###     EXAMPLE with the all avaiable variables and their types     ###
+#######################################################################
+
+ 	<template id="1">
+ 		<cost id="57" />
+ 		<costWeek amount="100" />
+ 		<costMonth amount="10000" />
+		<setDouble expBonus="1" />
+		<setDouble spBonus="1" />
+		<setDouble dropBonus="1" />
+		<setDouble enchantBonus="1" />
+		<setDouble attrEnchBonus="1" />
+		<setDouble fameBonus="1" />
+		<setDouble karmaDrop="1" />
+		<setBoolean whereisVoiced="false" />
+		<setBoolean playerShiftClick="false" />
+		<setBoolean playerInfinityShotArrows="false" />
+		<setBoolean gmShopOutsidePeace="false" />
+		<setBoolean bufferOutsidePeace="false" />
+		<setBoolean globalChat="false" />
+		<setBoolean warehouseOutsidePeace="false" />
+		<setBoolean careerOutsidePeace="false" />
+		<setBoolean gatekeeperOutsidePeace="false" />
+		<item id="57" dropMultiplier="1"/>
+	</template>
+
+ -->
+ 	<template id="1" name="Unknown" >
+		<setDouble expBonus="1.3" />
+		<setDouble spBonus="1.3" />
+		<setDouble dropBonus="1.2" />
+		<item id="15726" dropMultiplier="1"/> <!--	Sealed Elegia Helmet -->
+		<item id="15727" dropMultiplier="1"/> <!--	Sealed Elegia Leather Helmet -->
+		<item id="15728" dropMultiplier="1"/> <!--	Sealed Elegia Circlet -->
+		<item id="15729" dropMultiplier="1"/> <!--	Sealed Elegia Breastplate -->
+		<item id="15730" dropMultiplier="1"/> <!--	Sealed Elegia Leather Breastplate -->
+		<item id="15731" dropMultiplier="1"/> <!--	Sealed Elegia Tunic -->
+		<item id="15732" dropMultiplier="1"/> <!--	Sealed Elegia Gaiter -->
+		<item id="15733" dropMultiplier="1"/> <!--	Sealed Elegia Leather Legging -->
+		<item id="15734" dropMultiplier="1"/> <!--	Sealed Elegia Stockings -->
+		<item id="15735" dropMultiplier="1"/> <!--	Sealed Elegia Gauntlet -->
+		<item id="15736" dropMultiplier="1"/> <!--	Sealed Elegia Leather Gloves -->
+		<item id="15737" dropMultiplier="1"/> <!--	Sealed Elegia Gloves -->
+		<item id="15738" dropMultiplier="1"/> <!--	Sealed Elegia Boots -->
+		<item id="15739" dropMultiplier="1"/> <!--	Sealed Elegia Leather Boots -->
+		<item id="15740" dropMultiplier="1"/> <!--	Sealed Elegia Shoes -->
+		<item id="15742" dropMultiplier="1"/> <!--	Sealed Elegia Sigil -->
+		<item id="15743" dropMultiplier="1"/> <!--	Sealed Vorpal Helmet -->
+		<item id="15744" dropMultiplier="1"/> <!--	Sealed Vorpal Leather Helmet -->
+		<item id="15745" dropMultiplier="1"/> <!--	Sealed Vorpal Circlet -->
+		<item id="15746" dropMultiplier="1"/> <!--	Sealed Vorpal Breastplate -->
+		<item id="15747" dropMultiplier="1"/> <!--	Sealed Vorpal Leather Breastplate -->
+		<item id="15748" dropMultiplier="1"/> <!--	Sealed Vorpal Tunic -->
+		<item id="15749" dropMultiplier="1"/> <!--	Sealed Vorpal Gaiter -->
+		<item id="15750" dropMultiplier="1"/> <!--	Sealed Vorpal Leather Legging -->
+		<item id="15751" dropMultiplier="1"/> <!--	Sealed Vorpal Stockings -->
+		<item id="15752" dropMultiplier="1"/> <!--	Sealed Vorpal Gauntlet -->
+		<item id="15753" dropMultiplier="1"/> <!--	Sealed Vorpal Leather Gloves -->
+		<item id="15754" dropMultiplier="1"/> <!--	Sealed Vorpal Gloves -->
+		<item id="15755" dropMultiplier="1"/> <!--	Sealed Vorpal Boots -->
+		<item id="15756" dropMultiplier="1"/> <!--	Sealed Vorpal Leather Boots -->
+		<item id="15757" dropMultiplier="1"/> <!--	Sealed Vorpal Shoes -->
+		<item id="15759" dropMultiplier="1"/> <!--	Sealed Vorpal Sigil -->
+		<item id="15760" dropMultiplier="1"/> <!--	Sealed Elegia Ring -->
+		<item id="15761" dropMultiplier="1"/> <!--	Sealed Elegia Earring -->
+		<item id="15762" dropMultiplier="1"/> <!--	Sealed Elegia Necklace -->
+		<item id="15763" dropMultiplier="1"/> <!--	Sealed Vorpal Ring -->
+		<item id="15764" dropMultiplier="1"/> <!--	Sealed Vorpal Earring -->
+		<item id="15765" dropMultiplier="1"/> <!--	Sealed Vorpal Necklace -->
+	</template>
+	
+	<template id="2" name="Silver" >
+		<cost id="13693" />
+ 		<costWeek amount="100" />
+ 		<costMonth amount="400" />
+		<setDouble expBonus="1.3" />
+		<setDouble spBonus="1.3" />
+		<setDouble dropBonus="1.2" />
+		<setDouble attrEnchBonus="1.1" />
+		<setDouble fameBonus="1.15" />
+		<item id="57" dropMultiplier="1.25"/>
+		<item id="15726" dropMultiplier="1"/> <!--	Sealed Elegia Helmet -->
+		<item id="15727" dropMultiplier="1"/> <!--	Sealed Elegia Leather Helmet -->
+		<item id="15728" dropMultiplier="1"/> <!--	Sealed Elegia Circlet -->
+		<item id="15729" dropMultiplier="1"/> <!--	Sealed Elegia Breastplate -->
+		<item id="15730" dropMultiplier="1"/> <!--	Sealed Elegia Leather Breastplate -->
+		<item id="15731" dropMultiplier="1"/> <!--	Sealed Elegia Tunic -->
+		<item id="15732" dropMultiplier="1"/> <!--	Sealed Elegia Gaiter -->
+		<item id="15733" dropMultiplier="1"/> <!--	Sealed Elegia Leather Legging -->
+		<item id="15734" dropMultiplier="1"/> <!--	Sealed Elegia Stockings -->
+		<item id="15735" dropMultiplier="1"/> <!--	Sealed Elegia Gauntlet -->
+		<item id="15736" dropMultiplier="1"/> <!--	Sealed Elegia Leather Gloves -->
+		<item id="15737" dropMultiplier="1"/> <!--	Sealed Elegia Gloves -->
+		<item id="15738" dropMultiplier="1"/> <!--	Sealed Elegia Boots -->
+		<item id="15739" dropMultiplier="1"/> <!--	Sealed Elegia Leather Boots -->
+		<item id="15740" dropMultiplier="1"/> <!--	Sealed Elegia Shoes -->
+		<item id="15742" dropMultiplier="1"/> <!--	Sealed Elegia Sigil -->
+		<item id="15743" dropMultiplier="1"/> <!--	Sealed Vorpal Helmet -->
+		<item id="15744" dropMultiplier="1"/> <!--	Sealed Vorpal Leather Helmet -->
+		<item id="15745" dropMultiplier="1"/> <!--	Sealed Vorpal Circlet -->
+		<item id="15746" dropMultiplier="1"/> <!--	Sealed Vorpal Breastplate -->
+		<item id="15747" dropMultiplier="1"/> <!--	Sealed Vorpal Leather Breastplate -->
+		<item id="15748" dropMultiplier="1"/> <!--	Sealed Vorpal Tunic -->
+		<item id="15749" dropMultiplier="1"/> <!--	Sealed Vorpal Gaiter -->
+		<item id="15750" dropMultiplier="1"/> <!--	Sealed Vorpal Leather Legging -->
+		<item id="15751" dropMultiplier="1"/> <!--	Sealed Vorpal Stockings -->
+		<item id="15752" dropMultiplier="1"/> <!--	Sealed Vorpal Gauntlet -->
+		<item id="15753" dropMultiplier="1"/> <!--	Sealed Vorpal Leather Gloves -->
+		<item id="15754" dropMultiplier="1"/> <!--	Sealed Vorpal Gloves -->
+		<item id="15755" dropMultiplier="1"/> <!--	Sealed Vorpal Boots -->
+		<item id="15756" dropMultiplier="1"/> <!--	Sealed Vorpal Leather Boots -->
+		<item id="15757" dropMultiplier="1"/> <!--	Sealed Vorpal Shoes -->
+		<item id="15759" dropMultiplier="1"/> <!--	Sealed Vorpal Sigil -->
+		<item id="15760" dropMultiplier="1"/> <!--	Sealed Elegia Ring -->
+		<item id="15761" dropMultiplier="1"/> <!--	Sealed Elegia Earring -->
+		<item id="15762" dropMultiplier="1"/> <!--	Sealed Elegia Necklace -->
+		<item id="15763" dropMultiplier="1"/> <!--	Sealed Vorpal Ring -->
+		<item id="15764" dropMultiplier="1"/> <!--	Sealed Vorpal Earring -->
+		<item id="15765" dropMultiplier="1"/> <!--	Sealed Vorpal Necklace -->
+	</template>
+	<template id="3" name="Gold" >
+		<cost id="13693" />
+ 		<costWeek amount="200" />
+ 		<costMonth amount="700" />
+		<setDouble expBonus="1.6" />
+		<setDouble spBonus="1.6" />
+		<setDouble dropBonus="1.3" />
+		<setDouble attrEnchBonus="1.2" />
+		<setDouble fameBonus="1.30" />
+		<item id="57" dropMultiplier="1.5"/>
+		<item id="15726" dropMultiplier="1"/> <!--	Sealed Elegia Helmet -->
+		<item id="15727" dropMultiplier="1"/> <!--	Sealed Elegia Leather Helmet -->
+		<item id="15728" dropMultiplier="1"/> <!--	Sealed Elegia Circlet -->
+		<item id="15729" dropMultiplier="1"/> <!--	Sealed Elegia Breastplate -->
+		<item id="15730" dropMultiplier="1"/> <!--	Sealed Elegia Leather Breastplate -->
+		<item id="15731" dropMultiplier="1"/> <!--	Sealed Elegia Tunic -->
+		<item id="15732" dropMultiplier="1"/> <!--	Sealed Elegia Gaiter -->
+		<item id="15733" dropMultiplier="1"/> <!--	Sealed Elegia Leather Legging -->
+		<item id="15734" dropMultiplier="1"/> <!--	Sealed Elegia Stockings -->
+		<item id="15735" dropMultiplier="1"/> <!--	Sealed Elegia Gauntlet -->
+		<item id="15736" dropMultiplier="1"/> <!--	Sealed Elegia Leather Gloves -->
+		<item id="15737" dropMultiplier="1"/> <!--	Sealed Elegia Gloves -->
+		<item id="15738" dropMultiplier="1"/> <!--	Sealed Elegia Boots -->
+		<item id="15739" dropMultiplier="1"/> <!--	Sealed Elegia Leather Boots -->
+		<item id="15740" dropMultiplier="1"/> <!--	Sealed Elegia Shoes -->
+		<item id="15742" dropMultiplier="1"/> <!--	Sealed Elegia Sigil -->
+		<item id="15743" dropMultiplier="1"/> <!--	Sealed Vorpal Helmet -->
+		<item id="15744" dropMultiplier="1"/> <!--	Sealed Vorpal Leather Helmet -->
+		<item id="15745" dropMultiplier="1"/> <!--	Sealed Vorpal Circlet -->
+		<item id="15746" dropMultiplier="1"/> <!--	Sealed Vorpal Breastplate -->
+		<item id="15747" dropMultiplier="1"/> <!--	Sealed Vorpal Leather Breastplate -->
+		<item id="15748" dropMultiplier="1"/> <!--	Sealed Vorpal Tunic -->
+		<item id="15749" dropMultiplier="1"/> <!--	Sealed Vorpal Gaiter -->
+		<item id="15750" dropMultiplier="1"/> <!--	Sealed Vorpal Leather Legging -->
+		<item id="15751" dropMultiplier="1"/> <!--	Sealed Vorpal Stockings -->
+		<item id="15752" dropMultiplier="1"/> <!--	Sealed Vorpal Gauntlet -->
+		<item id="15753" dropMultiplier="1"/> <!--	Sealed Vorpal Leather Gloves -->
+		<item id="15754" dropMultiplier="1"/> <!--	Sealed Vorpal Gloves -->
+		<item id="15755" dropMultiplier="1"/> <!--	Sealed Vorpal Boots -->
+		<item id="15756" dropMultiplier="1"/> <!--	Sealed Vorpal Leather Boots -->
+		<item id="15757" dropMultiplier="1"/> <!--	Sealed Vorpal Shoes -->
+		<item id="15759" dropMultiplier="1"/> <!--	Sealed Vorpal Sigil -->
+		<item id="15760" dropMultiplier="1"/> <!--	Sealed Elegia Ring -->
+		<item id="15761" dropMultiplier="1"/> <!--	Sealed Elegia Earring -->
+		<item id="15762" dropMultiplier="1"/> <!--	Sealed Elegia Necklace -->
+		<item id="15763" dropMultiplier="1"/> <!--	Sealed Vorpal Ring -->
+		<item id="15764" dropMultiplier="1"/> <!--	Sealed Vorpal Earring -->
+		<item id="15765" dropMultiplier="1"/> <!--	Sealed Vorpal Necklace -->
+	</template>
+	<template id="4" name="Platinum">
+		<cost id="13693" />
+ 		<costWeek amount="300" />
+ 		<costMonth amount="1000" />
+		<setDouble expBonus="2" />
+		<setDouble spBonus="2" />
+		<setDouble dropBonus="1.4" />
+		<setDouble attrEnchBonus="1.3" />
+		<setDouble fameBonus="1.45" />
+		<item id="57" dropMultiplier="1.75"/>
+		<item id="15726" dropMultiplier="1"/> <!--	Sealed Elegia Helmet -->
+		<item id="15727" dropMultiplier="1"/> <!--	Sealed Elegia Leather Helmet -->
+		<item id="15728" dropMultiplier="1"/> <!--	Sealed Elegia Circlet -->
+		<item id="15729" dropMultiplier="1"/> <!--	Sealed Elegia Breastplate -->
+		<item id="15730" dropMultiplier="1"/> <!--	Sealed Elegia Leather Breastplate -->
+		<item id="15731" dropMultiplier="1"/> <!--	Sealed Elegia Tunic -->
+		<item id="15732" dropMultiplier="1"/> <!--	Sealed Elegia Gaiter -->
+		<item id="15733" dropMultiplier="1"/> <!--	Sealed Elegia Leather Legging -->
+		<item id="15734" dropMultiplier="1"/> <!--	Sealed Elegia Stockings -->
+		<item id="15735" dropMultiplier="1"/> <!--	Sealed Elegia Gauntlet -->
+		<item id="15736" dropMultiplier="1"/> <!--	Sealed Elegia Leather Gloves -->
+		<item id="15737" dropMultiplier="1"/> <!--	Sealed Elegia Gloves -->
+		<item id="15738" dropMultiplier="1"/> <!--	Sealed Elegia Boots -->
+		<item id="15739" dropMultiplier="1"/> <!--	Sealed Elegia Leather Boots -->
+		<item id="15740" dropMultiplier="1"/> <!--	Sealed Elegia Shoes -->
+		<item id="15742" dropMultiplier="1"/> <!--	Sealed Elegia Sigil -->
+		<item id="15743" dropMultiplier="1"/> <!--	Sealed Vorpal Helmet -->
+		<item id="15744" dropMultiplier="1"/> <!--	Sealed Vorpal Leather Helmet -->
+		<item id="15745" dropMultiplier="1"/> <!--	Sealed Vorpal Circlet -->
+		<item id="15746" dropMultiplier="1"/> <!--	Sealed Vorpal Breastplate -->
+		<item id="15747" dropMultiplier="1"/> <!--	Sealed Vorpal Leather Breastplate -->
+		<item id="15748" dropMultiplier="1"/> <!--	Sealed Vorpal Tunic -->
+		<item id="15749" dropMultiplier="1"/> <!--	Sealed Vorpal Gaiter -->
+		<item id="15750" dropMultiplier="1"/> <!--	Sealed Vorpal Leather Legging -->
+		<item id="15751" dropMultiplier="1"/> <!--	Sealed Vorpal Stockings -->
+		<item id="15752" dropMultiplier="1"/> <!--	Sealed Vorpal Gauntlet -->
+		<item id="15753" dropMultiplier="1"/> <!--	Sealed Vorpal Leather Gloves -->
+		<item id="15754" dropMultiplier="1"/> <!--	Sealed Vorpal Gloves -->
+		<item id="15755" dropMultiplier="1"/> <!--	Sealed Vorpal Boots -->
+		<item id="15756" dropMultiplier="1"/> <!--	Sealed Vorpal Leather Boots -->
+		<item id="15757" dropMultiplier="1"/> <!--	Sealed Vorpal Shoes -->
+		<item id="15759" dropMultiplier="1"/> <!--	Sealed Vorpal Sigil -->
+		<item id="15760" dropMultiplier="1"/> <!--	Sealed Elegia Ring -->
+		<item id="15761" dropMultiplier="1"/> <!--	Sealed Elegia Earring -->
+		<item id="15762" dropMultiplier="1"/> <!--	Sealed Elegia Necklace -->
+		<item id="15763" dropMultiplier="1"/> <!--	Sealed Vorpal Ring -->
+		<item id="15764" dropMultiplier="1"/> <!--	Sealed Vorpal Earring -->
+		<item id="15765" dropMultiplier="1"/> <!--	Sealed Vorpal Necklace -->
+	</template>
+
+	<!-- Custom template for world -->
+	<template id="5" name="Custom Template for World" >
+		<setDouble expBonus="2" />
+		<setDouble spBonus="2" />
+		<setDouble dropBonus="1.4" />
+		<item id="57" dropMultiplier="1.5"/>
+		<setBoolean gmShopOutsidePeace="true" />
+		<item id="15726" dropMultiplier="1"/> <!--	Sealed Elegia Helmet -->
+		<item id="15727" dropMultiplier="1"/> <!--	Sealed Elegia Leather Helmet -->
+		<item id="15728" dropMultiplier="1"/> <!--	Sealed Elegia Circlet -->
+		<item id="15729" dropMultiplier="1"/> <!--	Sealed Elegia Breastplate -->
+		<item id="15730" dropMultiplier="1"/> <!--	Sealed Elegia Leather Breastplate -->
+		<item id="15731" dropMultiplier="1"/> <!--	Sealed Elegia Tunic -->
+		<item id="15732" dropMultiplier="1"/> <!--	Sealed Elegia Gaiter -->
+		<item id="15733" dropMultiplier="1"/> <!--	Sealed Elegia Leather Legging -->
+		<item id="15734" dropMultiplier="1"/> <!--	Sealed Elegia Stockings -->
+		<item id="15735" dropMultiplier="1"/> <!--	Sealed Elegia Gauntlet -->
+		<item id="15736" dropMultiplier="1"/> <!--	Sealed Elegia Leather Gloves -->
+		<item id="15737" dropMultiplier="1"/> <!--	Sealed Elegia Gloves -->
+		<item id="15738" dropMultiplier="1"/> <!--	Sealed Elegia Boots -->
+		<item id="15739" dropMultiplier="1"/> <!--	Sealed Elegia Leather Boots -->
+		<item id="15740" dropMultiplier="1"/> <!--	Sealed Elegia Shoes -->
+		<item id="15742" dropMultiplier="1"/> <!--	Sealed Elegia Sigil -->
+		<item id="15743" dropMultiplier="1"/> <!--	Sealed Vorpal Helmet -->
+		<item id="15744" dropMultiplier="1"/> <!--	Sealed Vorpal Leather Helmet -->
+		<item id="15745" dropMultiplier="1"/> <!--	Sealed Vorpal Circlet -->
+		<item id="15746" dropMultiplier="1"/> <!--	Sealed Vorpal Breastplate -->
+		<item id="15747" dropMultiplier="1"/> <!--	Sealed Vorpal Leather Breastplate -->
+		<item id="15748" dropMultiplier="1"/> <!--	Sealed Vorpal Tunic -->
+		<item id="15749" dropMultiplier="1"/> <!--	Sealed Vorpal Gaiter -->
+		<item id="15750" dropMultiplier="1"/> <!--	Sealed Vorpal Leather Legging -->
+		<item id="15751" dropMultiplier="1"/> <!--	Sealed Vorpal Stockings -->
+		<item id="15752" dropMultiplier="1"/> <!--	Sealed Vorpal Gauntlet -->
+		<item id="15753" dropMultiplier="1"/> <!--	Sealed Vorpal Leather Gloves -->
+		<item id="15754" dropMultiplier="1"/> <!--	Sealed Vorpal Gloves -->
+		<item id="15755" dropMultiplier="1"/> <!--	Sealed Vorpal Boots -->
+		<item id="15756" dropMultiplier="1"/> <!--	Sealed Vorpal Leather Boots -->
+		<item id="15757" dropMultiplier="1"/> <!--	Sealed Vorpal Shoes -->
+		<item id="15759" dropMultiplier="1"/> <!--	Sealed Vorpal Sigil -->
+		<item id="15760" dropMultiplier="1"/> <!--	Sealed Elegia Ring -->
+		<item id="15761" dropMultiplier="1"/> <!--	Sealed Elegia Earring -->
+		<item id="15762" dropMultiplier="1"/> <!--	Sealed Elegia Necklace -->
+		<item id="15763" dropMultiplier="1"/> <!--	Sealed Vorpal Ring -->
+		<item id="15764" dropMultiplier="1"/> <!--	Sealed Vorpal Earring -->
+		<item id="15765" dropMultiplier="1"/> <!--	Sealed Vorpal Necklace -->
+	</template>
+	
+	<!-- Custom template for new accounts -->
+	<template id="10" name="New Account Bonus" >
+		<setDouble expBonus="2" />
+		<setDouble spBonus="2" />
+		<setDouble dropBonus="1.4" />
+		<item id="57" dropMultiplier="1.75"/>
+	</template>
+</list>

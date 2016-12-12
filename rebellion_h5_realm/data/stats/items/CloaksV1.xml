@@ -1,0 +1,275 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE list SYSTEM "item.dtd">
+
+<list>
+	<armor id="24051" name="Saint Cloak">
+		<set name="icon" value="icon.dion_panel_i00" />
+		<set name="crystal_type" value="S84" />
+		<set name="price" value="220"/>
+		<set name="tradeable" value="false"/>
+		<set name="sellable" value="false"/>
+		<set name="enchantable" value="false"/>
+		<set name="dropable" value="false"/>
+		<set name="type" value="NONE"/>
+		<set name="weight" value="220"/>
+		<equip>
+			<slot id="BACK"/>
+		</equip>
+		<attributes>
+			<attribute element="fire" value="10"/>
+			<attribute element="water" value="10"/>
+			<attribute element="wind" value="10"/>
+			<attribute element="earth" value="10"/>
+			<attribute element="holy" value="10"/>
+			<attribute element="unholy" value="10"/>
+		</attributes>
+		<for>
+			<add stat="pDef" order="0x10" value="20"/>
+			<enchant stat="pDef" order="0x0C" value="0"/>
+			<enchant stat="maxHp" order="0x80" value="0"/>
+		</for>
+	</armor>
+	<armor id="24052" name="Pagan Cloak">
+		<set name="icon" value="icon.dion_panel_i00" />
+		<set name="crystal_type" value="S84" />
+		<set name="price" value="220"/>
+		<set name="tradeable" value="false"/>
+		<set name="sellable" value="false"/>
+		<set name="enchantable" value="false"/>
+		<set name="dropable" value="false"/>
+		<set name="type" value="NONE"/>
+		<set name="weight" value="220"/>
+		<equip>
+			<slot id="BACK"/>
+		</equip>
+		<attributes>
+			<attribute element="fire" value="10"/>
+			<attribute element="water" value="10"/>
+			<attribute element="wind" value="10"/>
+			<attribute element="earth" value="10"/>
+			<attribute element="holy" value="10"/>
+			<attribute element="unholy" value="10"/>
+		</attributes>
+		<for>
+			<add stat="pDef" order="0x10" value="20"/>
+			<enchant stat="pDef" order="0x0C" value="0"/>
+			<enchant stat="maxHp" order="0x80" value="0"/>
+		</for>
+	</armor>
+	<armor id="24053" name="Heroic Cloak">
+		<set name="icon" value="icon.dion_panel_i00" />
+		<set name="crystal_type" value="S84" />
+		<set name="price" value="220"/>
+		<set name="tradeable" value="false"/>
+		<set name="sellable" value="false"/>
+		<set name="enchantable" value="false"/>
+		<set name="dropable" value="false"/>
+		<set name="type" value="NONE"/>
+		<set name="weight" value="220"/>
+		<equip>
+			<slot id="BACK"/>
+		</equip>
+		<attributes>
+			<attribute element="fire" value="10"/>
+			<attribute element="water" value="10"/>
+			<attribute element="wind" value="10"/>
+			<attribute element="earth" value="10"/>
+			<attribute element="holy" value="10"/>
+			<attribute element="unholy" value="10"/>
+		</attributes>
+		<for>
+			<add stat="pDef" order="0x10" value="20"/>
+			<enchant stat="pDef" order="0x0C" value="0"/>
+			<enchant stat="maxHp" order="0x80" value="0"/>
+		</for>
+	</armor>
+	<armor id="24054" name="Dragon Fire Cloak">
+		<set name="icon" value="icon.dion_panel_i00" />
+		<set name="crystal_type" value="S84" />
+		<set name="price" value="220"/>
+		<set name="tradeable" value="false"/>
+		<set name="sellable" value="false"/>
+		<set name="enchantable" value="false"/>
+		<set name="dropable" value="false"/>
+		<set name="type" value="NONE"/>
+		<set name="weight" value="220"/>
+		<equip>
+			<slot id="BACK"/>
+		</equip>
+		<attributes>
+			<attribute element="fire" value="10"/>
+			<attribute element="water" value="10"/>
+			<attribute element="wind" value="10"/>
+			<attribute element="earth" value="10"/>
+			<attribute element="holy" value="10"/>
+			<attribute element="unholy" value="10"/>
+		</attributes>
+		<for>
+			<add stat="pDef" order="0x10" value="20"/>
+			<enchant stat="pDef" order="0x0C" value="0"/>
+			<enchant stat="maxHp" order="0x80" value="0"/>
+		</for>
+	</armor>
+	<armor id="24055" name="Aqua Cloak">
+		<set name="icon" value="icon.dion_panel_i00" />
+		<set name="crystal_type" value="S84" />
+		<set name="price" value="220"/>
+		<set name="tradeable" value="false"/>
+		<set name="sellable" value="false"/>
+		<set name="enchantable" value="false"/>
+		<set name="dropable" value="false"/>
+		<set name="type" value="NONE"/>
+		<set name="weight" value="220"/>
+		<equip>
+			<slot id="BACK"/>
+		</equip>
+		<attributes>
+			<attribute element="fire" value="10"/>
+			<attribute element="water" value="10"/>
+			<attribute element="wind" value="10"/>
+			<attribute element="earth" value="10"/>
+			<attribute element="holy" value="10"/>
+			<attribute element="unholy" value="10"/>
+		</attributes>
+		<for>
+			<add stat="pDef" order="0x10" value="20"/>
+			<enchant stat="pDef" order="0x0C" value="0"/>
+			<enchant stat="maxHp" order="0x80" value="0"/>
+		</for>
+	</armor>
+	<armor id="24056" name="Evil Cloak">
+		<set name="icon" value="icon.dion_panel_i00" />
+		<set name="crystal_type" value="S84" />
+		<set name="price" value="220"/>
+		<set name="tradeable" value="false"/>
+		<set name="sellable" value="false"/>
+		<set name="enchantable" value="false"/>
+		<set name="dropable" value="false"/>
+		<set name="type" value="NONE"/>
+		<set name="weight" value="220"/>
+		<equip>
+			<slot id="BACK"/>
+		</equip>
+		<attributes>
+			<attribute element="fire" value="10"/>
+			<attribute element="water" value="10"/>
+			<attribute element="wind" value="10"/>
+			<attribute element="earth" value="10"/>
+			<attribute element="holy" value="10"/>
+			<attribute element="unholy" value="10"/>
+		</attributes>
+		<for>
+			<add stat="pDef" order="0x10" value="20"/>
+			<enchant stat="pDef" order="0x0C" value="0"/>
+			<enchant stat="maxHp" order="0x80" value="0"/>
+		</for>
+	</armor>
+	<armor id="24057" name="Red Dragon Fire Cloak">
+		<set name="icon" value="icon.dion_panel_i00" />
+		<set name="crystal_type" value="S84" />
+		<set name="price" value="220"/>
+		<set name="tradeable" value="false"/>
+		<set name="sellable" value="false"/>
+		<set name="enchantable" value="false"/>
+		<set name="dropable" value="false"/>
+		<set name="type" value="NONE"/>
+		<set name="weight" value="220"/>
+		<equip>
+			<slot id="BACK"/>
+		</equip>
+		<attributes>
+			<attribute element="fire" value="10"/>
+			<attribute element="water" value="10"/>
+			<attribute element="wind" value="10"/>
+			<attribute element="earth" value="10"/>
+			<attribute element="holy" value="10"/>
+			<attribute element="unholy" value="10"/>
+		</attributes>
+		<for>
+			<add stat="pDef" order="0x10" value="20"/>
+			<enchant stat="pDef" order="0x0C" value="0"/>
+			<enchant stat="maxHp" order="0x80" value="0"/>
+		</for>
+	</armor>
+	<armor id="24058" name="Reptile Cloak">
+		<set name="icon" value="icon.dion_panel_i00" />
+		<set name="crystal_type" value="S84" />
+		<set name="price" value="220"/>
+		<set name="tradeable" value="false"/>
+		<set name="sellable" value="false"/>
+		<set name="enchantable" value="false"/>
+		<set name="dropable" value="false"/>
+		<set name="type" value="NONE"/>
+		<set name="weight" value="220"/>
+		<equip>
+			<slot id="BACK"/>
+		</equip>
+		<attributes>
+			<attribute element="fire" value="10"/>
+			<attribute element="water" value="10"/>
+			<attribute element="wind" value="10"/>
+			<attribute element="earth" value="10"/>
+			<attribute element="holy" value="10"/>
+			<attribute element="unholy" value="10"/>
+		</attributes>
+		<for>
+			<add stat="pDef" order="0x10" value="20"/>
+			<enchant stat="pDef" order="0x0C" value="0"/>
+			<enchant stat="maxHp" order="0x80" value="0"/>
+		</for>
+	</armor>
+	<armor id="24059" name="Silverstorm Cloak">
+		<set name="icon" value="icon.dion_panel_i00" />
+		<set name="crystal_type" value="S84" />
+		<set name="price" value="220"/>
+		<set name="tradeable" value="false"/>
+		<set name="sellable" value="false"/>
+		<set name="enchantable" value="false"/>
+		<set name="dropable" value="false"/>
+		<set name="type" value="NONE"/>
+		<set name="weight" value="220"/>
+		<equip>
+			<slot id="BACK"/>
+		</equip>
+		<attributes>
+			<attribute element="fire" value="10"/>
+			<attribute element="water" value="10"/>
+			<attribute element="wind" value="10"/>
+			<attribute element="earth" value="10"/>
+			<attribute element="holy" value="10"/>
+			<attribute element="unholy" value="10"/>
+		</attributes>
+		<for>
+			<add stat="pDef" order="0x10" value="20"/>
+			<enchant stat="pDef" order="0x0C" value="0"/>
+			<enchant stat="maxHp" order="0x80" value="0"/>
+		</for>
+	</armor>
+	<armor id="24060" name="Crystal Cloak">
+		<set name="icon" value="icon.dion_panel_i00" />
+		<set name="crystal_type" value="S84" />
+		<set name="price" value="220"/>
+		<set name="tradeable" value="false"/>
+		<set name="sellable" value="false"/>
+		<set name="enchantable" value="false"/>
+		<set name="dropable" value="false"/>
+		<set name="type" value="NONE"/>
+		<set name="weight" value="220"/>
+		<equip>
+			<slot id="BACK"/>
+		</equip>
+		<attributes>
+			<attribute element="fire" value="10"/>
+			<attribute element="water" value="10"/>
+			<attribute element="wind" value="10"/>
+			<attribute element="earth" value="10"/>
+			<attribute element="holy" value="10"/>
+			<attribute element="unholy" value="10"/>
+		</attributes>
+		<for>
+			<add stat="pDef" order="0x10" value="20"/>
+			<enchant stat="pDef" order="0x0C" value="0"/>
+			<enchant stat="maxHp" order="0x80" value="0"/>
+		</for>
+	</armor>
+</list>

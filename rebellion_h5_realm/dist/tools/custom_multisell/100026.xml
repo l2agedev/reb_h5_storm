@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='utf-8'?>
+
+<!-- Majestic Jewels -->
+<!-- © 2010 by mathuza -->
+
+<list>
+<config showall="true" notax="true" keepenchanted="true" />
+  <!-- Majestic Necklace -->
+  <item id="1">
+    <ingredient id="57" count="52"/>
+    <production id="924" count="1"/>
+  </item>
+
+  <!-- Majestic Earring -->
+  <item id="2">
+    <ingredient id="57" count="40"/>
+    <production id="862" count="1"/>
+  </item>
+
+  <!-- Majestic Ring -->
+  <item id="3">
+    <ingredient id="57" count="26"/>
+    <production id="893" count="1"/>
+  </item>
+
+  <!-- Phoenix Necklace -->
+  <item id="4">
+    <ingredient id="57" count="35"/>
+    <production id="933" count="1"/>
+  </item>
+
+  <!-- Phoenix Earring -->
+  <item id="5">
+    <ingredient id="57" count="27"/>
+    <production id="871" count="1"/>
+  </item>
+
+  <!-- Phoenix Ring -->
+  <item id="6">
+    <ingredient id="57" count="18"/>
+    <production id="902" count="1"/>
+  </item>
+  
+</list>

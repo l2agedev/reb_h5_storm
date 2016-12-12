@@ -1,0 +1,38 @@
+<!ELEMENT list (enchant_scroll | default)*>
+<!ELEMENT default (#PCDATA)>
+<!ATTLIST default
+	chance CDATA #REQUIRED
+	magic_chance CDATA #IMPLIED
+	max_enchant CDATA #REQUIRED
+	succ_eff_ench_min CDATA #IMPLIED
+	succ_eff_ench_max CDATA #IMPLIED
+	show_fail_effect CDATA #IMPLIED
+	safe_level CDATA #IMPLIED
+	safe_level_full_armor CDATA #IMPLIED>
+<!ELEMENT enchant_scroll (item_list|grade_list|chance_per_level)*>
+<!ATTLIST enchant_scroll
+	id CDATA #REQUIRED
+	chance CDATA #IMPLIED
+	magic_chance CDATA #IMPLIED
+	succ_eff_ench_min CDATA #IMPLIED
+	succ_eff_ench_max CDATA #IMPLIED
+	show_fail_effect CDATA #IMPLIED
+	on_fail CDATA #REQUIRED
+	max_enchant CDATA #IMPLIED
+	type CDATA #IMPLIED
+	grade CDATA #IMPLIED
+	safe_level CDATA #IMPLIED
+	safe_level_full_armor CDATA #IMPLIED>
+<!ELEMENT grade_list (grade)*>
+<!ELEMENT item_list (item)*>
+<!ELEMENT item (#PCDATA)>
+<!ATTLIST item
+	id CDATA #REQUIRED>
+<!ELEMENT grade (#PCDATA)>
+<!ATTLIST grade
+	id CDATA #REQUIRED>
+<!ELEMENT chance_per_level (chance)*>
+<!ELEMENT chance (#PCDATA)>
+<!ATTLIST chance
+	level CDATA #REQUIRED
+	chance CDATA #REQUIRED>

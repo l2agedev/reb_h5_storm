@@ -1,0 +1,225 @@
+<?xml version='1.0' encoding='utf-8'?>
+
+<!-- H5 weapons -->
+<!-- © 2011 by 007Florin -->
+
+<list>
+<config showall="true" notax="true" keepenchanted="true" />
+  <!-- Hellblade -->
+  <item id="1">
+  	<ingredient id="57" count="5"/>
+    <production id="21919" count="1"/>
+  </item>
+
+  <!-- Hellblade - Haste -->
+  <item id="2">
+  	<ingredient id="57" count="5"/>
+    <production id="21920" count="1"/>
+  </item>
+
+  <!-- Hellblade - Health -->
+  <item id="3">
+  	<ingredient id="57" count="5"/>
+    <production id="21921" count="1"/>
+  </item>
+
+  <!-- Hellblade - Focus -->
+  <item id="4">
+  	<ingredient id="57" count="5"/>
+    <production id="21922" count="1"/>
+  </item>
+
+  <!-- Hellblade - Lightning -->
+  <item id="5">
+  	<ingredient id="57" count="5"/>
+    <production id="21927" count="1"/>
+  </item>
+
+  <!-- Hellblade - Lightning - Haste -->
+  <item id="6">
+  	<ingredient id="57" count="5"/>
+    <production id="21928" count="1"/>
+  </item>
+
+  <!-- Hellblade - Lightning - Health -->
+  <item id="7">
+  	<ingredient id="57" count="5"/>
+    <production id="21929" count="1"/>
+  </item>
+
+  <!-- Hellblade - Lightning - Focus -->
+  <item id="8">
+  	<ingredient id="57" count="5"/>
+    <production id="21930" count="1"/>
+  </item>
+
+  <!-- Butcher Blades -->
+  <item id="9">
+  	<ingredient id="57" count="5"/>
+    <production id="21935" count="1"/>
+  </item>
+
+  <!-- Butcher Blades - Confusion --> 
+  <item id="10">
+  	<ingredient id="57" count="5"/>
+    <production id="21937" count="1"/>
+  </item>
+
+  <!-- Claw of Destruction -->
+  <item id="11">
+  	<ingredient id="57" count="5"/>
+    <production id="21939" count="1"/>
+  </item>
+
+  <!-- Claw of Destruction - HP Drain -->
+  <item id="12">
+  	<ingredient id="57" count="5"/>
+    <production id="21940" count="1"/>
+  </item>
+
+  <!-- Claw of Destruction - Health -->
+  <item id="13">
+  	<ingredient id="57" count="5"/>
+    <production id="21941" count="1"/>
+  </item>
+
+  <!-- Claw of Destruction - HP Regeneration -->
+  <item id="14">
+  	<ingredient id="57" count="5"/>
+    <production id="21942" count="1"/>
+  </item>
+
+  <!-- Claw of Destruction - Landslide -->
+  <item id="15">
+  	<ingredient id="57" count="5"/>
+    <production id="21947" count="1"/>
+  </item>
+
+  <!-- Claw of Destruction - Landslide - HP Drain -->
+  <item id="16">
+  	<ingredient id="57" count="5"/>
+    <production id="21948" count="1"/>
+  </item>
+
+  <!-- Claw of Destruction - Landslide - Health -->
+  <item id="17">
+  	<ingredient id="57" count="5"/>
+    <production id="21949" count="1"/>
+  </item>
+
+  <!-- Claw of Destruction - Landslide - HP Regeneration -->
+  <item id="18">
+  	<ingredient id="57" count="5"/>
+    <production id="21950" count="1"/>
+  </item>
+
+  <!-- Blades of Delusion -->
+  <item id="19">
+  	<ingredient id="57" count="5"/>
+    <production id="21955" count="1"/>
+  </item>
+
+  <!-- Blades of Delusion - Earth -->
+  <item id="20">
+  	<ingredient id="57" count="5"/>
+    <production id="21957" count="1"/>
+  </item>
+
+  <!-- Blood Brother -->
+  <item id="21">
+  	<ingredient id="57" count="5"/>
+    <production id="21959" count="1"/>
+  </item>
+
+  <!-- Blood Brother - Focus -->
+  <item id="22">
+  	<ingredient id="57" count="5"/>
+    <production id="21960" count="1"/>
+  </item>
+
+  <!-- Blood Brother - Health -->
+  <item id="23">
+  	<ingredient id="57" count="5"/>
+    <production id="21961" count="1"/>
+  </item>
+
+  <!-- Blood Brother - Light -->
+  <item id="24">
+  	<ingredient id="57" count="5"/>
+    <production id="21962" count="1"/>
+  </item>
+
+  <!-- Blood Brother - Great Gale -->
+  <item id="25">
+  	<ingredient id="57" count="5"/>
+    <production id="21966" count="1"/>
+  </item>
+
+  <!-- Blood Brother - Great Gale - Focus -->
+  <item id="26">
+  	<ingredient id="57" count="5"/>
+    <production id="21967" count="1"/>
+  </item>
+
+  <!-- Blood Brother - Great Gale - Health -->
+  <item id="27">
+  	<ingredient id="57" count="5"/>
+    <production id="21968" count="1"/>
+  </item>
+
+  <!-- Blood Brother - Great Gale - Light -->
+  <item id="28">
+  	<ingredient id="57" count="5"/>
+    <production id="21969" count="1"/>
+  </item>
+
+  <!-- Mardil's Fan -->
+  <item id="29">
+  	<ingredient id="57" count="5"/>
+    <production id="21973" count="1"/>
+  </item>
+
+  <!-- Mardil's Fan - M. Atk. -->
+  <item id="30">
+  	<ingredient id="57" count="5"/>
+    <production id="21974" count="1"/>
+  </item>
+
+  <!-- Mardil's Fan - Magic Silence -->
+  <item id="31">
+  	<ingredient id="57" count="5"/>
+    <production id="21975" count="1"/>
+  </item>
+
+  <!-- Mardil's Fan - Acumen -->
+  <item id="32">
+  	<ingredient id="57" count="5"/>
+    <production id="21976" count="1"/>
+  </item>
+
+  <!-- Mardil's Fan - Holy Spirit -->
+  <item id="33">
+  	<ingredient id="57" count="5"/>
+    <production id="21977" count="1"/>
+  </item>
+
+  <!-- Mardil's Fan - Holy Spirit - M. Atk. -->
+  <item id="35">
+  	<ingredient id="57" count="5"/>
+    <production id="21978" count="1"/>
+  </item>
+
+  <!-- Mardil's Fan - Holy Spirit - Magic Silence -->
+  <item id="36">
+  	<ingredient id="57" count="5"/>
+    <production id="21979" count="1"/>
+  </item>
+
+  <!-- Mardil's Fan - Holy Spirit - Acumen -->
+  <item id="37">
+  	<ingredient id="57" count="5"/>
+    <production id="21980" count="1"/>
+  </item>
+
+
+</list>

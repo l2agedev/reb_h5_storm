@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<list>
+	<config showall="true" notax="true" keepenchanted="true" />
+
+	<!-- Dynasty Earrings -->
+	<item>
+		<ingredient id="9143" count="2" />
+		<production id="9455" count="1" />
+	</item>
+
+	<!-- Dynasty Ring -->
+	<item>
+		<ingredient id="9143" count="1" />
+		<production id="9457" count="1" />
+	</item>
+
+	<!-- Dynasty Necklace -->
+	<item>
+		<ingredient id="9143" count="4" />
+		<production id="9456" count="1" />
+	</item>
+
+	<!-- Dynasty Set -->
+	<item>
+		<ingredient id="9143" count="10" />
+		<production id="9456" count="1" />
+		<production id="9457" count="2" />
+		<production id="9455" count="2" />
+	</item>
+</list>

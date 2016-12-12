@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<list>
+	<config showall="true" notax="true" keepenchanted="true" />
+	<item>
+		<production id="119" count="1" /> <!-- Necklace of Seal -->
+		<ingredient id="57" count="434400" />
+	</item>
+	<item>
+		<production id="852" count="1" /> <!-- Moonstone Earring -->
+		<ingredient id="57" count="119300" />
+	</item>
+	<item>
+		<production id="853" count="1" /> <!-- Earring of Protection -->
+		<ingredient id="57" count="150500" />
+	</item>
+	<item>
+		<production id="854" count="1" /> <!-- Earring of Seal -->
+		<ingredient id="57" count="226600" />
+	</item>
+	<item>
+		<production id="855" count="1" /> <!-- Nassen's Earring -->
+		<ingredient id="57" count="325800" />
+	</item>
+	<item>
+		<production id="857" count="1" /> <!-- Blessed Earring -->
+		<ingredient id="57" count="325800" />
+	</item>
+	<item>
+		<production id="883" count="1" /> <!-- Aquastone Ring -->
+		<ingredient id="57" count="79500" />
+	</item>
+	<item>
+		<production id="884" count="1" /> <!-- Ring of Protection -->
+		<ingredient id="57" count="100300" />
+	</item>
+	<item>
+		<production id="885" count="1" /> <!-- Ring of Ages -->
+		<ingredient id="57" count="151100" />
+	</item>
+	<item>
+		<production id="886" count="1" /> <!-- Ring of Seal -->
+		<ingredient id="57" count="217200" />
+	</item>
+	<item>
+		<production id="888" count="1" /> <!-- Blessed Ring -->
+		<ingredient id="57" count="217200" />
+	</item>
+	<item>
+		<production id="915" count="1" /> <!-- Aquastone Necklace -->
+		<ingredient id="57" count="159000" />
+	</item>
+	<item>
+		<production id="916" count="1" /> <!-- Necklace of Protection -->
+		<ingredient id="57" count="200600" />
+	</item>
+	<item>
+		<production id="917" count="1" /> <!-- Necklace of Mermaid -->
+		<ingredient id="57" count="302100" />
+	</item>
+	<item>
+		<production id="919" count="1" /> <!-- Blessed Necklace -->
+		<ingredient id="57" count="434400" />
+	</item>
+</list>

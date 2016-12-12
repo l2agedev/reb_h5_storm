@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<list>
+	<config showall="true" notax="true" keepenchanted="true" />
+	<!-- Ancient Adena -->
+	<item>
+		<production id="5575" count="3" />
+		<ingredient id="6360" count="1" />
+	</item>
+
+	<!-- Ancient Adena -->
+	<item>
+		<production id="5575" count="5" />
+		<ingredient id="6361" count="1" />
+	</item>
+
+	<!-- Ancient Adena -->
+	<item>
+		<production id="5575" count="10" />
+		<ingredient id="6362" count="1" />
+	</item>
+
+	<!-- Ancient Adena -->
+	<item>
+		<production id="5575" count="300" />
+		<ingredient id="6360" count="100" />
+	</item>
+
+	<!-- Ancient Adena -->
+	<item>
+		<production id="5575" count="500" />
+		<ingredient id="6361" count="100" />
+	</item>
+
+	<!-- Ancient Adena -->
+	<item>
+		<production id="5575" count="1000" />
+		<ingredient id="6362" count="100" />
+	</item>
+</list>

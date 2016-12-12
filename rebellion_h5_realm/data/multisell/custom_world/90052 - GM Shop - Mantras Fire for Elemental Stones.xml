@@ -1,0 +1,77 @@
+<?xml version='1.0' encoding='utf-8'?>
+<list>
+	<config showall="true" notax="true" keepenchanted="false" />
+
+	<!-- Fire Stone -->
+	<item>
+		<ingredient id="5574" count="3" />
+		<production id="9546" count="1" />
+	</item>
+
+	<!-- Water Stone -->
+	<item>
+		<ingredient id="5574" count="3" />
+		<production id="9547" count="1" />
+	</item>
+
+	<!-- Earth Stone -->
+	<item>
+		<ingredient id="5574" count="3" />
+		<production id="9548" count="1" />
+	</item>
+
+	<!-- Wind Stone -->
+	<item>
+		<ingredient id="5574" count="3" />
+		<production id="9549" count="1" />
+	</item>
+
+	<!-- Dark Stone -->
+	<item>
+		<ingredient id="5574" count="3" />
+		<production id="9550" count="1" />
+	</item>
+
+	<!-- Divine Stone -->
+	<item>
+		<ingredient id="5574" count="3" />
+		<production id="9551" count="1" />
+	</item>
+
+	<!-- Fire Crystal -->
+	<item>
+		<ingredient id="5574" count="16" />
+		<production id="9552" count="1" />
+	</item>
+
+	<!-- Water Crystal -->
+	<item>
+		<ingredient id="5574" count="16" />
+		<production id="9553" count="1" />
+	</item>
+
+	<!-- Earth Crystal -->
+	<item>
+		<ingredient id="5574" count="16" />
+		<production id="9554" count="1" />
+	</item>
+
+	<!-- Wind Crystal -->
+	<item>
+		<ingredient id="5574" count="16" />
+		<production id="9555" count="1" />
+	</item>
+
+	<!-- Dark Crystal -->
+	<item>
+		<ingredient id="5574" count="16" />
+		<production id="9556" count="1" />
+	</item>
+
+	<!-- Divine Crystal -->
+	<item>
+		<ingredient id="5574" count="16" />
+		<production id="9557" count="1" />
+	</item>
+
+</list>

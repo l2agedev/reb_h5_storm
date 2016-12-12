@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='utf-8'?>
+<list xmlns:ns0="http://www.w3.org/2001/XMLSchema-instance"
+	ns0:noNamespaceSchemaLocation="../../xsd/multisell.xsd">
+
+	<!-- Pet's -->
+	<!-- Twilight Strider -->
+	<item id="1">
+		<production id="4424" count="1" />
+		<ingredient id="57" count="1000000000" />
+	</item>
+
+	<!-- Star Strider -->
+	<item id="2">
+		<production id="4423" count="1" />
+		<ingredient id="57" count="1000000000" />
+	</item>
+
+	<!-- Wind Strider -->
+	<item id="3">
+		<production id="4422" count="1" />
+		<ingredient id="57" count="1000000000" />
+	</item>
+
+	<!-- IBaby Bufallo -->
+	<item id="4">
+		<production id="10311" count="1" />
+		<ingredient id="57" count="100000000" />
+	</item>
+
+	<!-- IBaby Cougar -->
+	<item id="5">
+		<production id="10312" count="1" />
+		<ingredient id="57" count="100000000" />
+	</item>
+
+	<!-- IBaby Kookaburra -->
+	<item id="6">
+		<production id="10313" count="1" />
+		<ingredient id="57" count="100000000" />
+	</item>
+
+</list>

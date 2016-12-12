@@ -1,0 +1,231 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE list SYSTEM "zone.dtd">
+<list>
+    <zone name="[FreePvP Quuen Ant]" type="dummy">
+    	<set name="enabled" val="true"/>
+    	<set name="isPvPFlagZone" val="true"/>
+    	<polygon>
+			<coords loc="-10099 189249 -7000 1000 "/>
+			<coords loc="-29312 189330 -7000 1000 "/>
+			<coords loc="-26977 172120 -7000 1000 "/>
+			<coords loc="-12328 171613 -7000 1000 "/>
+		</polygon>
+    </zone>
+    <zone name="[FreePvP Zaken]" type="dummy">
+    	<set name="enabled" val="false"/>
+    	<set name="isPvPFlagZone" val="true"/>
+    	<polygon>
+			<coords loc="36341 200420 -12000 12000 "/>
+			<coords loc="36724 224570 -12000 12000 "/>
+			<coords loc="61851 223807 -12000 12000 "/>
+			<coords loc="60797 199021 -12000 12000 "/>
+		</polygon>
+    </zone>
+    <zone name="[FreePvP Zaken 2]" type="dummy">
+		<set name="enabled" val="false"/>
+    	<set name="isPvPFlagZone" val="true"/>
+		<polygon>
+			<coords loc="50797 213515 -4815 -315"/>
+			<coords loc="57617 213510 -4815 -315"/>
+			<coords loc="57669 221683 -4815 -315"/>
+			<coords loc="50773 221632 -4815 -315"/>
+		</polygon>
+	</zone>
+    <zone name="[FreePvP Baium]" type="dummy">
+    	<set name="enabled" val="true"/>
+    	<set name="isPvPFlagZone" val="true"/>
+		<!-- TOI 13 -->
+		<polygon>
+			<coords loc="117031 15714 8970 9590 "/>
+            <coords loc="117028 16431 8970 9590 "/>
+            <coords loc="116704 17296 8970 9590 "/>
+            <coords loc="116080 17984 8970 9590 "/>
+			<coords loc="115232 18384 8970 9590 "/>
+			<coords loc="114304 18432 8970 9590 "/>
+			<coords loc="113413 18133 8970 9590 "/>
+			<coords loc="112720 17488 8970 9590 "/>
+			<coords loc="112304 16640 8970 9590 "/>
+			<coords loc="112261 15713 8970 9590 "/>
+			<coords loc="112582 14822 8970 9590 "/>
+			<coords loc="113216 14128 8970 9590 "/>
+			<coords loc="114048 13728 8970 9590 "/>
+			<coords loc="115005 13680 8970 9590 "/>
+			<coords loc="115872 13984 8970 9590 "/>
+			<coords loc="116560 14624 8970 9590 "/>
+			<coords loc="116976 15472 8970 9590 "/>
+		</polygon>
+		<!-- TOI 14 -->
+		<polygon>
+			<coords loc="112224 16272 8970 10100 "/>
+			<coords loc="112237 15896 8970 10100 "/>
+			<coords loc="112064 15808 8970 10100 "/>
+			<coords loc="112078 15588 8970 10100 "/>
+			<coords loc="112528 14528 8970 10100 "/>
+			<coords loc="113136 13936 8970 10100 "/>
+			<coords loc="114496 13520 8970 10100 "/>
+			<coords loc="114480 13680 8970 10100 "/>
+			<coords loc="114848 13696 8970 10100 "/>
+			<coords loc="114848 13216 8970 10100 "/>
+			<coords loc="114037 13206 8970 10100 "/>
+			<coords loc="113088 13584 8970 10100 "/>
+			<coords loc="112752 13872 8970 10100 "/>
+			<coords loc="112384 14240 8970 10100 "/>
+			<coords loc="112176 14480 8970 10100 "/>
+			<coords loc="111776 15456 8970 10100 "/>
+		</polygon>
+		<!-- Lair of Baium -->
+		<polygon>
+			<coords loc="112987 14312 10040 12480 "/>
+			<coords loc="112507 14623 10040 12480 "/>
+			<coords loc="112129 15551 10040 12480 "/>
+			<coords loc="111890 16230 10040 12480 "/>
+			<coords loc="112067 16965 10040 12480 "/>
+			<coords loc="112496 17482 10040 12480 "/>
+			<coords loc="112863 18120 10040 12480 "/>
+			<coords loc="113453 18561 10040 12480 "/>
+			<coords loc="114135 18590 10040 12480 "/>
+			<coords loc="114815 18811 10040 12480 "/>
+			<coords loc="115549 18648 10040 12480 "/>
+			<coords loc="116074 18205 10040 12480 "/>
+			<coords loc="116776 17506 10040 12480 "/>
+			<coords loc="117255 17013 10040 12480 "/>
+			<coords loc="117371 16298 10040 12480 "/>
+			<coords loc="117405 15925 10040 12480 "/>
+			<coords loc="117236 15199 10040 12480 "/>
+			<coords loc="117158 14895 10040 12480 "/>
+			<coords loc="116784 14260 10040 12480 "/>
+			<coords loc="116096 13902 10040 12480 "/>
+			<coords loc="115159 13507 10040 12480 "/>
+			<coords loc="114135 13518 10040 12480 "/>
+			<coords loc="113203 13898 10040 12480 "/>
+		</polygon>
+    </zone>
+    <zone name="[FreePvP Antharas]" type="dummy">
+    	<set name="enabled" val="true"/>
+    	<set name="isPvPFlagZone" val="true"/>
+    	<!-- Antharas bridge to Antharas Hearth -->
+        <polygon>
+            <coords loc="154594 121726 -3900 -3700 "/>
+            <coords loc="154800 121680 -3900 -3700 "/>
+            <coords loc="155120 121312 -3900 -3700 "/>
+            <coords loc="154800 120624 -3900 -3700 "/>
+			<coords loc="154390 120609 -3900 -3700 "/>
+			<coords loc="154114 120784 -3900 -3700 "/>
+			<coords loc="153408 120912 -3900 -3700 "/>
+			<coords loc="154720 119104 -3900 -3700 "/>
+			<coords loc="154740 118652 -3900 -3700 "/>
+			<coords loc="154368 118224 -3900 -3700 "/>
+			<coords loc="153812 118248 -3900 -3700 "/>
+			<coords loc="153536 118400 -3900 -3700 "/>
+			<coords loc="153335 118736 -3900 -3700 "/>
+			<coords loc="152582 118779 -3900 -3700 "/>
+			<coords loc="152000 118720 -3900 -3700 "/>
+			<coords loc="151742 118913 -3900 -3700 "/>
+			<coords loc="151632 119408 -3900 -3700 "/>
+			<coords loc="151581 120497 -3900 -3700 "/>
+			<coords loc="151456 121152 -3900 -3700 "/>
+			<coords loc="151974 122014 -3900 -3700 "/>
+			<coords loc="152644 122253 -3900 -3700 "/>
+			<coords loc="154064 122080 -3900 -3700 "/>
+       </polygon>
+       <!-- Antharas Lair -->
+       <rectangle>
+			<coords loc="173439 110176 -8220 -4870 "/>
+			<coords loc="187346 119469 -8220 -4870 "/>
+		</rectangle>
+    </zone>
+    <zone name="[FreePvP Valakas]" type="dummy">
+    	<set name="enabled" val="true"/>
+    	<set name="isPvPFlagZone" val="true"/>
+    	<!-- Klein Zone -->
+		<polygon>
+            <coords loc="182096 -117456 -3500 -1500 "/>
+            <coords loc="181568 -116832 -3500 -1500 "/>
+            <coords loc="181440 -115920 -3500 -1500 "/>
+            <coords loc="181616 -115184 -3500 -1500 "/>
+			<coords loc="181840 -114944 -3500 -1500 "/>
+			<coords loc="182256 -114832 -3500 -1500 "/>
+			<coords loc="182854 -114692 -3500 -1500 "/>
+			<coords loc="183686 -114628 -3500 -1500 "/>
+			<coords loc="184720 -115152 -3500 -1500 "/>
+			<coords loc="185616 -117600 -3500 -1500 "/>
+			<coords loc="183792 -118064 -3500 -1500 "/>
+			<coords loc="182474 -117898 -3500 -1500 "/>
+        </polygon>
+        <!-- Lair Of Valakas -->
+        <rectangle>
+			<coords loc="199755 -124724 -1640 9880 "/>
+			<coords loc="224677 -103211 -1640 9880 "/>
+		</rectangle>
+		 <!-- Valakas Hearth to Klein -->
+		<polygon>
+			<coords loc="188400 -116032 -1700 -600 "/>
+			<coords loc="188416 -113504 -1700 -600 "/>
+			<coords loc="189696 -113648 -1700 -600 "/>
+			<coords loc="191700 -116746 -1700 -600 "/>
+			<coords loc="191024 -115664 -1700 -600 "/>
+			<coords loc="192000 -112528 -1700 -600 "/>
+			<coords loc="188946 -111049 -1700 -600 "/>
+			<coords loc="188384 -109773 -1700 -600 "/>
+			<coords loc="188176 -105264 -1700 -600 "/>
+			<coords loc="189197 -103958 -1700 -600 "/>
+			<coords loc="190672 -103925 -1700 -600 "/>
+			<coords loc="192000 -105280 -1700 -600 "/>
+			<coords loc="192176 -106320 -1700 -600 "/>
+			<coords loc="191594 -108132 -1700 -600 "/>
+			<coords loc="193056 -108192 -1700 -600 "/>
+			<coords loc="194516 -113533 -1700 -600 "/>
+			<coords loc="192697 -115820 -1700 -600 "/>
+			<coords loc="193104 -116784 -1700 -600 "/>
+			<coords loc="192703 -117904 -1700 -600 "/>
+			<coords loc="190256 -117792 -1700 -600 "/>
+			<coords loc="186062 -116873 -1700 -600 "/>
+			<coords loc="185008 -1168592 -1700 -600 "/>
+			<coords loc="184360 -116205 -1700 -600 "/>
+		</polygon>
+    </zone>
+    <zone name="[FreePvP Frintezza]" type="dummy">
+    	<set name="enabled" val="true"/>
+    	<set name="isPvPFlagZone" val="false"/>
+    	<!-- IT Teleport -->
+    	<polygon>
+            <coords loc="188425 -74462 -3000 -2300 "/>
+            <coords loc="188530 -75326 -3000 -2300 "/>
+            <coords loc="186480 -76384 -3000 -2300 "/>
+            <coords loc="185792 -75376 -3000 -2300 "/>
+			<coords loc="188255 -74049 -3000 -2300 "/>
+        </polygon>
+		<polygon>
+			<coords loc="185792 -75376 -2800 -2600 "/>
+			<coords loc="184992 -75440 -2800 -2600 "/>
+			<coords loc="184688 -75792 -2800 -2600 "/>
+			<coords loc="183488 -78368 -2800 -2600 "/>
+			<coords loc="183507 -79001 -2800 -2600 "/>
+			<coords loc="184944 -78976 -2800 -2600 "/>
+			<coords loc="185040 -78864 -2800 -2600 "/>
+			<coords loc="185006 -77162 -2800 -2600 "/>
+			<coords loc="185119 -76843 -2800 -2600 "/>
+			<coords loc="185824 -75824 -2800 -2600 "/>
+		</polygon>
+		<polygon>
+			<coords loc="183658 -78826 -2800 -2600 "/>
+			<coords loc="183036 -79384 -2800 -2600 "/>
+			<coords loc="182112 -80320 -2800 -2600 "/>
+			<coords loc="180768 -80352 -2800 -2600 "/>
+			<coords loc="179760 -79344 -2800 -2600 "/>
+			<coords loc="179761 -78027 -2800 -2600 "/>
+			<coords loc="180736 -77024 -2800 -2600 "/>
+			<coords loc="182096 -77040 -2800 -2600 "/>
+			<coords loc="183040 -77952 -2800 -2600 "/>
+			<coords loc="183682 -78519 -2800 -2600 "/>
+		</polygon>
+		<polygon>
+			<coords loc="181744 -80704 -2800 -2600 "/>
+			<coords loc="181744 -81168 -2800 -2600 "/>
+			<coords loc="181648 -81296 -2800 -2600 "/>
+			<coords loc="181104 -81296 -2800 -2600 "/>
+			<coords loc="180940 -80286 -2800 -2600 "/>
+			<coords loc="181678 -80291 -2800 -2600 "/>
+		</polygon>
+    </zone>
+</list>

@@ -1,0 +1,461 @@
+<?xml version='1.0' encoding='utf-8'?>
+<list>
+	<!-- 
+	999-face, hair ,hair color.
+	0-chest 
+	1-legs 
+	2-gloves 
+	3-boots 
+	4-accessory 
+	5-weapons
+	6-shields
+	7-cloaks
+	-->
+	
+ 	<set slot="999" itemid="80001" costid="57" price="1000" /> <!-- Face -->
+	<set slot="999" itemid="80002" costid="57" price="1000" /> <!-- Hair Style -->
+	<set slot="999" itemid="80003" costid="57" price="1000" /> <!-- Hair Color -->
+	
+	<!-- Chest -->
+	<!-- Upper D Grade -->
+    <set slot="0" itemid="58" costid="57" price="1000" />
+	<set slot="0" itemid="347" costid="57" price="1000" />
+	<set slot="0" itemid="348" costid="57" price="1000" />
+	<set slot="0" itemid="349" costid="57" price="1000" />
+	<set slot="0" itemid="350" costid="57" price="1000" />
+	<set slot="0" itemid="351" costid="57" price="1000" />
+	<set slot="0" itemid="352" costid="57" price="1000" />
+	<set slot="0" itemid="353" costid="57" price="1000" />
+	<set slot="0" itemid="391" costid="57" price="1000" />
+	<set slot="0" itemid="392" costid="57" price="1000" />
+	<set slot="0" itemid="393" costid="57" price="1000" />
+	<set slot="0" itemid="394" costid="57" price="1000" />
+	<set slot="0" itemid="395" costid="57" price="1000" />
+	<set slot="0" itemid="432" costid="57" price="1000" />
+	<set slot="0" itemid="433" costid="57" price="1000" />
+	<set slot="0" itemid="434" costid="57" price="1000" />
+	<set slot="0" itemid="435" costid="57" price="1000" />
+	<set slot="0" itemid="436" costid="57" price="1000" />
+	<set slot="0" itemid="437" costid="57" price="1000" />
+	<set slot="0" itemid="396" costid="57" price="1000" />
+	<set slot="0" itemid="438" costid="57" price="1000" />
+	<set slot="0" itemid="7851" costid="57" price="1000" />
+	<set slot="0" itemid="7854" costid="57" price="1000" />
+	<set slot="0" itemid="7857" costid="57" price="1000" />
+	
+	<!-- Upper C Grade -->
+	<set slot="0" itemid="354" costid="57" price="1000" />
+	<set slot="0" itemid="355" costid="57" price="1000" />
+	<set slot="0" itemid="397" costid="57" price="1000" />
+	<set slot="0" itemid="398" costid="57" price="1000" />
+	<set slot="0" itemid="399" costid="57" price="1000" />
+	<set slot="0" itemid="400" costid="57" price="1000" />
+	<set slot="0" itemid="439" costid="57" price="1000" />
+	<set slot="0" itemid="441" costid="57" price="1000" />
+	<set slot="0" itemid="442" costid="57" price="1000" />
+	<set slot="0" itemid="60" costid="57" price="1000" />
+	<set slot="0" itemid="356" costid="57" price="1000" />
+	<set slot="0" itemid="401" costid="57" price="1000" />
+	<set slot="0" itemid="440" costid="57" price="1000" />
+
+	<!-- Upper B -->
+	<set slot="0" itemid="357" costid="57" price="1000" />
+	<set slot="0" itemid="358" costid="57" price="1000" />
+	<set slot="0" itemid="2376" costid="57" price="1000" />
+	<set slot="0" itemid="2384" costid="57" price="1000" />
+	<set slot="0" itemid="2397" costid="57" price="1000" />
+	<set slot="0" itemid="2398" costid="57" price="1000" />
+	<set slot="0" itemid="2399" costid="57" price="1000" />
+	<set slot="0" itemid="2381" costid="57" price="1000" />
+	<set slot="0" itemid="2390" costid="57" price="1000" />
+	<set slot="0" itemid="2391" costid="57" price="1000" />
+	<set slot="0" itemid="2392" costid="57" price="1000" />
+	<set slot="0" itemid="2406" costid="57" price="1000" />
+	<set slot="0" itemid="359" costid="57" price="1000" />
+	
+	<!-- Upper A -->
+	<set slot="0" itemid="365" costid="57" price="1000" />
+	<set slot="0" itemid="2385" costid="57" price="1000" />
+	<set slot="0" itemid="2400" costid="57" price="1000" />
+	<set slot="0" itemid="374" costid="57" price="1000" />
+	<set slot="0" itemid="2382" costid="57" price="1000" />
+	<set slot="0" itemid="2383" costid="57" price="1000" />
+	<set slot="0" itemid="2393" costid="57" price="1000" />
+	<set slot="0" itemid="2394" costid="57" price="1000" />
+	<set slot="0" itemid="2395" costid="57" price="1000" />
+	<set slot="0" itemid="2407" costid="57" price="1000" />
+	<set slot="0" itemid="2408" costid="57" price="1000" />
+	<set slot="0" itemid="2409" costid="57" price="1000" />
+	
+	<!-- Upper S -->
+	<set slot="0" itemid="6379" costid="57" price="1000" />
+	<set slot="0" itemid="6383" costid="57" price="1000" />
+	<set slot="0" itemid="6373" costid="57" price="1000" />
+	
+	<!-- Upper S-80 -->
+	<set slot="0" itemid="9416" costid="57" price="1000" />
+	<set slot="0" itemid="9417" costid="57" price="1000" />
+	<set slot="0" itemid="9418" costid="57" price="1000" />
+	<set slot="0" itemid="9419" costid="57" price="1000" />
+	<set slot="0" itemid="9420" costid="57" price="1000" />
+	<set slot="0" itemid="9425" costid="57" price="1000" />
+	<set slot="0" itemid="9426" costid="57" price="1000" />
+	<set slot="0" itemid="9427" costid="57" price="1000" />
+	<set slot="0" itemid="9432" costid="57" price="1000" />
+	<set slot="0" itemid="9433" costid="57" price="1000" />
+	<set slot="0" itemid="9434" costid="57" price="1000" />
+	<set slot="0" itemid="9435" costid="57" price="1000" />
+	<set slot="0" itemid="9436" costid="57" price="1000" />
+	
+	<!-- Upper S-84 -->
+	<set slot="0" itemid="13432" costid="57" price="1000" />
+	<set slot="0" itemid="13433" costid="57" price="1000" />
+	<set slot="0" itemid="13434" costid="57" price="1000" />
+	<set slot="0" itemid="13435" costid="57" price="1000" />
+	<set slot="0" itemid="13436" costid="57" price="1000" />
+	<set slot="0" itemid="13437" costid="57" price="1000" />
+	
+	<!-- Leggings -->
+	<!-- Legs D -->
+	<set slot="1" itemid="59" costid="57" price="1000" />
+	<set slot="1" itemid="376" costid="57" price="1000" />
+	<set slot="1" itemid="377" costid="57" price="1000" />
+	<set slot="1" itemid="378" costid="57" price="1000" />
+	<set slot="1" itemid="379" costid="57" price="1000" />
+	<set slot="1" itemid="380" costid="57" price="1000" />
+	<set slot="1" itemid="414" costid="57" price="1000" />
+	<set slot="1" itemid="415" costid="57" price="1000" />
+	<set slot="1" itemid="416" costid="57" price="1000" />
+	<set slot="1" itemid="417" costid="57" price="1000" />
+	<set slot="1" itemid="465" costid="57" price="1000" />
+	<set slot="1" itemid="466" costid="57" price="1000" />
+	<set slot="1" itemid="467" costid="57" price="1000" />
+	<set slot="1" itemid="468" costid="57" price="1000" />
+	<set slot="1" itemid="469" costid="57" price="1000" />
+	<set slot="1" itemid="470" costid="57" price="1000" />
+	<set slot="1" itemid="2377" costid="57" price="1000" />
+	<set slot="1" itemid="2378" costid="57" price="1000" />
+	<set slot="1" itemid="2401" costid="57" price="1000" />
+	
+	<!-- Legs C -->
+	<set slot="1" itemid="381" costid="57" price="1000" />
+	<set slot="1" itemid="382" costid="57" price="1000" />
+	<set slot="1" itemid="418" costid="57" price="1000" />
+	<set slot="1" itemid="419" costid="57" price="1000" />
+	<set slot="1" itemid="420" costid="57" price="1000" />
+	<set slot="1" itemid="471" costid="57" price="1000" />
+	<set slot="1" itemid="472" costid="57" price="1000" />
+	<set slot="1" itemid="473" costid="57" price="1000" />
+	<set slot="1" itemid="2387" costid="57" price="1000" />
+	
+	
+	<!-- Legs B -->
+	<set slot="1" itemid="383" costid="57" price="1000" />
+	<set slot="1" itemid="384" costid="57" price="1000" />
+	<set slot="1" itemid="2379" costid="57" price="1000" />
+	<set slot="1" itemid="2380" costid="57" price="1000" />
+	<set slot="1" itemid="2388" costid="57" price="1000" />
+	<set slot="1" itemid="2402" costid="57" price="1000" />
+	<set slot="1" itemid="2403" costid="57" price="1000" />
+	<set slot="1" itemid="2404" costid="57" price="1000" />
+	
+	<!-- Legs A -->
+	<set slot="1" itemid="388" costid="57" price="1000" />
+	<set slot="1" itemid="2389" costid="57" price="1000" />
+	<set slot="1" itemid="2405" costid="57" price="1000" />
+	
+	<!-- Legs S -->
+	<set slot="1" itemid="6374" costid="57" price="1000" />
+	<set slot="1" itemid="9428" costid="57" price="1000" />
+	<set slot="1" itemid="9437" costid="57" price="1000" />
+	
+	<!-- Legs S-84 -->
+	<set slot="1" itemid="13438" costid="57" price="1000" />
+	<set slot="1" itemid="13441" costid="57" price="1000" />
+	<set slot="1" itemid="13444" costid="57" price="1000" />
+	<set slot="1" itemid="13448" costid="57" price="1000" />
+	<set slot="1" itemid="13451" costid="57" price="1000" />
+	<set slot="1" itemid="13454" costid="57" price="1000" />
+	
+
+	<!-- Gloves -->
+	<!-- Gloves D -->
+	<set slot="2" itemid="61" costid="57" price="1000" />
+	<set slot="2" itemid="63" costid="57" price="1000" />
+	<set slot="2" itemid="604" costid="57" price="1000" />
+	<set slot="2" itemid="605" costid="57" price="1000" />
+	<set slot="2" itemid="606" costid="57" price="1000" />
+	<set slot="2" itemid="607" costid="57" price="1000" />
+	<set slot="2" itemid="2446" costid="57" price="1000" />
+	<set slot="2" itemid="2447" costid="57" price="1000" />
+	<set slot="2" itemid="2448" costid="57" price="1000" />
+	<set slot="2" itemid="2449" costid="57" price="1000" />
+	<set slot="2" itemid="2450" costid="57" price="1000" />
+	<set slot="2" itemid="2451" costid="57" price="1000" />
+	<set slot="2" itemid="7852" costid="57" price="1000" />
+	<set slot="2" itemid="7855" costid="57" price="1000" />
+	<set slot="2" itemid="7858" costid="57" price="1000" />
+	
+	<!-- Gloves C -->
+	<set slot="2" itemid="608" costid="57" price="1000" />
+	<set slot="2" itemid="609" costid="57" price="1000" />
+	<set slot="2" itemid="1120" costid="57" price="1000" />
+	<set slot="2" itemid="2452" costid="57" price="1000" />
+	<set slot="2" itemid="2453" costid="57" price="1000" />
+	<set slot="2" itemid="2454" costid="57" price="1000" />
+	<set slot="2" itemid="2455" costid="57" price="1000" />
+	<set slot="2" itemid="2456" costid="57" price="1000" />
+	<set slot="2" itemid="2458" costid="57" price="1000" />
+	<set slot="2" itemid="2459" costid="57" price="1000" />
+	<set slot="2" itemid="2460" costid="57" price="1000" />
+	<set slot="2" itemid="2461" costid="57" price="1000" />
+	<set slot="2" itemid="2462" costid="57" price="1000" />
+	<set slot="2" itemid="2463" costid="57" price="1000" />
+	<set slot="2" itemid="2468" costid="57" price="1000" />
+	
+	<!-- Gloves B -->
+	<set slot="2" itemid="11356" costid="57" price="1000" />
+	<set slot="2" itemid="11357" costid="57" price="1000" />
+	<set slot="2" itemid="11358" costid="57" price="1000" />
+	<set slot="2" itemid="11365" costid="57" price="1000" />
+	<set slot="2" itemid="11366" costid="57" price="1000" />
+	<set slot="2" itemid="11367" costid="57" price="1000" />
+	<set slot="2" itemid="11379" costid="57" price="1000" />
+	<set slot="2" itemid="11380" costid="57" price="1000" />
+	<set slot="2" itemid="11381" costid="57" price="1000" />
+	<set slot="2" itemid="11399" costid="57" price="1000" />
+	<set slot="2" itemid="11400" costid="57" price="1000" />
+	<set slot="2" itemid="11401" costid="57" price="1000" />
+	
+	<!-- Gloves A -->
+	<set slot="2" itemid="5765" costid="57" price="1000" />
+	<set slot="2" itemid="5766" costid="57" price="1000" />
+	<set slot="2" itemid="5767" costid="57" price="1000" />
+	<set slot="2" itemid="5768" costid="57" price="1000" />
+	<set slot="2" itemid="5769" costid="57" price="1000" />
+	<set slot="2" itemid="5770" costid="57" price="1000" />
+	<set slot="2" itemid="5771" costid="57" price="1000" />
+	<set slot="2" itemid="5772" costid="57" price="1000" />
+	<set slot="2" itemid="5773" costid="57" price="1000" />
+	<set slot="2" itemid="5774" costid="57" price="1000" />
+	<set slot="2" itemid="5775" costid="57" price="1000" />
+	<set slot="2" itemid="5776" costid="57" price="1000" />
+	<set slot="2" itemid="7862" costid="57" price="1000" />
+	<set slot="2" itemid="7865" costid="57" price="1000" />
+	<set slot="2" itemid="7868" costid="57" price="1000" />
+	
+	<!-- Gloves  S -->
+	<set slot="2" itemid="6375" costid="57" price="1000" />
+	<set slot="2" itemid="6380" costid="57" price="1000" />
+	<set slot="2" itemid="6384" costid="57" price="1000" />
+	<set slot="2" itemid="9423" costid="57" price="1000" />
+	<set slot="2" itemid="9430" costid="57" price="1000" />
+	<set slot="2" itemid="9439" costid="57" price="1000" />
+	<set slot="2" itemid="11487" costid="57" price="1000" />
+	
+	<!-- Gloves  S84 -->
+	<set slot="2" itemid="13439" costid="57" price="1000" />
+	<set slot="2" itemid="13442" costid="57" price="1000" />
+	<set slot="2" itemid="13445" costid="57" price="1000" />
+	<set slot="2" itemid="13449" costid="57" price="1000" />
+	<set slot="2" itemid="13452" costid="57" price="1000" />
+	<set slot="2" itemid="13455" costid="57" price="1000" />
+
+	<!-- Boots -->
+	<!-- Boots D -->
+	<set slot="3" itemid="7853" costid="57" price="1000" />
+	<set slot="3" itemid="7856" costid="57" price="1000" />
+	<set slot="3" itemid="7859" costid="57" price="1000" />
+	<set slot="3" itemid="14995" costid="57" price="1000" />
+	<set slot="3" itemid="15019" costid="57" price="1000" />
+	<set slot="3" itemid="15024" costid="57" price="1000" />
+	<set slot="3" itemid="15109" costid="57" price="1000" />
+	<set slot="3" itemid="15133" costid="57" price="1000" />
+	<set slot="3" itemid="15138" costid="57" price="1000" />
+	
+	<!-- Boots C -->
+	<set slot="3" itemid="603" costid="57" price="1000" />
+	<set slot="3" itemid="1127" costid="57" price="1000" />
+	<set slot="3" itemid="1128" costid="57" price="1000" />
+	<set slot="3" itemid="14991" costid="57" price="1000" />
+	<set slot="3" itemid="15010" costid="57" price="1000" />
+	<set slot="3" itemid="15014" costid="57" price="1000" />
+	
+	<!-- Boots B-->
+	<set slot="3" itemid="556" costid="57" price="1000" />
+	<set slot="3" itemid="564" costid="57" price="1000" />
+	<set slot="3" itemid="11370" costid="57" price="1000" />
+	<set slot="3" itemid="11371" costid="57" price="1000" />
+	<set slot="3" itemid="11372" costid="57" price="1000" />
+	<set slot="3" itemid="11382" costid="57" price="1000" />
+	<set slot="3" itemid="11383" costid="57" price="1000" />
+	<set slot="3" itemid="11384" costid="57" price="1000" />
+	<set slot="3" itemid="11396" costid="57" price="1000" />
+	<set slot="3" itemid="11397" costid="57" price="1000" />
+	<set slot="3" itemid="11398" costid="57" price="1000" />
+	
+	<!-- Boots A-->
+	<set slot="3" itemid="5777" costid="57" price="1000" />
+	<set slot="3" itemid="5778" costid="57" price="1000" />
+	<set slot="3" itemid="5779" costid="57" price="1000" />
+	<set slot="3" itemid="5780" costid="57" price="1000" />
+	<set slot="3" itemid="5781" costid="57" price="1000" />
+	<set slot="3" itemid="5782" costid="57" price="1000" />
+	<set slot="3" itemid="5783" costid="57" price="1000" />
+	<set slot="3" itemid="5784" costid="57" price="1000" />
+	<set slot="3" itemid="5785" costid="57" price="1000" />
+	<set slot="3" itemid="5786" costid="57" price="1000" />
+	<set slot="3" itemid="5787" costid="57" price="1000" />
+	<set slot="3" itemid="5788" costid="57" price="1000" />
+	
+	<!-- Boots S-->
+	<set slot="3" itemid="6376" costid="57" price="1000" />
+	<set slot="3" itemid="6381" costid="57" price="1000" />
+	<set slot="3" itemid="6385" costid="57" price="1000" />
+	<set slot="3" itemid="9424" costid="57" price="1000" />
+	<set slot="3" itemid="9431" costid="57" price="1000" />
+	<set slot="3" itemid="9440" costid="57" price="1000" />
+	<set slot="3" itemid="13440" costid="57" price="1000" />
+	<set slot="3" itemid="13443" costid="57" price="1000" />
+	<set slot="3" itemid="13446" costid="57" price="1000" />
+	<set slot="3" itemid="13450" costid="57" price="1000" />
+	<set slot="3" itemid="13453" costid="57" price="1000" />
+	<set slot="3" itemid="13456" costid="57" price="1000" />
+	
+	<!-- Boots S84 -->
+	<set slot="3" itemid="13440" costid="57" price="1000" />
+	<set slot="3" itemid="13443" costid="57" price="1000" />
+	<set slot="3" itemid="13446" costid="57" price="1000" />
+	<set slot="3" itemid="13450" costid="57" price="1000" />
+	<set slot="3" itemid="13453" costid="57" price="1000" />
+	<set slot="3" itemid="15601" costid="57" price="1000" />
+	<set slot="3" itemid="15602" costid="57" price="1000" />
+	<set slot="3" itemid="15603" costid="57" price="1000" />
+	
+	
+	<!-- Accessory-->
+	<set slot="4" itemid="5808" costid="57" price="1000" />
+	<set slot="4" itemid="6394" costid="57" price="1000" />
+	<set slot="4" itemid="6843" costid="57" price="1000" />
+	<set slot="4" itemid="6844" costid="57" price="1000" />
+	<set slot="4" itemid="6845" costid="57" price="1000" />
+	<set slot="4" itemid="6846" costid="57" price="1000" />
+	<set slot="4" itemid="7060" costid="57" price="1000" />
+	<set slot="4" itemid="7680" costid="57" price="1000" />
+	<set slot="4" itemid="7681" costid="57" price="1000" />
+	<set slot="4" itemid="7682" costid="57" price="1000" />
+	<set slot="4" itemid="7683" costid="57" price="1000" />
+	<set slot="4" itemid="7695" costid="57" price="1000" />
+	<set slot="4" itemid="7696" costid="57" price="1000" />
+	<set slot="4" itemid="7836" costid="57" price="1000" />
+	<set slot="4" itemid="8177" costid="57" price="1000" />
+	<set slot="4" itemid="8180" costid="57" price="1000" />
+	<set slot="4" itemid="8185" costid="57" price="1000" />
+	<set slot="4" itemid="8186" costid="57" price="1000" />
+	<set slot="4" itemid="8187" costid="57" price="1000" />
+	<set slot="4" itemid="8188" costid="57" price="1000" />
+	<set slot="4" itemid="8189" costid="57" price="1000" />
+	<set slot="4" itemid="8552" costid="57" price="1000" />
+	<set slot="4" itemid="8559" costid="57" price="1000" />
+	<set slot="4" itemid="8560" costid="57" price="1000" />
+	<set slot="4" itemid="8561" costid="57" price="1000" />
+	<set slot="4" itemid="8562" costid="57" price="1000" />
+	<set slot="4" itemid="8563" costid="57" price="1000" />
+	<set slot="4" itemid="8564" costid="57" price="1000" />
+	<set slot="4" itemid="8565" costid="57" price="1000" />
+	<set slot="4" itemid="8567" costid="57" price="1000" />
+	<set slot="4" itemid="8568" costid="57" price="1000" />
+	<set slot="4" itemid="8569" costid="57" price="1000" />
+	<set slot="4" itemid="8660" costid="57" price="1000" />
+	<set slot="4" itemid="8661" costid="57" price="1000" />
+	<set slot="4" itemid="8911" costid="57" price="1000" />
+	<set slot="4" itemid="8912" costid="57" price="1000" />
+	<set slot="4" itemid="8913" costid="57" price="1000" />
+	<set slot="4" itemid="8914" costid="57" price="1000" />
+	<set slot="4" itemid="8915" costid="57" price="1000" />
+	<set slot="4" itemid="8916" costid="57" price="1000" />
+	<set slot="4" itemid="8917" costid="57" price="1000" />
+	<set slot="4" itemid="10240" costid="57" price="1000" />
+	
+	
+	<!-- Weapons-->
+	<!-- Weapons S -->
+	<set slot="5" itemid="6581" costid="57" price="1000" />
+	<set slot="5" itemid="6600" costid="57" price="1000" />
+	<set slot="5" itemid="6604" costid="57" price="1000" />
+	<set slot="5" itemid="6580" costid="57" price="1000" />
+	<set slot="5" itemid="6592" costid="57" price="1000" />
+	<set slot="5" itemid="7576" costid="57" price="1000" />
+	<set slot="5" itemid="6593" costid="57" price="1000" />
+	<set slot="5" itemid="6608" costid="57" price="1000" />
+	<set slot="5" itemid="6585" costid="57" price="1000" />
+	<set slot="5" itemid="6605" costid="57" price="1000" />
+	<set slot="5" itemid="6589" costid="57" price="1000" />
+	<set slot="5" itemid="6598" costid="57" price="1000" />
+	<set slot="5" itemid="10453" costid="57" price="1000" />
+	<set slot="5" itemid="10460" costid="57" price="1000" />
+	<set slot="5" itemid="10437" costid="57" price="1000" />
+	<set slot="5" itemid="10434" costid="57" price="1000" />
+	<set slot="5" itemid="10467" costid="57" price="1000" />
+	<set slot="5" itemid="10440" costid="57" price="1000" />
+	<set slot="5" itemid="10445" costid="57" price="1000" />
+	<set slot="5" itemid="10462" costid="57" price="1000" />
+	<set slot="5" itemid="10450" costid="57" price="1000" />
+	<set slot="5" itemid="10464" costid="57" price="1000" />
+	<set slot="5" itemid="10448" costid="57" price="1000" />
+	<set slot="5" itemid="10457" costid="57" price="1000" />
+	<set slot="5" itemid="10415" costid="57" price="1000" />
+	<!-- Vesper -->
+	<set slot="5" itemid="14137" costid="57" price="1000" />
+	<set slot="5" itemid="14125" costid="57" price="1000" />
+	<set slot="5" itemid="14144" costid="57" price="1000" />
+	<set slot="5" itemid="14120" costid="57" price="1000" />
+	<set slot="5" itemid="14132" costid="57" price="1000" />
+	<set slot="5" itemid="14159" costid="57" price="1000" />
+	<set slot="5" itemid="14140" costid="57" price="1000" />
+	<set slot="5" itemid="14127" costid="57" price="1000" />
+	<set slot="5" itemid="14154" costid="57" price="1000" />
+	<set slot="5" itemid="14145" costid="57" price="1000" />
+	<set slot="5" itemid="14123" costid="57" price="1000" />
+	<set slot="5" itemid="14134" costid="57" price="1000" />
+	<set slot="5" itemid="14148" costid="57" price="1000" />
+	<set slot="5" itemid="13884" costid="57" price="1000" />
+	<set slot="5" itemid="52" costid="57" price="1000" />
+	<!-- Vorpal -->
+	<set slot="5" itemid="15830" costid="57" price="1000" />
+	<set slot="5" itemid="15833" costid="57" price="1000" />
+	<set slot="5" itemid="15836" costid="57" price="1000" />
+	<set slot="5" itemid="15839" costid="57" price="1000" />
+	<set slot="5" itemid="15842" costid="57" price="1000" />
+	<set slot="5" itemid="15845" costid="57" price="1000" />
+	<set slot="5" itemid="15848" costid="57" price="1000" />
+	<set slot="5" itemid="15851" costid="57" price="1000" />
+	<set slot="5" itemid="15854" costid="57" price="1000" />
+	<set slot="5" itemid="15857" costid="57" price="1000" />
+	<set slot="5" itemid="15860" costid="57" price="1000" />
+	<set slot="5" itemid="15863" costid="57" price="1000" />
+	<set slot="5" itemid="15866" costid="57" price="1000" />
+	<set slot="5" itemid="15869" costid="57" price="1000" />
+	<set slot="5" itemid="16152" costid="57" price="1000" />
+	<set slot="5" itemid="16154" costid="57" price="1000" />
+	
+	<!-- Shields-->
+	<set slot="6" itemid="109" costid="57" price="1000" />
+	<set slot="6" itemid="110" costid="57" price="1000" />
+	<set slot="6" itemid="111" costid="57" price="1000" />
+	<set slot="6" itemid="625" costid="57" price="1000" />
+	<set slot="6" itemid="626" costid="57" price="1000" />
+	<set slot="6" itemid="627" costid="57" price="1000" />
+	<set slot="6" itemid="628" costid="57" price="1000" />
+	<set slot="6" itemid="629" costid="57" price="1000" />
+	<set slot="6" itemid="630" costid="57" price="1000" />
+	
+	<!-- Cloaks-->
+	<set slot="7" itemid="21716" costid="57" price="1000" />
+	<set slot="7" itemid="21717" costid="57" price="1000" />
+	<set slot="7" itemid="21718" costid="57" price="1000" />
+	<set slot="7" itemid="21590" costid="57" price="1000" />
+	<set slot="7" itemid="21587" costid="57" price="1000" />
+	<set slot="7" itemid="21588" costid="57" price="1000" />
+	<set slot="7" itemid="14609" costid="57" price="1000" />
+</list>

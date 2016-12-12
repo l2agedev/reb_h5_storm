@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+	<skill id="90001" levels="1" name="Mana potion">
+		<set name="icon" val="" />
+		<set name="displayId" val="2005" />
+		<set name="itemConsumeId" val="728" />
+		<set name="itemConsumeCount" val="1" />
+		<set name="isHandler" val="true" />
+		<set name="target" val="TARGET_SELF" />
+		<set name="skillType" val="MANAHEAL" />
+		<set name="power" val="2500" />
+		<set name="operateType" val="OP_ACTIVE" />
+		<set name="altUse" val="true" />
+	</skill>
+	<skill id="90002" levels="1" name="PC Cafe Points" >
+		<set name="magicType" val="SPECIAL" />
+		<set name="icon" val="icon.skill0000" />
+		<set name="reuseDelay" val="10000" />
+		<set name="magicLevel" val="1" />
+		<set name="itemConsumeId" val="17025" />
+		<set name="itemConsumeCount" val="1" />
+		<set name="isHandler" val="true" />
+		<set name="target" val="TARGET_SELF" />
+		<set name="skillType" val="ADD_PC_BANG" />
+		<set name="operateType" val="OP_ACTIVE" />
+		<set name="power" val="7000" />
+		<set name="altUse" val="true" />
+	</skill>
+	<skill id="90003" levels="1" name="PC Cafe Blessing Points" >
+		<set name="magicType" val="SPECIAL" />
+		<set name="icon" val="icon.skill0000" />
+		<set name="reuseDelay" val="10000" />
+		<set name="magicLevel" val="1" />
+		<set name="itemConsumeId" val="21864" />
+		<set name="itemConsumeCount" val="1" />
+		<set name="isHandler" val="true" />
+		<set name="target" val="TARGET_SELF" />
+		<set name="skillType" val="ADD_PC_BANG_RND" />
+		<set name="operateType" val="OP_ACTIVE" />
+		<set name="PCMinCount" val="30" />
+		<set name="PCMaxCount" val="100" />
+		<set name="altUse" val="true" />
+	</skill>
+</list>

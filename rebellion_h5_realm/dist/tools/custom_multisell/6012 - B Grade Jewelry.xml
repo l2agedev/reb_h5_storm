@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8'?>
+<list>
+	<config showall="true" notax="true" keepenchanted="true" />
+	<item>
+		<production id="856" count="1" /> <!-- Adamantite Earring -->
+		<ingredient id="57" count="465900" />
+	</item>
+	<item>
+		<production id="864" count="1" /> <!-- Earring of Black Ore -->
+		<ingredient id="57" count="711000" />
+	</item>
+	<item>
+		<production id="874" count="1" /> <!-- Earring of Blessing -->
+		<ingredient id="57" count="465900" />
+	</item>
+	<item>
+		<production id="887" count="1" /> <!-- Adamantite Ring -->
+		<ingredient id="57" count="310600" />
+	</item>
+	<item>
+		<production id="895" count="1" /> <!-- Ring of Black Ore -->
+		<ingredient id="57" count="474000" />
+	</item>
+	<item>
+		<production id="905" count="1" /> <!-- Ring of Blessing -->
+		<ingredient id="57" count="310600" />
+	</item>
+	<item>
+		<production id="918" count="1" /> <!-- Adamantite Necklace -->
+		<ingredient id="57" count="621200" />
+	</item>
+	<item>
+		<production id="926" count="1" /> <!-- Necklace of Black Ore -->
+		<ingredient id="57" count="948000" />
+	</item>
+	<item>
+		<production id="936" count="1" /> <!-- Necklace of Blessing -->
+		<ingredient id="57" count="621200" />
+	</item>
+</list>

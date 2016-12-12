@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list enabled="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="PremiumAccountTemplates.xsd">
+
+<!-- QUICK INFO:
+
+	You can set MULTIPLE premium account templates, each premium account template has individual parameters.
+	Only ONE premium account template will be set for an account.
+	
+#######################################################################
+###     EXAMPLE with the all avaiable variables and their types     ###
+#######################################################################
+
+ 	<template id="1">
+ 		<cost id="57" />
+ 		<costWeek amount="100" />
+ 		<costMonth amount="10000" />
+		<setDouble expBonus="1" />
+		<setDouble spBonus="1" />
+		<setDouble dropBonus="1" />
+		<setDouble enchantBonus="1" />
+		<setDouble attrEnchBonus="1" />
+		<setDouble fameBonus="1" />
+		<setDouble karmaDrop="1" />
+		<setBoolean whereisVoiced="false" />
+		<setBoolean playerShiftClick="false" />
+		<setBoolean playerInfinityShotArrows="false" />
+		<setBoolean gmShopOutsidePeace="false" />
+		<setBoolean bufferOutsidePeace="false" />
+		<setBoolean globalChat="false" />
+		<setBoolean warehouseOutsidePeace="false" />
+		<setBoolean careerOutsidePeace="false" />
+		<setBoolean gatekeeperOutsidePeace="false" />
+		<item id="57" dropMultiplier="1"/>
+	</template>
+
+ -->
+
+	<template id="2" name="Silver" >
+		<cost id="37000" />
+ 		<costWeek amount="100" />
+ 		<costMonth amount="300" />
+		<setDouble expBonus="1.3" />
+		<setDouble spBonus="1.3" />
+	</template>
+
+	<template id="3" name="Gold" >
+		<cost id="37000" />
+ 		<costWeek amount="200" />
+ 		<costMonth amount="500" />
+		<setDouble expBonus="1.5" />
+		<setDouble spBonus="1.5" />
+		<item id="57" dropMultiplier="1.3"/>
+	</template>
+
+	<template id="4" name="Platinum">
+		<cost id="37000" />
+ 		<costWeek amount="300" />
+ 		<costMonth amount="700" />
+		<setDouble expBonus="2" />
+		<setDouble spBonus="2" />
+		<setBoolean whereisVoiced="true" />
+		<setBoolean playerInfinityShotArrows="true" />
+		<setBoolean bufferOutsidePeace="true" />
+		<setBoolean globalChat="true" />
+		<item id="57" dropMultiplier="1.5"/>
+	</template>
+
+	<!-- Custom template for new accounts -->
+	<template id="10" name="New Account Bonus" >
+		<setDouble expBonus="2" />
+		<setDouble spBonus="2" />
+	</template>
+</list>

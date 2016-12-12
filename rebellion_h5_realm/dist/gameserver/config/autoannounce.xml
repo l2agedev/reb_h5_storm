@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='utf-8'?>
+<list>
+	<announce delay="3000" repeat="20">
+		<message text="to change this message -> [autoannounce.xml]" />
+	</announce>
+</list>

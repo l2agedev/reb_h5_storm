@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='utf-8'?>
+<list>
+	<config showall="true" notax="true" keepenchanted="true" />
+	<!-- Ancient Adena -->
+	<item>
+		<production id="5575" count="3" />
+		<ingredient id="6360" count="1" />
+	</item>
+
+	<!-- Ancient Adena -->
+	<item>
+		<production id="5575" count="5" />
+		<ingredient id="6361" count="1" />
+	</item>
+
+	<!-- Ancient Adena -->
+	<item>
+		<production id="5575" count="10" />
+		<ingredient id="6362" count="1" />
+	</item>
+
+	<!-- Ancient Adena -->
+	<item>
+		<production id="5575" count="300" />
+		<ingredient id="6360" count="100" />
+	</item>
+
+	<!-- Ancient Adena -->
+	<item>
+		<production id="5575" count="500" />
+		<ingredient id="6361" count="100" />
+	</item>
+
+	<!-- Ancient Adena -->
+	<item>
+		<production id="5575" count="1000" />
+		<ingredient id="6362" count="100" />
+	</item>
+
+	<!-- D-grade crystal -->
+	<item>
+		<ingredient id="57" count="1927" />
+		<production id="1458" count="1" />
+	</item>
+
+	<!-- C-grade crystal -->
+	<item>
+		<ingredient id="57" count="8163" />
+		<production id="1459" count="1" />
+	</item>
+
+	<!-- B grade Crystal -->
+	<item>
+		<ingredient id="57" count="14421" />
+		<production id="1460" count="1" />
+	</item>
+
+	<!-- A Grade Crystal -->
+	<item>
+		<ingredient id="57" count="29217" />
+		<production id="1461" count="1" />
+	</item>
+</list>

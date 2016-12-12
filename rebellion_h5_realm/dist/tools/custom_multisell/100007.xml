@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- Vorpal Jewels -->
+<!-- © 2010 by mathuza -->
+
+<list>
+<config showall="true" notax="true" keepenchanted="true" />
+	<!-- Freya Jewels -->
+	<item id="1">
+		<ingredient id="57" count="1" />
+		<production id="15725" count="1" />
+	</item>
+	<!-- Freya Jewels -->
+	<item id="2">
+		<ingredient id="57" count="1" />
+		<production id="15724" count="2" />
+	</item>
+	<!-- Freya Jewels -->
+	<item id="3">
+		<ingredient id="57" count="1" />
+		<production id="15723" count="2" />
+	</item>
+	<!-- Freya Jewels -->
+	<item id="4">
+		<ingredient id="57" count="1" />
+		<production id="15719" count="1" />
+	</item>
+	<!-- Freya Jewels -->
+	<item id="5">
+		<ingredient id="57" count="1" />
+		<production id="15718" count="2" />
+	</item>
+	<!-- Freya Jewels -->
+	<item id="6">
+		<ingredient id="57" count="1" />
+		<production id="15717" count="2" />
+	</item>
+	<!-- Freya Jewels -->
+	<item id="7">
+		<ingredient id="57" count="1" />
+		<production id="15722" count="1" />
+	</item>
+	<!-- Freya Jewels -->
+	<item id="8">
+		<ingredient id="57" count="1" />
+		<production id="15721" count="2" />
+	</item>
+	<!-- Freya Jewels -->
+	<item id="9">
+		<ingredient id="57" count="1" />
+		<production id="15720" count="2" />
+	</item>
+
+</list>

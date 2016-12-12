@@ -1,0 +1,2 @@
+Welcome to the world of Lineage II!
+Change this message from announcements.txt file.

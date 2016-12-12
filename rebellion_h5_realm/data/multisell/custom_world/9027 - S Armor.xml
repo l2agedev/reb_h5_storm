@@ -1,0 +1,130 @@
+<?xml version='1.0' encoding='utf-8'?>
+<list>
+	<config showall="true" notax="true" keepenchanted="true" />
+
+	<!-- Imperial Crusader Breastplate -->
+	<item>
+		<ingredient id="57" count="15000000" />
+		<production id="6373" count="1" />
+	</item>
+
+	<!-- Imperial Crusader Gaiters -->
+	<item>
+		<ingredient id="57" count="15000000" />
+		<production id="6374" count="1" />
+	</item>
+
+	<!-- Imperial Crusader Boots -->
+	<item>
+		<ingredient id="57" count="15000000" />
+		<production id="6376" count="1" />
+	</item>
+
+	<!-- Imperial Crusader Gauntlets -->
+	<item>
+		<ingredient id="57" count="15000000" />
+		<production id="6375" count="1" />
+	</item>
+
+	<!-- Imperial Crusader Helmet -->
+	<item>
+		<ingredient id="57" count="15000000" />
+		<production id="6378" count="1" />
+	</item>
+
+	<!-- Imperial Crusader Shield -->
+	<item>
+		<ingredient id="57" count="10000000" />
+		<production id="6377" count="1" />
+	</item>
+
+	<!-- Draconic Leather Armor -->
+	<item>
+		<ingredient id="57" count="40000000" />
+		<production id="6379" count="1" />
+	</item>
+
+	<!-- Draconic Leather Boots -->
+	<item>
+		<ingredient id="57" count="15000000" />
+		<production id="6381" count="1" />
+	</item>
+
+	<!-- Draconic Leather Gloves -->
+	<item>
+		<ingredient id="57" count="15000000" />
+		<production id="6380" count="1" />
+	</item>
+
+	<!-- Draconic Leather Helmet -->
+	<item>
+		<ingredient id="57" count="15000000" />
+		<production id="6382" count="1" />
+	</item>
+
+	<!-- Major Arcana Robe -->
+	<item>
+		<ingredient id="57" count="40000000" />
+		<production id="6383" count="1" />
+	</item>
+
+	<!-- Major Arcana Boots -->
+	<item>
+		<ingredient id="57" count="15000000" />
+		<production id="6385" count="1" />
+	</item>
+
+	<!-- Major Arcana Gloves -->
+	<item>
+		<ingredient id="57" count="15000000" />
+		<production id="6384" count="1" />
+	</item>
+
+	<!-- Major Arcana Circlet -->
+	<item>
+		<ingredient id="57" count="15000000" />
+		<production id="6386" count="1" />
+	</item>
+
+	<!-- Arcana Sigil -->
+	<item>
+		<ingredient id="57" count="10000000" />
+		<production id="12811" count="1" />
+	</item>
+
+	<!-- Dynasty Breast Plate -->
+	<item>
+		<ingredient id="57" count="300000000" />
+		<production id="9416" count="1" />
+		<production id="9421" count="1" />
+		<production id="9422" count="1" />
+		<production id="9423" count="1" />
+		<production id="9424" count="1" />
+	</item>
+
+	<!-- Dynasty Leather Armor -->
+	<item id="6">
+		<ingredient id="57" count="300000000" />
+		<production id="9425" count="1" />
+		<production id="9428" count="1" />
+		<production id="9429" count="1" />
+		<production id="9430" count="1" />
+		<production id="9431" count="1" />
+	</item>
+
+	<!-- Dynasty Tunic -->
+	<item id="11">
+		<ingredient id="57" count="300000000" />
+		<production id="9432" count="1" />
+		<production id="9437" count="1" />
+		<production id="9438" count="1" />
+		<production id="9439" count="1" />
+		<production id="9440" count="1" />
+
+	</item>
+	<!-- Dynasty Shield -->
+	<item id="25">
+		<ingredient id="57" count="15000000" />
+		<production id="9441" count="1" />
+	</item>
+</list>

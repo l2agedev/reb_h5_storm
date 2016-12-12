@@ -1,0 +1,200 @@
+<?xml version='1.0' encoding='utf-8'?>
+<list>
+	<config showall="true" notax="true" keepenchanted="true" />
+	<item>
+		<ingredient id="14720" count="5" /> <!-- Event - Apiga -->
+		<production id="14678" count="1" /> <!-- Neolithic Crystal - B -->
+	</item>
+	<item>
+		<ingredient id="14720" count="20" /> <!-- Event - Apiga -->
+		<production id="14679" count="1" /> <!-- Neolithic Crystal - A -->
+	</item>
+	<item>
+		<ingredient id="14720" count="50" /> <!-- Event - Apiga -->
+		<production id="14680" count="1" /> <!-- Neolithic Crystal - S -->
+	</item>
+	<item>
+		<ingredient id="14720" count="450" /> <!-- Event - Apiga -->
+		<production id="14681" count="1" /> <!-- Neolithic Crystal - S80 -->
+	</item>
+	<item>
+		<ingredient id="14720" count="1500" /> <!-- Event - Apiga -->
+		<production id="21579" count="1" /> <!-- Neolithic Crystal - S84 -->
+	</item>
+	<item>
+		<ingredient id="14720" count="2" /> <!-- Event - Apiga -->
+		<production id="955" count="1" /> <!-- Scroll: Enchant Weapon (D-Grade) -->
+	</item>
+	<item>
+		<ingredient id="14720" count="1" /> <!-- Event - Apiga -->
+		<production id="956" count="1" /> <!-- Scroll: Enchant Armor (D-Grade) -->
+	</item>
+	<item>
+		<ingredient id="14720" count="4" /> <!-- Event - Apiga -->
+		<production id="951" count="1" /> <!-- Scroll: Enchant Weapon (C-Grade) -->
+	</item>
+	<item>
+		<ingredient id="14720" count="2" /> <!-- Event - Apiga -->
+		<production id="952" count="1" /> <!-- Scroll: Enchant Armor (C-Grade) -->
+	</item>
+	<item>
+		<ingredient id="14720" count="6" /> <!-- Event - Apiga -->
+		<production id="947" count="1" /> <!-- Scroll: Enchant Weapon (B-Grade) -->
+	</item>
+	<item>
+		<ingredient id="14720" count="3" /> <!-- Event - Apiga -->
+		<production id="948" count="1" /> <!-- Scroll: Enchant Armor (B-Grade) -->
+	</item>
+	<item>
+		<ingredient id="14720" count="15" /> <!-- Event - Apiga -->
+		<production id="729" count="1" /> <!-- Scroll: Enchant Weapon (A-Grade) -->
+	</item>
+	<item>
+		<ingredient id="14720" count="8" /> <!-- Event - Apiga -->
+		<production id="730" count="1" /> <!-- Scroll: Enchant Armor (A-Grade) -->
+	</item>
+	<item>
+		<ingredient id="14720" count="30" /> <!-- Event - Apiga -->
+		<production id="959" count="1" /> <!-- Scroll: Enchant Weapon (S-Grade) -->
+	</item>
+	<item>
+		<ingredient id="14720" count="15" /> <!-- Event - Apiga -->
+		<production id="960" count="1" /> <!-- Scroll: Enchant Armor (S-Grade) -->
+	</item>
+	<item>
+		<ingredient id="14720" count="4" /> <!-- Event - Apiga -->
+		<production id="6575" count="1" /> <!-- Blessed Scroll: Enchant Weapon (D-Grade) -->
+	</item>
+	<item>
+		<ingredient id="14720" count="2" /> <!-- Event - Apiga -->
+		<production id="6576" count="1" /> <!-- Blessed Scroll: Enchant Armor (D-Grade) -->
+	</item>
+	<item>
+		<ingredient id="14720" count="8" /> <!-- Event - Apiga -->
+		<production id="6573" count="1" /> <!-- Blessed Scroll: Enchant Weapon (C-Grade) -->
+	</item>
+	<item>
+		<ingredient id="14720" count="4" /> <!-- Event - Apiga -->
+		<production id="6574" count="1" /> <!-- Blessed Scroll: Enchant Armor (C-Grade) -->
+	</item>
+	<item>
+		<ingredient id="14720" count="12" /> <!-- Event - Apiga -->
+		<production id="6571" count="1" /> <!-- Blessed Scroll: Enchant Weapon (B-Grade) -->
+	</item>
+	<item>
+		<ingredient id="14720" count="30" /> <!-- Event - Apiga -->
+		<production id="6572" count="1" /> <!-- Blessed Scroll: Enchant Armor (B-Grade) -->
+	</item>
+	<item>
+		<ingredient id="14720" count="30" /> <!-- Event - Apiga -->
+		<production id="6569" count="1" /> <!-- Blessed Scroll: Enchant Weapon (A-Grade) -->
+	</item>
+	<item>
+		<ingredient id="14720" count="40" /> <!-- Event - Apiga -->
+		<production id="6570" count="1" /> <!-- Blessed Scroll: Enchant Armor (A-Grade) -->
+	</item>
+	<item>
+		<ingredient id="14720" count="85" /> <!-- Event - Apiga -->
+		<production id="6577" count="1" /> <!-- Blessed Scroll: Enchant Weapon (S-Grade) -->
+	</item>
+	<item>
+		<ingredient id="14720" count="65" /> <!-- Event - Apiga -->
+		<production id="6578" count="1" /> <!-- Blessed Scroll: Enchant Armor (S-Grade) -->
+	</item>
+	<item>
+		<ingredient id="14720" count="2" /> <!-- Event - Apiga -->
+		<production id="12362" count="1" /> <!-- Weapon-Type Enhance Backup Stone (D-Grade) -->
+	</item>
+	<item>
+		<ingredient id="14720" count="5" /> <!-- Event - Apiga -->
+		<production id="12363" count="1" /> <!-- Weapon-Type Enhance Backup Stone (C-Grade) -->
+	</item>
+	<item>
+		<ingredient id="14720" count="10" /> <!-- Event - Apiga -->
+		<production id="12364" count="1" /> <!-- Weapon-Type Enhance Backup Stone (B-Grade) -->
+	</item>
+	<item>
+		<ingredient id="14720" count="30" /> <!-- Event - Apiga -->
+		<production id="12365" count="1" /> <!-- Weapon-Type Enhance Backup Stone (A-Grade) -->
+	</item>
+	<item>
+		<ingredient id="14720" count="90" /> <!-- Event - Apiga -->
+		<production id="12366" count="1" /> <!-- Weapon-Type Enhance Backup Stone (S-Grade) -->
+	</item>
+	<item>
+		<ingredient id="14720" count="2" /> <!-- Event - Apiga -->
+		<production id="12367" count="1" /> <!-- Armor-Type Enhance Backup Stone (D-Grade) -->
+	</item>
+	<item>
+		<ingredient id="14720" count="4" /> <!-- Event - Apiga -->
+		<production id="12368" count="1" /> <!-- Armor-Type Enhance Backup Stone (C-Grade) -->
+	</item>
+	<item>
+		<ingredient id="14720" count="7" /> <!-- Event - Apiga -->
+		<production id="12369" count="1" /> <!-- Armor-Type Enhance Backup Stone (B-Grade) -->
+	</item>
+	<item>
+		<ingredient id="14720" count="15" /> <!-- Event - Apiga -->
+		<production id="12370" count="1" /> <!-- Armor-Type Enhance Backup Stone (A-Grade) -->
+	</item>
+	<item>
+		<ingredient id="14720" count="65" /> <!-- Event - Apiga -->
+		<production id="12371" count="1" /> <!-- Armor-Type Enhance Backup Stone (S-Grade) -->
+	</item>
+	<item>
+		<ingredient id="14720" count="10" /> <!-- Event - Apiga -->
+		<production id="6622" count="1" /> <!-- Giant's Codex -->
+	</item>
+	<item>
+		<ingredient id="14720" count="10" /> <!-- Event - Apiga -->
+		<production id="9625" count="1" /> <!-- Giant's Codex - Oblivion -->
+	</item>
+	<item>
+		<ingredient id="14720" count="20" /> <!-- Event - Apiga -->
+		<production id="9626" count="1" /> <!-- Giant's Codex - Discipline -->
+	</item>
+	<item>
+		<ingredient id="14720" count="40" /> <!-- Event - Apiga -->
+		<production id="9627" count="1" /> <!-- Giant's Codex - Mastery -->
+	</item>
+	<item>
+		<ingredient id="14720" count="50" /> <!-- Event - Apiga -->
+		<production id="13990" count="1" /> <!-- Grade S Weapon Chest (Event) -->
+	</item>
+	<item>
+		<ingredient id="14720" count="25" /> <!-- Event - Apiga -->
+		<production id="13991" count="1" /> <!-- Grade S Armor Chest (Event) -->
+	</item>
+	<item>
+		<ingredient id="14720" count="25" /> <!-- Event - Apiga -->
+		<production id="13992" count="1" /> <!-- Grade S Accessory Chest (Event) -->
+	</item>
+	<item>
+		<ingredient id="14720" count="120" /> <!-- Event - Apiga -->
+		<production id="13988" count="1" /> <!-- Dynasty Weapon Box - Event -->
+	</item>
+	<item>
+		<ingredient id="14720" count="80" /> <!-- Event - Apiga -->
+		<production id="13989" count="1" /> <!-- Dynasty Armor Box - Event -->
+	</item>
+	<item>
+		<ingredient id="14720" count="4" /> <!-- Event - Apiga -->
+		<production id="20741" count="1" /> <!-- EXP Rune 1h -->
+	</item>
+	<item>
+		<ingredient id="14720" count="4" /> <!-- Event - Apiga -->
+		<production id="20742" count="1" /> <!-- SP rune 1h -->
+	</item>
+	<item>
+		<ingredient id="14720" count="16" /> <!-- Event - Apiga -->
+		<production id="20336" count="1" /> <!-- EXP Rune 5h -->
+	</item>
+	<item>
+		<ingredient id="14720" count="16" /> <!-- Event - Apiga -->
+		<production id="20342" count="1" /> <!-- SP rune 5h -->
+	</item>
+	<item>
+		<ingredient id="14720" count="1" /> <!-- Event - Apiga -->
+		<production id="13021" count="3" /> <!-- Color name -->
+	</item>
+</list>

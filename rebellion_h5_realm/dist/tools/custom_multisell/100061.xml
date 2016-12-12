@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='utf-8'?>
+
+<!-- S-84 Armor -->
+<!-- © 2010 by mathuza -->
+<!-- Opicional Set PVP -->
+
+<list>
+<config showall="true" notax="true" keepenchanted="true" />
+  <!-- Vesper Breastplate -->
+  <item id="1">
+    <ingredient id="57" count="5"/>
+    <production id="15608" count="1"/>
+    <production id="15611" count="1"/>
+    <production id="15614" count="1"/>
+    <production id="15617" count="1"/>
+    <production id="15620" count="1"/>
+  </item>
+ <!-- Vesper Breastplate -->
+  <item id="2">
+    <ingredient id="57" count="5"/>
+    <production id="15607" count="1"/>
+    <production id="15610" count="1"/>
+    <production id="15614" count="1"/>
+    <production id="15613" count="1"/>
+    <production id="15619" count="1"/>
+  </item>
+ <!-- Vesper Breastplate -->
+  <item id="2">
+    <ingredient id="57" count="5"/>
+    <production id="15606" count="1"/>
+    <production id="15609" count="1"/>
+    <production id="15612" count="1"/>
+    <production id="15615" count="1"/>
+    <production id="15618" count="1"/>
+  </item>
+
+  <!-- Vesper Shield -->
+  <item id="3">
+    <ingredient id="57" count="5"/>
+    <production id="15621" count="1"/>
+  </item>
+
+  <!-- Vesper Shield -->
+  <item id="4">
+    <ingredient id="57" count="5"/>
+    <production id="15622" count="1"/>
+  </item>
+</list>

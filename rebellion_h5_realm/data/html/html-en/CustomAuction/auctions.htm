@@ -1,0 +1,467 @@
+<html noscrollbar>
+<body>
+	<center>
+		<br>
+		<table width="700" cellpadding="0" cellspacing="0">
+			<tr>
+				<td width="700" valign="top">
+					<table width="695" height="65" cellspacing="0" cellpadding="7">
+						<tr>
+							<td width=32 valign=top>
+								<table border=0 cellspacing=0 cellpadding=0 width=32 height=32
+									background="icon.skill0165">
+									<tr>
+										<td>
+											<table cellspacing=0 cellpadding=0 width=34 height=34
+												background="L2UI.item_click">
+												<tr>
+													<td><br></td>
+													<td height=16><br></td>
+												</tr>
+											</table>
+										</td>
+									</tr>
+								</table>
+							</td>
+							<td width="155" valign="top">
+								<table cellspacing="0" cellpadding="0">
+									<tr>
+										<td height="26" valign="top"><font name=hs15
+											color="ad9d46">AUCTION</font></td>
+									</tr>
+									<tr>
+										<td>Put your items for auction to be bought by other
+											players</td>
+									</tr>
+								</table>
+							</td>
+							<td width="60" valign="top">
+								<table cellspacing="0" cellpadding="0">
+									<tr>
+										<td height="25" valign="top"><button value="Add Item"
+												action="bypass _bbs_Auction:getPlayerItems" width=100
+												height=25 back="L2UI_CT1.Button_DF_Down"
+												fore="L2UI_CT1.Button_DF"></td>
+									</tr>
+									<tr>
+										<td height="25" valign="top"><button value="My Auctions"
+												action="bypass _bbs_Auction:myauction 1" width=100 height=25
+												back="L2UI_CT1.Button_DF_Down" fore="L2UI_CT1.Button_DF"></td>
+									</tr>
+								</table>
+							</td>
+							<td width="100" valign="top">
+								<table cellspacing="0" cellpadding="0">
+									<tr>
+										<td align="right"><combobox width="180" var="sortby"
+												list=%sortbylist%></td>
+										<td height="30" valign="top"><button value="Sort"
+												action="bypass _bbs_Auction:sortby $sortby" width=121
+												height=25 back="L2UI_CT1.Button_DF_Down"
+												fore="L2UI_CT1.Button_DF"></td>
+									</tr>
+									<tr>
+										<td><multiedit var="qbox" width=200 height=13></td>
+										<td height="30" valign="top">
+											<table cellspacing=-1>
+												<tr>
+													<td height="30" valign="top"><button value="Search"
+															action="bypass _bbs_Auction:search $qbox" width=60
+															height=22 back="L2UI_CT1.Button_DF_Down"
+															fore="L2UI_CT1.Button_DF"></td>
+													<td height="30" valign="top"><button value="Reset"
+															action="bypass _bbs_Auction:resetsearch" width=60
+															height=22 back="L2UI_CT1.Button_DF_Down"
+															fore="L2UI_CT1.Button_DF"></td>
+												</tr>
+											</table>
+										</td>
+									</tr>
+								</table>
+							</td>
+						</tr>
+					</table> <img src="L2UI_CT1.ChatBalloon_DF_TopCenter" width="820"
+					height="1" align="top" />
+					<table width="700" cellpadding="0" cellspacing="0" valign="top">
+						<tr>
+							<td>
+								<table width=600 cellpadding=0 cellspacing=0>
+									<tr>
+										<td>
+											<table width=100 cellpadding=0 cellspacing=0>
+												<tr>
+													<td>
+														<table width="100" height="25" bgcolor="000000"
+															cellspacing="0" cellpadding="7">
+															<tr>
+																<td valign="top">
+																	<table width="374" cellspacing="0" cellpadding="0">
+																		<tr>
+																			<td>Auctions</td>
+																		</tr>
+																	</table>
+																</td>
+															</tr>
+														</table> <img src="L2UI_CT1.ChatBalloon_DF_TopCenter" width="388"
+														height="1" align="top" />
+														<table width="%width1%" height="60" bgcolor="090908"
+															cellspacing="0" cellpadding="7">
+															<tr>
+																<td width="32" valign="top"><img src="%icon1%"
+																	width="32" height="32" align="top" /></td>
+																<td valign="top">
+																	<table width="283" cellspacing="0" cellpadding="0">
+																		<tr>
+																			<td height="24" valign="top">%name1%</td>
+																			<td height="16" valign="top">%itemInfo1%</td>
+																		</tr>
+																		<tr>
+																			<td height="22" valign="top">%auctionerName1%
+																				%timeleft1%</td>
+																		</tr>
+																		<tr>
+																			<td height="16" valign="top">%buyout1%</td>
+																		</tr>
+																		<tr>
+																			<td height="16" valign="top">%minimalbid1%</td>
+																		</tr>
+																	</table>
+																</td>
+																<td width="32" valign="top">%button1%</td>
+															</tr>
+														</table>
+														<table width="%width3%" height="60" bgcolor="0f100f"
+															cellspacing="0" cellpadding="7">
+															<tr>
+																<td width="32" valign="top"><img src="%icon3%"
+																	width="32" height="32" align="top" /></td>
+																<td valign="top">
+																	<table width="283" cellspacing="0" cellpadding="0">
+																		<tr>
+																			<td height="24" valign="top">%name3%</td>
+																			<td height="16" valign="top">%itemInfo3%</td>
+																		</tr>
+																		<tr>
+																			<td height="22" valign="top">%auctionerName3%
+																				%timeleft3%</td>
+																		</tr>
+																		<tr>
+																			<td height="16" valign="top">%buyout3%</td>
+																		</tr>
+																		<tr>
+																			<td height="16" valign="top">%minimalbid3%</td>
+																		</tr>
+																	</table>
+																</td>
+																<td width="32" valign="top">%button3%</td>
+															</tr>
+														</table>
+														<table width="%width5%" height="60" bgcolor="090908"
+															cellspacing="0" cellpadding="7">
+															<tr>
+																<td width="32" valign="top"><img src="%icon5%"
+																	width="32" height="32" align="top" /></td>
+																<td valign="top">
+																	<table width="283" cellspacing="0" cellpadding="0">
+																		<tr>
+																			<td height="24" valign="top">%name5%</td>
+																			<td height="16" valign="top">%itemInfo5%</td>
+																		</tr>
+																		<tr>
+																			<td height="22" valign="top">%auctionerName5%
+																				%timeleft5%</td>
+																		</tr>
+																		<tr>
+																			<td height="16" valign="top">%buyout5%</td>
+																		</tr>
+																		<tr>
+																			<td height="16" valign="top">%minimalbid5%</td>
+																		</tr>
+																	</table>
+																</td>
+																<td width="32" valign="top">%button5%</td>
+															</tr>
+														</table>
+														<table width="%width7%" height="60" bgcolor="0f100f"
+															cellspacing="0" cellpadding="7">
+															<tr>
+																<td width="32" valign="top"><img src="%icon7%"
+																	width="32" height="32" align="top" /></td>
+																<td valign="top">
+																	<table width="283" cellspacing="0" cellpadding="0">
+																		<tr>
+																			<td height="24" valign="top">%name7%</td>
+																			<td height="16" valign="top">%itemInfo7%</td>
+																		</tr>
+																		<tr>
+																			<td height="22" valign="top">%auctionerName7%
+																				%timeleft7%</td>
+																		</tr>
+																		<tr>
+																			<td height="16" valign="top">%buyout7%</td>
+																		</tr>
+																		<tr>
+																			<td height="16" valign="top">%minimalbid7%</td>
+																		</tr>
+																	</table>
+																</td>
+																<td width="32" valign="top">%button7%</td>
+															</tr>
+														</table>
+														<table width="%width9%" height="60" bgcolor="090908"
+															cellspacing="0" cellpadding="7">
+															<tr>
+																<td width="32" valign="top"><img src="%icon9%"
+																	width="32" height="32" align="top" /></td>
+																<td valign="top">
+																	<table width="283" cellspacing="0" cellpadding="0">
+																		<tr>
+																			<td height="24" valign="top">%name9%</td>
+																			<td height="16" valign="top">%itemInfo9%</td>
+																		</tr>
+																		<tr>
+																			<td height="22" valign="top">%auctionerName9%
+																				%timeleft9%</td>
+																		</tr>
+																		<tr>
+																			<td height="16" valign="top">%buyout9%</td>
+																		</tr>
+																		<tr>
+																			<td height="16" valign="top">%minimalbid9%</td>
+																		</tr>
+																	</table>
+																</td>
+																<td width="32" valign="top">%button9%</td>
+															</tr>
+														</table>
+														<table width="%width11%" height="60" bgcolor="0f100f"
+															cellspacing="0" cellpadding="7">
+															<tr>
+																<td width="32" valign="top"><img src="%icon11%"
+																	width="32" height="32" align="top" /></td>
+																<td valign="top">
+																	<table width="283" cellspacing="0" cellpadding="0">
+																		<tr>
+																			<td height="24" valign="top">%name11%</td>
+																			<td height="16" valign="top">%itemInfo11%</td>
+																		</tr>
+																		<tr>
+																			<td height="22" valign="top">%auctionerName11%
+																				%timeleft11%</td>
+																		</tr>
+																		<tr>
+																			<td height="16" valign="top">%buyout11%</td>
+																		</tr>
+																		<tr>
+																			<td height="16" valign="top">%minimalbid11%</td>
+																		</tr>
+																	</table>
+																</td>
+																<td width="32" valign="top">%button11%</td>
+															</tr>
+														</table>
+													</td>
+												</tr>
+											</table>
+										</td>
+										<td>
+											<table width=100 cellpadding=0 cellspacing=0>
+												<tr>
+													<td>
+														<table width="100" height="25" bgcolor="000000"
+															cellspacing="0" cellpadding="7">
+															<tr>
+																<td valign="top">
+																	<table width="372" cellspacing="0" cellpadding="0">
+																		<tr>
+																			<td valign="top" align=right><font color=5b574c>Total
+																					Auctions : %allauctions%</font></td>
+																		</tr>
+																	</table>
+																</td>
+															</tr>
+														</table> <img src="L2UI_CT1.ChatBalloon_DF_TopCenter" width="385"
+														height="1" align="top" />
+														<table width="%width2%" height="60" bgcolor="0f100f"
+															cellspacing="0" cellpadding="7">
+															<tr>
+																<td width="32" valign="top"><img src="%icon2%"
+																	width="32" height="32" align="top" /></td>
+																<td valign="top">
+																	<table width="283" cellspacing="0" cellpadding="0">
+																		<tr>
+																			<td height="24" valign="top">%name2%</td>
+																			<td height="16" valign="top">%itemInfo2%</td>
+																		</tr>
+																		<tr>
+																			<td height="22" valign="top">%auctionerName2%
+																				%timeleft2%</td>
+																		</tr>
+																		<tr>
+																			<td height="16" valign="top">%buyout2%</td>
+																		</tr>
+																		<tr>
+																			<td height="16" valign="top">%minimalbid2%</td>
+																		</tr>
+																	</table>
+																</td>
+																<td width="32" valign="top">%button2%</td>
+															</tr>
+														</table>
+														<table width="%width4%" height="60" bgcolor="090908"
+															cellspacing="0" cellpadding="7">
+															<tr>
+																<td width="32" valign="top"><img src="%icon4%"
+																	width="32" height="32" align="top" /></td>
+																<td valign="top">
+																	<table width="283" cellspacing="0" cellpadding="0">
+																		<tr>
+																			<td height="24" valign="top">%name4%</td>
+																			<td height="16" valign="top">%itemInfo4%</td>
+																		</tr>
+																		<tr>
+																			<td height="22" valign="top">%auctionerName4%
+																				%timeleft4%</td>
+																		</tr>
+																		<tr>
+																			<td height="16" valign="top">%buyout4%</td>
+																		</tr>
+																		<tr>
+																			<td height="16" valign="top">%minimalbid4%</td>
+																		</tr>
+																	</table>
+																</td>
+																<td width="32" valign="top">%button4%</td>
+															</tr>
+														</table>
+														<table width="%width6%" height="60" bgcolor="0f100f"
+															cellspacing="0" cellpadding="7">
+															<tr>
+																<td width="32" valign="top"><img src="%icon6%"
+																	width="32" height="32" align="top" /></td>
+																<td valign="top">
+																	<table width="283" cellspacing="0" cellpadding="0">
+																		<tr>
+																			<td height="24" valign="top">%name6%</td>
+																			<td height="16" valign="top">%itemInfo6%</td>
+																		</tr>
+																		<tr>
+																			<td height="22" valign="top">%auctionerName6%
+																				%timeleft6%</td>
+																		</tr>
+																		<tr>
+																			<td height="16" valign="top">%buyout6%</td>
+																		</tr>
+																		<tr>
+																			<td height="16" valign="top">%minimalbid6%</td>
+																		</tr>
+																	</table>
+																</td>
+																<td width="32" valign="top">%button6%</td>
+															</tr>
+														</table>
+														<table width="%width8%" height="60" bgcolor="090908"
+															cellspacing="0" cellpadding="7">
+															<tr>
+																<td width="32" valign="top"><img src="%icon8%"
+																	width="32" height="32" align="top" /></td>
+																<td valign="top">
+																	<table width="283" cellspacing="0" cellpadding="0">
+																		<tr>
+																			<td height="24" valign="top">%name8%</td>
+																			<td height="16" valign="top">%itemInfo8%</td>
+																		</tr>
+																		<tr>
+																			<td height="22" valign="top">%auctionerName8%
+																				%timeleft8%</td>
+																		</tr>
+																		<tr>
+																			<td height="16" valign="top">%buyout8%</td>
+																		</tr>
+																		<tr>
+																			<td height="16" valign="top">%minimalbid8%</td>
+																		</tr>
+																	</table>
+																</td>
+																<td width="32" valign="top">%button8%</td>
+															</tr>
+														</table>
+														<table width="%width10%" height="60" bgcolor="0f100f"
+															cellspacing="0" cellpadding="7">
+															<tr>
+																<td width="32" valign="top"><img src="%icon10%"
+																	width="32" height="32" align="top" /></td>
+																<td valign="top">
+																	<table width="283" cellspacing="0" cellpadding="0">
+																		<tr>
+																			<td height="24" valign="top">%name10%</td>
+																			<td height="16" valign="top">%itemInfo10%</td>
+																		</tr>
+																		<tr>
+																			<td height="22" valign="top">%auctionerName10%
+																				%timeleft10%</td>
+																		</tr>
+																		<tr>
+																			<td height="16" valign="top">%buyout10%</td>
+																		</tr>
+																		<tr>
+																			<td height="16" valign="top">%minimalbid10%</td>
+																		</tr>
+																	</table>
+																</td>
+																<td width="32" valign="top">%button10%</td>
+															</tr>
+														</table>
+														<table width="%width12%" height="60" bgcolor="090908"
+															cellspacing="0" cellpadding="7">
+															<tr>
+																<td width="32" valign="top"><img src="%icon12%"
+																	width="32" height="32" align="top" /></td>
+																<td valign="top">
+																	<table width="283" cellspacing="0" cellpadding="0">
+																		<tr>
+																			<td height="24" valign="top">%name12%</td>
+																			<td height="16" valign="top">%itemInfo12%</td>
+																		</tr>
+																		<tr>
+																			<td height="22" valign="top">%auctionerName12%
+																				%timeleft12%</td>
+																		</tr>
+																		<tr>
+																			<td height="16" valign="top">%buyout12%</td>
+																		</tr>
+																		<tr>
+																			<td height="16" valign="top">%minimalbid12%</td>
+																		</tr>
+																	</table>
+																</td>
+																<td width="32" valign="top">%button12%</td>
+															</tr>
+														</table>
+													</td>
+												</tr>
+											</table>
+										</td>
+									</tr>
+								</table>
+							</td>
+						</tr>
+					</table>
+					<button width=0 height=12>
+						<img src="L2UI_CT1.ChatBalloon_DF_TopCenter" width="820"
+							height="1" align="top" /> <br>
+						<table width="715" cellpadding="0" cellspacing="0" valign="top">
+							<tr>
+								<td width="665" valign="top">%back%</td>
+								<td width="40" valign="top">%more%</td>
+							</tr>
+						</table>
+						<center>
+							<font color="5b574c"></font>
+						</center>
+				</td>
+			</tr>
+		</table>
+	</center>
+</body>
+</html>

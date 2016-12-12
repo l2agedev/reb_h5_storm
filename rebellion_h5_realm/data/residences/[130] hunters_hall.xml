@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE residence SYSTEM "residence.dtd">
+<residence id="130" name="Hunters Hall" impl="ClanHall" grade="30" rental_fee="500000" min_bid="20000000" deposit="1000000">
+	<support level="3" lease="7000"/>
+	<support level="13" lease="70000"/>
+	<support level="4" lease="11000"/>
+	<support level="14" lease="110000"/>
+	<support level="5" lease="21000"/>
+	<support level="15" lease="210000"/>
+	<item_create level="1" npcId="309" listId="400009" lease="30000"/>
+	<item_create level="2" npcId="309" listId="400010" lease="70000"/>
+	<item_create level="3" npcId="309" listId="400010" lease="140000"/>
+	<curtain level="1" lease="286"/>
+	<curtain level="2" lease="375"/>
+	<platform level="1" lease="433"/>
+	<platform level="2" lease="1333"/>
+	<restore_exp level="5" lease="3000"/>
+	<restore_exp level="15" lease="9000"/>
+	<restore_exp level="30" lease="18000"/>
+	<restore_hp level="80" lease="1000"/>
+	<restore_hp level="140" lease="1750"/>
+	<restore_hp level="200" lease="2500"/>
+	<restore_hp level="260" lease="4250"/>
+	<restore_mp level="5" lease="2000"/>
+	<restore_mp level="15" lease="6500"/>
+	<restore_mp level="30" lease="13750"/>
+	<restore_mp level="40" lease="20000"/>
+	<teleport level="1" lease="1000">
+		<target loc="147450 28081 -2294" name="1010678" price="0" StringName="Aden Town Square" StringNameLang="Площадь Адена"/><!--Aden Town Square-->
+		<target loc="81749 149171 -3464" name="1010665" price="0" StringName="Giran Town Square" StringNameLang="Площадь Гирана"/><!--Giran Town Square-->
+	</teleport>
+	<teleport level="2" lease="10000">
+		<target loc="147450 28081 -2294" name="1010678" price="0" StringName="Aden Town Square" StringNameLang="Площадь Адена"/><!--Aden Town Square-->
+		<target loc="81749 149171 -3464" name="1010665" price="0" StringName="Giran Town Square" StringNameLang="Площадь Гирана"/><!--Giran Town Square-->
+		<target loc="104426 33746 -3825" name="1010619" price="500" StringName="Enchanted Valley, Northern Region" StringNameLang="Волшебная Долина - север"/><!--Enchanted Valley, Northern Region-->
+		<target loc="155310 -16339 -3320" name="1010060" price="500" StringName="Blazing Swamp" StringNameLang="Раскаленные Топи"/><!--Blazing Swamp-->
+		<target loc="73024 118485 -3720" name="1010067" price="500" StringName="Dragon Valley" StringNameLang="Долина Драконов"/><!--Dragon Valley-->
+		<target loc="60374 164301 -2856" name="1010115" price="500" StringName="Tanor Canyon" StringNameLang="Каньон Танор"/><!--Tanor Canyon-->
+		<target loc="183985 61424 -3992" name="1010702" price="500" StringName="The Giant's Cave Upper Layer" StringNameLang="Верхний Этаж Пещеры Гигантов"/><!--The Giant's Cave Upper Layer-->
+		<target loc="191754 56760 -7624" name="1010703" price="500" StringName="The Giant's Cave Lower Layer" StringNameLang="Нижний Этаж Пещеры Гигантов"/><!--The Giant's Cave Lower Layer-->
+	</teleport>
+	<banish_points>
+		<point x="147450" y="28081" z="-2294" />
+	</banish_points>
+	<owner_restart_points>
+		<point x="120895" y="76958" z="-2120" />
+	</owner_restart_points>
+	<other_restart_points>
+		<point x="-14684" y="125655" z="-3142" />
+	</other_restart_points>
+	<chaos_restart_points>
+	</chaos_restart_points>
+</residence>

@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE list SYSTEM "tree.dtd">
+<!--Create by VISTALL-->
+<list>
+	<transfer_skill_tree>
+		<!--Cardinal-->
+		<class id="97">
+			<skill id="1013" level="32" name="Recharge" min_level="76" item_id="15307" item_count="1"/>
+			<skill id="1087" level="3" name="Agility" min_level="76" item_id="15307" item_count="1"/>
+			<skill id="1033" level="3" name="Resist Poison" min_level="76" item_id="15307" item_count="1"/>
+			<skill id="1257" level="3" name="Decrease Weight" min_level="76" item_id="15307" item_count="1"/>
+			<skill id="1059" level="3" name="Empower" min_level="76" item_id="15307" item_count="1"/>
+			<skill id="1268" level="4" name="Vampiric Rage" min_level="76" item_id="15307" item_count="1"/>
+			<skill id="1189" level="3" name="Resist Wind" min_level="76" item_id="15307" item_count="1"/>
+			<skill id="1303" level="2" name="Wild Magic" min_level="76" item_id="15307" item_count="1"/>
+			<skill id="1243" level="6" name="Bless Shield" min_level="76" item_id="15307" item_count="1"/>
+			<skill id="1259" level="4" name="Resist Shock" min_level="76" item_id="15307" item_count="1"/>
+			<skill id="1273" level="13" name="Serenade of Eva" min_level="76" item_id="15307" item_count="1"/>
+			<skill id="1050" level="2" name="Return" min_level="76" item_id="15307" item_count="1"/>
+			<skill id="1255" level="2" name="Party Recall" min_level="76" item_id="15307" item_count="1"/>
+			<skill id="1304" level="3" name="Advanced Block" min_level="76" item_id="15307" item_count="1"/>
+			<skill id="1393" level="3" name="Unholy Resistance" min_level="76" item_id="15307" item_count="1"/>
+			<skill id="1397" level="3" name="Clarity" min_level="76" item_id="15307" item_count="1"/>
+			<skill id="1240" level="3" name="Guidance" min_level="76" item_id="15307" item_count="1"/>
+			<skill id="1242" level="3" name="Death Whisper" min_level="76" item_id="15307" item_count="1"/>
+			<skill id="1531" level="7" name="Bless the Blood" min_level="76" item_id="15307" item_count="1"/>
+			<skill id="1392" level="3" name="Holy Resistance" min_level="76" item_id="15307" item_count="1"/>
+			<skill id="1539" level="4" name="Stigma of Shilien" min_level="76" item_id="15307" item_count="1"/>
+			<skill id="1059" level="3" name="Empower" min_level="76" item_id="15307" item_count="1"/>
+			<skill id="1268" level="4" name="Vampiric Rage" min_level="76" item_id="15307" item_count="1"/>
+			<skill id="1189" level="3" name="Resist Wind" min_level="76" item_id="15307" item_count="1"/>
+			<!-- Custom for PvP Server -->
+			<skill id="1234" level="28" name="Vampiric Claw" min_level="76" item_id="15307" item_count="1" custom="true" />
+			<skill id="1148" level="13" name="Death Spike" min_level="76" item_id="15307" item_count="1" custom="true" />
+			<skill id="1263" level="13" name="Curse Gloom" min_level="76" item_id="15307" item_count="1" custom="true" />
+			<skill id="1230" level="28" name="Prominence" min_level="76" item_id="15307" item_count="1" custom="true" />
+			<skill id="1083" level="17" name="Surrender To Fire" min_level="76" item_id="15307" item_count="1" custom="true" />
+			<skill id="1417" level="5" name="Aura Flash" min_level="76" item_id="15307" item_count="1" custom="true" />
+			<skill id="1275" level="14" name="Aura Bolt" min_level="76" item_id="15307" item_count="1" custom="true" />
+			<skill id="1231" level="28" name="Aura Flare" min_level="76" item_id="15307" item_count="1" custom="true" />
+			<skill id="1169" level="14" name="Curse Fear" min_level="76" item_id="15307" item_count="1" custom="true" />
+			<skill id="1296" level="9" name="Rain of Fire" min_level="76" item_id="15307" item_count="1" custom="true" />
+			<skill id="1159" level="12" name="Curse Death Link" min_level="76" item_id="15307" item_count="1" custom="true" />
+			<skill id="1064" level="14" name="Silence" min_level="76" item_id="15307" item_count="1" custom="true" />
+		</class>
+		<!--Hierophant-->
+		<class id="98">
+			<!-- Custom for PvP Server -->
+			<skill id="1234" level="28" name="Vampiric Claw" min_level="76" item_id="15307" item_count="1" />
+			<skill id="1148" level="13" name="Death Spike" min_level="76" item_id="15307" item_count="1" />
+			<skill id="1263" level="13" name="Curse Gloom" min_level="76" item_id="15307" item_count="1" />
+			<skill id="1230" level="28" name="Prominence" min_level="76" item_id="15307" item_count="1" />
+			<skill id="1083" level="17" name="Surrender To Fire" min_level="76" item_id="15307" item_count="1" />
+			<skill id="1417" level="5" name="Aura Flash" min_level="76" item_id="15307" item_count="1" />
+			<skill id="1275" level="14" name="Aura Bolt" min_level="76" item_id="15307" item_count="1" />
+			<skill id="1231" level="28" name="Aura Flare" min_level="76" item_id="15307" item_count="1" />
+			<skill id="1169" level="14" name="Curse Fear" min_level="76" item_id="15307" item_count="1" />
+			<skill id="1296" level="9" name="Rain of Fire" min_level="76" item_id="15307" item_count="1" />
+			<skill id="1159" level="12" name="Curse Death Link" min_level="76" item_id="15307" item_count="1" />
+			<skill id="1064" level="14" name="Silence" min_level="76" item_id="15307" item_count="1" />
+			<skill id="1170" level="13" name="Anchor" min_level="76" item_id="15307" item_count="1" />
+			<skill id="1154" level="6" name="Summon Corrupted Man" min_level="76" item_id="15307" item_count="1" />
+			<skill id="1262" level="5" name="Transfer Pain" min_level="76" item_id="15307" item_count="1" />
+			<skill id="1056" level="12" name="Cancellation" min_level="76" item_id="15307" item_count="1" />		
+			<skill id="1343" level="1" name="Dark Vortex" min_level="76" item_id="15307" item_count="1" />
+			<skill id="1339" level="1" name="Fire Vortex" min_level="76" item_id="15307" item_count="1" />
+		</class>
+		<!--Eva Saints-->
+		<class id="105">
+			<skill id="1077" level="3" name="Focus" min_level="76" item_id="15308" item_count="1"/>
+			<skill id="1075" level="15" name="Peace" min_level="76" item_id="15308" item_count="1"/>
+			<skill id="1018" level="3" name="Purify" min_level="76" item_id="15308" item_count="1"/>
+			<skill id="1218" level="33" name="Greater Battle Heal" min_level="76" item_id="15308" item_count="1"/>
+			<skill id="1254" level="6" name="Mass Resurrection" min_level="76" item_id="15308" item_count="1"/>
+			<skill id="1049" level="14" name="Requiem" min_level="76" item_id="15308" item_count="1"/>
+			<skill id="1034" level="13" name="Repose" min_level="76" item_id="15308" item_count="1"/>
+			<skill id="1258" level="4" name="Restore Life" min_level="76" item_id="15308" item_count="1"/>
+			<skill id="1042" level="12" name="Hold Undead" min_level="76" item_id="15308" item_count="1"/>
+			<skill id="1311" level="6" name="Body of Avatar" min_level="76" item_id="15308" item_count="1"/>
+			<skill id="1396" level="10" name="Magical Backfire" min_level="76" item_id="15308" item_count="1"/>
+			<skill id="1399" level="5" name="Mana Storm" min_level="76" item_id="15308" item_count="1"/>
+			<skill id="1402" level="5" name="Major Group Heal" min_level="76" item_id="15308" item_count="1"/>
+			<skill id="1418" level="1" name="Celestial Shield" min_level="76" item_id="15308" item_count="1"/>
+			<skill id="1271" level="1" name="Benediction" min_level="76" item_id="15308" item_count="1"/>
+			<skill id="1307" level="3" name="Prayer" min_level="76" item_id="15308" item_count="1"/>
+			<skill id="1240" level="3" name="Guidance" min_level="76" item_id="15308" item_count="1"/>
+			<skill id="1059" level="3" name="Empower" min_level="76" item_id="15308" item_count="1"/>
+			<skill id="1268" level="4" name="Vampiric Rage" min_level="76" item_id="15308" item_count="1"/>
+			<skill id="1242" level="3" name="Death Whisper" min_level="76" item_id="15308" item_count="1"/>
+			<skill id="1531" level="7" name="Bless the Blood" min_level="76" item_id="15308" item_count="1"/>
+			<skill id="1392" level="3" name="Holy Resistance" min_level="76" item_id="15308" item_count="1"/>
+			<skill id="1539" level="4" name="Stigma of Shilien" min_level="76" item_id="15308" item_count="1"/>
+			<skill id="1189" level="3" name="Resist Wind" min_level="76" item_id="15308" item_count="1"/>
+			<!-- Custom for PvP Server -->
+			<skill id="1275" level="14" name="Aura Bolt" min_level="76" item_id="15308" item_count="1" custom="true" />
+			<skill id="1231" level="28" name="Aura Flare" min_level="76" item_id="15308" item_count="1" custom="true" />
+			<skill id="1169" level="14" name="Curse Fear" min_level="76" item_id="15308" item_count="1" custom="true" />
+			<skill id="1164" level="19" name="Curse Weakness" min_level="76" item_id="15308" item_count="1" custom="true" />
+			<skill id="1236" level="19" name="Frost Bolt" min_level="76" item_id="15308" item_count="1" custom="true" />
+			<skill id="1265" level="14" name="Solar Flare" min_level="76" item_id="15308" item_count="1" custom="true" />
+			<skill id="1235" level="28" name="Hydro Blast" min_level="76" item_id="15308" item_count="1" custom="true" />
+			<skill id="1071" level="14" name="Surrender To Water" min_level="76" item_id="15308" item_count="1" custom="true" />
+			<skill id="1295" level="9" name="Aqua Splash" min_level="76" item_id="15308" item_count="1" custom="true" />
+			<skill id="1237" level="17" name="Ice Dagger" min_level="76" item_id="15308" item_count="1" custom="true" />
+			<skill id="1417" level="5" name="Aura Flash" min_level="76" item_id="15308" item_count="1" custom="true" />
+			<skill id="1174" level="22" name="Frost Wall" min_level="76" item_id="15308" item_count="1" custom="true" />
+			<skill id="1288" level="1" name="Aura Symphony" min_level="76" item_id="15308" item_count="1" custom="true" />
+			<skill id="1290" level="1" name="Blizzard" min_level="76" item_id="15308" item_count="1" custom="true" />
+			<skill id="1293" level="1" name="Elemental Symphony" min_level="76" item_id="15308" item_count="1" custom="true" />
+		</class>
+		<!--Shillen Saints-->
+		<class id="112">
+			<skill id="1044" level="3" name="Regeneration" min_level="76" item_id="15309" item_count="1"/>
+			<skill id="1075" level="15" name="Peace" min_level="76" item_id="15309" item_count="1"/>
+			<skill id="1087" level="3" name="Agility" min_level="76" item_id="15309" item_count="1"/>
+			<skill id="1033" level="3" name="Resist Poison" min_level="76" item_id="15309" item_count="1"/>
+			<skill id="1257" level="3" name="Decrease Weight" min_level="76" item_id="15309" item_count="1"/>
+			<skill id="1218" level="33" name="Greater Battle Heal" min_level="76" item_id="15309" item_count="1"/>
+			<skill id="1254" level="6" name="Mass Resurrection" min_level="76" item_id="15309" item_count="1"/>
+			<skill id="1049" level="14" name="Requiem" min_level="76" item_id="15309" item_count="1"/>
+			<skill id="1034" level="13" name="Repose" min_level="76" item_id="15309" item_count="1"/>
+			<skill id="1258" level="4" name="Restore Life" min_level="76" item_id="15309" item_count="1"/>
+			<skill id="1042" level="12" name="Hold Undead" min_level="76" item_id="15309" item_count="1"/>
+			<skill id="1311" level="6" name="Body of Avatar" min_level="76" item_id="15309" item_count="1"/>
+			<skill id="1396" level="10" name="Magical Backfire" min_level="76" item_id="15309" item_count="1"/>
+			<skill id="1399" level="5" name="Mana Storm" min_level="76" item_id="15309" item_count="1"/>
+			<skill id="1402" level="5" name="Major Group Heal" min_level="76" item_id="15309" item_count="1"/>
+			<skill id="1418" level="1" name="Celestial Shield" min_level="76" item_id="15309" item_count="1"/>
+			<skill id="1271" level="1" name="Benediction" min_level="76" item_id="15309" item_count="1"/>
+			<skill id="1307" level="3" name="Prayer" min_level="76" item_id="15309" item_count="1"/>
+			<skill id="1243" level="6" name="Bless Shield" min_level="76" item_id="15309" item_count="1"/>
+			<skill id="1259" level="4" name="Resist Shock" min_level="76" item_id="15309" item_count="1"/>
+			<skill id="1273" level="13" name="Serenade of Eva" min_level="76" item_id="15309" item_count="1"/>
+			<skill id="1050" level="2" name="Return" min_level="76" item_id="15309" item_count="1"/>
+			<skill id="1255" level="2" name="Party Recall" min_level="76" item_id="15309" item_count="1"/>
+			<skill id="1304" level="3" name="Advanced Block" min_level="76" item_id="15309" item_count="1"/>
+			<skill id="1393" level="3" name="Unholy Resistance" min_level="76" item_id="15309" item_count="1"/>
+			<skill id="1397" level="3" name="Clarity" min_level="76" item_id="15309" item_count="1"/>
+			<skill id="1401" level="11" name="Major Heal" min_level="76" item_id="15309" item_count="1"/>
+			<skill id="1020" level="27" name="Vitalize" min_level="76" item_id="15309" item_count="1"/>
+			<skill id="1028" level="19" name="Might of Heaven" min_level="76" item_id="15309" item_count="1"/>
+			<skill id="1394" level="10" name="Trance" min_level="76" item_id="15309" item_count="1"/>
+			<skill id="1400" level="10" name="Turn Undead" min_level="76" item_id="15309" item_count="1"/>
+			<!-- Custom for PvP Server -->
+			<skill id="1222" level="15" name="Curse Chaos" min_level="76" item_id="15309" item_count="1" custom="true" />
+			<skill id="1169" level="14" name="Curse Fear" min_level="76" item_id="15309" item_count="1" custom="true" />
+			<skill id="1239" level="28" name="Hurricane" min_level="76" item_id="15309" item_count="1" custom="true" />
+			<skill id="1267" level="14" name="Shadow Flare" min_level="76" item_id="15309" item_count="1" custom="true" />
+			<skill id="1160" level="15" name="Slow" min_level="76" item_id="15309" item_count="1" custom="true" />
+			<skill id="1074" level="14" name="Surrender To Wind" min_level="76" item_id="15309" item_count="1" custom="true" />
+			<skill id="1234" level="28" name="Vampiric Claw" min_level="76" item_id="15309" item_count="1" custom="true" />
+			<skill id="1148" level="13" name="Death Spike" min_level="76" item_id="15309" item_count="1" custom="true" />
+			<skill id="1176" level="15" name="Tempest" min_level="76" item_id="15309" item_count="1" custom="true" />
+			<skill id="1417" level="5" name="Aura Flash" min_level="76" item_id="15309" item_count="1" custom="true" />
+			<skill id="1288" level="1" name="Aura Symphony" min_level="76" item_id="15309" item_count="1" custom="true" />
+			<skill id="1291" level="1" name="Demon Wind" min_level="76" item_id="15309" item_count="1" custom="true" />
+			<skill id="1294" level="1" name="Elemental Storm" min_level="76" item_id="15309" item_count="1" custom="true" />
+			<skill id="1343" level="1" name="Dark Vortex" min_level="76" item_id="15309" item_count="1" custom="true" />
+		</class>
+		<!-- Spectral Dancer -->
+		<class id="107">
+			<!-- Custom for PvP Server -->
+			<skill id="232" level="52" name="Heavy Armor Mastery" min_level="76" item_id="15309" item_count="1" custom="true" />
+			<skill id="788" level="1" name="Pain of Shilen" min_level="76" item_id="15309" item_count="1" custom="true" />
+			<skill id="789" level="1" name="Spirit of Shilen" min_level="76" item_id="15309" item_count="1" custom="true" />
+			<skill id="342" level="1" name="Touch of Death" min_level="76" item_id="15309" item_count="1" custom="true" />
+			<skill id="401" level="10" name="Judgment" min_level="76" item_id="15309" item_count="1" custom="true" /> 
+			<skill id="110" level="2" name="Ultimate Defense" min_level="76" item_id="15309" item_count="1" custom="true" />
+			<skill id="8" level="8" name="Sonic Focus" min_level="76" item_id="15309" item_count="1" custom="true" />
+			<skill id="992" level="8" name="Sonic Mastery" min_level="76" item_id="15309" item_count="1" custom="true" />
+			<skill id="1" level="37" name="Triple Slash" min_level="76" item_id="15309" item_count="1" custom="true" />
+			<skill id="6" level="37" name="Sonic Blaster" min_level="76" item_id="15309" item_count="1" custom="true" />
+			<skill id="9" level="34" name="Sonic Buster" min_level="76" item_id="15309" item_count="1" custom="true" />
+			<skill id="78" level="2" name="War Cry" min_level="76" item_id="15309" item_count="1" custom="true" />
+			<skill id="7" level="28" name="Sonic Storm" min_level="76" item_id="15309" item_count="1" custom="true" />
+			<skill id="287" level="3" name="Lionheart" min_level="76" item_id="15309" item_count="1" custom="true" />
+			<skill id="261" level="22" name="Triple Sonic Slash" min_level="76" item_id="15309" item_count="1" custom="true" />
+			<skill id="297" level="2" name="Duelist Spirit" min_level="76" item_id="15309" item_count="1" custom="true" />
+			<skill id="345" level="1" name="Sonic Rage" min_level="76" item_id="15309" item_count="1" custom="true" />
+			<skill id="917" level="1" name="Final Secret" min_level="76" item_id="15309" item_count="1" custom="true" />
+			<skill id="919" level="1" name="Maximum Focus Sonic" min_level="76" item_id="15309" item_count="1" custom="true" />
+			<skill id="208" level="52" name="Bow Mastery" min_level="76" item_id="15309" item_count="1" custom="true" />
+			<skill id="19" level="37" name="Double Shot" min_level="76" item_id="15309" item_count="1" custom="true" />
+			<skill id="233" level="47" name="Light Armor Mastery" min_level="76" item_id="15309" item_count="1" custom="true" />
+			<skill id="113" level="2" name="Long Shot" min_level="76" item_id="15309" item_count="1" custom="true" />
+			<skill id="101" level="40" name="Stun Shot" min_level="76" item_id="15309" item_count="1" custom="true" />
+			<skill id="169" level="2" name="Quick Step" min_level="76" item_id="15309" item_count="1" custom="true" />
+			<skill id="99" level="2" name="Rapid Shot" min_level="76" item_id="15309" item_count="1" custom="true" />
+			<skill id="414" level="8" name="Dead Eye" min_level="76" item_id="15309" item_count="1" custom="true" />
+			<skill id="343" level="1" name="Lethal Shot" min_level="76" item_id="15309" item_count="1" custom="true" />
+			<skill id="354" level="1" name="Hamstring Shot" min_level="76" item_id="15309" item_count="1" custom="true" />
+			<skill id="369" level="1" name="Evade Shot" min_level="76" item_id="15309" item_count="1" custom="true" />
+			<skill id="924" level="1" name="Seven Arrows" min_level="76" item_id="15309" item_count="1" custom="true" />
+			<skill id="987" level="1" name="Multiple Shot" min_level="76" item_id="15309" item_count="1" custom="true" />
+			<skill id="990" level="1" name="Death Shot" min_level="76" item_id="15309" item_count="1" custom="true" />
+			<skill id="773" level="1" name="Ghost Piercing" min_level="76" item_id="15309" item_count="1" custom="true" />
+		</class>
+		<!-- Sword Muse -->
+		<class id="100">
+			<!-- Custom for PvP Server -->
+			<skill id="232" level="52" name="Heavy Armor Mastery" min_level="76" item_id="15308" item_count="1" custom="true" />
+			<skill id="153" level="4" name="Shield Mastery" min_level="76" item_id="15308" item_count="1" custom="true" />
+			<skill id="984" level="25" name="Shield Strike" min_level="76" item_id="15308" item_count="1" custom="true" />
+			<skill id="288" level="4" name="Guard Stance" min_level="76" item_id="15308" item_count="1" custom="true" />
+			<skill id="982" level="3" name="Combat Aura" min_level="76" item_id="15308" item_count="1" custom="true" />
+			<skill id="400" level="10" name="Tribunal" min_level="76" item_id="15308" item_count="1" custom="true" />
+			<skill id="316" level="1" name="Aegis" min_level="76" item_id="15308" item_count="1" custom="true" />
+			<skill id="916" level="4" name="Shield Deflect Magic" min_level="76" item_id="15308" item_count="1" custom="true" />
+			<skill id="322" level="6" name="Shield Fortress" min_level="76" item_id="15308" item_count="1" custom="true" />
+			<skill id="352" level="1" name="Shield Bash" min_level="76" item_id="15308" item_count="1" custom="true" />
+			<skill id="110" level="2" name="Ultimate Defense" min_level="76" item_id="15308" item_count="1" custom="true" />
+			<skill id="368" level="1" name="Vengeance" min_level="76" item_id="15308" item_count="1" custom="true" />
+			<skill id="351" level="1" name="Magical Mirror" min_level="76" item_id="15308" item_count="1" custom="true" />
+			<skill id="341" level="1" name="Touch of Life" min_level="76" item_id="15308" item_count="1" custom="true" />
+			<skill id="527" level="1" name="Iron Shield" min_level="76" item_id="15308" item_count="1" custom="true" />
+			<skill id="985" level="1" name="Challenge for Fate" min_level="76" item_id="15308" item_count="1" custom="true" />
+			<skill id="208" level="52" name="Bow Mastery" min_level="76" item_id="15308" item_count="1" custom="true" />
+			<skill id="19" level="37" name="Double Shot" min_level="76" item_id="15308" item_count="1" custom="true" />
+			<skill id="233" level="47" name="Light Armor Mastery" min_level="76" item_id="15308" item_count="1" custom="true" />
+			<skill id="113" level="2" name="Long Shot" min_level="76" item_id="15308" item_count="1" custom="true" />
+			<skill id="169" level="2" name="Quick Step" min_level="76" item_id="15308" item_count="1" custom="true" />
+			<skill id="101" level="40" name="Stun Shot" min_level="76" item_id="15308" item_count="1" custom="true" />
+			<skill id="24" level="31" name="Burst Shot" min_level="76" item_id="15308" item_count="1" custom="true" />
+			<skill id="99" level="2" name="Rapid Shot" min_level="76" item_id="15308" item_count="1" custom="true" />
+			<skill id="413" level="8" name="Rapid Fire" min_level="76" item_id="15308" item_count="1" custom="true" />
+			<skill id="343" level="1" name="Lethal Shot" min_level="76" item_id="15308" item_count="1" custom="true" />
+			<skill id="354" level="1" name="Hamstring Shot" min_level="76" item_id="15308" item_count="1" custom="true" />
+			<skill id="369" level="1" name="Evade Shot" min_level="76" item_id="15308" item_count="1" custom="true" />
+			<skill id="924" level="1" name="Seven Arrow" min_level="76" item_id="15308" item_count="1" custom="true" />
+			<skill id="987" level="1" name="Multiple Shot" min_level="76" item_id="15308" item_count="1" custom="true" />
+			<skill id="772" level="1" name="Arrow Rain" min_level="76" item_id="15308" item_count="1" custom="true" />
+			<skill id="990" level="1" name="Death Shot" min_level="76" item_id="15308" item_count="1" custom="true" />
+		</class>
+	</transfer_skill_tree>
+</list>

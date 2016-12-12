@@ -1,0 +1,387 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+	<!--- TODO: event category and synch from playerkill system, new achievements.. maybe add even more and remove rewards -->
+	<!-- EXAMPLE:
+	<achievement id="45" cat="5" type="_treasure_box_opened" desc="Open %need% chests.">
+		<levels>
+			<lvl id="1" name="Treasure searcher" icon="icon.skill0419" need="10" fame="0"/>
+			<lvl id="2" name="Treasure searcher" icon="icon.skill0419" need="100" fame="0"/>
+			<lvl id="2" name="Treasure searcher" icon="icon.skill0419" need="500" fame="0"/>
+			<lvl id="2" name="Treasure searcher" icon="icon.skill0419" need="1000" fame="0"/>
+		</levels>
+		<rewards> - reward is multiplied by the level reached for achievement ID.
+			<item id="14687" count="3" name="Greater Elixir of Life (S-Grade)"/>
+			<item id="14699" count="5" name="Greater Elixir of CP (S-Grade"/>
+		</rewards>
+	</achievement>
+	-->
+	
+	<categories>
+		<kitekat>
+			<cat id="1" name="Farming" desc="Monsters, raid bosses, fishing, etc.." icon="icon.skill4108"/>
+			<cat id="2" name="PvP" desc="Everything related to PvP - kills, deaths, etc.." icon="icon.skill0536"/>
+			<cat id="3" name="Event" desc="Main and Mini events." icon="icon.skill0912"/>
+			<cat id="4" name="Clan" desc="Sieges, fortress battles, clan wars, etc.." icon="icon.skill0946"/>
+			<cat id="5" name="Others" desc="Others.. skills,crafting, etc.." icon="icon.skill5739"/>
+		</kitekat>
+	</categories>
+
+	<!-- Enemy achievements -->
+	<achievement id="1" cat="1" type="_Monsters_Killed" desc="You need to kill %need% monsters.">
+		<levels>
+			<lvl id="1" name="Hate Monsters" icon="icon.skill1539" need="1000" fame="50"/>
+			<lvl id="2" name="Hate Monsters" icon="icon.skill1539" need="5000" fame="500"/>
+			<lvl id="3" name="Hate Monsters" icon="icon.skill1539" need="10000" fame="1000"/>
+			<lvl id="4" name="Hate Monsters" icon="icon.skill1539" need="25000" fame="3000"/>
+			<lvl id="5" name="Hate Monsters" icon="icon.skill1539" need="50000" fame="7000"/>
+			<lvl id="6" name="Hate Monsters" icon="icon.skill1539" need="100000" fame="10000"/>
+			<lvl id="7" name="Hate Monsters" icon="icon.skill1539" need="250000" fame="20000"/>
+			<lvl id="8" name="Hate Monsters" icon="icon.skill1539" need="500000" fame="40000"/>
+			<lvl id="9" name="Hate Monsters" icon="icon.skill1539" need="1000000" fame="50000"/>
+		</levels>
+	</achievement>
+	<achievement id="2" cat="1" type="_Raids_Killed" desc="You need to kill %need% raidbosses.">
+		<levels>
+			<lvl id="1" name="Raid Slayer" icon="icon.skill4289" need="10" fame="200"/>
+			<lvl id="2" name="Raid Slayer" icon="icon.skill4289" need="50" fame="500"/>
+			<lvl id="3" name="Raid Slayer" icon="icon.skill4289" need="100" fame="1000"/>
+			<lvl id="4" name="Raid Slayer" icon="icon.skill4289" need="250" fame="5000"/>
+			<lvl id="5" name="Raid Slayer" icon="icon.skill4289" need="500" fame="10000"/>
+			<lvl id="6" name="Raid Slayer" icon="icon.skill4289" need="1000" fame="50000"/>
+			<lvl id="7" name="Raid Slayer" icon="icon.skill4289" need="2500" fame="100000"/>
+		</levels>
+	</achievement>
+	<achievement id="3" cat="1" type="_Fish_Caught" desc="Catch %need% fishes from the island waters.">
+		<levels>
+			<lvl id="1" name="Fisherman" icon="icon.skill1319" need="50" fame="100"/>
+			<lvl id="2" name="Fisherman" icon="icon.skill1319" need="100" fame="300"/>
+			<lvl id="3" name="Fisherman" icon="icon.skill1319" need="250" fame="500"/>
+			<lvl id="4" name="Fisherman" icon="icon.skill1319" need="500" fame="700"/>
+			<lvl id="5" name="Fisherman" icon="icon.skill1319" need="1000" fame="1000"/>
+			<lvl id="6" name="Fisherman" icon="icon.skill1319" need="2500" fame="2000"/>
+			<lvl id="7" name="Fisherman" icon="icon.skill1319" need="5000" fame="5000"/>
+			<lvl id="8" name="Fisherman" icon="icon.skill1319" need="10000" fame="10000"/>
+		</levels>
+	</achievement>
+	<achievement id="4" cat="1" type="_Manor_Seeds_Sow" desc="Harvest successfully %need% monsters.">
+		<levels>
+			<lvl id="1" name="Seeder" icon="icon.etc_reaper_i00" need="50" fame="100"/>
+			<lvl id="2" name="Seeder" icon="icon.etc_reaper_i00" need="100" fame="250"/>
+			<lvl id="3" name="Seeder" icon="icon.etc_reaper_i00" need="250" fame="400"/>
+			<lvl id="4" name="Seeder" icon="icon.etc_reaper_i00" need="500" fame="600"/>
+		</levels>
+	</achievement>
+	<achievement id="5" cat="1" type="_Antharas_Killed" desc="Kill antharas %need% time(s).">
+		<levels>
+			<lvl id="1" name="Antharas murder" icon="icon.accessory_earring_of_antaras_i00" need="1" fame="5000"/>
+		</levels>
+	</achievement>
+	<achievement id="6" cat="1" type="_Baium_Killed" desc="Kill baium %need% time(s).">
+		<levels>
+			<lvl id="1" name="Baium murder" icon="icon.accessory_ring_of_baium_i00" need="1" fame="1000" />
+		</levels>
+	</achievement>
+	<achievement id="7" cat="1" type="_Valakas_Killed" desc="Kill valakas %need% time(s).">
+		<levels>
+			<lvl id="1" name="Valakas murder" icon="icon.accessory_necklace_of_valakas_i00" need="1" fame="10000"/>
+		</levels>
+	</achievement>
+	<achievement id="8" cat="1" type="_Orfen_Killed" desc="Kill orfen %need% time(s).">
+		<levels>
+			<lvl id="1" name="Orfen slayer" icon="icon.accessory_earring_of_orfen_i00" need="1" fame="500"/>
+		</levels>
+	</achievement>
+	<achievement id="9" cat="1" type="_Ant_Queen_Killed" desc="Kill Queen Ant %need% time(s).">
+		<levels>
+			<lvl id="1" name="Queen Ant murder" icon="icon.accessory_ring_of_queen_ant_i00" need="1" fame="500"/>
+		</levels>
+	</achievement>
+	<achievement id="10" cat="1" type="_Core_Killed" desc="Kill Core %need% time(s).">
+		<levels>
+			<lvl id="1" name="Core murder" icon="icon.accessory_ring_of_core_i00" need="1" fame="500"/>
+		</levels>
+	</achievement>
+	<achievement id="11" cat="1" type="_Beleth_Killed" desc="Kill Beleth %need% time(s).">
+		<levels>
+			<lvl id="1" name="Beleth murder" icon="icon.accessary_dynasty_ring_i00" need="1" fame="700"/>
+		</levels>
+	</achievement>
+	<achievement id="12" cat="1" type="_Baylor_Killed" desc="Kill Baylor %need% time(s).">
+		<levels>
+			<lvl id="1" name="Baylor murder" icon="icon.accessary_dynasty_earing_i00" need="1" fame="700"/>
+		</levels>
+	</achievement>
+	<achievement id="13" cat="1" type="_Sailren_Killed" desc="Kill Sailren %need% time(s).">
+		<levels>
+			<lvl id="1" name="Sailren murder" icon="icon.skill0930" need="1" fame="800"/>
+		</levels>
+	</achievement>
+	<achievement id="14" cat="1" type="_Champions_Killed" desc="Kill %need% champion mobs.">
+		<levels>
+			<lvl id="1" name="True Champion" icon="icon.skill1129" need="10" fame="100"/>
+			<lvl id="2" name="True Champion" icon="icon.skill1129" need="50" fame="200"/>
+			<lvl id="3" name="True Champion" icon="icon.skill1129" need="100" fame="500"/>
+			<lvl id="4" name="True Champion" icon="icon.skill1129" need="250" fame="700"/>
+			<lvl id="5" name="True Champion" icon="icon.skill1129" need="500" fame="900"/>
+			<lvl id="6" name="True Champion" icon="icon.skill1129" need="1000" fame="1000"/>
+			<lvl id="7" name="True Champion" icon="icon.skill1129" need="2500" fame="2000"/>
+		</levels>
+	</achievement>
+
+	<!-- Combo achievements -->
+	<achievement id="21" cat="2" type="_PvP" desc="You need to win %need% PvPs.">
+		<levels>
+			<lvl id="1" name="Head Hunter" icon="icon.skill0522" need="50" fame="100"/>
+			<lvl id="2" name="Head Hunter" icon="icon.skill0522" need="100" fame="100"/>
+			<lvl id="3" name="Head Hunter" icon="icon.skill0522" need="150" fame="100"/>
+			<lvl id="4" name="Head Hunter" icon="icon.skill0522" need="200" fame="250"/>
+			<lvl id="5" name="Head Hunter" icon="icon.skill0522" need="300" fame="250"/>
+			<lvl id="6" name="Head Hunter" icon="icon.skill0522" need="400" fame="350"/>
+			<lvl id="7" name="Head Hunter" icon="icon.skill0522" need="500" fame="450"/>
+			<lvl id="8" name="Head Hunter" icon="icon.skill0522" need="600" fame="550"/>
+			<lvl id="9" name="Head Hunter" icon="icon.skill0522" need="700" fame="650"/>
+			<lvl id="10" name="Head Hunter" icon="icon.skill0522" need="800" fame="750"/>
+			<lvl id="11" name="Head Hunter" icon="icon.skill0522" need="900" fame="850"/>
+			<lvl id="12" name="Head Hunter" icon="icon.skill0522" need="1000" fame="1000"/>
+			<lvl id="13" name="Head Hunter" icon="icon.skill0522" need="1200" fame="1100"/>
+			<lvl id="14" name="Head Hunter" icon="icon.skill0522" need="1400" fame="1200"/>
+			<lvl id="15" name="Head Hunter" icon="icon.skill0522" need="1600" fame="1300"/>
+			<lvl id="16" name="Head Hunter" icon="icon.skill0522" need="1800" fame="1400"/>
+			<lvl id="17" name="Head Hunter" icon="icon.skill0522" need="2000" fame="1500"/>
+			<lvl id="18" name="Head Hunter" icon="icon.skill0522" need="2250" fame="2600"/>
+			<lvl id="19" name="Head Hunter" icon="icon.skill0522" need="2500" fame="2700"/>
+			<lvl id="20" name="Head Hunter" icon="icon.skill0522" need="2750" fame="2800"/>
+			<lvl id="21" name="Head Hunter" icon="icon.skill0522" need="3000" fame="2900"/>
+			<lvl id="22" name="Head Hunter" icon="icon.skill0522" need="3500" fame="3000"/>
+			<lvl id="23" name="Head Hunter" icon="icon.skill0522" need="4000" fame="4000"/>
+			<lvl id="24" name="Head Hunter" icon="icon.skill0522" need="4500" fame="5000"/>
+			<lvl id="25" name="Head Hunter" icon="icon.skill0522" need="5000" fame="6000"/>
+			<lvl id="26" name="Head Hunter" icon="icon.skill0522" need="6000" fame="7000"/>
+			<lvl id="27" name="Head Hunter" icon="icon.skill0522" need="7000" fame="8000"/>
+			<lvl id="28" name="Head Hunter" icon="icon.skill0522" need="8000" fame="9000"/>
+			<lvl id="29" name="Head Hunter" icon="icon.skill0522" need="9000" fame="10000"/>
+			<lvl id="30" name="Head Hunter" icon="icon.skill0522" need="10000" fame="100000"/>
+		</levels>
+	</achievement>
+	<achievement id="22" cat="2" type="_Times_Died" desc="You need to die %need% times.">
+		<levels>
+			<lvl id="1" name="Emo Satisfaction" icon="icon.skill0103" need="100" fame="100"/>
+			<lvl id="2" name="Emo Satisfaction" icon="icon.skill0103" need="250" fame="250"/>
+			<lvl id="3" name="Emo Satisfaction" icon="icon.skill0103" need="500" fame="500"/>
+			<lvl id="4" name="Emo Satisfaction" icon="icon.skill0103" need="1000" fame="1000"/>
+			<lvl id="5" name="Emo Satisfaction" icon="icon.skill0103" need="2000" fame="2000"/>
+			<lvl id="6" name="Emo Satisfaction" icon="icon.skill0103" need="3000" fame="3000"/>
+			<lvl id="7" name="Emo Satisfaction" icon="icon.skill0103" need="4000" fame="4000"/>
+			<lvl id="8" name="Emo Satisfaction" icon="icon.skill0103" need="5000" fame="5000"/>
+			<lvl id="9" name="Emo Satisfaction" icon="icon.skill0103" need="7500" fame="7500"/>
+			<lvl id="10" name="Emo Satisfaction" icon="icon.skill0103" need="10000" fame="10000"/>
+		</levels>
+	</achievement>
+	<achievement id="23" cat="2" type="_Players_Ressurected" desc="You need to resurrect player %need% time(s).">
+		<levels>
+			<lvl id="1" name="Real support" icon="icon.skill4450" need="20" fame="100"/>
+			<lvl id="2" name="Real support" icon="icon.skill4450" need="100" fame="250"/>
+			<lvl id="3" name="Real support" icon="icon.skill4450" need="300" fame="350"/>
+			<lvl id="4" name="Real support" icon="icon.skill4450" need="500" fame="450"/>
+		</levels>
+	</achievement>
+	<achievement id="24" cat="2" type="_Duels_Won" desc="Win %need% duels against enemy.">
+		<levels>
+			<lvl id="1" name="Gladiator" icon="icon.skill3238" need="20" fame="100"/>
+			<lvl id="2" name="Gladiator" icon="icon.skill3238" need="100" fame="250"/>
+			<lvl id="3" name="Gladiator" icon="icon.skill3238" need="200" fame="350"/>
+		</levels>
+	</achievement>
+	<achievement id="25" cat="2" type="_Summons_Killed" desc="Destroy %need% enemy summons.">
+		<levels>
+			<lvl id="1" name="Summon slayer" icon="icon.skill1407" need="10" fame="100"/>
+			<lvl id="2" name="Summon slayer" icon="icon.skill1407" need="100" fame="250"/>
+			<lvl id="3" name="Summon slayer" icon="icon.skill1407" need="200" fame="500"/>
+		</levels>
+	</achievement>
+	
+	<!-- Events achievements -->
+	<achievement id="30" cat="3" type="_Main_Events" desc="Participitate in %need% Main events.">
+		<levels>
+			<lvl id="1" name="Just for the Fun" icon="L2UI_CT1.EventBtnWnd_DF_LastRankBtn" need="10" fame="100"/>
+			<lvl id="2" name="Just for the Fun" icon="L2UI_CT1.EventBtnWnd_DF_LastRankBtn" need="100" fame="250"/>
+			<lvl id="3" name="Just for the Fun" icon="L2UI_CT1.EventBtnWnd_DF_LastRankBtn" need="200" fame="500"/>
+		</levels>
+	</achievement>
+	<achievement id="31" cat="3" type="_Mini_Events" desc="Participitate in %need% Mini events.">
+		<levels>
+			<lvl id="1" name="Fun for the Just" icon="L2UI_CT1.EventBtnWnd_DF_LastRankBtn" need="10" fame="100"/>
+			<lvl id="2" name="Fun for the Just" icon="L2UI_CT1.EventBtnWnd_DF_LastRankBtn" need="100" fame="250"/>
+			<lvl id="3" name="Fun for the Just" icon="L2UI_CT1.EventBtnWnd_DF_LastRankBtn" need="200" fame="500"/>
+		</levels>
+	</achievement>
+	<achievement id="32" cat="3" type="_Captured_Flags" desc="[CTF]Capture %need% time(s) enemy Flag.">
+		<levels>
+			<lvl id="1" name="Flag Master" icon="L2UI_CT1.MiniMap_DF_FlagIcon_Yellow" need="10" fame="100"/>
+			<lvl id="2" name="Flag Master" icon="L2UI_CT1.MiniMap_DF_FlagIcon_Yellow" need="100" fame="250"/>
+			<lvl id="3" name="Flag Master" icon="L2UI_CT1.MiniMap_DF_FlagIcon_Yellow" need="200" fame="500"/>
+		</levels>
+	</achievement>
+	<achievement id="33" cat="3" type="_Returned_Flags" desc="[CTF]Return %need% flags.">
+		<levels>
+			<lvl id="1" name="Flag Slayer" icon="L2UI_CT1.MiniMap_DF_FlagIcon_Purple" need="10" fame="100"/>
+			<lvl id="2" name="Flag Slayer" icon="L2UI_CT1.MiniMap_DF_FlagIcon_Purple" need="100" fame="250"/>
+			<lvl id="3" name="Flag Slayer" icon="L2UI_CT1.MiniMap_DF_FlagIcon_Purple" need="200" fame="500"/>
+		</levels>
+	</achievement>
+	<achievement id="34" cat="3" type="_First_Blood" desc="Do %need% times 'First Blood'.">
+		<levels>
+			<lvl id="1" name="Drop of Blood" icon="icon.etc_dragons_blood_i00" need="10" fame="100"/>
+			<lvl id="2" name="Drop of Blood" icon="icon.etc_dragons_blood_i00" need="100" fame="250"/>
+			<lvl id="3" name="Drop of Blood" icon="icon.etc_dragons_blood_i00" need="200" fame="500"/>
+		</levels>
+	</achievement>
+	<achievement id="35" cat="3" type="_Chests_Opened" desc="Open %need% chests.">
+		<levels>
+			<lvl id="1" name="Chest Opener" icon="icon.etc_old_key_i03" need="10" fame="100"/>
+			<lvl id="2" name="Chest Opener" icon="icon.etc_old_key_i03" need="100" fame="250"/>
+			<lvl id="3" name="Chest Opener" icon="icon.etc_old_key_i03" need="500" fame="500"/>
+		</levels>
+	</achievement>
+	<achievement id="36" cat="3" type="_Killed_Mutants" desc="Kill %need% mutants.">
+		<levels>
+			<lvl id="1" name="X-Man Slayer" icon="icon.skill0535" need="10" fame="100"/>
+			<lvl id="2" name="X-Man Slayer" icon="icon.skill0535" need="100" fame="250"/>
+			<lvl id="3" name="X-Man Slayer" icon="icon.skill0535" need="200" fame="500"/>
+		</levels>
+	</achievement>
+	<achievement id="37" cat="3" type="_Killed_Zombies" desc="Kill %need% zombies.">
+		<levels>
+			<lvl id="1" name="Movie Star" icon="icon.skill0500" need="10" fame="100"/>
+			<lvl id="2" name="Movie Star" icon="icon.skill0500" need="100" fame="250"/>
+			<lvl id="3" name="Movie Star" icon="icon.skill0500" need="200" fame="500"/>
+		</levels>
+	</achievement>
+	<achievement id="38" cat="3" type="_Domination_Points" desc="Score %need% points in domination event.">
+		<levels>
+			<lvl id="1" name="The Terminator" icon="icon.skill1480" need="5000" fame="100"/>
+			<lvl id="2" name="The Terminator" icon="icon.skill1480" need="10000" fame="250"/>
+			<lvl id="3" name="The Terminator" icon="icon.skill1480" need="200000" fame="500"/>
+		</levels>
+	</achievement>
+	
+	<!-- Clan achievements -->
+	<achievement id="41" cat="4" type="_Castle_Sieges_Won" desc="Win %need% castle battles.">
+		<levels>
+			<lvl id="1" name="Siege field conqueror" icon="icon.skill0316" need="1" fame="1000"/>
+			<lvl id="2" name="Siege field conqueror" icon="icon.skill0316" need="3" fame="5000"/>
+			<lvl id="3" name="Siege field conqueror" icon="icon.skill0316" need="6" fame="10000"/>
+			<lvl id="4" name="Siege field conqueror" icon="icon.skill0316" need="10" fame="15000"/>
+			<lvl id="5" name="Siege field conqueror" icon="icon.skill0316" need="25" fame="25000"/>
+		</levels>
+	</achievement>
+	<achievement id="42" cat="4" type="_Fortress_Sieges_Won" desc="Win %need% fortress battles.">
+		<levels>
+			<lvl id="1" name="Fortress Winner" icon="icon.skill5662" need="2" fame="500"/>
+			<lvl id="2" name="Fortress Winner" icon="icon.skill5662" need="5" fame="1000"/>
+			<lvl id="3" name="Fortress Winner" icon="icon.skill5662" need="10" fame="2500"/>
+			<lvl id="4" name="Fortress Winner" icon="icon.skill5662" need="25" fame="5000"/>
+			<lvl id="5" name="Fortress Winner" icon="icon.skill5662" need="50" fame="7500"/>
+			<lvl id="6" name="Fortress Winner" icon="icon.skill5662" need="100" fame="10000"/>
+			<lvl id="7" name="Fortress Winner" icon="icon.skill5662" need="500" fame="30000"/>
+		</levels>
+	</achievement>
+	<achievement id="43" cat="4" type="_Dominion_Sieges_Won" desc="Win %need% dominion battles.">
+		<levels>
+			<lvl id="1" name="Dominion Winner" icon="icon.skill1472" need="1" fame="500"/>
+			<lvl id="2" name="Dominion Winner" icon="icon.skill1472" need="3" fame="1000"/>
+			<lvl id="3" name="Dominion Winner" icon="icon.skill1472" need="6" fame="2500"/>
+			<lvl id="4" name="Dominion Winner" icon="icon.skill1472" need="10" fame="5000"/>
+			<lvl id="5" name="Dominion Winner" icon="icon.skill1472" need="25" fame="10000"/>
+		</levels>
+	</achievement>
+	<achievement id="44" cat="4" type="_Players_Killed_In_Siege" desc="Kill %need% players while CS.">
+		<levels>
+			<lvl id="1" name="Siege Canon" icon="icon.skill4416_siegeweapon" need="100" fame="250"/>
+			<lvl id="2" name="Siege Canon" icon="icon.skill4416_siegeweapon" need="500" fame="500"/>
+			<lvl id="3" name="Siege Canon" icon="icon.skill4416_siegeweapon" need="1000" fame="1250"/>
+			<lvl id="4" name="Siege Canon" icon="icon.skill4416_siegeweapon" need="2000" fame="2500"/>
+			<lvl id="5" name="Siege Canon" icon="icon.skill4416_siegeweapon" need="10000" fame="5000"/>
+		</levels>
+	</achievement>
+	<achievement id="45" cat="4" type="_Players_Killed_In_Dominion" desc="Kill %need% players while TW.">
+		<levels>
+			<lvl id="1" name="Dominionnnnnnn" icon="icon.skill6286" need="100" fame="250"/>
+			<lvl id="2" name="Dominionnnnnnn" icon="icon.skill6286" need="500" fame="500"/>
+			<lvl id="3" name="Dominionnnnnnn" icon="icon.skill6286" need="1000" fame="1250"/>
+			<lvl id="4" name="Dominionnnnnnn" icon="icon.skill6286" need="2000" fame="2500"/>
+			<lvl id="5" name="Dominionnnnnnn" icon="icon.skill6286" need="10000" fame="5000"/>
+		</levels>
+	</achievement>
+	<achievement id="46" cat="4" type="_Players_Killed_At_Fortress" desc="Kill %need% players in Fort Siege.">
+		<levels>
+			<lvl id="1" name="Kill for Glory" icon="icon.skill5012" need="100" fame="250"/>
+			<lvl id="2" name="Kill for Glory" icon="icon.skill5012" need="500" fame="500"/>
+			<lvl id="3" name="Kill for Glory" icon="icon.skill5012" need="1000" fame="1250"/>
+			<lvl id="4" name="Kill for Glory" icon="icon.skill5012" need="2000" fame="2500"/>
+			<lvl id="5" name="Kill for Glory" icon="icon.skill5012" need="10000" fame="5000"/>
+		</levels>
+	</achievement>
+	
+	<!-- Others achievements -->
+	<achievement id="61" cat="5" type="_Crafted_Recipes" desc="Craft successful %need% recipes.">
+		<levels>
+			<lvl id="1" name="No Money No Honey" icon="icon.skill1368" need="25" fame="0"/>
+			<lvl id="2" name="No Money No Honey" icon="icon.skill1368" need="50" fame="0"/>
+			<lvl id="3" name="No Money No Honey" icon="icon.skill1368" need="200" fame="0"/>
+			<lvl id="4" name="No Money No Honey" icon="icon.skill1368" need="400" fame="0"/>
+			<lvl id="5" name="No Money No Honey" icon="icon.skill1368" need="750" fame="0"/>
+			<lvl id="6" name="No Money No Honey" icon="icon.skill1368" need="1500" fame="0"/>
+		</levels>
+	</achievement>
+	<achievement id="62" cat="5" type="_Enchanted_Normal_Scroll" desc="Enchant %need% items with normal scroll.">
+		<levels>
+			<lvl id="1" name="Enchanter" icon="icon.etc_scroll_of_enchant_armor_i05" need="20" fame="0"/>
+			<lvl id="2" name="Enchanter" icon="icon.etc_scroll_of_enchant_armor_i05" need="100" fame="0"/>
+			<lvl id="3" name="Enchanter" icon="icon.etc_scroll_of_enchant_armor_i05" need="500" fame="0"/>
+		</levels>
+	</achievement>
+	<achievement id="63" cat="5" type="_Enchanted_Blessed_Scroll" desc="Enchant %need% items with blessed scroll.">
+		<levels>
+			<lvl id="1" name="Blessed Enchanter" icon="icon.etc_blessed_scrl_of_ench_am_s_i05" need="20" fame="0"/>
+			<lvl id="2" name="Blessed Enchanter" icon="icon.etc_blessed_scrl_of_ench_am_s_i05" need="100" fame="0"/>
+			<lvl id="3" name="Blessed Enchanter" icon="icon.etc_blessed_scrl_of_ench_am_s_i05" need="500" fame="0"/>
+		</levels>
+	</achievement>
+	<achievement id="64" cat="5" type="_Became_Hero" desc="Become hero %need% time(s).">
+		<levels>
+			<lvl id="1" name="Olympiad god" icon="icon.event_hero_treasure_box_i00" need="1" fame="1000"/>
+			<lvl id="2" name="Olympiad god" icon="icon.event_hero_treasure_box_i00" need="5" fame="10000"/>
+		</levels>
+	</achievement>
+	<achievement id="65" cat="5" type="_Treasure_Boxes_Opened" desc="Open %need% chests.">
+		<levels>
+			<lvl id="1" name="Treasure searcher" icon="icon.skill0419" need="10" fame="0"/>
+			<lvl id="2" name="Treasure searcher" icon="icon.skill0419" need="100" fame="0"/>
+			<lvl id="3" name="Treasure searcher" icon="icon.skill0419" need="500" fame="0"/>
+			<lvl id="4" name="Treasure searcher" icon="icon.skill0419" need="1000" fame="0"/>
+		</levels>
+	</achievement>
+	<achievement id="66" cat="5" type="_Get_Married" desc="Get Married">
+		<levels>
+			<lvl id="1" name="Meet your Love" icon="icon.mysterious_wedding_i00" need="1" fame="0"/>
+		</levels>
+	</achievement>
+	<achievement id="67" cat="5" type="_Enchant_Item" desc="Enchant item on %need%">
+		<levels>
+			<lvl id="1" name="Master Enchanter" icon="icon.yogi_scroll_of_enchant_weapon_grade_i00" need="3" fame="0"/>
+			<lvl id="2" name="Master Enchanter" icon="icon.yogi_scroll_of_enchant_weapon_grade_i00" need="8" fame="0"/>
+			<lvl id="3" name="Master Enchanter" icon="icon.yogi_scroll_of_enchant_weapon_grade_i00" need="12" fame="0"/>
+			<lvl id="4" name="Master Enchanter" icon="icon.yogi_scroll_of_enchant_weapon_grade_i00" need="16" fame="0"/>
+		</levels>
+	</achievement>
+	<achievement id="68" cat="5" type="_Times_Voted" desc="Vote for the server %need% time(s).">
+		<levels>
+			<lvl id="1" name="I love The Server" icon="icon.action051" need="1" fame="100"/>
+			<lvl id="2" name="I love The Server" icon="icon.action051" need="5" fame="2000"/>
+			<lvl id="3" name="I love The Server" icon="icon.action051" need="20" fame="3000"/>
+			<lvl id="4" name="I love The Server" icon="icon.action051" need="100" fame="10000"/>
+			<lvl id="5" name="I love The Server" icon="icon.action051" need="500" fame="100000"/>
+		</levels>
+	</achievement>
+</list>

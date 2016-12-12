@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+
+<break duration="90"/>
+
+<mainevent registerDuration="30"/>
+
+<break duration="90"/>
+
+<minievents duration="45">
+	<mode eventName="1v1" modeId="1" class="1" chance="100"/>
+	<mode eventName="PTvsPT" modeId="1" class="2" chance="100"/>
+	<mode eventName="Korean" modeId="1" class="3" chance="100"/>
+</minievents>
+
+</list>

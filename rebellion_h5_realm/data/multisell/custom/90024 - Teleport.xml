@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<list>
+	<config showall="true" notax="true" keepenchanted="true" />
+	<item>
+		<ingredient id="6673" count="25" /> <!-- Festival Adena -->
+		<production id="20033" count="1" /> <!-- My Teleport Flag -->
+	</item>
+	<item>
+		<ingredient id="6673" count="5" /> <!-- Festival Adena -->
+		<production id="13016" count="1" /> <!-- My Teleport Scroll -->
+	</item>
+</list>

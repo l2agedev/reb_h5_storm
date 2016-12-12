@@ -1,0 +1,410 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+	<skill id="10" levels="8" name="Summon Storm Cubic">
+		<!--Last edit: 23.12.2010-->
+		<table name="#itemConsumeCount">4 5 7 7 8 10 11 11</table>
+		<table name="#cubicLevel">1 2 3 4 5 6 7 8</table>
+		<table name="#mpConsume2">28 33 38 43 46 49 52 55</table>
+		<table name="#mpConsume1">7 9 10 11 12 13 13 14</table>
+		<table name="#magicLevel">40 46 52 58 62 66 70 74</table>
+		<set name="magicType" val="MAGIC" />
+		<set name="icon" val="icon.skill0010" />
+		<set name="reuseDelay" val="5000" />
+		<set name="magicLevel" val="#magicLevel" />
+		<set name="hitTime" val="6000" />
+		<set name="hitCancelTime" val="500" />
+		<set name="mpConsume1" val="#mpConsume1" />
+		<set name="mpConsume2" val="#mpConsume2" />
+		<set name="itemConsumeId" val="3031" />
+		<set name="itemConsumeCount" val="#itemConsumeCount" />
+		<set name="target" val="TARGET_SELF" />
+		<set name="skillType" val="BUFF" />
+		<set name="operateType" val="OP_ACTIVE" />
+		<set name="isHideStartMessage" val="true" />
+		<set name="cancelable" val="false" />
+		<enchant1 levels="30" name="Power">
+			<table name="#cubicLevel">101 101 101 101 102 102 102 102 103 103 103 103 104 104 104 104 104 105 105 105 105 106 106 106 106 107 107 107 107 108</table>
+			<table name="#magicLevel">76 76 76 77 77 77 78 78 78 79 79 79 80 80 80 81 81 81 82 82 82 83 83 83 84 84 84 85 85 85</table>
+		</enchant1>
+		<for>
+			<effect name="Cubic" stackType="storm_cubic" stackOrder="1" time="3600">
+				<def name="cubicId" val="1" />
+				<def name="cubicLevel" val="#cubicLevel" />
+				<player cubic="1" />
+			</effect>
+		</for>
+	</skill>
+	<skill id="33" levels="8" name="Summon Phantom Cubic">
+		<table name="#itemConsumeCount">2 2 3 3 4 5 5 6</table>
+		<table name="#cubicLevel">1 2 3 4 5 6 7 8</table>
+		<table name="#mpConsume2">28 33 38 43 46 49 52 55</table>
+		<table name="#mpConsume1">7 9 10 11 12 13 13 14</table>
+		<table name="#magicLevel">40 46 52 58 62 66 70 74</table>
+		<set name="magicType" val="MAGIC" />
+		<set name="icon" val="icon.skill0033" />
+		<set name="reuseDelay" val="5000" />
+		<set name="magicLevel" val="#magicLevel" />
+		<set name="hitTime" val="6000" />
+		<set name="hitCancelTime" val="500" />
+		<set name="mpConsume1" val="#mpConsume1" />
+		<set name="mpConsume2" val="#mpConsume2" />
+		<set name="itemConsumeId" val="3031" />
+		<set name="itemConsumeCount" val="#itemConsumeCount" />
+		<set name="target" val="TARGET_SELF" />
+		<set name="skillType" val="BUFF" />
+		<set name="operateType" val="OP_ACTIVE" />
+		<set name="cancelable" val="false" />
+		<enchant1 levels="30" name="Power">
+			<table name="#cubicLevel">101 101 101 101 102 102 102 102 103 103 103 103 104 104 104 104 104 105 105 105 105 106 106 106 106 107 107 107 107 108</table>
+			<table name="#magicLevel">76 76 76 77 77 77 78 78 78 79 79 79 80 80 80 81 81 81 82 82 82 83 83 83 84 84 84 85 85 85</table>
+		</enchant1>
+		<for>
+			<effect name="Cubic" stackType="phantom_cubic" stackOrder="1" time="3600">
+				<def name="cubicId" val="5" />
+				<def name="cubicLevel" val="#cubicLevel" />
+				<player cubic="5" />
+			</effect>
+		</for>
+	</skill>
+	<skill id="22" levels="7" name="Summon Vampiric Cubic">
+		<table name="#itemConsumeCount">5 6 7 7 9 10 11</table>
+		<table name="#cubicLevel">1 2 3 4 5 6 7</table>
+		<table name="#mpConsume2">30 35 40 44 48 51 53</table>
+		<table name="#mpConsume1">8 9 10 11 12 13 14</table>
+		<table name="#magicLevel">43 49 55 60 64 68 72</table>
+		<set name="magicType" val="MAGIC" />
+		<set name="icon" val="icon.skill0022" />
+		<set name="reuseDelay" val="5000" />
+		<set name="magicLevel" val="#magicLevel" />
+		<set name="hitTime" val="6000" />
+		<set name="hitCancelTime" val="500" />
+		<set name="mpConsume1" val="#mpConsume1" />
+		<set name="mpConsume2" val="#mpConsume2" />
+		<set name="itemConsumeId" val="3031" />
+		<set name="itemConsumeCount" val="#itemConsumeCount" />
+		<set name="target" val="TARGET_SELF" />
+		<set name="skillType" val="BUFF" />
+		<set name="operateType" val="OP_ACTIVE" />
+		<set name="cancelable" val="false" />
+		<enchant1 levels="30" name="Power">
+			<table name="#cubicLevel">101 101 101 101 102 102 102 102 103 103 103 103 104 104 104 104 104 105 105 105 105 106 106 106 106 107 107 107 107 108</table>
+			<table name="#magicLevel">76 76 76 77 77 77 78 78 78 79 79 79 80 80 80 81 81 81 82 82 82 83 83 83 84 84 84 85 85 85</table>
+		</enchant1>
+		<for>
+			<effect name="Cubic" stackType="vampiric_cubic" stackOrder="1" time="3600">
+				<def name="cubicId" val="2" />
+				<def name="cubicLevel" val="#cubicLevel" />
+				<player cubic="2" />
+			</effect>
+		</for>
+	</skill>
+	<skill id="67" levels="7" name="Summon Life Cubic">
+		<table name="#itemConsumeCount">5 6 7 7 9 10 11</table>
+		<table name="#cubicLevel">1 2 3 4 5 6 7</table>
+		<table name="#mpConsume2">30 35 40 44 48 51 53</table>
+		<table name="#mpConsume1">8 9 10 11 12 13 14</table>
+		<table name="#magicLevel">42 49 53 60 64 68 72</table>
+		<set name="magicType" val="MAGIC" />
+		<set name="icon" val="icon.skill0067" />
+		<set name="reuseDelay" val="5000" />
+		<set name="magicLevel" val="#magicLevel" />
+		<set name="hitTime" val="6000" />
+		<set name="hitCancelTime" val="500" />
+		<set name="mpConsume1" val="#mpConsume1" />
+		<set name="mpConsume2" val="#mpConsume2" />
+		<set name="itemConsumeId" val="3031" />
+		<set name="itemConsumeCount" val="#itemConsumeCount" />
+		<set name="target" val="TARGET_SELF" />
+		<set name="skillType" val="BUFF" />
+		<set name="operateType" val="OP_ACTIVE" />
+		<set name="cancelable" val="false" />
+		<enchant1 levels="30" name="Power">
+			<table name="#cubicLevel">101 101 101 101 102 102 102 102 103 103 103 103 104 104 104 104 104 105 105 105 105 106 106 106 106 107 107 107 107 108</table>
+			<table name="#magicLevel">76 76 76 77 77 77 78 78 78 79 79 79 80 80 80 81 81 81 82 82 82 83 83 83 84 84 84 85 85 85</table>
+		</enchant1>
+		<for>
+			<effect name="Cubic" stackType="life_cubic" stackOrder="1" time="3600">
+				<def name="cubicId" val="3" />
+				<def name="cubicLevel" val="#cubicLevel" />
+				<player cubic="3" />
+			</effect>
+		</for>
+	</skill>
+	<skill id="278" levels="6" name="Summon Viper Cubic">
+		<table name="#itemConsumeCount">2 3 4 5 5 5</table>
+		<table name="#cubicLevel">1 2 3 4 5 6</table>
+		<table name="#mpConsume2">35 40 44 48 51 53</table>
+		<table name="#mpConsume1">9 10 11 12 13 14</table>
+		<table name="#magicLevel">49 55 60 64 68 72</table>
+		<set name="magicType" val="MAGIC" />
+		<set name="icon" val="icon.skill0278" />
+		<set name="reuseDelay" val="5000" />
+		<set name="magicLevel" val="#magicLevel" />
+		<set name="hitTime" val="6000" />
+		<set name="hitCancelTime" val="500" />
+		<set name="mpConsume1" val="#mpConsume1" />
+		<set name="mpConsume2" val="#mpConsume2" />
+		<set name="itemConsumeId" val="3031" />
+		<set name="itemConsumeCount" val="#itemConsumeCount" />
+		<set name="target" val="TARGET_SELF" />
+		<set name="skillType" val="BUFF" />
+		<set name="operateType" val="OP_ACTIVE" />
+		<set name="cancelable" val="false" />
+		<enchant1 levels="30" name="Power">
+			<table name="#cubicLevel">101 101 101 101 102 102 102 102 103 103 103 103 104 104 104 104 104 105 105 105 105 106 106 106 106 107 107 107 107 108</table>
+			<table name="#magicLevel">76 76 76 77 77 77 78 78 78 79 79 79 80 80 80 81 81 81 82 82 82 83 83 83 84 84 84 85 85 85</table>
+		</enchant1>
+		<for>
+			<effect name="Cubic" stackType="viper_cubic" stackOrder="1" time="3600">
+				<def name="cubicId" val="4" />
+				<def name="cubicLevel" val="#cubicLevel" />
+				<player cubic="4" />
+			</effect>
+		</for>
+	</skill>
+	<skill id="449" levels="4" name="Summon Attractive Cubic">
+		<!--Last edit: 23.12.2010-->
+		<table name="#itemConsumeCount">8 9 10 11</table>
+		<table name="#cubicLevel">1 2 3 4</table>
+		<table name="#mpConsume2">46 49 52 55</table>
+		<table name="#mpConsume1">12 13 13 14</table>
+		<table name="#magicLevel">62 66 70 74</table>
+		<set name="magicType" val="MAGIC" />
+		<set name="icon" val="icon.skill0449" />
+		<set name="reuseDelay" val="5000" />
+		<set name="magicLevel" val="#magicLevel" />
+		<set name="hitTime" val="6000" />
+		<set name="hitCancelTime" val="500" />
+		<set name="mpConsume1" val="#mpConsume1" />
+		<set name="mpConsume2" val="#mpConsume2" />
+		<set name="itemConsumeId" val="3031" />
+		<set name="itemConsumeCount" val="#itemConsumeCount" />
+		<set name="target" val="TARGET_SELF" />
+		<set name="skillType" val="BUFF" />
+		<set name="operateType" val="OP_ACTIVE" />
+		<set name="cancelable" val="false" />
+		<enchant1 levels="30" name="Power">
+			<table name="#cubicLevel">101 101 101 101 102 102 102 102 103 103 103 103 104 104 104 104 104 105 105 105 105 106 106 106 106 107 107 107 107 108</table>
+			<table name="#magicLevel">76 76 76 77 77 77 78 78 78 79 79 79 80 80 80 81 81 81 82 82 82 83 83 83 84 84 84 85 85 85</table>
+		</enchant1>
+		<for>
+			<effect name="Cubic" stackType="attractive_cubic" stackOrder="1" time="3600">
+				<def name="cubicId" val="9" />
+				<def name="cubicLevel" val="#cubicLevel" />
+				<player cubic="9" />
+			</effect>
+		</for>
+	</skill>
+	<skill id="779" levels="1" name="Summon Smart Cubic">
+		<set name="magicType" val="MAGIC" />
+		<set name="icon" val="icon.skill0779" />
+		<set name="reuseDelay" val="5000" />
+		<set name="magicLevel" val="80" />
+		<set name="hitTime" val="6000" />
+		<set name="hitCancelTime" val="500" />
+		<set name="mpConsume1" val="15" />
+		<set name="mpConsume2" val="58" />
+		<set name="itemConsumeId" val="3031" />
+		<set name="itemConsumeCount" val="38" />
+		<set name="target" val="TARGET_SELF" />
+		<set name="skillType" val="BUFF" />
+		<set name="operateType" val="OP_ACTIVE" />
+		<set name="cancelable" val="false" />
+		<for>
+			<effect name="Cubic" stackType="smart_cubic" stackOrder="1" time="3600">
+				<def name="cubicId" val="10" />
+				<def name="cubicLevel" val="1" />
+				<player cubic="10" />
+			</effect>
+		</for>
+	</skill>
+	<skill id="780" levels="1" name="Summon Smart Cubic">
+		<set name="magicType" val="MAGIC" />
+		<set name="icon" val="icon.skill0779" />
+		<set name="reuseDelay" val="5000" />
+		<set name="magicLevel" val="80" />
+		<set name="hitTime" val="6000" />
+		<set name="hitCancelTime" val="500" />
+		<set name="mpConsume1" val="15" />
+		<set name="mpConsume2" val="58" />
+		<set name="itemConsumeId" val="3031" />
+		<set name="itemConsumeCount" val="38" />
+		<set name="target" val="TARGET_SELF" />
+		<set name="skillType" val="BUFF" />
+		<set name="operateType" val="OP_ACTIVE" />
+		<set name="cancelable" val="false" />
+		<for>
+			<effect name="Cubic" stackType="smart_cubic" stackOrder="1" time="3600">
+				<def name="cubicId" val="11" />
+				<def name="cubicLevel" val="1" />
+				<player cubic="11" />
+			</effect>
+		</for>
+	</skill>
+	<skill id="781" levels="1" name="Summon Smart Cubic">
+		<set name="magicType" val="MAGIC" />
+		<set name="icon" val="icon.skill0779" />
+		<set name="reuseDelay" val="5000" />
+		<set name="magicLevel" val="80" />
+		<set name="hitTime" val="6000" />
+		<set name="hitCancelTime" val="500" />
+		<set name="mpConsume1" val="15" />
+		<set name="mpConsume2" val="58" />
+		<set name="itemConsumeId" val="3031" />
+		<set name="itemConsumeCount" val="38" />
+		<set name="target" val="TARGET_SELF" />
+		<set name="skillType" val="BUFF" />
+		<set name="operateType" val="OP_ACTIVE" />
+		<set name="cancelable" val="false" />
+		<for>
+			<effect name="Cubic" stackType="smart_cubic" stackOrder="1" time="3600">
+				<def name="cubicId" val="12" />
+				<def name="cubicLevel" val="1" />
+				<player cubic="12" />
+			</effect>
+		</for>
+	</skill>
+	<skill id="782" levels="1" name="Summon Smart Cubic">
+		<set name="magicType" val="MAGIC" />
+		<set name="icon" val="icon.skill0779" />
+		<set name="reuseDelay" val="5000" />
+		<set name="magicLevel" val="80" />
+		<set name="hitTime" val="6000" />
+		<set name="hitCancelTime" val="500" />
+		<set name="mpConsume1" val="15" />
+		<set name="mpConsume2" val="58" />
+		<set name="itemConsumeId" val="3031" />
+		<set name="itemConsumeCount" val="38" />
+		<set name="target" val="TARGET_SELF" />
+		<set name="skillType" val="BUFF" />
+		<set name="operateType" val="OP_ACTIVE" />
+		<set name="cancelable" val="false" />
+		<for>
+			<effect name="Cubic" stackType="smart_cubic" stackOrder="1" time="3600">
+				<def name="cubicId" val="13" />
+				<def name="cubicLevel" val="1" />
+				<player cubic="13" />
+			</effect>
+		</for>
+	</skill>
+	<skill id="783" levels="1" name="Summon Smart Cubic">
+		<set name="magicType" val="MAGIC" />
+		<set name="icon" val="icon.skill0779" />
+		<set name="reuseDelay" val="5000" />
+		<set name="magicLevel" val="80" />
+		<set name="hitTime" val="6000" />
+		<set name="hitCancelTime" val="500" />
+		<set name="mpConsume1" val="15" />
+		<set name="mpConsume2" val="58" />
+		<set name="itemConsumeId" val="3031" />
+		<set name="itemConsumeCount" val="38" />
+		<set name="target" val="TARGET_SELF" />
+		<set name="skillType" val="BUFF" />
+		<set name="operateType" val="OP_ACTIVE" />
+		<set name="cancelable" val="false" />
+		<for>
+			<effect name="Cubic" stackType="smart_cubic" stackOrder="1" time="3600">
+				<def name="cubicId" val="14" />
+				<def name="cubicLevel" val="1" />
+				<player cubic="14" />
+			</effect>
+		</for>
+	</skill>
+	<skill id="1279" levels="9" name="Summon Binding Cubic">
+		<!--Last edit: 24.12.2010-->
+		<table name="#itemConsumeCount">4 5 6 7 7 7 9 10 11</table>
+		<table name="#cubicLevel">1 2 3 4 5 6 7 8 9</table>
+		<table name="#mpConsume2">28 31 35 38 41 44 48 51 53</table>
+		<table name="#mpConsume1">7 8 9 10 11 11 12 13 14</table>
+		<table name="#magicLevel">40 44 48 52 56 60 64 68 72</table>
+		<set name="magicType" val="MAGIC" />
+		<set name="icon" val="icon.skill1279" />
+		<set name="reuseDelay" val="5000" />
+		<set name="magicLevel" val="#magicLevel" />
+		<set name="hitTime" val="6000" />
+		<set name="hitCancelTime" val="500" />
+		<set name="mpConsume1" val="#mpConsume1" />
+		<set name="mpConsume2" val="#mpConsume2" />
+		<set name="itemConsumeId" val="3031" />
+		<set name="itemConsumeCount" val="#itemConsumeCount" />
+		<set name="target" val="TARGET_SELF" />
+		<set name="skillType" val="BUFF" />
+		<set name="operateType" val="OP_ACTIVE" />
+		<set name="cancelable" val="false" />
+		<enchant1 levels="30" name="Power">
+			<table name="#cubicLevel">101 101 101 101 102 102 102 102 103 103 103 103 104 104 104 104 104 105 105 105 105 106 106 106 106 107 107 107 107 108</table>
+			<table name="#magicLevel">76 76 76 77 77 77 78 78 78 79 79 79 80 80 80 81 81 81 82 82 82 83 83 83 84 84 84 85 85 85</table>
+		</enchant1>
+		<for>
+			<effect name="Cubic" stackType="binding_cubic" stackOrder="1" time="3600">
+				<def name="cubicId" val="6" />
+				<def name="cubicLevel" val="#cubicLevel" />
+				<player cubic="6" />
+			</effect>
+		</for>
+	</skill>
+	<skill id="1280" levels="9" name="Summon Aqua Cubic">
+		<table name="#itemConsumeCount">2 2 2 3 3 4 5 5 6</table>
+		<table name="#cubicLevel">1 2 3 4 5 6 7 8 9</table>
+		<table name="#mpConsume2">28 31 35 38 41 46 49 52 55</table>
+		<table name="#mpConsume1">7 8 9 10 11 12 13 13 14</table>
+		<table name="#magicLevel">40 44 48 52 56 62 66 70 74</table>
+		<set name="magicType" val="MAGIC" />
+		<set name="icon" val="icon.skill1280" />
+		<set name="reuseDelay" val="5000" />
+		<set name="magicLevel" val="#magicLevel" />
+		<set name="hitTime" val="6000" />
+		<set name="hitCancelTime" val="500" />
+		<set name="mpConsume1" val="#mpConsume1" />
+		<set name="mpConsume2" val="#mpConsume2" />
+		<set name="itemConsumeId" val="3031" />
+		<set name="itemConsumeCount" val="#itemConsumeCount" />
+		<set name="target" val="TARGET_SELF" />
+		<set name="skillType" val="BUFF" />
+		<set name="operateType" val="OP_ACTIVE" />
+		<set name="cancelable" val="false" />
+		<enchant1 levels="30" name="Power">
+			<table name="#cubicLevel">101 101 101 101 102 102 102 102 103 103 103 103 104 104 104 104 104 105 105 105 105 106 106 106 106 107 107 107 107 108</table>
+			<table name="#magicLevel">76 76 76 77 77 77 78 78 78 79 79 79 80 80 80 81 81 81 82 82 82 83 83 83 84 84 84 85 85 85</table>
+		</enchant1>
+		<for>
+			<effect name="Cubic" stackType="aqua_cubic" stackOrder="1" time="3600">
+				<def name="cubicId" val="7" />
+				<def name="cubicLevel" val="#cubicLevel" />
+				<player cubic="7" />
+			</effect>
+		</for>
+	</skill>
+	<skill id="1281" levels="9" name="Summon Spark Cubic">
+		<table name="#itemConsumeCount">4 5 6 7 7 7 9 10 11</table>
+		<table name="#cubicLevel">1 2 3 4 5 6 7 8 9</table>
+		<table name="#mpConsume2">28 31 35 38 41 44 48 51 53</table>
+		<table name="#mpConsume1">7 8 9 10 11 11 12 13 14</table>
+		<table name="#magicLevel">40 44 48 52 56 60 64 68 72</table>
+		<set name="magicType" val="MAGIC" />
+		<set name="icon" val="icon.skill1281" />
+		<set name="reuseDelay" val="5000" />
+		<set name="magicLevel" val="#magicLevel" />
+		<set name="hitTime" val="6000" />
+		<set name="hitCancelTime" val="500" />
+		<set name="mpConsume1" val="#mpConsume1" />
+		<set name="mpConsume2" val="#mpConsume2" />
+		<set name="itemConsumeId" val="3031" />
+		<set name="itemConsumeCount" val="#itemConsumeCount" />
+		<set name="target" val="TARGET_SELF" />
+		<set name="skillType" val="BUFF" />
+		<set name="operateType" val="OP_ACTIVE" />
+		<set name="cancelable" val="false" />
+		<enchant1 levels="30" name="Power">
+			<table name="#cubicLevel">101 101 101 101 102 102 102 102 103 103 103 103 104 104 104 104 104 105 105 105 105 106 106 106 106 107 107 107 107 108</table>
+			<table name="#magicLevel">76 76 76 77 77 77 78 78 78 79 79 79 80 80 80 81 81 81 82 82 82 83 83 83 84 84 84 85 85 85</table>
+		</enchant1>
+		<for>
+			<effect name="Cubic" stackType="spark_cubic" stackOrder="1" time="3600">
+				<def name="cubicId" val="8" />
+				<def name="cubicLevel" val="#cubicLevel" />
+				<player cubic="8" />
+			</effect>
+		</for>
+	</skill>
+</list>

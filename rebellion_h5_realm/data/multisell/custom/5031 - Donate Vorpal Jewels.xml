@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<list>
+	<config showall="true" notax="true" keepenchanted="true" />
+	<!-- Vorpal Ring -->
+	<item>
+		<ingredient id="37000" count="1250" />
+		<production id="15720" count="1" />
+	</item>
+
+	<!-- Vorpal Earring -->
+	<item>
+		<ingredient id="37000" count="1250" />
+		<production id="15721" count="1" />
+	</item>
+
+	<!-- Vorpal Neck -->
+	<item>
+		<ingredient id="37000" count="1250" />
+		<production id="15722" count="1" />
+	</item>
+
+	<!-- Vorpal Jewels set -->
+	<item>
+		<ingredient id="37000" count="6000" />
+		<production id="15720" count="1" />
+		<production id="15721" count="2" />
+		<production id="15722" count="2" />
+	</item>
+</list>

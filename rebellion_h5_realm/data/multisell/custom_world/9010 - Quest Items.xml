@@ -1,0 +1,104 @@
+<?xml version='1.0' encoding='utf-8'?>
+<list>
+	<config showall="true" notax="true" keepenchanted="true" />
+	<item>
+		<ingredient id="6013" count="10" /> <!-- Moonstone shard -->
+		<ingredient id="6018" count="1" /> <!-- Volcanic Ash -->
+		<production id="6023" count="1" /> <!-- Moon Dust -->
+	</item>
+	<item>
+		<ingredient id="6023" count="10" /> <!-- Moon Dust -->
+		<ingredient id="6019" count="1" /> <!-- Quick Silver -->
+		<production id="6029" count="1" /> <!-- Lunargrent -->
+	</item>
+	<item>
+		<ingredient id="6012" count="10" /> <!-- Lava Stone -->
+		<ingredient id="6018" count="1" /> <!-- Volcanic Ash -->
+		<production id="6022" count="1" /> <!-- Magma Dust -->
+	</item>
+	<item>
+		<ingredient id="6022" count="10" /> <!-- Magma Dust -->
+		<ingredient id="6020" count="1" /> <!-- Sulfur -->
+		<production id="6028" count="1" /> <!-- Fire Essence -->
+	</item>
+	<item>
+		<ingredient id="6015" count="10" /> <!-- Demon Blood -->
+		<ingredient id="6017" count="1" /> <!-- Blood Root -->
+		<production id="6025" count="1" /> <!-- DemonPlasm -->
+	</item>
+	<item>
+		<ingredient id="6025" count="10" /> <!-- DemonPlasm -->
+		<ingredient id="6020" count="1" /> <!-- Sulfur -->
+		<production id="6031" count="1" /> <!-- Demonic Essence -->
+	</item>
+	<item>
+		<ingredient id="6028" count="1" /> <!-- Fire Essence -->
+		<ingredient id="6031" count="1" /> <!-- Demonic Essence -->
+		<production id="6033" count="1" /> <!-- Hellfire Oil -->
+	</item>
+	<item>
+		<ingredient id="57" count="70000000" />
+		<production id="9451" count="1" /> <!-- Dynastic Essence -->
+	</item>
+	<item>
+		<ingredient id="57" count="70000000" />
+		<ingredient id="9451" count="2" /> <!-- Dynastic Essence -->
+		<production id="10413" count="1" /> <!-- Dynastic Essence II -->
+	</item>
+
+
+	<!-- Dualsword Craft Stamp -->
+	<item>
+		<ingredient id="57" count="50000000" />
+		<production id="5126" count="1" />
+	</item>
+
+	<!-- Pagan`s Mark -->
+	<item>
+		<ingredient id="57" count="10000000" />
+		<production id="8067" count="1" />
+	</item>
+
+	<!-- Contaminated Crystal -->
+	<item>
+		<ingredient id="57" count="50000000" />
+		<production id="9690" count="1" />
+	</item>
+
+	<!-- Water Dragon Claw -->
+	<item>
+		<ingredient id="57" count="5000000" />
+		<production id="9700" count="1" />
+	</item>
+
+
+	<!-- Hellbound Map -->
+	<item>
+		<ingredient id="57" count="1000000" />
+		<production id="9994" count="1" />
+	</item>
+
+	<!-- Lunargent -->
+	<item>
+		<ingredient id="57" count="100000000" />
+		<production id="6029" count="1" />
+	</item>
+
+	<!-- Hellfire oil -->
+	<item>
+		<ingredient id="57" count="50000000" />
+		<production id="6033" count="1" />
+	</item>
+
+	<!-- Frintezza's Magic Force Field Removal Scroll -->
+	<item>
+		<ingredient id="6673" count="10" />
+		<production id="8073" count="1" />
+	</item>
+
+	<!-- Bloody Fabric -->
+	<item>
+		<ingredient id="6673" count="10" />
+		<production id="4295" count="1" />
+	</item>
+</list>

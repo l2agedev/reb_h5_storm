@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+
+<!-- 3th Class -->
+<!-- © 2010 by mathuza -->
+
+<list>
+<config showall="true" notax="true" keepenchanted="true" />
+  <!-- Divine Stone of Wisdom -->
+  <item id="1">
+    <ingredient id="57" count="2"/>
+    <production id="7081" count="1"/>
+  </item>
+
+  <!-- Ice Crystal -->
+  <item id="2">
+    <ingredient id="57" count="5"/>
+    <production id="7080" count="1"/>
+  </item>
+  
+  </list>

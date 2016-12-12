@@ -1,0 +1,109 @@
+<?xml version='1.0' encoding='utf-8'?>
+<list>
+	<config showall="true" notax="true" keepenchanted="true" />
+	<item>
+		<production id="5908" count="1" /> <!-- Red Soul Crystal: Stage 13 -->
+		<ingredient id="37000" count="300" />
+	</item>
+	<item>
+		<production id="5911" count="1" /> <!-- Green Soul Crystal: Stage 13 -->
+		<ingredient id="37000" count="300" />
+	</item>
+	<item>
+		<production id="5914" count="1" /> <!-- Blue Soul Crystal: Stage 13 -->
+		<ingredient id="37000" count="300" />
+	</item>
+	<item>
+		<production id="9570" count="1" /> <!-- Red Soul Crystal - Stage 14 -->
+		<ingredient id="37000" count="900" />
+	</item>
+	<item>
+		<production id="9571" count="1" /> <!-- Blue Soul Crystal - Stage 14 -->
+		<ingredient id="37000" count="900" />
+	</item>
+	<item>
+		<production id="9572" count="1" /> <!-- Green Soul Crystal - Stage 14 -->
+		<ingredient id="37000" count="900" />
+	</item>
+	<item>
+		<production id="10480" count="1" /> <!-- Red Soul Crystal - Stage 15 -->
+		<ingredient id="37000" count="1300" />
+	</item>
+	<item>
+		<production id="10481" count="1" /> <!-- Blue Soul Crystal - Stage 15 -->
+		<ingredient id="37000" count="1300" />
+	</item>
+	<item>
+		<production id="10482" count="1" /> <!-- Green Soul Crystal - Stage 15 -->
+		<ingredient id="37000" count="1300" />
+	</item>
+	<item>
+		<production id="13071" count="1" /> <!-- Red Soul Crystal - Stage 16 -->
+		<ingredient id="37000" count="2000" />
+	</item>
+	<item>
+		<production id="13072" count="1" /> <!-- Blue Soul Crystal - Stage 16 -->
+		<ingredient id="37000" count="2000" />
+	</item>
+	<item>
+		<production id="13073" count="1" /> <!-- Green Soul Crystal - Stage 16 -->
+		<ingredient id="37000" count="2000" />
+	</item>
+	<item>
+		<production id="8762" count="10" /> <!-- Top-Grade Life Stone - Level 76 -->
+		<ingredient id="37000" count="300" />
+	</item>
+	<item>
+		<production id="9576" count="10" /> <!-- Top-Grade Life Stone - Level 80 -->
+		<ingredient id="37000" count="600" />
+	</item>
+	<item>
+		<production id="14169" count="10" /> <!-- Top-Grade Life Stone - Level 84 -->
+		<ingredient id="37000" count="1000" />
+	</item>
+	<item>
+		<production id="10210" count="1" /> <!-- Enhanced Mithril Bracelet -->
+		<ingredient id="37000" count="1000" />
+	</item>
+	<item>
+		<production id="6622" count="10" /> <!-- Giant's Codex -->
+		<ingredient id="37000" count="300" />
+	</item>
+	<item>
+		<production id="9627" count="10" /> <!-- Giant's Codex - Mastery -->
+		<ingredient id="37000" count="500" />
+	</item>
+	<item>
+		<production id="10413" count="1" /> <!-- Dynastic Essence II -->
+		<ingredient id="37000" count="1500" />
+	</item>
+	<item>
+		<production id="10512" count="1" /> <!-- Striped Mithril Shirt HP -->
+		<ingredient id="37000" count="1000" />
+	</item>
+	<item>
+		<production id="10513" count="1" /> <!-- Striped Mithril Shirt MP -->
+		<ingredient id="37000" count="1000" />
+	</item>
+	<item>
+		<production id="10514" count="1" /> <!-- Striped Mithril Shirt CP -->
+		<ingredient id="37000" count="1000" />
+	</item>
+	<item>
+		<production id="21719" count="1" /> <!-- Soul Cloak of Zaken -->
+		<ingredient id="37000" count="2500" />
+	</item>
+	<item>
+		<production id="21720" count="1" /> <!-- Soul Cloak of Freya -->
+		<ingredient id="37000" count="2500" />
+	</item>
+	<item>
+		<production id="21721" count="1" /> <!-- Soul Cloak of Frintezza -->
+		<ingredient id="37000" count="2500" />
+	</item>
+	<item>
+		<production id="-300" count="10000" /> <!-- Fame -->
+		<ingredient id="37000" count="1000" />
+	</item>
+
+</list>

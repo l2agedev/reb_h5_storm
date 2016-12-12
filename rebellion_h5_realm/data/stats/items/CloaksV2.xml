@@ -1,0 +1,409 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE list SYSTEM "item.dtd">
+<list>
+    <armor id="90984" name="Cloak of Marine">
+        <set name="enchantable" value="false"/>
+        <set name="crystal_type" value="S84"/>
+        <set name="icon" value="icon.armor_back09"/>
+        <set name="price" value="0"/>
+        <set name="type" value="NONE"/>
+        <set name="weight" value="220"/>
+        <set name="dropable" value="false"/>
+        <set name="tradeable" value="false"/>
+        <set name="sellable" value="false"/>
+        <equip>
+            <slot id="BACK"/>
+        </equip>
+        <attributes>
+            <attribute element="fire" value="5"/>
+            <attribute element="water" value="5"/>
+            <attribute element="wind" value="5"/>
+            <attribute element="earth" value="5"/>
+            <attribute element="holy" value="5"/>
+            <attribute element="unholy" value="5"/>
+        </attributes>
+        <for>
+            <add stat="pDef" order="0x10" value="20"/>
+            <enchant stat="pDef" order="0x0C" value="0"/>
+            <enchant stat="maxHp" order="0x80" value="0"/>
+        </for>
+    </armor>
+    <armor id="90985" name="Cloak of Majestic">
+        <set name="enchantable" value="false"/>
+        <set name="crystal_type" value="S84"/>
+        <set name="icon" value="icon.armor_back09"/>
+        <set name="price" value="0"/>
+        <set name="type" value="NONE"/>
+        <set name="weight" value="220"/>
+        <set name="dropable" value="false"/>
+        <set name="tradeable" value="false"/>
+        <set name="sellable" value="false"/>
+        <equip>
+            <slot id="BACK"/>
+        </equip>
+        <attributes>
+            <attribute element="fire" value="5"/>
+            <attribute element="water" value="5"/>
+            <attribute element="wind" value="5"/>
+            <attribute element="earth" value="5"/>
+            <attribute element="holy" value="5"/>
+            <attribute element="unholy" value="5"/>
+        </attributes>
+        <for>
+            <add stat="pDef" order="0x10" value="20"/>
+            <enchant stat="pDef" order="0x0C" value="0"/>
+            <enchant stat="maxHp" order="0x80" value="0"/>
+        </for>
+    </armor>
+    <armor id="90986" name="Cloak of Feather">
+        <set name="enchantable" value="false"/>
+        <set name="crystal_type" value="S84"/>
+        <set name="icon" value="icon.armor_back09"/>
+        <set name="price" value="0"/>
+        <set name="type" value="NONE"/>
+        <set name="weight" value="220"/>
+        <set name="dropable" value="false"/>
+        <set name="tradeable" value="false"/>
+        <set name="sellable" value="false"/>
+        <equip>
+            <slot id="BACK"/>
+        </equip>
+        <attributes>
+            <attribute element="fire" value="5"/>
+            <attribute element="water" value="5"/>
+            <attribute element="wind" value="5"/>
+            <attribute element="earth" value="5"/>
+            <attribute element="holy" value="5"/>
+            <attribute element="unholy" value="5"/>
+        </attributes>
+        <for>
+            <add stat="pDef" order="0x10" value="20"/>
+            <enchant stat="pDef" order="0x0C" value="0"/>
+            <enchant stat="maxHp" order="0x80" value="0"/>
+        </for>
+    </armor>
+    <armor id="90987" name="Cloak of Duel">
+        <set name="enchantable" value="false"/>
+        <set name="crystal_type" value="S84"/>
+        <set name="icon" value="icon.armor_back09"/>
+        <set name="price" value="0"/>
+        <set name="type" value="NONE"/>
+        <set name="weight" value="220"/>
+        <set name="dropable" value="false"/>
+        <set name="tradeable" value="false"/>
+        <set name="sellable" value="false"/>
+        <equip>
+            <slot id="BACK"/>
+        </equip>
+        <attributes>
+            <attribute element="fire" value="5"/>
+            <attribute element="water" value="5"/>
+            <attribute element="wind" value="5"/>
+            <attribute element="earth" value="5"/>
+            <attribute element="holy" value="5"/>
+            <attribute element="unholy" value="5"/>
+        </attributes>
+        <for>
+            <add stat="pDef" order="0x10" value="20"/>
+            <enchant stat="pDef" order="0x0C" value="0"/>
+            <enchant stat="maxHp" order="0x80" value="0"/>
+        </for>
+    </armor>
+    <armor id="90988" name="Cloak of Gold">
+        <set name="enchantable" value="false"/>
+        <set name="crystal_type" value="S84"/>
+        <set name="icon" value="icon.armor_back09"/>
+        <set name="price" value="0"/>
+        <set name="type" value="NONE"/>
+        <set name="weight" value="220"/>
+        <set name="dropable" value="false"/>
+        <set name="tradeable" value="false"/>
+        <set name="sellable" value="false"/>
+        <equip>
+            <slot id="BACK"/>
+        </equip>
+        <attributes>
+            <attribute element="fire" value="5"/>
+            <attribute element="water" value="5"/>
+            <attribute element="wind" value="5"/>
+            <attribute element="earth" value="5"/>
+            <attribute element="holy" value="5"/>
+            <attribute element="unholy" value="5"/>
+        </attributes>
+        <for>
+            <add stat="pDef" order="0x10" value="20"/>
+            <enchant stat="pDef" order="0x0C" value="0"/>
+            <enchant stat="maxHp" order="0x80" value="0"/>
+        </for>
+    </armor>
+    <armor id="90989" name="Cloak of Purple">
+        <set name="enchantable" value="false"/>
+        <set name="crystal_type" value="S84"/>
+        <set name="icon" value="icon.armor_back09"/>
+        <set name="price" value="0"/>
+        <set name="type" value="NONE"/>
+        <set name="weight" value="220"/>
+        <set name="dropable" value="false"/>
+        <set name="tradeable" value="false"/>
+        <set name="sellable" value="false"/>
+        <equip>
+            <slot id="BACK"/>
+        </equip>
+        <attributes>
+            <attribute element="fire" value="5"/>
+            <attribute element="water" value="5"/>
+            <attribute element="wind" value="5"/>
+            <attribute element="earth" value="5"/>
+            <attribute element="holy" value="5"/>
+            <attribute element="unholy" value="5"/>
+        </attributes>
+        <for>
+            <add stat="pDef" order="0x10" value="20"/>
+            <enchant stat="pDef" order="0x0C" value="0"/>
+            <enchant stat="maxHp" order="0x80" value="0"/>
+        </for>
+    </armor>
+    <armor id="90990" name="Cloak of Honor">
+        <set name="enchantable" value="false"/>
+        <set name="crystal_type" value="S84"/>
+        <set name="icon" value="icon.armor_back09"/>
+        <set name="price" value="0"/>
+        <set name="type" value="NONE"/>
+        <set name="weight" value="220"/>
+        <set name="dropable" value="false"/>
+        <set name="tradeable" value="false"/>
+        <set name="sellable" value="false"/>
+        <equip>
+            <slot id="BACK"/>
+        </equip>
+        <attributes>
+            <attribute element="fire" value="5"/>
+            <attribute element="water" value="5"/>
+            <attribute element="wind" value="5"/>
+            <attribute element="earth" value="5"/>
+            <attribute element="holy" value="5"/>
+            <attribute element="unholy" value="5"/>
+        </attributes>
+        <for>
+            <add stat="pDef" order="0x10" value="20"/>
+            <enchant stat="pDef" order="0x0C" value="0"/>
+            <enchant stat="maxHp" order="0x80" value="0"/>
+        </for>
+    </armor>
+    <armor id="90991" name="Cloak of The Eagle">
+        <set name="enchantable" value="false"/>
+        <set name="crystal_type" value="S84"/>
+        <set name="icon" value="icon.armor_back09"/>
+        <set name="price" value="0"/>
+        <set name="type" value="NONE"/>
+        <set name="weight" value="220"/>
+        <set name="dropable" value="false"/>
+        <set name="tradeable" value="false"/>
+        <set name="sellable" value="false"/>
+        <equip>
+            <slot id="BACK"/>
+        </equip>
+        <attributes>
+            <attribute element="fire" value="5"/>
+            <attribute element="water" value="5"/>
+            <attribute element="wind" value="5"/>
+            <attribute element="earth" value="5"/>
+            <attribute element="holy" value="5"/>
+            <attribute element="unholy" value="5"/>
+        </attributes>
+        <for>
+            <add stat="pDef" order="0x10" value="20"/>
+            <enchant stat="pDef" order="0x0C" value="0"/>
+            <enchant stat="maxHp" order="0x80" value="0"/>
+        </for>
+    </armor>
+    <armor id="90992" name="Cloak of Violet">
+        <set name="enchantable" value="false"/>
+        <set name="crystal_type" value="S84"/>
+        <set name="icon" value="icon.armor_back09"/>
+        <set name="price" value="0"/>
+        <set name="type" value="NONE"/>
+        <set name="weight" value="220"/>
+        <set name="dropable" value="false"/>
+        <set name="tradeable" value="false"/>
+        <set name="sellable" value="false"/>
+        <equip>
+            <slot id="BACK"/>
+        </equip>
+        <attributes>
+            <attribute element="fire" value="5"/>
+            <attribute element="water" value="5"/>
+            <attribute element="wind" value="5"/>
+            <attribute element="earth" value="5"/>
+            <attribute element="holy" value="5"/>
+            <attribute element="unholy" value="5"/>
+        </attributes>
+        <for>
+            <add stat="pDef" order="0x10" value="20"/>
+            <enchant stat="pDef" order="0x0C" value="0"/>
+            <enchant stat="maxHp" order="0x80" value="0"/>
+        </for>
+    </armor>
+    <armor id="90993" name="Cloak of Black Flames">
+        <set name="enchantable" value="false"/>
+        <set name="crystal_type" value="S84"/>
+        <set name="icon" value="icon.armor_back09"/>
+        <set name="price" value="0"/>
+        <set name="type" value="NONE"/>
+        <set name="weight" value="220"/>
+        <set name="dropable" value="false"/>
+        <set name="tradeable" value="false"/>
+        <set name="sellable" value="false"/>
+        <equip>
+            <slot id="BACK"/>
+        </equip>
+        <attributes>
+            <attribute element="fire" value="5"/>
+            <attribute element="water" value="5"/>
+            <attribute element="wind" value="5"/>
+            <attribute element="earth" value="5"/>
+            <attribute element="holy" value="5"/>
+            <attribute element="unholy" value="5"/>
+        </attributes>
+        <for>
+            <add stat="pDef" order="0x10" value="20"/>
+            <enchant stat="pDef" order="0x0C" value="0"/>
+            <enchant stat="maxHp" order="0x80" value="0"/>
+        </for>
+    </armor>
+    <armor id="90994" name="Cloak of Brown">
+        <set name="enchantable" value="false"/>
+        <set name="crystal_type" value="S84"/>
+        <set name="icon" value="icon.vesper_cloack_i00"/>
+        <set name="price" value="0"/>
+        <set name="type" value="NONE"/>
+        <set name="weight" value="220"/>
+        <set name="dropable" value="false"/>
+        <set name="tradeable" value="false"/>
+        <set name="sellable" value="false"/>
+        <equip>
+            <slot id="BACK"/>
+        </equip>
+        <attributes>
+            <attribute element="fire" value="5"/>
+            <attribute element="water" value="5"/>
+            <attribute element="wind" value="5"/>
+            <attribute element="earth" value="5"/>
+            <attribute element="holy" value="5"/>
+            <attribute element="unholy" value="5"/>
+        </attributes>
+        <for>
+            <add stat="pDef" order="0x10" value="20"/>
+            <enchant stat="pDef" order="0x0C" value="0"/>
+            <enchant stat="maxHp" order="0x80" value="0"/>
+        </for>
+    </armor>
+    <armor id="90995" name="Cloak of Orbe">
+        <set name="enchantable" value="false"/>
+        <set name="crystal_type" value="S84"/>
+        <set name="icon" value="icon.vesper_cloack_i00"/>
+        <set name="price" value="0"/>
+        <set name="type" value="NONE"/>
+        <set name="weight" value="220"/>
+        <set name="dropable" value="false"/>
+        <set name="tradeable" value="false"/>
+        <set name="sellable" value="false"/>
+        <equip>
+            <slot id="BACK"/>
+        </equip>
+        <attributes>
+            <attribute element="fire" value="5"/>
+            <attribute element="water" value="5"/>
+            <attribute element="wind" value="5"/>
+            <attribute element="earth" value="5"/>
+            <attribute element="holy" value="5"/>
+            <attribute element="unholy" value="5"/>
+        </attributes>
+        <for>
+            <add stat="pDef" order="0x10" value="20"/>
+            <enchant stat="pDef" order="0x0C" value="0"/>
+            <enchant stat="maxHp" order="0x80" value="0"/>
+        </for>
+    </armor>
+    <armor id="90996" name="Cloak of Bronze">
+        <set name="enchantable" value="false"/>
+        <set name="crystal_type" value="S84"/>
+        <set name="icon" value="icon.vesper_cloack_i00"/>
+        <set name="price" value="0"/>
+        <set name="type" value="NONE"/>
+        <set name="weight" value="220"/>
+        <set name="dropable" value="false"/>
+        <set name="tradeable" value="false"/>
+        <set name="sellable" value="false"/>
+        <equip>
+            <slot id="BACK"/>
+        </equip>
+        <attributes>
+            <attribute element="fire" value="5"/>
+            <attribute element="water" value="5"/>
+            <attribute element="wind" value="5"/>
+            <attribute element="earth" value="5"/>
+            <attribute element="holy" value="5"/>
+            <attribute element="unholy" value="5"/>
+        </attributes>
+        <for>
+            <add stat="pDef" order="0x10" value="20"/>
+            <enchant stat="pDef" order="0x0C" value="0"/>
+            <enchant stat="maxHp" order="0x80" value="0"/>
+        </for>
+    </armor>
+    <armor id="90997" name="Cloak of Death">
+        <set name="enchantable" value="false"/>
+        <set name="crystal_type" value="S84"/>
+        <set name="icon" value="icon.vesper_cloack_i00"/>
+        <set name="price" value="0"/>
+        <set name="type" value="NONE"/>
+        <set name="weight" value="220"/>
+        <set name="dropable" value="false"/>
+        <set name="tradeable" value="false"/>
+        <set name="sellable" value="false"/>
+        <equip>
+            <slot id="BACK"/>
+        </equip>
+        <attributes>
+            <attribute element="fire" value="5"/>
+            <attribute element="water" value="5"/>
+            <attribute element="wind" value="5"/>
+            <attribute element="earth" value="5"/>
+            <attribute element="holy" value="5"/>
+            <attribute element="unholy" value="5"/>
+        </attributes>
+        <for>
+            <add stat="pDef" order="0x10" value="20"/>
+            <enchant stat="pDef" order="0x0C" value="0"/>
+            <enchant stat="maxHp" order="0x80" value="0"/>
+        </for>
+    </armor>
+    <armor id="90998" name="Cloak of the Mower">
+        <set name="enchantable" value="false"/>
+        <set name="crystal_type" value="S84"/>
+        <set name="icon" value="icon.vesper_cloack_i00"/>
+        <set name="price" value="0"/>
+        <set name="type" value="NONE"/>
+        <set name="weight" value="220"/>
+        <set name="dropable" value="false"/>
+        <set name="tradeable" value="false"/>
+        <set name="sellable" value="false"/>
+        <equip>
+            <slot id="BACK"/>
+        </equip>
+        <attributes>
+            <attribute element="fire" value="5"/>
+            <attribute element="water" value="5"/>
+            <attribute element="wind" value="5"/>
+            <attribute element="earth" value="5"/>
+            <attribute element="holy" value="5"/>
+            <attribute element="unholy" value="5"/>
+        </attributes>
+        <for>
+            <add stat="pDef" order="0x10" value="20"/>
+            <enchant stat="pDef" order="0x0C" value="0"/>
+            <enchant stat="maxHp" order="0x80" value="0"/>
+        </for>
+    </armor>
+</list>

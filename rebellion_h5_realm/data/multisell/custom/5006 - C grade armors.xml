@@ -1,0 +1,552 @@
+<?xml version='1.0' encoding='utf-8'?>
+<list>
+	<config showall="true" notax="true" keepenchanted="true" />
+	<item>
+		<production id="2413" count="1" /> <!-- Chain Hood -->
+		<ingredient id="57" count="145700" />
+	</item>
+	<item>
+		<production id="2414" count="1" /> <!-- Full Plate Helmet -->
+		<ingredient id="57" count="412600" />
+	</item>
+	<item>
+		<production id="2429" count="1" /> <!-- Chain Boots -->
+		<ingredient id="57" count="97100" />
+	</item>
+	<item>
+		<production id="2430" count="1" /> <!-- Karmian Boots -->
+		<ingredient id="57" count="97100" />
+	</item>
+	<item>
+		<production id="2431" count="1" /> <!-- Plated Leather Boots -->
+		<ingredient id="57" count="97100" />
+	</item>
+	<item>
+		<production id="2432" count="1" /> <!-- Dwarven Chain Boots -->
+		<ingredient id="57" count="97100" />
+	</item>
+	<item>
+		<production id="2433" count="1" /> <!-- Boots of Seal -->
+		<ingredient id="57" count="97100" />
+	</item>
+	<item>
+		<production id="2434" count="1" /> <!-- Rind Leather Boots -->
+		<ingredient id="57" count="123900" />
+	</item>
+	<item>
+		<production id="2435" count="1" /> <!-- Demon's Boots -->
+		<ingredient id="57" count="188800" />
+	</item>
+	<item>
+		<production id="2436" count="1" /> <!-- Theca Leather Boots -->
+		<ingredient id="57" count="211600" />
+	</item>
+	<item>
+		<production id="2437" count="1" /> <!-- Drake Leather Boots -->
+		<ingredient id="57" count="275100" />
+	</item>
+	<item>
+		<production id="2438" count="1" /> <!-- Full Plate Boots -->
+		<ingredient id="57" count="275100" />
+	</item>
+	<item>
+		<production id="2452" count="1" /> <!-- Reinforced Mithril Gloves -->
+		<ingredient id="57" count="97100" />
+	</item>
+	<item>
+		<production id="2453" count="1" /> <!-- Chain Gloves -->
+		<ingredient id="57" count="97100" />
+	</item>
+	<item>
+		<production id="2454" count="1" /> <!-- Karmian Gloves -->
+		<ingredient id="57" count="97100" />
+	</item>
+	<item>
+		<production id="2455" count="1" /> <!-- Plated Leather Gloves -->
+		<ingredient id="57" count="114400" />
+	</item>
+	<item>
+		<production id="2456" count="1" /> <!-- Dwarven Chain Gloves -->
+		<ingredient id="57" count="123900" />
+	</item>
+	<item>
+		<production id="2457" count="1" /> <!-- Gloves of Seal -->
+		<ingredient id="57" count="123900" />
+	</item>
+	<item>
+		<production id="2458" count="1" /> <!-- Rind Leather Gloves -->
+		<ingredient id="57" count="123900" />
+	</item>
+	<item>
+		<production id="2459" count="1" /> <!-- Demon's Gloves -->
+		<ingredient id="57" count="188800" />
+	</item>
+	<item>
+		<production id="2460" count="1" /> <!-- Theca Leather Gloves -->
+		<ingredient id="57" count="211600" />
+	</item>
+	<item>
+		<production id="2461" count="1" /> <!-- Drake Leather Gloves -->
+		<ingredient id="57" count="275100" />
+	</item>
+	<item>
+		<production id="2462" count="1" /> <!-- Full Plate Gauntlets -->
+		<ingredient id="57" count="275100" />
+	</item>
+	<item>
+		<production id="2463" count="1" /> <!-- Divine Gloves -->
+		<ingredient id="57" count="275100" />
+	</item>
+	<item>
+		<production id="2468" count="1" /> <!-- Blessed Gloves -->
+		<ingredient id="57" count="275100" />
+	</item>
+	<item>
+		<production id="2495" count="1" /> <!-- Chain Shield -->
+		<ingredient id="57" count="102000" />
+	</item>
+	<item>
+		<production id="2496" count="1" /> <!-- Dwarven Chain Shield -->
+		<ingredient id="57" count="120100" />
+	</item>
+	<item>
+		<production id="2497" count="1" /> <!-- Full Plate Shield -->
+		<ingredient id="57" count="288800" />
+	</item>
+	<item>
+		<production id="500" count="1" /> <!-- Great Helmet -->
+		<ingredient id="57" count="185800" />
+	</item>
+	<item>
+		<production id="517" count="1" /> <!-- Composite Helmet -->
+		<ingredient id="57" count="283200" />
+	</item>
+	<item>
+		<production id="529" count="1" /> <!-- Cap of Mana -->
+		<ingredient id="57" count="412600" />
+	</item>
+	<item>
+		<production id="531" count="1" /> <!-- Paradia Hood -->
+		<ingredient id="57" count="412600" />
+	</item>
+	<item>
+		<production id="533" count="1" /> <!-- Hood of Solar Eclipse -->
+		<ingredient id="57" count="412600" />
+	</item>
+	<item>
+		<production id="535" count="1" /> <!-- Hood of Summoning -->
+		<ingredient id="57" count="412600" />
+	</item>
+	<item>
+		<production id="537" count="1" /> <!-- Elemental Hood -->
+		<ingredient id="57" count="412600" />
+	</item>
+	<item>
+		<production id="539" count="1" /> <!-- Hood of Grace -->
+		<ingredient id="57" count="412600" />
+	</item>
+	<item>
+		<production id="541" count="1" /> <!-- Phoenix Hood -->
+		<ingredient id="57" count="412600" />
+	</item>
+	<item>
+		<production id="543" count="1" /> <!-- Hood of Aid -->
+		<ingredient id="57" count="412600" />
+	</item>
+	<item>
+		<production id="545" count="1" /> <!-- Flame Helm -->
+		<ingredient id="57" count="412600" />
+	</item>
+	<item>
+		<production id="549" count="1" /> <!-- Helm of Avadon -->
+		<ingredient id="57" count="412600" />
+	</item>
+	<item>
+		<production id="551" count="1" /> <!-- Helmet of Pledge -->
+		<ingredient id="57" count="412600" />
+	</item>
+	<item>
+		<production id="356" count="1" /> <!-- Full Plate Armor -->
+		<ingredient id="57" count="1788000" />
+	</item>
+	<item>
+		<production id="381" count="1" /> <!-- Chain Gaiters -->
+		<ingredient id="57" count="242900" />
+	</item>
+	<item>
+		<production id="382" count="1" /> <!-- Dwarven Chain Gaiters -->
+		<ingredient id="57" count="309700" />
+	</item>
+	<item>
+		<production id="398" count="1" /> <!-- Plated Leather -->
+		<ingredient id="57" count="343000" />
+	</item>
+	<item>
+		<production id="399" count="1" /> <!-- Rind Leather Armor -->
+		<ingredient id="57" count="372000" />
+	</item>
+	<item>
+		<production id="400" count="1" /> <!-- Theca Leather Armor -->
+		<ingredient id="57" count="635000" />
+	</item>
+	<item>
+		<production id="401" count="1" /> <!-- Drake Leather Armor -->
+		<ingredient id="57" count="1341000" />
+	</item>
+	<item>
+		<production id="418" count="1" /> <!-- Plated Leather Gaiters -->
+		<ingredient id="57" count="214500" />
+	</item>
+	<item>
+		<production id="419" count="1" /> <!-- Rind Leather Gaiters -->
+		<ingredient id="57" count="232300" />
+	</item>
+	<item>
+		<production id="420" count="1" /> <!-- Theca Leather Gaiters -->
+		<ingredient id="57" count="396700" />
+	</item>
+	<item>
+		<production id="439" count="1" /> <!-- Karmian Tunic -->
+		<ingredient id="57" count="291000" />
+	</item>
+	<item>
+		<production id="440" count="1" /> <!-- Robe of Seal -->
+		<ingredient id="57" count="603900" />
+	</item>
+	<item>
+		<production id="441" count="1" /> <!-- Demon's Tunic -->
+		<ingredient id="57" count="566000" />
+	</item>
+	<item>
+		<production id="442" count="1" /> <!-- Divine Tunic -->
+		<ingredient id="57" count="825000" />
+	</item>
+	<item>
+		<production id="471" count="1" /> <!-- Karmian Stockings -->
+		<ingredient id="57" count="182100" />
+	</item>
+	<item>
+		<production id="472" count="1" /> <!-- Demon's Stockings -->
+		<ingredient id="57" count="354000" />
+	</item>
+	<item>
+		<production id="473" count="1" /> <!-- Divine Stockings -->
+		<ingredient id="57" count="515800" />
+	</item>
+	<item>
+		<production id="497" count="1" /> <!-- Chain Helmet -->
+		<ingredient id="57" count="112800" />
+	</item>
+	<item>
+		<production id="498" count="1" /> <!-- Steel Plate Helmet -->
+		<ingredient id="57" count="158200" />
+	</item>
+	<item>
+		<production id="499" count="1" /> <!-- Mithril Helmet -->
+		<ingredient id="57" count="412600" />
+	</item>
+	<item>
+		<production id="60" count="1" /> <!-- Composite Armor -->
+		<ingredient id="57" count="1227000" />
+	</item>
+	<item>
+		<production id="62" count="1" /> <!-- Reinforced Mithril Boots -->
+		<ingredient id="57" count="97100" />
+	</item>
+	<item>
+		<production id="64" count="1" /> <!-- Composite Boots -->
+		<ingredient id="57" count="188800" />
+	</item>
+	<item>
+		<production id="1120" count="1" /> <!-- Pa'agrian Hand -->
+		<ingredient id="57" count="123900" />
+	</item>
+	<item>
+		<production id="1126" count="1" /> <!-- Crimson Boots -->
+		<ingredient id="57" count="123900" />
+	</item>
+	<item>
+		<production id="1127" count="1" /> <!-- Forgotten Boots -->
+		<ingredient id="57" count="188800" />
+	</item>
+	<item>
+		<production id="1128" count="1" /> <!-- Adamantite Boots -->
+		<ingredient id="57" count="275100" />
+	</item>
+	<item>
+		<production id="1149" count="1" /> <!-- Shining Circlet -->
+		<ingredient id="57" count="283200" />
+	</item>
+	<item>
+		<production id="603" count="1" /> <!-- Divine Boots -->
+		<ingredient id="57" count="275100" />
+	</item>
+	<item>
+		<production id="608" count="1" /> <!-- Mithril Gauntlets -->
+		<ingredient id="57" count="188800" />
+	</item>
+	<item>
+		<production id="609" count="1" /> <!-- Gauntlets of Ghost -->
+		<ingredient id="57" count="275100" />
+	</item>
+	<item>
+		<production id="631" count="1" /> <!-- Eldarake -->
+		<ingredient id="57" count="102000" />
+	</item>
+	<item>
+		<production id="632" count="1" /> <!-- Knight's Shield -->
+		<ingredient id="57" count="130100" />
+	</item>
+	<item>
+		<production id="680" count="1" /> <!-- Mithril Undergarment Set -->
+		<ingredient id="57" count="63100" />
+	</item>
+	<item>
+		<production id="681" count="1" /> <!-- Fascination Undergarment Set -->
+		<ingredient id="57" count="80500" />
+	</item>
+	<item>
+		<production id="682" count="1" /> <!-- Demon's Undergarment Set -->
+		<ingredient id="57" count="179000" />
+	</item>
+	<item>
+		<production id="103" count="1" /> <!-- Tower Shield -->
+		<ingredient id="57" count="198300" />
+	</item>
+	<item>
+		<production id="107" count="1" /> <!-- Composite Shield -->
+		<ingredient id="57" count="198300" />
+	</item>
+	<item>
+		<production id="2387" count="1" /> <!-- Reinforced Mithril Gaiters -->
+		<ingredient id="57" count="182100" />
+	</item>
+	<item>
+		<production id="12084" count="1" /> <!-- Common Item - Reinforced Mithril Gaiters -->
+		<ingredient id="57" count="8430" />
+	</item>
+	<item>
+		<production id="12085" count="1" /> <!-- Common Item - Reinforced Mithril Boots -->
+		<ingredient id="57" count="4500" />
+	</item>
+	<item>
+		<production id="12087" count="1" /> <!-- Common Item - Reinforced Mithril Gloves -->
+		<ingredient id="57" count="4500" />
+	</item>
+	<item>
+		<production id="12088" count="1" /> <!-- Common Item - Dwarven Chain Boots -->
+		<ingredient id="57" count="4500" />
+	</item>
+	<item>
+		<production id="12089" count="1" /> <!-- Common Item - Boots of Seal -->
+		<ingredient id="57" count="4500" />
+	</item>
+	<item>
+		<production id="12090" count="1" /> <!-- Common Item - Chain Hood -->
+		<ingredient id="57" count="6740" />
+	</item>
+	<item>
+		<production id="12091" count="1" /> <!-- Common Item - Eldarake -->
+		<ingredient id="57" count="4720" />
+	</item>
+	<item>
+		<production id="12092" count="1" /> <!-- Common Item - Chain Gloves -->
+		<ingredient id="57" count="4500" />
+	</item>
+	<item>
+		<production id="12093" count="1" /> <!-- Common Item - Chain Boots -->
+		<ingredient id="57" count="4500" />
+	</item>
+	<item>
+		<production id="12094" count="1" /> <!-- Common Item - Chain Gaiters -->
+		<ingredient id="57" count="11200" />
+	</item>
+	<item>
+		<production id="12096" count="1" /> <!-- Common Item - Chain Shield -->
+		<ingredient id="57" count="4720" />
+	</item>
+	<item>
+		<production id="12097" count="1" /> <!-- Common Item - Karmian Gloves -->
+		<ingredient id="57" count="4500" />
+	</item>
+	<item>
+		<production id="12098" count="1" /> <!-- Common Item - Karmian Boots -->
+		<ingredient id="57" count="4500" />
+	</item>
+	<item>
+		<production id="12099" count="1" /> <!-- Common Item - Karmian Tunic -->
+		<ingredient id="57" count="13500" />
+	</item>
+	<item>
+		<production id="12100" count="1" /> <!-- Common Item - Karmian Stockings -->
+		<ingredient id="57" count="8430" />
+	</item>
+	<item>
+		<production id="12101" count="1" /> <!-- Common Item - Plate Leather Boots -->
+		<ingredient id="57" count="4500" />
+	</item>
+	<item>
+		<production id="12102" count="1" /> <!-- Common Item - Dwarven Chain Shield -->
+		<ingredient id="57" count="5480" />
+	</item>
+	<item>
+		<production id="12103" count="1" /> <!-- Common Item - Plate Leather Gaiters -->
+		<ingredient id="57" count="9780" />
+	</item>
+	<item>
+		<production id="12104" count="1" /> <!-- Common Item - Plate Leather Gloves -->
+		<ingredient id="57" count="5220" />
+	</item>
+	<item>
+		<production id="12105" count="1" /> <!-- Common Item - Plate Leather Armor -->
+		<ingredient id="57" count="15700" />
+	</item>
+	<item>
+		<production id="12106" count="1" /> <!-- Common Item - Great Helmet -->
+		<ingredient id="57" count="8420" />
+	</item>
+	<item>
+		<production id="12107" count="1" /> <!-- Common Item - Knight's Shield -->
+		<ingredient id="57" count="5900" />
+	</item>
+	<item>
+		<production id="12108" count="1" /> <!-- Common Item - Dwarven Chain Gloves -->
+		<ingredient id="57" count="5620" />
+	</item>
+	<item>
+		<production id="12109" count="1" /> <!-- Common Item - Dwarven Chain Gaiters -->
+		<ingredient id="57" count="14000" />
+	</item>
+	<item>
+		<production id="12111" count="1" /> <!-- Common Item - Rind Leather Gaiters -->
+		<ingredient id="57" count="10500" />
+	</item>
+	<item>
+		<production id="12112" count="1" /> <!-- Common Item - Rind Leather Gloves -->
+		<ingredient id="57" count="5620" />
+	</item>
+	<item>
+		<production id="12113" count="1" /> <!-- Common Item - Rind Leather Armor -->
+		<ingredient id="57" count="16800" />
+	</item>
+	<item>
+		<production id="12114" count="1" /> <!-- Common Item - Rind Leather Boots -->
+		<ingredient id="57" count="5620" />
+	</item>
+	<item>
+		<production id="12115" count="1" /> <!-- Common Item - Robe of Seal -->
+		<ingredient id="57" count="27400" />
+	</item>
+	<item>
+		<production id="12116" count="1" /> <!-- Common Item - Gloves of Seal -->
+		<ingredient id="57" count="5620" />
+	</item>
+	<item>
+		<production id="12118" count="1" /> <!-- Common Item - Crimson Boots -->
+		<ingredient id="57" count="5620" />
+	</item>
+	<item>
+		<production id="12119" count="1" /> <!-- Common Item - Mithril Gauntlet -->
+		<ingredient id="57" count="10400" />
+	</item>
+	<item>
+		<production id="12120" count="1" /> <!-- Common Item - Shining Circlet -->
+		<ingredient id="57" count="15600" />
+	</item>
+	<item>
+		<production id="12121" count="1" /> <!-- Common Item - Demon's Boots -->
+		<ingredient id="57" count="10400" />
+	</item>
+	<item>
+		<production id="12122" count="1" /> <!-- Common Item - Demon's Gloves -->
+		<ingredient id="57" count="10400" />
+	</item>
+	<item>
+		<production id="12123" count="1" /> <!-- Common Item - Demon's Tunic -->
+		<ingredient id="57" count="31200" />
+	</item>
+	<item>
+		<production id="12124" count="1" /> <!-- Common Item - Demon's Stockings -->
+		<ingredient id="57" count="19500" />
+	</item>
+	<item>
+		<production id="12125" count="1" /> <!-- Common Item - Composite Boots -->
+		<ingredient id="57" count="10400" />
+	</item>
+	<item>
+		<production id="12126" count="1" /> <!-- Common Item - Composite Shield -->
+		<ingredient id="57" count="10900" />
+	</item>
+	<item>
+		<production id="12127" count="1" /> <!-- Common Item - Composite Helmet -->
+		<ingredient id="57" count="15600" />
+	</item>
+	<item>
+		<production id="12128" count="1" /> <!-- Common Item - Composite Armor -->
+		<ingredient id="57" count="67700" />
+	</item>
+	<item>
+		<production id="12129" count="1" /> <!-- Common Item - Tower Shield -->
+		<ingredient id="57" count="10900" />
+	</item>
+	<item>
+		<production id="12130" count="1" /> <!-- Common Item - Theca Leather Gaiters -->
+		<ingredient id="57" count="21000" />
+	</item>
+	<item>
+		<production id="12131" count="1" /> <!-- Common Item - Theca Leather Gloves -->
+		<ingredient id="57" count="11200" />
+	</item>
+	<item>
+		<production id="12132" count="1" /> <!-- Common Item - Theca Leather Boots -->
+		<ingredient id="57" count="11200" />
+	</item>
+	<item>
+		<production id="12133" count="1" /> <!-- Common Item - Theca Leather Armor -->
+		<ingredient id="57" count="33600" />
+	</item>
+	<item>
+		<production id="12134" count="1" /> <!-- Common Item - Drake Leather Gloves -->
+		<ingredient id="57" count="16300" />
+	</item>
+	<item>
+		<production id="12135" count="1" /> <!-- Common Item - Drake Leather Armor -->
+		<ingredient id="57" count="79500" />
+	</item>
+	<item>
+		<production id="12136" count="1" /> <!-- Common Item - Drake Leather Boots -->
+		<ingredient id="57" count="16300" />
+	</item>
+	<item>
+		<production id="12137" count="1" /> <!-- Common Item - Divine Gloves -->
+		<ingredient id="57" count="16300" />
+	</item>
+	<item>
+		<production id="12138" count="1" /> <!-- Common Item - Divine Tunic -->
+		<ingredient id="57" count="48900" />
+	</item>
+	<item>
+		<production id="12139" count="1" /> <!-- Common Item - Divine Stockings -->
+		<ingredient id="57" count="30600" />
+	</item>
+	<item>
+		<production id="12141" count="1" /> <!-- Common Item - Full Plate Gauntlet -->
+		<ingredient id="57" count="16300" />
+	</item>
+	<item>
+		<production id="12142" count="1" /> <!-- Common Item - Full Plate Boots -->
+		<ingredient id="57" count="16300" />
+	</item>
+	<item>
+		<production id="12143" count="1" /> <!-- Common Item - Full Plate Shield -->
+		<ingredient id="57" count="17100" />
+	</item>
+	<item>
+		<production id="12144" count="1" /> <!-- Common Item - Full Plate Armor -->
+		<ingredient id="57" count="106000" />
+	</item>
+	<item>
+		<production id="12145" count="1" /> <!-- Common Item - Full Plate Helmet -->
+		<ingredient id="57" count="24500" />
+	</item>
+</list>

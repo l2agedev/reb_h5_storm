@@ -1,0 +1,313 @@
+<?xml version='1.0' encoding='utf-8'?>
+
+<!-- Consumable -->
+<!-- © 2010 by mathuza -->
+
+<list>
+<config showall="true" notax="true" keepenchanted="true" />
+      <!-- Ancient Adena -->
+  <item id="1">
+    <ingredient id="57" count="2"/>
+    <production id="5575" count="100000"/>
+  </item>
+
+
+  <!-- Dualsword Craft Stamp -->
+  <item id="2">
+    <ingredient id="57" count="5"/>
+    <production id="5126" count="1"/>
+  </item>
+
+  <!-- Battle Symbol -->
+  <item id="3">
+    <ingredient id="57" count="5"/>
+    <production id="8875" count="1"/>
+  </item>
+
+  <!-- Magic Symbol -->
+  <item id="4">
+    <ingredient id="57" count="5"/>
+    <production id="8876" count="1"/>
+  </item>
+
+  <!-- Phoenix Blood -->
+  <item id="5">
+    <ingredient id="57" count="5"/>
+    <production id="8873" count="1"/>
+  </item>
+
+  <!-- Einhasad's Holy Water -->
+  <item id="6">
+    <ingredient id="57" count="5"/>
+    <production id="8874" count="1"/>
+  </item>
+  
+  <!-- Cursed Bone -->
+  <item id="7">
+    <ingredient id="57" count="5"/>
+    <production id="2508" count="1000"/>
+  </item>
+  
+   <!-- Scroll: Recovery (Grade D) -->
+  <item id="13">
+    <ingredient id="57" count="5"/>
+    <production id="8595" count="1"/>
+  </item>
+  
+  <!-- Scroll: Recovery (Grade C) -->
+  <item id="13">
+    <ingredient id="57" count="5"/>
+    <production id="8596" count="1"/>
+  </item>
+  
+ <!-- Scroll: Recovery (Grade B) -->
+  <item id="13">
+    <ingredient id="57" count="5"/>
+    <production id="8597" count="1"/>
+  </item>
+  
+  <!-- Scroll: Recovery (Grade A) -->
+  <item id="13">
+    <ingredient id="57" count="5"/>
+    <production id="8598" count="1"/>
+  </item>
+
+  <!-- Scroll: Recovery (Grade S) -->
+  <item id="14">
+    <ingredient id="57" count="5"/>
+    <production id="8599" count="1"/>
+  </item>
+  
+    <!-- Gemstones D -->
+  <item id="15">
+    <ingredient id="57" count="5"/>
+    <production id="2130" count="1000"/>
+  </item>
+
+   <!-- Gemstones c -->
+  <item id="16">
+    <ingredient id="57" count="5"/>
+    <production id="2131" count="1000"/>
+  </item>
+  
+   <!-- Gemstones b -->
+  <item id="17">
+    <ingredient id="57" count="5"/>
+    <production id="2132" count="1000"/>
+  </item>
+  
+  <!-- Gemstones A -->
+  <item id="17">
+    <ingredient id="5575" count="2"/>
+    <production id="2133" count="1"/>
+  </item>
+  
+  <!-- Gemstones S -->
+  <item id="17">
+    <ingredient id="5575" count="1"/>
+    <production id="2134" count="1"/>
+  </item>
+  
+  <!-- Soul Ore-->
+  <item id="18">
+    <ingredient id="57" count="5"/>
+    <production id="1785" count="1000"/>
+  </item>
+  
+  <!-- Spirit Ore -->
+  <item id="19">
+    <ingredient id="57" count="5"/>
+    <production id="3031" count="1000"/>
+  </item>
+  
+  <!-- Energy Stone -->
+  <item id="20">
+    <ingredient id="57" count="5"/>
+    <production id="5589" count="1000"/>
+  </item>
+  
+   <!-- Summoning Crystal -->
+  <item id="20">
+    <ingredient id="57" count="5"/>
+    <production id="8615" count="10"/>
+  </item>
+  
+    <!-- Charm of Courage: D-Grade -->
+  <item id="12">
+    <ingredient id="57" count="5"/>
+    <production id="8516" count="1"/>
+  </item>
+  
+  <!-- Charm of Courage: C-Grade -->
+  <item id="12">
+    <ingredient id="57" count="5"/>
+    <production id="8517" count="1"/>
+  </item>
+  
+ <!-- Charm of Courage: B-Grade -->
+  <item id="12">
+    <ingredient id="57" count="5"/>
+    <production id="8518" count="1"/>
+  </item>
+  
+  <!-- Charm of Courage: A-Grade -->
+  <item id="12">
+    <ingredient id="57" count="5"/>
+    <production id="8519" count="1"/>
+  </item>
+  
+  <!-- Charm of Courage: S-Grade -->
+  <item id="12">
+    <ingredient id="57" count="5"/>
+    <production id="8520" count="1"/>
+  </item>
+  
+  <!-- Dice Heart -->
+  <item id="12">
+    <ingredient id="57" count="5"/>
+    <production id="4625" count="1"/>
+  </item>
+  
+  <!-- Dice Spade -->
+  <item id="12">
+    <ingredient id="57" count="5"/>
+    <production id="4626" count="1"/>
+  </item>
+  
+<!-- Dice Clover -->
+  <item id="12">
+    <ingredient id="57" count="5"/>
+    <production id="4627" count="1"/>
+  </item>
+  
+<!-- Dice Diamond -->
+  <item id="12">
+    <ingredient id="57" count="5"/>
+    <production id="4628" count="1"/>
+  </item>
+  
+  <!--  Bone Arrow  -->
+  <item id="8">
+    <ingredient id="57" count="5"/>
+    <production id="1341" count="1000"/>
+  </item>
+  
+  <!--  Steel Arrow  -->
+  <item id="8">
+    <ingredient id="57" count="5"/>
+    <production id="22068" count="1000"/>
+  </item>
+
+    <!-- Silver Arrow  -->
+  <item id="8">
+    <ingredient id="57" count="5"/>
+    <production id="1343" count="1000"/>
+  </item>
+
+
+  <!-- Mithril Arrow -->
+  <item id="9">
+    <ingredient id="57" count="3"/>
+    <production id="1344" count="1000"/>
+  </item>
+
+  
+  <!-- Light Arrow -->
+  <item id="10">
+    <ingredient id="57" count="5"/>
+    <production id="22071" count="1000"/>
+  </item>
+  
+  <!--  Bone Quiver  -->
+  <item id="8">
+    <ingredient id="57" count="5"/>
+    <production id="22089" count="1"/>
+  </item>
+  
+  <!--  Steel Quiver  -->
+  <item id="8">
+    <ingredient id="57" count="5"/>
+    <production id="22090" count="1"/>
+  </item>
+  
+  <!-- Silver Quiver  -->
+  <item id="8">
+    <ingredient id="57" count="5"/>
+    <production id="22091" count="1"/>
+  </item>
+  
+  <!-- Mithril Quiver -->
+  <item id="9">
+    <ingredient id="57" count="3"/>
+    <production id="22092" count="1"/>
+  </item>
+  
+  <!-- Light Quiver -->
+  <item id="10">
+    <ingredient id="57" count="5"/>
+    <production id="22093" count="1"/>
+  </item>
+  
+  <!-- Bone Bolt -->
+  <item id="11">
+    <ingredient id="57" count="5"/>
+    <production id="9633" count="1000"/>
+  </item>
+  
+   <!-- Steel Bolt -->
+  <item id="11">
+    <ingredient id="57" count="5"/>
+    <production id="9634" count="1000"/>
+  </item>
+  
+   <!-- Silver Bolt -->
+  <item id="11">
+    <ingredient id="57" count="5"/>
+    <production id="9635" count="1000"/>
+  </item>
+
+  <!-- Mithril Bolt -->
+  <item id="11">
+    <ingredient id="57" count="3"/>
+    <production id="9636" count="1000"/>
+  </item>
+
+  <!-- Shining Bolt -->
+  <item id="12">
+    <ingredient id="57" count="5"/>
+    <production id="9637" count="1000"/>
+  </item>
+  
+  <!-- Bone Bolt Container -->
+  <item id="11">
+    <ingredient id="57" count="3"/>
+    <production id="22149" count="1"/>
+  </item>
+  
+  <!-- Steel Bolt Container -->
+  <item id="11">
+    <ingredient id="57" count="3"/>
+    <production id="22150" count="1"/>
+  </item>
+  
+  <!-- Silver Bolt Container -->
+  <item id="11">
+    <ingredient id="57" count="3"/>
+    <production id="22151" count="1"/>
+  </item>
+  
+  <!-- Mithril Bolt Container -->
+  <item id="11">
+    <ingredient id="57" count="3"/>
+    <production id="22152" count="1"/>
+  </item>
+  
+  <!-- Shining Bolt Container -->
+  <item id="12">
+    <ingredient id="57" count="5"/>
+    <production id="22153" count="1"/>
+  </item>
+  
+  
+    
+</list>

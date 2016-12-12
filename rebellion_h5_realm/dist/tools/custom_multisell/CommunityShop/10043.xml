@@ -1,0 +1,125 @@
+<?xml version='1.0' encoding='utf-8'?>
+
+  <!-- by 4ipolino -->
+<list>
+
+  <!-- Blessed Scroll of Resurrection -->
+  <item id="1">
+    <ingredient id="57" count="2500000"/>
+    <production id="3936" count="1"/>
+  </item>
+
+  <!-- Scroll of Resurrection -->
+  <item id="3">
+    <ingredient id="57" count="100000"/>
+    <production id="737" count="10"/>
+  </item>
+
+  <!-- Scroll of Escape -->
+  <item id="4">
+    <ingredient id="57" count="100000"/>
+    <production id="736" count="10"/>
+  </item>
+
+  <item id="5">
+    <ingredient id="57" count="150000"/>
+    <production id="1538" count="10"/>
+  </item>
+  
+  <item id="6">
+    <ingredient id="57" count="100000"/>
+    <production id="1829" count="10"/>
+  </item>
+  
+  <item id="7">
+    <ingredient id="57" count="100000"/>
+    <production id="1830" count="10"/>
+  </item>
+  
+  <item id="8">
+    <ingredient id="57" count="100000"/>
+    <production id="5858" count="10"/>
+  </item>
+  
+  <item id="9">
+    <ingredient id="57" count="100000"/>
+    <production id="5859" count="10"/>
+  </item>  
+ 
+    <item id="10">
+    <ingredient id="57" count="100000"/>
+    <production id="7117" count="10"/>
+  </item>  
+    <item id="11">
+    <ingredient id="57" count="100000"/>
+    <production id="7118" count="10"/>
+  </item>  
+    <item id="12">
+    <ingredient id="57" count="100000"/>
+    <production id="7119" count="10"/>
+  </item>  
+    <item id="13">
+    <ingredient id="57" count="100000"/>
+    <production id="7120" count="10"/>
+  </item>  
+    <item id="14">
+    <ingredient id="57" count="100000"/>
+    <production id="7121" count="10"/>
+  </item>  
+    <item id="15">
+    <ingredient id="57" count="100000"/>
+    <production id="7122" count="10"/>
+  </item>  
+    <item id="16">
+    <ingredient id="57" count="100000"/>
+    <production id="7123" count="10"/>
+  </item>  
+    <item id="17">
+    <ingredient id="57" count="100000"/>
+    <production id="7124" count="10"/>
+  </item>  
+    <item id="18">
+    <ingredient id="57" count="100000"/>
+    <production id="7125" count="10"/>
+  </item>  
+    <item id="19">
+    <ingredient id="57" count="100000"/>
+    <production id="7126" count="10"/>
+  </item>   
+  <item id="20">
+    <ingredient id="57" count="100000"/>
+    <production id="7127" count="10"/>
+  </item>  
+    <item id="21">
+    <ingredient id="57" count="100000"/>
+    <production id="7128" count="10"/>
+  </item>  
+    <item id="22">
+    <ingredient id="57" count="100000"/>
+    <production id="7129" count="10"/>
+  </item>  
+    <item id="23">
+    <ingredient id="57" count="100000"/>
+    <production id="7130" count="10"/>
+  </item>  
+    <item id="24">
+    <ingredient id="57" count="100000"/>
+    <production id="7131" count="10"/>
+  </item>  
+    <item id="25">
+    <ingredient id="57" count="100000"/>
+    <production id="7132" count="10"/>
+  </item>  
+    <item id="26">
+    <ingredient id="57" count="100000"/>
+    <production id="7133" count="10"/>
+  </item>  
+    <item id="27">
+    <ingredient id="57" count="100000"/>
+    <production id="7134" count="10"/>
+  </item>  
+    <item id="28">
+    <ingredient id="57" count="100000"/>
+    <production id="7135" count="10"/>
+  </item>  
+</list> 

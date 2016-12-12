@@ -1,0 +1,26 @@
+﻿<html>
+<body>
+	<title>Магистр Магии Поддержки</title>
+	<center>
+		<table width=300 bgcolor="878787">
+			<tr>
+				<td>
+					<button
+						action="bypass -h scripts_services.NPCBuffer.Buffer:editSchema %buffsetname% 1"
+						value="Редактор" width=140 height=25 back="L2UI_ct1.button_df"
+						fore="L2UI_ct1.button_df">
+				</td>
+				<td>
+					<button
+						action="bypass -h scripts_services.NPCBuffer.Buffer:delSchema %buffsetname%"
+						value="Удалить схему" width=140 height=25
+						back="L2UI_ct1.button_df" fore="L2UI_ct1.button_df">
+				</td>
+			</tr>
+		</table>
+		<table height=235 width=300 bgcolor=DAA520>
+			<tr>%buff%
+			</tr>
+		</table>
+</body>
+</html>

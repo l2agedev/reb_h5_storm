@@ -1,0 +1,153 @@
+<?xml version='1.0' encoding='utf-8'?>
+
+<!-- 2th Class -->
+<!-- © 2010 by mathuza -->
+
+<list>
+<config showall="true" notax="true" keepenchanted="true" />
+  <!-- Trial of Duty -->
+  <item id="1">
+    <ingredient id="57" count="5"/>
+    <production id="2633" count="1"/>
+  </item>
+
+  <!-- Testimony of Trust -->
+  <item id="2">
+    <ingredient id="57" count="5"/>
+    <production id="2734" count="1"/>
+  </item>
+  
+  <!-- Mark of Witchcraft -->
+  <item id="3">
+    <ingredient id="57" count="5"/>
+    <production id="3307" count="1"/>
+  </item>
+  
+  <!-- Mark of Healer -->
+  <item id="4">
+    <ingredient id="57" count="5"/>
+    <production id="2820" count="1"/>
+  </item>
+
+  <!-- Mark of Challenger -->
+  <item id="5">
+    <ingredient id="57" count="5"/>
+    <production id="2627" count="1"/>
+  </item>
+
+
+  <!-- Mark of Champion -->
+  <item id="6">
+    <ingredient id="57" count="5"/>
+    <production id="3276" count="1"/>
+  </item>
+
+
+  <!-- Mark of Duelist -->
+  <item id="7">
+    <ingredient id="57" count="5"/>
+    <production id="2762" count="1"/>
+  </item>
+
+ 
+  <!-- Mark of Seeker -->
+  <item id="8">
+    <ingredient id="57" count="5"/>
+    <production id="2673" count="1"/>
+  </item>
+
+
+
+  <!-- Mark of Searcher -->
+  <item id="9">
+    <ingredient id="57" count="5"/>
+    <production id="2809" count="1"/>
+  </item>
+
+
+  <!-- Mark of Sagittarius -->
+  <item id="10">
+    <ingredient id="57" count="5"/>
+    <production id="3293" count="1"/>
+  </item>
+
+
+  <!-- Mark of Scholar -->
+  <item id="11">
+    <ingredient id="57" count="5"/>
+    <production id="2674" count="1"/>
+  </item>
+
+ 
+  <!-- Mark of Magus -->
+  <item id="12">
+    <ingredient id="57" count="5"/>
+    <production id="2840" count="1"/>
+  </item>
+
+
+  <!-- Mark of Summoner -->
+  <item id="13">
+    <ingredient id="57" count="5"/>
+    <production id="3336" count="1"/>
+  </item>
+
+
+  <!-- Mark of Pilgrim -->
+  <item id="14">
+    <ingredient id="57" count="5"/>
+    <production id="2721" count="1"/>
+  </item>
+
+
+
+  <!-- Mark of Reformer -->
+  <item id="15">
+    <ingredient id="57" count="5"/>
+    <production id="2821" count="1"/>
+  </item>
+
+
+  <!-- Mark of Fate -->
+  <item id="16">
+    <ingredient id="57" count="5"/>
+    <production id="3172" count="1"/>
+  </item>
+
+  
+  <!-- Mark of Glory -->
+  <item id="17">
+    <ingredient id="57" count="5"/>
+    <production id="3203" count="1"/>
+  </item>
+
+
+
+  <!-- Mark of Lord -->
+  <item id="18">
+    <ingredient id="57" count="5"/>
+    <production id="3390" count="1"/>
+  </item>
+
+
+  <!-- Mark of Guildsman -->
+  <item id="19">
+    <ingredient id="57" count="5"/>
+    <production id="3119" count="1"/>
+  </item>
+
+
+  <!-- Mark of Prosperity -->
+  <item id="20">
+    <ingredient id="57" count="5"/>
+    <production id="3238" count="1"/>
+  </item>
+
+
+  <!-- Mark of Maestro -->
+  <item id="21">
+    <ingredient id="57" count="5"/>
+    <production id="2867" count="1"/>
+  </item>
+
+</list>

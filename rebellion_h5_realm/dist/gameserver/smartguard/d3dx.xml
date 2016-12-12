@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!--
+    Как пользоваться? http://forum.smart-guard.eu/viewtopic.php?f=7&t=308
+-->
+<list>
+    <string value="FPS %d | Welcome to [Public Test Server]" color="FF00F265" font="Small" pos="TopRight" style="Shadowed">
+        <showtime value="60000"/>
+        <fadein value="500"/>
+        <fadeout value="1000"/>
+        <msgId value="FPS"/>
+    </string>
+</list>

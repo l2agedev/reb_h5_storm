@@ -1,0 +1,96 @@
+<?xml version='1.0' encoding='utf-8'?>
+<list xmlns:ns0="http://www.w3.org/2001/XMLSchema-instance"
+	ns0:noNamespaceSchemaLocation="../../xsd/multisell.xsd">
+
+	<!-- Festival Adena -->
+
+	<item>
+		<production id="57" count="1250000" />
+		<ingredient id="6673" count="1" />
+	</item>
+
+	<item>
+		<production id="4037" count="10" />
+		<ingredient id="6673" count="1" />
+	</item>
+
+	<item>
+		<production id="6392" count="40" />
+		<ingredient id="6673" count="1" />
+	</item>
+
+	<item>
+		<production id="6393" count="8" />
+		<ingredient id="6673" count="1" />
+	</item>
+
+	<item>
+		<production id="5570" count="30" />
+		<ingredient id="6673" count="1" />
+	</item>
+
+	<item>
+		<production id="5572" count="15" />
+		<ingredient id="6673" count="1" />
+	</item>
+
+	<item>
+		<production id="5574" count="10" />
+		<ingredient id="6673" count="1" />
+	</item>
+
+	<item>
+		<production id="6033" count="1" />
+		<ingredient id="6673" count="75" />
+	</item>
+
+	<item>
+		<production id="6029" count="1" />
+		<ingredient id="6673" count="40" />
+	</item>
+
+	<item>
+		<production id="20396" count="1" />
+		<ingredient id="6673" count="40" />
+	</item>
+
+	<item>
+		<production id="13547" count="1" />
+		<ingredient id="6673" count="40" />
+	</item>
+	<item>
+		<production id="8762" count="1" />
+		<ingredient id="6673" count="2" />
+	</item>
+	<item>
+		<production id="20029" count="1" />
+		<ingredient id="6673" count="45" />
+	</item>
+	<!-- Elemental cry -->
+	<item>
+		<production id="9558" count="1" />
+		<ingredient id="6673" count="5" />
+	</item>
+	<item>
+		<production id="9559" count="1" />
+		<ingredient id="6673" count="5" />
+	</item>
+	<item>
+		<production id="9560" count="1" />
+		<ingredient id="6673" count="5" />
+	</item>
+	<item>
+		<production id="9561" count="1" />
+		<ingredient id="6673" count="5" />
+	</item>
+	<item>
+		<production id="9562" count="1" />
+		<ingredient id="6673" count="5" />
+	</item>
+	<item>
+		<production id="9563" count="1" />
+		<ingredient id="6673" count="5" />
+	</item>
+
+</list>
+

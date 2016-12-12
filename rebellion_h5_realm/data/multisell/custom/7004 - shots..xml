@@ -1,0 +1,66 @@
+<?xml version='1.0' encoding='utf-8'?>
+<list>
+	<config showall="true" notax="true" keepenchanted="true" />
+
+	<!-- Soulshot: B-grade -->
+	<item id="3">
+		<ingredient id="57" count="140" />
+		<production id="1465" count="1" />
+	</item>
+
+	<!-- Soulshot: C-grade -->
+	<item id="4">
+		<ingredient id="57" count="75" />
+		<production id="1464" count="1" />
+	</item>
+
+	<!-- Soulshot: D-grade -->
+	<item id="5">
+		<ingredient id="57" count="21" />
+		<production id="1463" count="1" />
+	</item>
+
+	<!-- Soulshot: No Grade -->
+	<item id="6">
+		<ingredient id="57" count="13" />
+		<production id="1835" count="1" />
+	</item>
+
+	<!-- Blessed Spiritshot: B-Grade -->
+	<item id="9">
+		<ingredient id="57" count="305" />
+		<production id="3950" count="1" />
+	</item>
+
+	<!-- Blessed Spiritshot: C-Grade -->
+	<item id="10">
+		<ingredient id="57" count="161" />
+		<production id="3949" count="1" />
+	</item>
+
+	<!-- Blessed Spiritshot: D-Grade -->
+	<item id="11">
+		<ingredient id="57" count="58" />
+		<production id="3948" count="1" />
+	</item>
+
+	<!-- Blessed Spiritshot: No Grade -->
+	<item id="12">
+		<ingredient id="57" count="41" />
+		<production id="3947" count="1" />
+	</item>
+
+	<!-- Beast Soulshot -->
+	<item id="13">
+		<ingredient id="57" count="25" />
+		<production id="6645" count="1" />
+	</item>
+
+	<!-- Blessed Beast Spiritshot -->
+	<item id="14">
+		<ingredient id="57" count="125" />
+		<production id="6647" count="1" />
+	</item>
+
+
+</list>

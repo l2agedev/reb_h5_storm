@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- SmartGuard banlist file -->
+<banlist>
+    <ban hwid="100000000000000000000000000000000000000000000000" time="1420716997167" type="NORMAL">
+        <gmObjId>2142660754</gmObjId>
+        <accounts>
+            <account time="1420716997169">account_1</account>
+            <account time="1420716997169">account_2</account>
+            <account time="1420716997169">account_3</account>
+        </accounts>
+        <ipv4>
+            <ip time="1420716997169">176.31.72.0</ip>
+        </ipv4>
+        <comment>no comments</comment>
+    </ban>
+    <ban hwid="200000000000000000000000000000000000000000000000" time="1420717329808" type="TEMP">
+        <end_time>1520717389808</end_time>
+    </ban>
+</banlist>

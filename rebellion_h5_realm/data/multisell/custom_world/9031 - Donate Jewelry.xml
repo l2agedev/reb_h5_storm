@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='utf-8'?>
+<list>
+	<config showall="true" notax="true" keepenchanted="true" />
+	<!-- Dynasty Set -->
+	<item>
+		<ingredient id="37000" count="500" />
+		<production id="9456" count="1" />
+		<production id="9457" count="1" />
+		<production id="9455" count="1" />
+		<production id="9457" count="1" />
+		<production id="9455" count="1" />
+	</item>
+
+	<!-- Moirai Jewels -->
+	<item>
+		<ingredient id="37000" count="900" />
+		<production id="15725" count="1" />
+		<production id="15724" count="1" />
+		<production id="15723" count="1" />
+		<production id="15724" count="1" />
+		<production id="15723" count="1" />
+	</item>
+
+	<!-- Vesper jewels set -->
+	<item>
+		<ingredient id="37000" count="1200" />
+		<production id="14164" count="1" />
+		<production id="14165" count="1" />
+		<production id="14163" count="1" />
+		<production id="14165" count="1" />
+		<production id="14163" count="1" />
+	</item>
+
+	<!-- Vorpal jewels set -->
+	<item>
+		<ingredient id="37000" count="1600" />
+		<production id="15722" count="1" />
+		<production id="15721" count="1" />
+		<production id="15721" count="1" />
+		<production id="15720" count="1" />
+		<production id="15720" count="1" />
+	</item>
+
+</list>

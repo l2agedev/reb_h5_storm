@@ -1,0 +1,93 @@
+﻿<html>
+<title>Проверку Электронной почте и направление друзьях</title>
+<body>
+	<center>
+		<font color=LEVEL>Вам нужно зарегистрировать адрес электронной
+			почты для этого счета.</font><br> Чтобы восстановить утерянный пароль
+		или  из-за проблемa с счета,требуется действительный адрес электронной
+		почты. <br> Если адрес электронной почты является
+		недействительным или чужой, имейте в виду, что вы не в состоянии
+		использовать эти функции. Поэтому вы не имеете возможность
+		восстановить пароль если ее потеряли. <br>
+		<br>
+		<br>
+		<table width=300>
+			<tr>
+				<td><font color=LEVEL>Установите адрес электронной почты
+						вашего аккаунта:</font></td>
+			</tr>
+			<tr>
+				<td></td>
+			</tr>
+			<tr>
+				<td>
+					<table width=200>
+						<tr>
+							<td width=76>электронной адресс</td>
+							<td><multiedit var="mail" width=200 height=12 length=50></td>
+						</tr>
+					</table>
+				</td>
+			</tr>
+			<tr>
+				<td height=10></td>
+			</tr>
+			<tr>
+				<td>
+					<table width=200>
+						<tr>
+							<td width=70>Повторяйте Ваш электронный адресс</td>
+							<td><multiedit var="mail2" width=200 height=12 length=50></td>
+						</tr>
+					</table>
+				</td>
+			</tr>
+			<tr>
+				<td>
+					<table width=200>
+						<tr>
+							<td></td>
+							<td></td>
+						</tr>
+					</table>
+				</td>
+			</tr>
+			<tr>
+				<td></td>
+			</tr>
+			<tr>
+				<td><font color=LEVEL>Справочной системы (можно оставить
+						заготовки)</font></td>
+			</tr>
+			<tr>
+				<td>Если Вас пригласили к серверу <br1>введите вниз имя
+					своего героя.</td>
+			</tr>
+			<tr>
+				<td>
+					<table width=200>
+						<tr>
+							<td width=90>Название</td>
+							<td><edit var="friend" width=150 height=12 length=50></td>
+						</tr>
+					</table>
+				</td>
+			</tr>
+			<tr>
+				<td align=center>
+					<table>
+						<tr>
+							<td><button
+									action="bypass -h emailvalidation $mail $mail2 $friend"
+									value="Полный" width=100 height=21 back="L2UI_ct1.button_df"
+									fore="L2UI_ct1.button_df" /></td>
+						</tr>
+					</table>
+				</td>
+			</tr>
+		</table>
+		<br>
+		<br>
+	</center>
+</body>
+</html>

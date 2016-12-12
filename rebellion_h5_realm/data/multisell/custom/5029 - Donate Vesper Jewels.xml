@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<list>
+	<config showall="true" notax="true" keepenchanted="true" />
+	<!-- Vesper ring -->
+	<item>
+		<ingredient id="9143" count="4" />
+		<production id="14165" count="1" />
+	</item>
+
+	<!-- Vesper Earring -->
+	<item>
+		<ingredient id="9143" count="5" />
+		<production id="14163" count="1" />
+	</item>
+
+	<!-- Vesper Neck -->
+	<item>
+		<ingredient id="9143" count="7" />
+		<production id="14164" count="1" />
+	</item>
+
+	<!-- Vesper jewels set -->
+	<item>
+		<ingredient id="9143" count="25" />
+		<production id="14164" count="1" />
+		<production id="14165" count="2" />
+		<production id="14163" count="2" />
+	</item>
+</list>

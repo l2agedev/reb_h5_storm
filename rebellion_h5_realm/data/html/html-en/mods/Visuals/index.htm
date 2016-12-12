@@ -1,0 +1,592 @@
+<html noscrollbar>
+<title>Change Your Look</title>
+<body>
+	<center>
+		<table width="769" cellpadding="3" cellspacing="0">
+			<tr>
+				<td width="769" valign="top">
+					<table width="639" height="50" cellspacing="0" cellpadding="7">
+						<tr>
+							<td width="32" valign="top"><img src="icon.skill6885"
+								width="32" height="32" align="top" /></td>
+							<td valign="top">
+								<table width="200" cellspacing="0" cellpadding="0">
+									<tr>
+										<td>Transform yourself into a beautiful butterfly!</td>
+									</tr>
+								</table>
+							</td>
+							<td valign="top">
+								<table width="90" height=25 cellspacing="0" cellpadding="3">
+									<tr>
+										<td valign="top">
+											<table width="38" height=25 cellspacing="0" cellpadding="5">
+												<tr>
+													<td width=32 height=15 valign="top">Face</td>
+												</tr>
+											</table>
+										</td>
+										<td valign="top"><combobox width=86 height=20 var=face
+												list="%facebox0%"></td>
+										<td valign="top">
+											<table width="20" height=25 cellspacing="0" cellpadding="3">
+												<tr>
+													<td width=32 height=15 valign="top"><button value=""
+															action="bypass -h npc_%objectId%_face $face" width=16
+															height=16 back=L2UI_CH3.QuestWndPlusBtn
+															fore=L2UI_CH3.QuestWndPlusBtn></td>
+												</tr>
+											</table>
+										</td>
+									</tr>
+								</table>
+								<table width="150" height=25 cellspacing="0" cellpadding="7">
+									<tr>
+										<td valign="top" align="center">%costFace%</td>
+									</tr>
+								</table>
+							</td>
+							<td valign="top">
+								<table width="90" height=25 cellspacing="0" cellpadding="3">
+									<tr>
+										<td valign="top">
+											<table width="32" height=25 cellspacing="0" cellpadding="5">
+												<tr>
+													<td width=32 height=15 valign="top">Hair</td>
+												</tr>
+											</table>
+										</td>
+										<td valign="top"><combobox width=86 height=30 var=hair
+												list="%facebox1%"></td>
+										<td valign="top">
+											<table width="20" height=25 cellspacing="0" cellpadding="3">
+												<tr>
+													<td width=32 valign="top"><button value=""
+															action="bypass -h npc_%objectId%_hair $hair" width=16
+															height=16 back=L2UI_CH3.QuestWndPlusBtn
+															fore=L2UI_CH3.QuestWndPlusBtn></td>
+												</tr>
+											</table>
+										</td>
+									</tr>
+								</table>
+								<table width="150" height=25 cellspacing="0" cellpadding="7">
+									<tr>
+										<td valign="top" align="center">%costHair%</td>
+									</tr>
+								</table>
+							</td>
+							<td height=25 valign="top">
+								<table width="90" height=25 cellspacing="0" cellpadding="3">
+									<tr>
+										<td valign="top">
+											<table width="38" height=25 cellspacing="0" cellpadding="5">
+												<tr>
+													<td width=32 height=15 valign="top">Color</td>
+												</tr>
+											</table>
+										</td>
+										<td valign="top"><combobox width=86 height=15 var=color
+												list="%facebox2%"></td>
+										<td valign="top">
+											<table width="20" height=25 cellspacing="0" cellpadding="3">
+												<tr>
+													<td valign="top" align=center><button value=""
+															action="bypass -h npc_%objectId%_color $color" width=16
+															height=16 back=L2UI_CH3.QuestWndPlusBtn
+															fore=L2UI_CH3.QuestWndPlusBtn></td>
+												</tr>
+											</table>
+										</td>
+									</tr>
+								</table>
+								<table width="150" height=25 cellspacing="0" cellpadding="7">
+									<tr>
+										<td valign="top" align="center">%costColor%</td>
+									</tr>
+								</table>
+							</td>
+						</tr>
+					</table> <img src="L2UI_CT1.ChatBalloon_DF_TopCenter" width="770"
+					height="1" align="top" />
+					<table width="730" height="50" bgcolor="090908" cellspacing="0"
+						cellpadding="0">
+						<tr>
+							<td valign="top">
+								<table width="411" height="32" bgcolor="090908" cellspacing="0"
+									cellpadding="7">
+									<tr>
+										<td width="32" valign="top"><img
+											src="icon.skilltransform1" width="32" height="32" align="top" /></td>
+										<td valign="top">
+											<table width="260" cellspacing="0" cellpadding="0">
+												<tr>
+													<td height="24" valign="top"><font color="af9f47">Enable/Disable
+															Visual transformation.</font></td>
+												</tr>
+											</table>
+										</td> %button%
+									</tr>
+								</table>
+							</td>
+							<td valign="top">
+								<table width="415" height="32" bgcolor="1C1C1C" cellspacing="0"
+									cellpadding="7">
+									<tr>
+										<td width="32" valign="top"><img src="icon.skill6171"
+											width="32" height="32" align="top" /></td>
+										<td valign="top">
+											<table width="260" cellspacing="0" cellpadding="0">
+												<tr>
+													<td height="24" valign="top"><font color="af9f47">Spawn/Despawn
+															Visual Model.</font></td>
+												</tr>
+											</table>
+										</td> %buttonVisual%
+									</tr>
+								</table>
+							</td>
+						</tr>
+					</table> <img src="L2UI_CT1.ChatBalloon_DF_TopCenter" width="770"
+					height="1" align="top" />
+					<table width="780" cellpadding="0" cellspacing="0" valign="top"
+						bgcolor="0f100f">
+						<tr>
+							<td valign="top">
+								<button value="" action="" width=0 height=12 back="" fore="">
+									<table width="290" cellpadding="0" cellspacing="3" valign="top">
+										<tr>
+											<td width="290">&nbsp;</td>
+											<td height="23" valign="top">
+												<table width="268" height="20" bgcolor="36B9FF"
+													cellspacing="0" cellpadding="0">
+													<tr>
+														<td align=center>%costAmountUP% %costIdUP%</td>
+													</tr>
+												</table>
+											</td>
+											<td height="23" valign="top">
+												<table width="268" height="20" bgcolor="032F47"
+													cellspacing="0" cellpadding="0">
+													<tr>
+														<td align=center>%costAmountLOWER% %costIdLOWER%</td>
+													</tr>
+												</table>
+											</td>
+										</tr>
+										<tr>
+											<td width="290">&nbsp;</td>
+											<td valign="top">
+												<table width="200" height="50" bgcolor="36B9FF"
+													cellspacing="0" cellpadding="6">
+													<tr>
+														<td width="10" valign="top">&nbsp;</td>
+														<td width="42" valign="top">
+															<table width="20" cellspacing="0" cellpadding="0">
+																<tr>
+																	<td width="32" height="5">&nbsp;</td>
+																</tr>
+																<tr>
+																	<td width="32" valign="top"><button value=""
+																			action="bypass -h npc_%objectId%_back0" width=16
+																			height=16 back=L2UI_CT1.Button_DF_Left
+																			fore=L2UI_CT1.Button_DF_Left></td>
+																</tr>
+															</table>
+														</td>
+														<td valign="top">
+															<table width="10" cellspacing="0" cellpadding="2">
+																<tr>%itemsUP%
+																</tr>
+															</table>
+														</td>
+														<td width="35" valign="top">
+															<table width="35" cellspacing="0" cellpadding="0">
+																<tr>
+																	<td width="32" height="5">&nbsp;</td>
+																</tr>
+																<tr>
+																	<td width="32" valign="top"><button value=""
+																			action="bypass -h npc_%objectId%_forw0" width=16
+																			height=16 back=L2UI_CT1.Button_DF_Right
+																			fore=L2UI_CT1.Button_DF_Right></td>
+																</tr>
+															</table>
+														</td>
+													</tr>
+												</table>
+											</td>
+											<td valign="top">
+												<table width="200" height="50" bgcolor="032F47"
+													cellspacing="0" cellpadding="6">
+													<tr>
+														<td width="10" valign="top">&nbsp;</td>
+														<td width="42" valign="top">
+															<table width="20" cellspacing="0" cellpadding="0">
+																<tr>
+																	<td width="32" height="5">&nbsp;</td>
+																</tr>
+																<tr>
+																	<td width="32" valign="top"><button value=""
+																			action="bypass -h npc_%objectId%_back1" width=16
+																			height=16 back=L2UI_CT1.Button_DF_Left
+																			fore=L2UI_CT1.Button_DF_Left></td>
+																</tr>
+															</table>
+														</td>
+														<td valign="top">
+															<table width="10" cellspacing="0" cellpadding="2">
+																<tr>%itemsLOWER%
+																</tr>
+															</table>
+														</td>
+														<td width="35" valign="top">
+															<table width="35" cellspacing="0" cellpadding="0">
+																<tr>
+																	<td width="32" height="5">&nbsp;</td>
+																</tr>
+																<tr>
+																	<td width="32" valign="top"><button value=""
+																			action="bypass -h npc_%objectId%_forw1" width=16
+																			height=16 back=L2UI_CT1.Button_DF_Right
+																			fore=L2UI_CT1.Button_DF_Right></td>
+																</tr>
+															</table>
+														</td>
+													</tr>
+												</table>
+											</td>
+										</tr>
+									</table>
+									<button width=0 height=0>
+										<table width="290" cellpadding="0" cellspacing="3"
+											valign="top">
+											<tr>
+												<td width="290">&nbsp;</td>
+												<td height="23" valign="top">
+													<table width="268" height="20" bgcolor="032F47"
+														cellspacing="0" cellpadding="0">
+														<tr>
+															<td align=center>%costAmountGLOVES% %costIdGLOVES%</td>
+														</tr>
+													</table>
+												</td>
+												<td height="23" valign="top">
+													<table width="268" height="20" bgcolor="36B9FF"
+														cellspacing="0" cellpadding="0">
+														<tr>
+															<td align=center>%costAmountBOOTS% %costIdBOOTS%</td>
+														</tr>
+													</table>
+												</td>
+											</tr>
+											<tr>
+												<td width="290">&nbsp;</td>
+												<td valign="top">
+													<table width="200" height="50" bgcolor="032F47"
+														cellspacing="0" cellpadding="6">
+														<tr>
+															<td width="10" valign="top">&nbsp;</td>
+															<td width="42" valign="top">
+																<table width="20" cellspacing="0" cellpadding="0">
+																	<tr>
+																		<td width="32" height="5">&nbsp;</td>
+																	</tr>
+																	<tr>
+																		<td width="32" valign="top"><button value=""
+																				action="bypass -h npc_%objectId%_back2" width=16
+																				height=16 back=L2UI_CT1.Button_DF_Left
+																				fore=L2UI_CT1.Button_DF_Left></td>
+																	</tr>
+																</table>
+															</td>
+															<td valign="top">
+																<table width="10" cellspacing="0" cellpadding="2">
+																	<tr>%itemsGLOVES%
+																	</tr>
+																</table>
+															</td>
+															<td width="35" valign="top">
+																<table width="35" cellspacing="0" cellpadding="0">
+																	<tr>
+																		<td width="32" height="5">&nbsp;</td>
+																	</tr>
+																	<tr>
+																		<td width="32" valign="top"><button value=""
+																				action="bypass -h npc_%objectId%_forw2" width=16
+																				height=16 back=L2UI_CT1.Button_DF_Right
+																				fore=L2UI_CT1.Button_DF_Right></td>
+																	</tr>
+																</table>
+															</td>
+														</tr>
+													</table>
+												</td>
+												<td valign="top">
+													<table width="200" height="50" bgcolor="36B9FF"
+														cellspacing="0" cellpadding="6">
+														<tr>
+															<td width="10" valign="top">&nbsp;</td>
+															<td width="42" valign="top">
+																<table width="20" cellspacing="0" cellpadding="0">
+																	<tr>
+																		<td width="32" height="5">&nbsp;</td>
+																	</tr>
+																	<tr>
+																		<td width="32" valign="top"><button value=""
+																				action="bypass -h npc_%objectId%_back3" width=16
+																				height=16 back=L2UI_CT1.Button_DF_Left
+																				fore=L2UI_CT1.Button_DF_Left></td>
+																	</tr>
+																</table>
+															</td>
+															<td valign="top">
+																<table width="10" cellspacing="0" cellpadding="2">
+																	<tr>%itemsBOOTS%
+																	</tr>
+																</table>
+															</td>
+															<td width="35" valign="top">
+																<table width="35" cellspacing="0" cellpadding="0">
+																	<tr>
+																		<td width="32" height="5">&nbsp;</td>
+																	</tr>
+																	<tr>
+																		<td width="32" valign="top"><button value=""
+																				action="bypass -h npc_%objectId%_forw3" width=16
+																				height=16 back=L2UI_CT1.Button_DF_Right
+																				fore=L2UI_CT1.Button_DF_Right></td>
+																	</tr>
+																</table>
+															</td>
+														</tr>
+													</table>
+												</td>
+											</tr>
+										</table>
+										<button width=0 height=0>
+											<table width="290" cellpadding="0" cellspacing="3"
+												valign="top">
+												<tr>
+													<td width="290">&nbsp;</td>
+													<td height="23" valign="top">
+														<table width="268" height="20" bgcolor="36B9FF"
+															cellspacing="0" cellpadding="0">
+															<tr>
+																<td align=center>%costAmountACCESSORY%
+																	%costIdACCESSORY%</td>
+															</tr>
+														</table>
+													</td>
+													<td height="23" valign="top">
+														<table width="268" height="20" bgcolor="032F47"
+															cellspacing="0" cellpadding="0">
+															<tr>
+																<td align=center>%costAmountWEAPONS%
+																	%costIdWEAPONS%</td>
+															</tr>
+														</table>
+													</td>
+												</tr>
+												<tr>
+													<td width="290">&nbsp;</td>
+													<td valign="top">
+														<table width="200" height="50" bgcolor="36B9FF"
+															cellspacing="0" cellpadding="6">
+															<tr>
+																<td width="10" valign="top">&nbsp;</td>
+																<td width="42" valign="top">
+																	<table width="20" cellspacing="0" cellpadding="0">
+																		<tr>
+																			<td width="32" height="5">&nbsp;</td>
+																		</tr>
+																		<tr>
+																			<td width="32" valign="top"><button value=""
+																					action="bypass -h npc_%objectId%_back4" width=16
+																					height=16 back=L2UI_CT1.Button_DF_Left
+																					fore=L2UI_CT1.Button_DF_Left></td>
+																		</tr>
+																	</table>
+																</td>
+																<td valign="top">
+																	<table width="10" cellspacing="0" cellpadding="2">
+																		<tr>%itemsACCESSORY%
+																		</tr>
+																	</table>
+																</td>
+																<td width="35" valign="top">
+																	<table width="35" cellspacing="0" cellpadding="0">
+																		<tr>
+																			<td width="32" height="5">&nbsp;</td>
+																		</tr>
+																		<tr>
+																			<td width="32" valign="top"><button value=""
+																					action="bypass -h npc_%objectId%_forw4" width=16
+																					height=16 back=L2UI_CT1.Button_DF_Right
+																					fore=L2UI_CT1.Button_DF_Right></td>
+																		</tr>
+																	</table>
+																</td>
+															</tr>
+														</table>
+													</td>
+													<td valign="top">
+														<table width="200" height="50" bgcolor="032F47"
+															cellspacing="0" cellpadding="6">
+															<tr>
+																<td width="10" valign="top">&nbsp;</td>
+																<td width="42" valign="top">
+																	<table width="20" cellspacing="0" cellpadding="0">
+																		<tr>
+																			<td width="32" height="5">&nbsp;</td>
+																		</tr>
+																		<tr>
+																			<td width="32" valign="top"><button value=""
+																					action="bypass -h npc_%objectId%_back5" width=16
+																					height=16 back=L2UI_CT1.Button_DF_Left
+																					fore=L2UI_CT1.Button_DF_Left></td>
+																		</tr>
+																	</table>
+																</td>
+																<td valign="top">
+																	<table width="10" cellspacing="0" cellpadding="2">
+																		<tr>%itemsWEAPONS%
+																		</tr>
+																	</table>
+																</td>
+																<td width="35" valign="top">
+																	<table width="35" cellspacing="0" cellpadding="0">
+																		<tr>
+																			<td width="32" height="5">&nbsp;</td>
+																		</tr>
+																		<tr>
+																			<td width="32" valign="top"><button value=""
+																					action="bypass -h npc_%objectId%_forw5" width=16
+																					height=16 back=L2UI_CT1.Button_DF_Right
+																					fore=L2UI_CT1.Button_DF_Right></td>
+																		</tr>
+																	</table>
+																</td>
+															</tr>
+														</table>
+													</td>
+												</tr>
+											</table>
+											<button width=0 height=0>
+												<table width="290" cellpadding="0" cellspacing="3"
+													valign="top">
+													<tr>
+														<td width="290">&nbsp;</td>
+														<td height="23" valign="top">
+															<table width="268" height="20" bgcolor="032F47"
+																cellspacing="0" cellpadding="0">
+																<tr>
+																	<td align=center>%costAmountSHIELDS%
+																		%costIdSHIELDS%</td>
+																</tr>
+															</table>
+														</td>
+														<td height="23" valign="top">
+															<table width="268" height="20" bgcolor="36B9FF"
+																cellspacing="0" cellpadding="0">
+																<tr>
+																	<td align=center>%costAmountCLOAKS% %costIdCLOAKS%</td>
+																</tr>
+															</table>
+														</td>
+													</tr>
+													<tr>
+														<td width="290">&nbsp;</td>
+														<td valign="top">
+															<table width="200" height="50" bgcolor="032F47"
+																cellspacing="0" cellpadding="6">
+																<tr>
+																	<td width="10" valign="top">&nbsp;</td>
+																	<td width="42" valign="top">
+																		<table width="20" cellspacing="0" cellpadding="0">
+																			<tr>
+																				<td width="32" height="5">&nbsp;</td>
+																			</tr>
+																			<tr>
+																				<td width="32" valign="top"><button value=""
+																						action="bypass -h npc_%objectId%_back6" width=16
+																						height=16 back=L2UI_CT1.Button_DF_Left
+																						fore=L2UI_CT1.Button_DF_Left></td>
+																			</tr>
+																		</table>
+																	</td>
+																	<td valign="top">
+																		<table width="10" cellspacing="0" cellpadding="2">
+																			<tr>%itemsSHIELDS%
+																			</tr>
+																		</table>
+																	</td>
+																	<td width="35" valign="top">
+																		<table width="35" cellspacing="0" cellpadding="0">
+																			<tr>
+																				<td width="32" height="5">&nbsp;</td>
+																			</tr>
+																			<tr>
+																				<td width="32" valign="top"><button value=""
+																						action="bypass -h npc_%objectId%_forw6" width=16
+																						height=16 back=L2UI_CT1.Button_DF_Right
+																						fore=L2UI_CT1.Button_DF_Right></td>
+																			</tr>
+																		</table>
+																	</td>
+																</tr>
+															</table>
+														</td>
+														<td valign="top">
+															<table width="200" height="50" bgcolor="36B9FF"
+																cellspacing="0" cellpadding="6">
+																<tr>
+																	<td width="10" valign="top">&nbsp;</td>
+																	<td width="42" valign="top">
+																		<table width="20" cellspacing="0" cellpadding="0">
+																			<tr>
+																				<td width="32" height="5">&nbsp;</td>
+																			</tr>
+																			<tr>
+																				<td width="32" valign="top"><button value=""
+																						action="bypass -h npc_%objectId%_back7" width=16
+																						height=16 back=L2UI_CT1.Button_DF_Left
+																						fore=L2UI_CT1.Button_DF_Left></td>
+																			</tr>
+																		</table>
+																	</td>
+																	<td valign="top">
+																		<table width="10" cellspacing="0" cellpadding="2">
+																			<tr>%itemsCLOAKS%
+																			</tr>
+																		</table>
+																	</td>
+																	<td width="35" valign="top">
+																		<table width="35" cellspacing="0" cellpadding="0">
+																			<tr>
+																				<td width="32" height="5">&nbsp;</td>
+																			</tr>
+																			<tr>
+																				<td width="32" valign="top"><button value=""
+																						action="bypass -h npc_%objectId%_forw7" width=16
+																						height=16 back=L2UI_CT1.Button_DF_Right
+																						fore=L2UI_CT1.Button_DF_Right></td>
+																			</tr>
+																		</table>
+																	</td>
+																</tr>
+															</table>
+														</td>
+													</tr>
+												</table>
+												<button value="" action="" width=1 height=55 back="" fore="">
+							</td>
+						</tr>
+					</table> <img src="L2UI_CT1.ChatBalloon_DF_TopCenter" width="770"
+					height="1" align="top" />
+				</td>
+			</tr>
+		</table>
+	</center>
+</body>
+</html>

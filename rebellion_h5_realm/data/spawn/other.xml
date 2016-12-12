@@ -1,0 +1,152 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE list SYSTEM "spawn.dtd">
+<list>
+	<spawn count="1" respawn="60" respawn_random="0" group="cities_tree">
+		<point x="82168" y="148360" z="-3464" h="57343" />
+		<npc id="30627" /><!-- Tree -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" group="cities_tree">
+		<point x="81672" y="148360" z="-3464" h="40959" />
+		<npc id="30627" /><!-- Tree -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" group="cities_tree">
+		<point x="81672" y="148872" z="-3472" h="22517" />
+		<npc id="30627" /><!-- Tree -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" group="cities_tree">
+		<point x="82168" y="148856" z="-3464" h="8191" />
+		<npc id="30627" /><!-- Tree -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" group="cities_tree">
+		<point x="81672" y="147560" z="-3464" h="16383" />
+		<npc id="30627" /><!-- Tree -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" group="cities_tree">
+		<point x="81416" y="147560" z="-3464" h="32767" />
+		<npc id="30627" /><!-- Tree -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" group="cities_tree">
+		<point x="80808" y="148472" z="-3472" h="0" />
+		<npc id="30627" /><!-- Tree -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" group="cities_tree">
+		<point x="80808" y="148760" z="-3472" h="16962" />
+		<npc id="30627" /><!-- Tree -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" group="cities_tree">
+		<point x="81416" y="149688" z="-3464" h="49151" />
+		<npc id="30627" /><!-- Tree -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" group="cities_tree">
+		<point x="81656" y="149688" z="-3464" h="49151" />
+		<npc id="30627" /><!-- Tree -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" group="cities_tree">
+		<point x="81416" y="149688" z="-3464" h="49151" />
+		<npc id="30627" /><!-- Tree -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" group="cities_tree">
+		<point x="81656" y="149688" z="-3464" h="49151" />
+		<npc id="30627" /><!-- Tree -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" group="cities_tree">
+		<point x="147912" y="-57400" z="-2776" h="13028" />
+		<npc id="30627" /><!-- Tree -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" group="cities_tree">
+		<point x="147512" y="-57384" z="-2776" h="13028" />
+		<npc id="30627" /><!-- Tree -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" group="cities_tree">
+		<point x="149496" y="-56328" z="-2776" h="26056" />
+		<npc id="30627" /><!-- Tree -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" group="cities_tree">
+		<point x="149256" y="-56664" z="-2776" h="24575" />
+		<npc id="30627" /><!-- Tree -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" group="cities_tree">
+		<point x="146152" y="-56680" z="-2776" h="4836" />
+		<npc id="30627" /><!-- Tree -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" group="cities_tree">
+		<point x="145928" y="-56328" z="-3776" h="6711" />
+		<npc id="30627" /><!-- Tree -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" group="cities_tree">
+		<point x="14536" y="143128" z="-2656" h="32767" />
+		<npc id="30627" /><!-- Tree -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" group="cities_tree">
+		<point x="15640" y="144408" z="-3072" h="57343" />
+		<npc id="30627" /><!-- Tree -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" group="cities_tree">
+		<point x="18184" y="146152" z="-3080" h="57343" />
+		<npc id="30627" /><!-- Tree -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" group="cities_tree">
+		<point x="19368" y="145224" z="-3104" h="27131" />
+		<npc id="30627" /><!-- Tree -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" group="cities_tree">
+		<point x="20136" y="144792" z="-3104" h="23881" />
+		<npc id="30627" /><!-- Tree -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" group="cities_tree">
+		<point x="21240" y="143784" z="-3088" h="11547" />
+		<npc id="30627" /><!-- Tree -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" group="cities_tree">
+		<point x="21576" y="145640" z="-3144" h="8191" />
+		<npc id="30627" /><!-- Tree -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" group="cities_tree">
+		<point x="21576" y="146056" z="-3168" h="0" />
+		<npc id="30627" /><!-- Tree -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" group="cities_tree">
+		<point x="19768" y="145912" z="-3104" h="36123" />
+		<npc id="30627" /><!-- Tree -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" group="cities_tree">
+		<point x="18536" y="144376" z="-3094" h="43643" />
+		<npc id="30627" /><!-- Tree -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" group="cities_tree">
+		<point x="-86360" y="242376" z="-3728" h="39391" />
+		<npc id="30627" /><!-- Tree -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" group="cities_tree">
+		<point x="-85080" y="242472" z="-3728" h="29412" />
+		<npc id="30627" /><!-- Tree -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" group="cities_tree">
+		<point x="-85816" y="241736" z="-3728" h="3355" />
+		<npc id="30627" /><!-- Tree -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" group="cities_tree">
+		<point x="-84680" y="241928" z="-3728" h="27931" />
+		<npc id="30627" /><!-- Tree -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" group="cities_tree">
+		<point x="-83592" y="241976" z="-3728" h="51210" />
+		<npc id="30627" /><!-- Tree -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" group="cities_tree">
+		<point x="-82408" y="243144" z="-3728" h="57343" />
+		<npc id="30627" /><!-- Tree -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" group="cities_tree">
+		<point x="-82552" y="242168" z="-3728" h="4836" />
+		<npc id="30627" /><!-- Tree -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" group="cities_tree">
+		<point x="-83064" y="244728" z="-3728" h="48112" />
+		<npc id="30627" /><!-- Tree -->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" group="cities_tree">
+		<point x="-83992" y="244824" z="-3754" h="62180" />
+		<npc id="30627" /><!-- Tree -->
+	</spawn>
+</list>

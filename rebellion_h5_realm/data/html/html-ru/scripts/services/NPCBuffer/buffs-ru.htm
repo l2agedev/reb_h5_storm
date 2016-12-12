@@ -1,0 +1,61 @@
+﻿<center>
+	<font color="ff4d00">Npc Buffer:</font>
+</center>
+<br1>
+<center>
+	<font color="5da130">Баффы для играков</font>
+</center>
+<br>
+<table width=230>
+	<tr>
+		<td align=center><img src="icon.skill0275" width=32 height=32></td>
+		<td align=center><img src="icon.skill0529" width=32 height=32></td>
+		<td align=center><img src="icon.skill1461" width=32 height=32></td>
+	</tr>
+	<tr>
+		<td align=center>
+			<button value="Dance"
+				action="bypass -h scripts_services.NPCBuffer.Buffer:SelectMenu 2"
+				width=85 height=25 back="L2UI_ct1.button_df"
+				fore="L2UI_ct1.button_df">
+		</td>
+		<td align=center>
+			<button value="Song"
+				action="bypass -h scripts_services.NPCBuffer.Buffer:SelectMenu 3"
+				width=88 height=25 back="L2UI_ct1.button_df"
+				fore="L2UI_ct1.button_df">
+		</td>
+		<td align=center>
+			<button value="Chant"
+				action="bypass -h scripts_services.NPCBuffer.Buffer:SelectMenu 4"
+				4352 1 0" width=88 height=25 back="L2UI_ct1.button_df"
+				fore="L2UI_ct1.button_df">
+		</td>
+	</tr>
+	<tr>
+		<td align=center><img src="icon.skill1388" width=32 height=32></td>
+		<td align=center><img src="icon.skill1062" width=32 height=32></td>
+		<td align=center><img src="icon.skill1389" width=32 height=32></td>
+	</tr>
+	<tr>
+		<td align=center>
+			<button value="Для война"
+				action="bypass -h scripts_services.NPCBuffer.Buffer:doBuffGroup 1 0 %buffs_in_grp1"
+				width=85 height=25 back="L2UI_ct1.button_df"
+				fore="L2UI_ct1.button_df">
+		</td>
+		<td align=center>
+			<button value="Other"
+				action="bypass -h scripts_services.NPCBuffer.Buffer:SelectMenu 5"
+				width=88 height=25 back="L2UI_ct1.button_df"
+				fore="L2UI_ct1.button_df">
+		</td>
+		<td align=center>
+			<button value="Для мага"
+				action="bypass -h scripts_services.NPCBuffer.Buffer:doBuffGroup 2 0 %buffs_in_grp2%"
+				4352 1 0" width=88 height=25 back="L2UI_ct1.button_df"
+				fore="L2UI_ct1.button_df">
+		</td>
+	</tr>
+</table>
+<br>

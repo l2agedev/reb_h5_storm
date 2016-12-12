@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE log4j:configuration SYSTEM "log4j.dtd">
+<log4j:configuration xmlns:log4j="http://jakarta.apache.org/log4j/"
+	debug="false">
+  <appender name="CONSOLE" class="org.apache.log4j.ConsoleAppender">
+    <layout class="org.apache.log4j.EnhancedPatternLayout">
+      <param name="ConversionPattern" value="[%d{HH:mm:ss}] %5p %m%n" />
+    </layout>
+  </appender>
+  <appender name="FILE" class="org.apache.log4j.FileAppender">
+    <param name="File" value="log/java.log"/>
+    <param name="Append" value="false"/>
+    <layout class="org.apache.log4j.EnhancedPatternLayout">
+      <param name="ConversionPattern" value="[%d{dd.MM.yy HH:mm:ss:SSS}] %5p %c{2}: %m%n" />
+    </layout>
+  </appender>
+  <appender name="GAME" class="org.apache.log4j.DailyRollingFileAppender">
+    <param name="File" value="log/game.log"/>
+    <param name="Append" value="true"/>
+    <param name="DatePattern" value="'.'yyyy-MM-dd"/>
+    <layout class="org.apache.log4j.EnhancedPatternLayout">
+      <param name="ConversionPattern" value="[%d{dd.MM.yy HH:mm:ss}] %m%n" />
+    </layout>
+  </appender>
+  <appender name="CHAT" class="org.apache.log4j.DailyRollingFileAppender">
+    <param name="File" value="log/chat.log"/>
+    <param name="Append" value="true"/>
+    <param name="DatePattern" value="'.'yyyy-MM-dd"/>
+    <layout class="org.apache.log4j.EnhancedPatternLayout">
+      <param name="ConversionPattern" value="[%d{dd.MM.yy HH:mm:ss}] %m%n" />
+    </layout>
+  </appender>
+  <appender name="EVENTS" class="org.apache.log4j.DailyRollingFileAppender">
+    <param name="File" value="log/events.log"/>
+    <param name="Append" value="true"/>
+    <param name="DatePattern" value="'.'yyyy-MM-dd"/>
+    <layout class="org.apache.log4j.EnhancedPatternLayout">
+      <param name="ConversionPattern" value="[%d{dd.MM.yy HH:mm:ss}] %m%n" />
+    </layout>
+  </appender>
+  <appender name="ITEM" class="org.apache.log4j.DailyRollingFileAppender">
+    <param name="File" value="log/item.log"/>
+    <param name="Append" value="true"/>
+    <param name="DatePattern" value="'.'yyyy-MM-dd"/>
+    <layout class="org.apache.log4j.EnhancedPatternLayout">
+      <param name="ConversionPattern" value="[%d{dd.MM.yy HH:mm:ss}] %m%n" />
+    </layout>
+  </appender>
+  <appender name="GMACTIONS" class="org.apache.log4j.DailyRollingFileAppender">
+    <param name="File" value="log/gmactions.log"/>
+    <param name="Append" value="true"/>
+    <param name="DatePattern" value="'.'yyyy-MM-dd"/>
+    <layout class="org.apache.log4j.EnhancedPatternLayout">
+      <param name="ConversionPattern" value="[%d{dd.MM.yy HH:mm:ss}] %m%n" />
+    </layout>
+  </appender>
+  <appender name="DEBUG" class="org.apache.log4j.FileAppender">
+    <param name="File" value="log/debug.log"/>
+    <param name="Append" value="false"/>
+    <layout class="org.apache.log4j.EnhancedPatternLayout">
+      <param name="ConversionPattern" value="[%d{dd.MM.yy HH:mm:ss:SSS}] %m%n" />
+    </layout>
+  </appender>
+  <appender name="DONATIONS" class="org.apache.log4j.DailyRollingFileAppender">
+    <param name="File" value="log/donations.log"/>
+    <param name="Append" value="true"/>
+    <param name="DatePattern" value="'.'yyyy-MM-dd"/>
+    <layout class="org.apache.log4j.EnhancedPatternLayout">
+      <param name="ConversionPattern" value="[%d{dd.MM.yy HH:mm:ss}] %m%n" />
+    </layout>
+  </appender>
+  <appender name="VOTEREWARD" class="org.apache.log4j.DailyRollingFileAppender">
+    <param name="File" value="log/voterewards.log"/>
+    <param name="Append" value="true"/>
+    <param name="DatePattern" value="'.'yyyy-MM-dd"/>
+    <layout class="org.apache.log4j.EnhancedPatternLayout">
+      <param name="ConversionPattern" value="[%d{dd.MM.yy HH:mm:ss}] %m%n" />
+    </layout>
+  </appender>
+  <appender name="AUCTIONACHIEVEMENTS" class="org.apache.log4j.DailyRollingFileAppender">
+    <param name="File" value="log/auctionachievements.log"/>
+    <param name="Append" value="true"/>
+    <param name="DatePattern" value="'.'yyyy-MM-dd"/>
+    <layout class="org.apache.log4j.EnhancedPatternLayout">
+      <param name="ConversionPattern" value="[%d{dd.MM.yy HH:mm:ss}] %m%n" />
+    </layout>
+  </appender>
+  <appender name="OLYMPIAD" class="org.apache.log4j.DailyRollingFileAppender">
+    <param name="File" value="log/olympiad.log"/>
+    <param name="Append" value="true"/>
+    <param name="DatePattern" value="'.'yyyy-MM-dd"/>
+    <layout class="org.apache.log4j.EnhancedPatternLayout">
+      <param name="ConversionPattern" value="[%d{dd.MM.yy HH:mm:ss}] %m%n" />
+    </layout>
+  </appender>
+  <appender name="ENCHANT" class="org.apache.log4j.DailyRollingFileAppender">
+    <param name="File" value="log/enchant.log"/>
+    <param name="Append" value="true"/>
+    <param name="DatePattern" value="'.'yyyy-MM-dd"/>
+    <layout class="org.apache.log4j.EnhancedPatternLayout">
+      <param name="ConversionPattern" value="[%d{dd.MM.yy HH:mm:ss}] %m%n" />
+    </layout>
+  </appender>
+  <appender name="BOT" class="org.apache.log4j.DailyRollingFileAppender">
+    <param name="File" value="log/bot.log"/>
+    <param name="Append" value="true"/>
+    <param name="DatePattern" value="'.'yyyy-MM-dd"/>
+    <layout class="org.apache.log4j.EnhancedPatternLayout">
+      <param name="ConversionPattern" value="[%d{dd.MM.yy HH:mm:ss}] %m%n" />
+    </layout>
+  </appender>
+  <appender name="FILEASYNC" class="org.apache.log4j.AsyncAppender">
+    <param name="Blocking" value="false"/>
+    <appender-ref ref="FILE"/>
+  </appender>
+  <appender name="GAMEASYNC" class="org.apache.log4j.AsyncAppender">
+	<param name="Blocking" value="false"/>
+	<param name="BufferSize" value="512"/>
+    <appender-ref ref="GAME"/>
+  </appender>
+  <appender name="CHATASYNC" class="org.apache.log4j.AsyncAppender">
+	<param name="Blocking" value="false"/>
+	<param name="BufferSize" value="256"/>
+    <appender-ref ref="CHAT"/>
+  </appender>
+  <appender name="EVENTSASYNC" class="org.apache.log4j.AsyncAppender">
+	<param name="Blocking" value="false"/>
+	<param name="BufferSize" value="256"/>
+    <appender-ref ref="EVENTS"/>
+  </appender>
+  <appender name="ITEMASYNC" class="org.apache.log4j.AsyncAppender">
+	<param name="Blocking" value="false"/>
+	<param name="BufferSize" value="512"/>
+    <appender-ref ref="ITEM"/>
+  </appender>
+  <appender name="DONATIONSASYNC" class="org.apache.log4j.AsyncAppender">
+	<param name="Blocking" value="false"/>
+	<param name="BufferSize" value="512"/>
+    <appender-ref ref="DONATIONS"/>
+  </appender>
+  <appender name="VOTEREWARDSASYNC" class="org.apache.log4j.AsyncAppender">
+	<param name="Blocking" value="false"/>
+	<param name="BufferSize" value="512"/>
+    <appender-ref ref="VOTEREWARD"/>
+  </appender>
+  <appender name="AUCTIONACHIEVEMENTSSASYNC" class="org.apache.log4j.AsyncAppender">
+	<param name="Blocking" value="false"/>
+	<param name="BufferSize" value="512"/>
+    <appender-ref ref="AUCTIONACHIEVEMENTS"/>
+  </appender>
+  <appender name="OLYMPIADASYNC" class="org.apache.log4j.AsyncAppender">
+	<param name="Blocking" value="false"/>
+	<param name="BufferSize" value="512"/>
+    <appender-ref ref="OLYMPIAD"/>
+  </appender>
+  <appender name="ENCHANTASYNC" class="org.apache.log4j.AsyncAppender">
+	<param name="Blocking" value="false"/>
+	<param name="BufferSize" value="512"/>
+    <appender-ref ref="ENCHANT"/>
+  </appender>
+  <appender name="BOTASYNC" class="org.apache.log4j.AsyncAppender">
+	<param name="Blocking" value="false"/>
+	<param name="BufferSize" value="512"/>
+    <appender-ref ref="BOT"/>
+  </appender>
+  <logger name="game" additivity="false">
+    <appender-ref ref="GAMEASYNC" />
+  </logger>
+  <logger name="chat" additivity="false">
+    <appender-ref ref="CHATASYNC" />
+  </logger>
+   <logger name="events" additivity="false">
+    <appender-ref ref="EVENTSASYNC" />
+  </logger>
+  <logger name="item" additivity="false">
+    <appender-ref ref="ITEMASYNC" />
+  </logger>
+  <logger name="gmactions" additivity="false">
+    <appender-ref ref="GMACTIONS" />
+  </logger>
+  <logger name="donations" additivity="false">
+    <appender-ref ref="DONATIONSASYNC" />
+  </logger>
+  <logger name="votereward" additivity="false">
+    <appender-ref ref="VOTEREWARDSASYNC" />
+  </logger>
+  <logger name="auctionachievements" additivity="false">
+    <appender-ref ref="AUCTIONACHIEVEMENTSSASYNC" />
+  </logger>
+  <logger name="olympiad" additivity="false">
+    <appender-ref ref="OLYMPIADASYNC" />
+  </logger>
+  <logger name="enchant" additivity="false">
+    <appender-ref ref="ENCHANTASYNC" />
+  </logger>
+   <logger name="BOT" additivity="false">
+    <appender-ref ref="BOTASYNC" />
+  </logger>
+  <logger name="debug" additivity="false">
+    <level value="debug"/>
+    <appender-ref ref="DEBUG" />
+  </logger>
+	<logger name="org.hibernate">
+		<level value="WARN" />
+	</logger>
+  <root>
+    <level value="info"/>
+    <appender-ref ref="CONSOLE"/>
+    <appender-ref ref="FILEASYNC"/>
+  </root>
+</log4j:configuration>

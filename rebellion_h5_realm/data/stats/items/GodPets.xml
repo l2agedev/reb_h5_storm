@@ -1,0 +1,270 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE list SYSTEM "item.dtd">
+<list>
+	<armor id="22356" name="Mount - Tame Princess Ant">
+		<set name="icon" value="BranchSys3.Icon.g_ant_princess_i00"/>
+		<set name="type" value="NONE"/>
+		<set name="weight" value="30"/>
+		<set name="freightable" value="false"/>
+		<set name="tradeable" value="false"/>
+		<set name="dropable" value="false"/>
+		<set name="price" value="0"/>
+		<set name="sellable" value="false"/>
+		<set name="crystal_type" value="NONE"/>
+		<equip>
+			<slot id="LEFT_BRACELET"/>
+		</equip>
+		<skills>
+			<skill id="21270" level="1"/>	<!--Оседлать Королеву Муравьев-->
+		</skills>
+		<cond msgId="1507">
+			<not>
+				<player olympiad="true"/>
+			</not>
+		</cond>
+	</armor>
+	<armor id="22364" name="Mount - Black Bear">
+		<set name="icon" value="BranchSys3.Icon.g_black_bear_i00"/>
+		<set name="type" value="NONE"/>
+		<set name="weight" value="30"/>
+		<set name="freightable" value="false"/>
+		<set name="tradeable" value="false"/>
+		<set name="dropable" value="false"/>
+		<set name="price" value="0"/>
+		<set name="sellable" value="false"/>
+		<set name="crystal_type" value="NONE"/>
+		<equip>
+			<slot id="LEFT_BRACELET"/>
+		</equip>
+		<skills>
+			<skill id="21271" level="1"/>	<!--Оседлать Бурого Медведя-->
+		</skills>
+		<cond msgId="1507">
+			<not>
+				<player olympiad="true"/>
+			</not>
+		</cond>
+	</armor>
+	<armor id="22384" name="Halloween Broomstick Mount" add_name="Event">
+		<set name="icon" value="BranchSys3.Icon.g_halloween_flying_broom_i00"/>
+		<set name="type" value="NONE"/>
+		<set name="weight" value="30"/>
+		<set name="freightable" value="false"/>
+		<set name="tradeable" value="false"/>
+		<set name="dropable" value="false"/>
+		<set name="price" value="0"/>
+		<set name="sellable" value="false"/>
+		<set name="crystal_type" value="NONE"/>
+		<equip>
+			<slot id="LEFT_BRACELET"/>
+		</equip>
+		<skills>
+			<skill id="21272" level="1"/>	<!--Оседлать Метлу Ведьмы-->
+		</skills>
+		<cond msgId="1507">
+			<not>
+				<player olympiad="true"/>
+			</not>
+		</cond>
+	</armor>
+	
+	<armor id="33642" name="Kukurin Bracelet">
+		<set name="icon" value="icon.accessary_blue_coral_ring_i00"/>
+		<set name="type" value="NONE"/>
+		<set name="weight" value="30"/>
+		<set name="freightable" value="false"/>
+		<set name="tradeable" value="false"/>
+		<set name="dropable" value="false"/>
+		<set name="price" value="0"/>
+		<set name="sellable" value="false"/>
+		<set name="crystal_type" value="NONE"/>
+		<equip>
+			<slot id="LEFT_BRACELET"/>
+		</equip>
+		<skills>
+			<skill id="9213" level="1"/> 	<!--Кукурин-->
+		</skills>
+		<cond msgId="1507">
+			<not>
+				<player olympiad="true"/>
+			</not>
+		</cond>
+	</armor>
+	
+	<armor id="41009" name="Knight's Mount">
+		<set name="icon" value="branchSys-fixed.utx-Icon.br_ring_of_friendship_i00" />
+		<set name="type" value="NONE"/>
+		<set name="weight" value="30"/>
+		<set name="freightable" value="false"/>
+		<set name="tradeable" value="false"/>
+		<set name="dropable" value="false"/>
+		<set name="price" value="0"/>
+		<set name="sellable" value="false"/>
+		<set name="crystal_type" value="NONE"/>
+		<equip>
+			<slot id="LEFT_BRACELET"/>
+		</equip>
+		<skills>
+			<skill id="8600" level="1"/>
+		</skills>
+		<cond msgId="1507">
+			<not>
+				<player olympiad="true"/>
+			</not>
+		</cond>
+	</armor>
+	<armor id="41010" name="Warrior's Mount">
+		<set name="icon" value="branchSys-fixed.utx-Icon.br_ring_of_friendship_i00" />
+		<set name="type" value="NONE"/>
+		<set name="weight" value="30"/>
+		<set name="freightable" value="false"/>
+		<set name="tradeable" value="false"/>
+		<set name="dropable" value="false"/>
+		<set name="price" value="0"/>
+		<set name="sellable" value="false"/>
+		<set name="crystal_type" value="NONE"/>
+		<equip>
+			<slot id="LEFT_BRACELET"/>
+		</equip>
+		<skills>
+			<skill id="8601" level="1"/>
+		</skills>
+		<cond msgId="1507">
+			<not>
+				<player olympiad="true"/>
+			</not>
+		</cond>
+	</armor>
+	<armor id="41011" name="Rouge's Mount">
+		<set name="icon" value="branchSys-fixed.utx-Icon.br_ring_of_friendship_i00" />
+		<set name="type" value="NONE"/>
+		<set name="weight" value="30"/>
+		<set name="freightable" value="false"/>
+		<set name="tradeable" value="false"/>
+		<set name="dropable" value="false"/>
+		<set name="price" value="0"/>
+		<set name="sellable" value="false"/>
+		<set name="crystal_type" value="NONE"/>
+		<equip>
+			<slot id="LEFT_BRACELET"/>
+		</equip>
+		<skills>
+			<skill id="8602" level="1"/>
+		</skills>
+		<cond msgId="1507">
+			<not>
+				<player olympiad="true"/>
+			</not>
+		</cond>
+	</armor>
+	<armor id="41012" name="Archer's Mount">
+		<set name="icon" value="branchSys-fixed.utx-Icon.br_ring_of_friendship_i00" />
+		<set name="type" value="NONE"/>
+		<set name="weight" value="30"/>
+		<set name="freightable" value="false"/>
+		<set name="tradeable" value="false"/>
+		<set name="dropable" value="false"/>
+		<set name="price" value="0"/>
+		<set name="sellable" value="false"/>
+		<set name="crystal_type" value="NONE"/>
+		<equip>
+			<slot id="LEFT_BRACELET"/>
+		</equip>
+		<skills>
+			<skill id="8603" level="1"/>
+		</skills>
+		<cond msgId="1507">
+			<not>
+				<player olympiad="true"/>
+			</not>
+		</cond>
+	</armor>
+	<armor id="41013" name="Wizard's Mount">
+		<set name="icon" value="branchSys-fixed.utx-Icon.br_ring_of_friendship_i00" />
+		<set name="type" value="NONE"/>
+		<set name="weight" value="30"/>
+		<set name="freightable" value="false"/>
+		<set name="tradeable" value="false"/>
+		<set name="dropable" value="false"/>
+		<set name="price" value="0"/>
+		<set name="sellable" value="false"/>
+		<set name="crystal_type" value="NONE"/>
+		<equip>
+			<slot id="LEFT_BRACELET"/>
+		</equip>
+		<skills>
+			<skill id="8604" level="1"/>
+		</skills>
+		<cond msgId="1507">
+			<not>
+				<player olympiad="true"/>
+			</not>
+		</cond>
+	</armor>
+	<armor id="41014" name="Summoner's Mount">
+		<set name="icon" value="branchSys-fixed.utx-Icon.br_ring_of_friendship_i00" />
+		<set name="type" value="NONE"/>
+		<set name="weight" value="30"/>
+		<set name="freightable" value="false"/>
+		<set name="tradeable" value="false"/>
+		<set name="dropable" value="false"/>
+		<set name="price" value="0"/>
+		<set name="sellable" value="false"/>
+		<set name="crystal_type" value="NONE"/>
+		<equip>
+			<slot id="LEFT_BRACELET"/>
+		</equip>
+		<skills>
+			<skill id="8605" level="1"/>
+		</skills>
+		<cond msgId="1507">
+			<not>
+				<player olympiad="true"/>
+			</not>
+		</cond>
+	</armor>
+	<armor id="41015" name="Enchanter's Mount">
+		<set name="icon" value="branchSys-fixed.utx-Icon.br_ring_of_friendship_i00" />
+		<set name="type" value="NONE"/>
+		<set name="weight" value="30"/>
+		<set name="freightable" value="false"/>
+		<set name="tradeable" value="false"/>
+		<set name="dropable" value="false"/>
+		<set name="price" value="0"/>
+		<set name="sellable" value="false"/>
+		<set name="crystal_type" value="NONE"/>
+		<equip>
+			<slot id="LEFT_BRACELET"/>
+		</equip>
+		<skills>
+			<skill id="8606" level="1"/>
+		</skills>
+		<cond msgId="1507">
+			<not>
+				<player olympiad="true"/>
+			</not>
+		</cond>
+	</armor>
+	<armor id="41016" name="Healer's Mount">
+		<set name="icon" value="branchSys-fixed.utx-Icon.br_ring_of_friendship_i00" />
+		<set name="type" value="NONE"/>
+		<set name="weight" value="30"/>
+		<set name="freightable" value="false"/>
+		<set name="tradeable" value="false"/>
+		<set name="dropable" value="false"/>
+		<set name="price" value="0"/>
+		<set name="sellable" value="false"/>
+		<set name="crystal_type" value="NONE"/>
+		<equip>
+			<slot id="LEFT_BRACELET"/>
+		</equip>
+		<skills>
+			<skill id="8607" level="1"/>
+		</skills>
+		<cond msgId="1507">
+			<not>
+				<player olympiad="true"/>
+			</not>
+		</cond>
+	</armor>
+</list>

@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list enabled="true" maxRollValue="10000" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="enchantData.xsd">
+<!--
+Above  (maxRollValue="10000") used for chance!
+# Variables.
+int minChance = -1;
+int maxChance = -1;
+int minLevel = -1;
+int maxLevel = -1;
+boolean isPassive = false;
+boolean useVitalityRate = false;
+boolean spawnsInInstances = false;
+String title = null;
+float patkMultiplier = 1;
+float matkMultiplier = 1;
+float pdefMultiplier = 1;
+float mdefMultiplier = 1;
+float atkSpdMultiplier = 1;
+float matkSpdMultiplier = 1;
+double hpMultiplier = 1;
+double hpRegenMultiplier = 1;
+double expMultiplier = 1;
+double spMultiplier = 1;
+double itemDropMultiplier = 1;
+double spoilDropMultiplier = 1;
+double adenaMultiplier = 1;
+int weaponEnchant = 0;
+boolean redCircle = false;
+boolean blueCircle = false;
+
+# Adding Items Example:
+<item itemId="57" minCount="1" maxCount="2" dropChance="100"/>
+-->
+
+	<champion minChance="0" maxChance="100" minLevel="75" maxLevel="85"> <!-- 1% -->
+		<setBoolean isPassive="false" />
+		<setBoolean useVitalityRate="true" />
+		<setBoolean spawnsInInstances="false" />
+		<setString title="Champ #1" />
+		<setFloat atkSpdMultiplier="3" />
+		<setFloat matkSpdMultiplier="2.5" />
+		<setDouble expMultiplier="3.5" />
+		<setDouble spMultiplier="3.5" />
+		<setDouble itemDropMultiplier="6" />
+		<setDouble spoilDropMultiplier="3" />
+		<setDouble adenaMultiplier="9" />
+		<setInt weaponEnchant="4" />
+		<setBoolean redCircle="true" />
+		<setInt weaponEnchant="4" />
+	</champion>
+	
+	<champion minChance="101" maxChance="201" minLevel="75" maxLevel="85"> <!-- 1% -->
+		<setBoolean isPassive="true" />
+		<setBoolean useVitalityRate="true" />
+		<setBoolean spawnsInInstances="false" />
+		<setString title="Champ #2" />
+		<setFloat patkMultiplier="2.5" />
+		<setFloat matkMultiplier="2.5" />
+		<setDouble hpMultiplier="3" />
+		<setDouble hpRegenMultiplier="2" />
+		<setFloat atkSpdMultiplier="0.6" />
+		<setFloat matkSpdMultiplier="0.6" />
+		<setDouble expMultiplier="5" />
+		<setDouble spMultiplier="5" />
+		<setDouble itemDropMultiplier="6" />
+		<setDouble spoilDropMultiplier="3" />
+		<setDouble adenaMultiplier="10.5" />
+		<setInt weaponEnchant="4" />
+		<setBoolean redCircle="true" />
+	</champion>
+	
+	<champion minChance="202" maxChance="252" minLevel="75" maxLevel="85"> <!-- 0.5% -->
+		<setBoolean isPassive="true" />
+		<setBoolean useVitalityRate="true" />
+		<setBoolean spawnsInInstances="false" />
+		<setString title="Champ #3" />
+		<setDouble expMultiplier="2.5" />
+		<setDouble spMultiplier="2.5" />
+		<setDouble itemDropMultiplier="3" />
+		<setDouble spoilDropMultiplier="1.5" />
+		<setDouble adenaMultiplier="4.5" />
+		<setBoolean blueCircle="true" />
+	</champion>
+	
+	<champion minChance="303" maxChance="328" minLevel="75" maxLevel="85"> <!-- 0.25% -->
+		<setBoolean isPassive="true" />
+		<setBoolean useVitalityRate="true" />
+		<setBoolean spawnsInInstances="false" />
+		<setString title="Champ #4" />
+		<setDouble expMultiplier="5" />
+		<setDouble spMultiplier="5" />
+		<setDouble itemDropMultiplier="4" />
+		<setDouble spoilDropMultiplier="2" />
+		<setDouble adenaMultiplier="4.5" />
+		<setBoolean blueCircle="true" />
+	</champion>
+	
+	<champion minChance="354" maxChance="367" minLevel="75" maxLevel="85"> <!-- 0.13% -->
+		<setBoolean isPassive="true" />
+		<setBoolean useVitalityRate="true" />
+		<setBoolean spawnsInInstances="false" />
+		<setString title="Champ #5" />
+		<setDouble expMultiplier="10" />
+		<setDouble spMultiplier="10" />
+		<setDouble itemDropMultiplier="7.5" />
+		<setDouble spoilDropMultiplier="3.75" />
+		<setDouble adenaMultiplier="7.5" />
+		<setBoolean blueCircle="true" />
+	</champion>
+	
+	<champion minChance="380" maxChance="386" minLevel="75" maxLevel="85"> <!-- 0.06% -->
+		<setBoolean isPassive="true" />
+		<setBoolean useVitalityRate="true" />
+		<setBoolean spawnsInInstances="false" />
+		<setString title="Champ #6" />
+		<setDouble expMultiplier="20" />
+		<setDouble spMultiplier="20" />
+		<setDouble itemDropMultiplier="9" />
+		<setDouble spoilDropMultiplier="4.5" />
+		<setDouble adenaMultiplier="12" />
+		<setBoolean blueCircle="true" />
+	</champion>
+	
+	<champion minChance="391" maxChance="491" minLevel="1" maxLevel="85"> <!-- 1% -->
+		<setBoolean isPassive="true" />
+		<setBoolean useVitalityRate="true" />
+		<setBoolean spawnsInInstances="false" />
+		<setString title="Champ #7" />
+		<setFloat patkMultiplier="1.2" />
+		<setFloat matkMultiplier="1.2" />
+		<setFloat pdefMultiplier="1.2" />
+		<setFloat mdefMultiplier="1.2" />
+		<setFloat atkSpdMultiplier="1.15" />
+		<setFloat matkSpdMultiplier="1.15" />
+		<setDouble hpMultiplier="4" />
+		<setDouble hpRegenMultiplier="1" />
+		<setDouble expMultiplier="5" />
+		<setDouble spMultiplier="5" />
+		<setDouble itemDropMultiplier="6" />
+		<setDouble spoilDropMultiplier="3" />
+		<setDouble adenaMultiplier="7.5" />
+		<setBoolean redCircle="true" />
+		<setInt weaponEnchant="5" />
+	</champion>
+	
+	<champion minChance="492" maxChance="592" minLevel="1" maxLevel="85"> <!-- 1% -->
+		<setBoolean isPassive="true" />
+		<setBoolean useVitalityRate="true" />
+		<setBoolean spawnsInInstances="false" />
+		<setString title="Champ #8" />
+		<setFloat patkMultiplier="1.4" />
+		<setFloat matkMultiplier="1.4" />
+		<setFloat pdefMultiplier="1.25" />
+		<setFloat mdefMultiplier="1.25" />
+		<setFloat atkSpdMultiplier="1.4" />
+		<setFloat matkSpdMultiplier="1.4" />
+		<setDouble hpMultiplier="6" />
+		<setDouble hpRegenMultiplier="2" />
+		<setDouble expMultiplier="8" />
+		<setDouble spMultiplier="8" />
+		<setDouble itemDropMultiplier="8" />
+		<setDouble spoilDropMultiplier="4" />
+		<setDouble adenaMultiplier="12" />
+		<setBoolean redCircle="true" />
+		<setInt weaponEnchant="10" />
+	</champion>
+	
+	<champion minChance="593" maxChance="643" minLevel="1" maxLevel="85"> <!-- 0.5% -->
+		<setBoolean isPassive="true" />
+		<setBoolean useVitalityRate="true" />
+		<setBoolean spawnsInInstances="false" />
+		<setString title="Champ #9" />
+		<setFloat patkMultiplier="1.65" />
+		<setFloat matkMultiplier="1.65" />
+		<setFloat pdefMultiplier="1.4" />
+		<setFloat mdefMultiplier="1.4" />
+		<setFloat atkSpdMultiplier="1.65" />
+		<setFloat matkSpdMultiplier="1.65" />
+		<setDouble hpMultiplier="10" />
+		<setDouble hpRegenMultiplier="3" />
+		<setDouble expMultiplier="12" />
+		<setDouble spMultiplier="10" />
+		<setDouble itemDropMultiplier="10.5" />
+		<setDouble spoilDropMultiplier="5.25" />
+		<setDouble adenaMultiplier="18" />
+		<setBoolean redCircle="true" />
+		<setInt weaponEnchant="15" />
+	</champion>
+	
+	<champion minChance="643" maxChance="668" minLevel="1" maxLevel="85"> <!-- 0.25% -->
+		<setBoolean isPassive="true" />
+		<setBoolean useVitalityRate="true" />
+		<setBoolean spawnsInInstances="false" />
+		<setString title="Champ #10" />
+		<setFloat patkMultiplier="2" />
+		<setFloat matkMultiplier="2" />
+		<setFloat pdefMultiplier="1.65" />
+		<setFloat mdefMultiplier="1.65" />
+		<setFloat atkSpdMultiplier="2" />
+		<setFloat matkSpdMultiplier="2" />
+		<setDouble hpMultiplier="15" />
+		<setDouble hpRegenMultiplier="3" />
+		<setDouble expMultiplier="35" />
+		<setDouble spMultiplier="35" />
+		<setDouble itemDropMultiplier="13.5" />
+		<setDouble spoilDropMultiplier="6.75" />
+		<setDouble adenaMultiplier="22.5" />
+		<setBoolean redCircle="true" />
+		<setInt weaponEnchant="20" />
+	</champion>
+	
+	<champion minChance="669" maxChance="769" minLevel="1" maxLevel="85"> <!-- 1% -->
+		<setBoolean isPassive="true" />
+		<setBoolean useVitalityRate="true" />
+		<setBoolean spawnsInInstances="false" />
+		<setString title="Champ #11" />
+		<setFloat patkMultiplier="0.5" />
+		<setFloat matkMultiplier="0.5" />
+		<setFloat pdefMultiplier="0.5" />
+		<setFloat mdefMultiplier="0.5" />
+		<setFloat atkSpdMultiplier="0.5" />
+		<setFloat matkSpdMultiplier="0.5" />
+		<setDouble hpMultiplier="0.5" />
+		<setDouble hpRegenMultiplier="0.5" />
+		<setDouble expMultiplier="1" />
+		<setDouble spMultiplier="1" />
+		<setDouble itemDropMultiplier="1" />
+		<setDouble spoilDropMultiplier="1" />
+		<setDouble adenaMultiplier="1" />
+	</champion>
+	<champion minChance="770" maxChance="800" minLevel="1" maxLevel="85"> <!-- 0.3% -->
+		<setBoolean isPassive="true" />
+		<setBoolean useVitalityRate="true" />
+		<setBoolean spawnsInInstances="false" />
+		<setString title="Champ #12" />
+		<setFloat patkMultiplier="0.5" />
+		<setFloat matkMultiplier="0.5" />
+		<setFloat pdefMultiplier="0.5" />
+		<setFloat mdefMultiplier="0.5" />
+		<setFloat atkSpdMultiplier="0.5" />
+		<setFloat matkSpdMultiplier="0.5" />
+		<setDouble hpMultiplier="0.5" />
+		<setDouble hpRegenMultiplier="0.5" />
+		<setDouble expMultiplier="4" />
+		<setDouble spMultiplier="4" />
+		<setDouble itemDropMultiplier="3" />
+		<setDouble spoilDropMultiplier="1.5" />
+		<setDouble adenaMultiplier="4.5" />
+	</champion>
+</list>

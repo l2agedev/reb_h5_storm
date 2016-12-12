@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='utf-8'?>
+<list>
+	<config showall="true" notax="true" keepenchanted="true" />
+	<item>
+		<ingredient id="6673" count="1" /> <!-- Festival Adena -->
+		<production id="22204" count="5" /> <!-- Attribute Ore Box -->
+	</item>
+	<item>
+		<ingredient id="6673" count="1" /> <!-- Festival Adena -->
+		<production id="22205" count="1" /> <!-- Attribute Crystal Box -->
+	</item>
+	<item>
+		<ingredient id="6673" count="25" /> <!-- Festival Adena -->
+		<production id="17075" count="1" /> <!-- Soul Crystal - Step 14 Box -->
+	</item>
+	<item>
+		<ingredient id="6673" count="80" /> <!-- Festival Adena -->
+		<production id="17076" count="1" /> <!-- Soul Crystal - Step 15 Box -->
+	</item>
+	<item>
+		<ingredient id="6673" count="250" /> <!-- Festival Adena -->
+		<production id="17077" count="1" /> <!-- Soul Crystal - Step 16 Box -->
+	</item>
+	<item>
+		<ingredient id="6673" count="2" /> <!-- Festival Adena -->
+		<production id="21308" count="1" /> <!-- Enchant Scroll of Fortune Treasure Sack Event -->
+	</item>
+	<item>
+		<ingredient id="6673" count="1" /> <!-- Festival Adena -->
+		<production id="10483" count="3" /> <!-- Life Stone - Level 82 -->
+	</item>
+	<item>
+		<ingredient id="6673" count="1" /> <!-- Festival Adena -->
+		<production id="10484" count="1" /> <!-- Mid-Grade Life Stone - Level 82 -->
+	</item>
+	<item>
+		<ingredient id="6673" count="3" /> <!-- Festival Adena -->
+		<production id="10485" count="1" /> <!-- High-Grade Life Stone - Level 82 -->
+	</item>
+	<item>
+		<ingredient id="6673" count="5" /> <!-- Festival Adena -->
+		<production id="10486" count="1" /> <!-- Top-Grade Life Stone - Level 82 -->
+	</item>
+	<item>
+		<ingredient id="6673" count="25" /> <!-- Festival Adena -->
+		<production id="20033" count="1" /> <!-- My Teleport Flag -->
+	</item>
+	<item>
+		<ingredient id="6673" count="2" /> <!-- Festival Adena -->
+		<production id="13016" count="1" /> <!-- My Teleport Scroll -->
+	</item>
+	<item>
+		<ingredient id="6673" count="100" /> <!-- Festival Adena -->
+		<production id="13015" count="1" /> <!-- My Teleport Spellbook -->
+	</item>
+</list>

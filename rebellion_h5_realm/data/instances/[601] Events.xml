@@ -1,0 +1,143 @@
+<!DOCTYPE list SYSTEM "instances.dtd">
+<list>
+	<!-- CrownEmpire -->
+	<instance id="600" name="AdminCreateInstance" maxChannels="40"
+		collapseIfEmpty="0" timeLimit="60" dispelBuffs="false">
+		<level min="1" max="85" />
+		<teleport loc="48536 -12680 -9392 0" />
+		<teleport loc="48552 -11864 -9392 0" />
+	</instance>
+	<!-- CrownEmpire -->
+	<instance id="601" name="CrownEmpire" maxChannels="40"
+		collapseIfEmpty="1" timeLimit="60" dispelBuffs="true">
+		<level min="1" max="85" />
+		<party min="1" max="1" />
+		<teleport loc="48536 -12680 -9392 0" />
+		<teleport loc="48552 -11864 -9392 0" />
+		<zones>
+			<zone name="[event_crown_empire]" active="true" />
+		</zones>
+	</instance>
+	<!-- CTF -->
+	<instance id="602" name="ColosseumCtF" maxChannels="40"
+		collapseIfEmpty="1" timeLimit="60" dispelBuffs="true">
+		<level min="1" max="85" />
+		<party min="1" max="10" />
+		<teleport loc="-81896 -52472 -10732 16383" />
+		<teleport loc="-83688 -46712 -10691 52507" />
+		<zones>
+			<zone name="[Underground_Coliseum]" active="true" />
+		</zones>
+	</instance>
+	<!-- Event Engine Giga -->
+	<instance id="603" name="LobbyForGigaEvents" maxChannels="40"
+		collapseIfEmpty="65535" timeLimit="30" dispelBuffs="false">
+		<level min="1" max="85" />
+		<party min="1" max="1000" />
+		<teleport loc="185080 -12600 -5517 0" />
+		<zones>
+			<zone name="[Event_Lobby]" active="true" />
+		</zones>
+	</instance>
+	<!-- Event Engine Mini -->
+	<instance id="604" name="LobbyForMiniEvents" maxChannels="40"
+		collapseIfEmpty="65535" timeLimit="30" dispelBuffs="false">
+		<level min="1" max="85" />
+		<party min="1" max="1000" />
+		<teleport loc="185080 -12600 -5517 0" />
+		<zones>
+			<zone name="[Event_Lobby]" active="true" />
+		</zones>
+	</instance>
+	<!-- TVT -->
+	<instance id="605" name="ColliseumTvT" maxChannels="40"
+		collapseIfEmpty="1" timeLimit="60" dispelBuffs="true">
+		<level min="1" max="85" />
+		<party min="1" max="10" />
+		<teleport loc="-81896 -52472 -10732 16383" />
+		<teleport loc="-83688 -46712 -10691 52507" />
+		<zones>
+			<zone name="[Underground_Coliseum]" active="true" />
+		</zones>
+	</instance>
+	<!-- Fight Club -->
+	<instance id="609" name="FC" maxChannels="40" collapseIfEmpty="1"
+		timeLimit="60" dispelBuffs="true">
+		<level min="1" max="85" />
+		<party min="1" max="1" />
+		<geodata map="17_10" />
+		<teleport loc="-89368 -252840 -3340 0" />
+		<teleport loc="-86792 -252840 -3340 0" />
+		<teleport loc="-88136 -253224 -3340 0" />
+		<doors>
+			<door id="17100001" />
+			<door id="17100002" />
+		</doors>
+		<zones>
+			<zone name="[fc_arena_1]" active="true" />
+		</zones>
+	</instance>
+	<instance id="610" name="FC" maxChannels="40" collapseIfEmpty="1"
+		timeLimit="60" dispelBuffs="true">
+		<level min="1" max="85" />
+		<party min="1" max="1" />
+		<geodata map="17_10" />
+		<teleport loc="-76728 -252456 -7741 0" />
+		<teleport loc="-74200 -252456 -7741 0" />
+		<teleport loc="-75064 -252856 -7741 0" />
+		<doors>
+			<door id="17100101" />
+			<door id="17100102" />
+		</doors>
+		<zones>
+			<zone name="[fc_arena_2]" active="true" />
+		</zones>
+	</instance>
+	<instance id="611" name="FC" maxChannels="40" collapseIfEmpty="1"
+		timeLimit="60" dispelBuffs="true">
+		<level min="1" max="85" />
+		<party min="1" max="1" />
+		<geodata map="17_10" />
+		<teleport loc="-89176 -239352 -8474 0" />
+		<teleport loc="-87000 -239352 -8474 0" />
+		<teleport loc="-87382 -238952 -8474 0" />
+		<doors>
+			<door id="17100201" />
+			<door id="17100202" />
+		</doors>
+		<zones>
+			<zone name="[fc_arena_3]" active="true" />
+		</zones>
+	</instance>
+	<instance id="612" name="FC" maxChannels="40" collapseIfEmpty="1"
+		timeLimit="60" dispelBuffs="true">
+		<level min="1" max="85" />
+		<party min="1" max="1" />
+		<geodata map="17_10" />
+		<teleport loc="-76632 -239176 -8218 0" />
+		<teleport loc="-74280 -239176 -8218 0" />
+		<teleport loc="-75448 -238712 -8218 0" />
+		<doors>
+			<door id="17100301" />
+			<door id="17100302" />
+		</doors>
+		<zones>
+			<zone name="[fc_arena_4]" active="true" />
+		</zones>
+	</instance>
+	<instance id="613" name="LastHero" maxChannels="40"
+		collapseIfEmpty="1" timeLimit="60" dispelBuffs="true">
+		<level min="1" max="85" />
+		<party min="1" max="100" />
+		<teleport loc="-77576 -50584 -10757 0" />
+		<zones>
+			<zone name="[Underground_Coliseum]" active="true" />
+		</zones>
+	</instance>
+	<instance id="614" name="NexusEvents" maxChannels="40"
+		collapseIfEmpty="1" timeLimit="60" dispelBuffs="false">
+		<level min="1" max="85" />
+		<teleport loc="48536 -12680 -9392 0" />
+		<teleport loc="48552 -11864 -9392 0" />
+	</instance>
+</list>

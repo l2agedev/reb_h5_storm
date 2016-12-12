@@ -1,0 +1,473 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE list SYSTEM "item.dtd">
+<list>
+	<etcitem id="13693" name="Gracian Anniversary Coins">
+		<set name="class" value="OTHER" />
+		<set name="crystal_type" value="NONE" />
+		<set name="icon" value="icon.etc_coins_silver_i00" />
+		<set name="stackable" value="true" />
+		<set name="tradeable" value="false" />
+		<set name="dropable" value="false" />
+		<set name="destroyable" value="false" />
+		<set name="sellable" value="false" />
+		<set name="type" value="OTHER" />
+	</etcitem>
+	<etcitem id="37000" name="Donator Coin">
+		<set name="class" value="OTHER" />
+		<set name="crystal_type" value="NONE" />
+		<set name="icon" value="icon.etc_coin_of_fair_i00" />
+		<set name="price" value="1"/>
+		<set name="stackable" value="true" />
+		<set name="tradeable" value="true" />
+		<set name="dropable" value="false" />
+		<set name="type" value="MONEY" />
+	</etcitem>
+	<etcitem id="728" name="Mana Potion">
+		<set name="class" value="CONSUMABLE" />
+		<set name="crystal_type" value="NONE" />
+		<set name="icon" value="icon.etc_reagent_blue_i00" />
+		<set name="price" value="2000" />
+		<set name="reuse_delay" value="8000" />
+		<set name="stackable" value="true" />
+		<set name="type" value="POTION" />
+		<set name="weight" value="180" />
+		<skills>
+			<skill id="90001" level="1" />
+		</skills>
+		<cond msgId="1508">
+			<not>
+				<player olympiad="true" />
+			</not>
+		</cond>
+	</etcitem>
+	<etcitem id="13750" name="Warrior's Temporary Healing Potion">
+		<set name="reuse_delay" value="10000" />
+		<!-- Custom by ico -->
+		<set name="class" value="OTHER" />
+		<set name="crystal_type" value="NONE" />
+		<set name="dropable" value="false" />
+		<set name="icon" value="icon.etc_potion_gold_i00" />
+		<set name="stackable" value="true" />
+		<set name="tradeable" value="false" />
+		<set name="type" value="OTHER" />
+		<set name="weight" value="180" />
+		<cond msgId="1508">
+			<not>
+				<player olympiad="true" />
+			</not>
+		</cond>
+	</etcitem>
+	<etcitem id="4037" name="Coin of Luck">
+		<set name="class" value="OTHER" />
+		<set name="crystal_type" value="NONE" />
+		<set name="destroyable" value="false" />
+		<set name="icon" value="icon.etc_coins_gold_i00" />
+		<set name="price" value="1" />
+		<set name="stackable" value="true" />
+		<set name="tradeable" value="false" />
+		<set name="sellable" value="false" />
+		<set name="type" value="OTHER" />
+	</etcitem>
+	<etcitem id="13553" name="Spellbook - Aurabird Falcon">
+		<set name="class" value="OTHER" />
+		<set name="crystal_type" value="NONE" />
+		<set name="icon" value="icon.etc_codex_of_giant_i03" />
+		<set name="stackable" value="true" />
+		<set name="type" value="OTHER" />
+		<set name="weight" value="120" />
+		<set name="tradeable" value="false" />
+		<set name="sellable" value="false" />
+	</etcitem>
+	<etcitem id="13554" name="Spellbook - Aurabird Owl">
+		<set name="class" value="OTHER" />
+		<set name="crystal_type" value="NONE" />
+		<set name="icon" value="icon.etc_codex_of_giant_i03" />
+		<set name="stackable" value="true" />
+		<set name="type" value="OTHER" />
+		<set name="weight" value="120" />
+		<set name="tradeable" value="false" />
+		<set name="sellable" value="false" />
+	</etcitem>
+	<etcitem id="9910" name="Blood Oath">
+		<set name="class" value="OTHER" />
+		<set name="crystal_type" value="NONE" />
+		<set name="dropable" value="false" />
+		<set name="durability" value="100" />
+		<set name="icon" value="icon.etc_broken_crystal_red_i00" />
+		<set name="stackable" value="true" />
+		<set name="tradeable" value="true" /><!-- custom -->
+		<set name="sellable" value="true" /><!-- custom -->
+		<set name="type" value="OTHER" />
+	</etcitem>
+	<etcitem id="9911" name="Blood Alliance">
+		<set name="class" value="OTHER" />
+		<set name="crystal_type" value="NONE" />
+		<set name="dropable" value="false" />
+		<set name="durability" value="100" />
+		<set name="icon" value="icon.etc_broken_crystal_red_i00" />
+		<set name="stackable" value="true" />
+		<set name="tradeable" value="true" /><!-- custom -->
+		<set name="sellable" value="true" /><!-- custom -->
+		<set name="type" value="OTHER" />
+	</etcitem>
+	<!-- 1 week -->
+	<armor id="22400" name="Festival's Cloak - True Black">
+		<set name="freightable" value="true" />
+		<set name="crystal_type" value="NONE" />
+		<set name="icon" value="BranchSys2.Icon.7anni_cloack_i00" />
+		<set name="price" value="0" />
+		<set name="type" value="NONE" />
+		<set name="weight" value="220" />
+		<set name="durability" value="10080" />
+		<set name="temporal" value="true" />
+		<set name="dropable" value="false" />
+		<set name="sellable" value="false" />
+		<set name="tradeable" value="false" />
+		<set name="displayId" value="21583" />
+		<equip>
+			<slot id="BACK" />
+		</equip>
+		<attributes>
+			<attribute element="fire" value="7" />
+			<attribute element="water" value="7" />
+			<attribute element="wind" value="7" />
+			<attribute element="earth" value="7" />
+			<attribute element="holy" value="7" />
+			<attribute element="unholy" value="7" />
+		</attributes>
+		<for>
+			<add stat="pDef" order="0x10" value="25" />
+			<enchant stat="pDef" order="0x0C" value="0" />
+			<enchant stat="maxHp" order="0x80" value="0" />
+		</for>
+	</armor>
+	<!-- 1 week -->
+	<armor id="22401" name="Festival's Cloak - Bloody Red">
+		<set name="freightable" value="true" />
+		<set name="crystal_type" value="NONE" />
+		<set name="icon" value="BranchSys2.Icon.7anni_cloack_i01" />
+		<set name="price" value="0" />
+		<set name="type" value="NONE" />
+		<set name="weight" value="220" />
+		<set name="durability" value="10080" />
+		<set name="temporal" value="true" />
+		<set name="dropable" value="false" />
+		<set name="sellable" value="false" />
+		<set name="tradeable" value="false" />
+		<set name="displayId" value="21587" />
+		<equip>
+			<slot id="BACK" />
+		</equip>
+		<attributes>
+			<attribute element="fire" value="7" />
+			<attribute element="water" value="7" />
+			<attribute element="wind" value="7" />
+			<attribute element="earth" value="7" />
+			<attribute element="holy" value="7" />
+			<attribute element="unholy" value="7" />
+		</attributes>
+		<for>
+			<add stat="pDef" order="0x10" value="25" />
+			<enchant stat="pDef" order="0x0C" value="0" />
+			<enchant stat="maxHp" order="0x80" value="0" />
+		</for>
+	</armor>
+	<!-- 1 week -->
+	<armor id="22402" name="Festival's Cloak - Pearl White">
+		<set name="freightable" value="true" />
+		<set name="crystal_type" value="NONE" />
+		<set name="icon" value="BranchSys2.Icon.7anni_cloack_i02" />
+		<set name="price" value="0" />
+		<set name="type" value="NONE" />
+		<set name="weight" value="220" />
+		<set name="durability" value="10080" />
+		<set name="temporal" value="true" />
+		<set name="dropable" value="false" />
+		<set name="sellable" value="false" />
+		<set name="tradeable" value="false" />
+		<set name="displayId" value="21588" />
+		<equip>
+			<slot id="BACK" />
+		</equip>
+		<attributes>
+			<attribute element="fire" value="7" />
+			<attribute element="water" value="7" />
+			<attribute element="wind" value="7" />
+			<attribute element="earth" value="7" />
+			<attribute element="holy" value="7" />
+			<attribute element="unholy" value="7" />
+		</attributes>
+		<for>
+			<add stat="pDef" order="0x10" value="25" />
+			<enchant stat="pDef" order="0x0C" value="0" />
+			<enchant stat="maxHp" order="0x80" value="0" />
+		</for>
+	</armor>
+	<!-- 2 weeks -->
+	<armor id="22403" name="Festival's Cloak - True Black">
+		<set name="freightable" value="true" />
+		<set name="crystal_type" value="NONE" />
+		<set name="icon" value="BranchSys2.Icon.7anni_cloack_i00" />
+		<set name="price" value="0" />
+		<set name="type" value="NONE" />
+		<set name="weight" value="220" />
+		<set name="durability" value="20160" />
+		<set name="temporal" value="true" />
+		<set name="dropable" value="false" />
+		<set name="sellable" value="false" />
+		<set name="tradeable" value="false" />
+		<set name="displayId" value="21583" />
+		<equip>
+			<slot id="BACK" />
+		</equip>
+		<attributes>
+			<attribute element="fire" value="7" />
+			<attribute element="water" value="7" />
+			<attribute element="wind" value="7" />
+			<attribute element="earth" value="7" />
+			<attribute element="holy" value="7" />
+			<attribute element="unholy" value="7" />
+		</attributes>
+		<for>
+			<add stat="pDef" order="0x10" value="25" />
+			<enchant stat="pDef" order="0x0C" value="0" />
+			<enchant stat="maxHp" order="0x80" value="0" />
+		</for>
+	</armor>
+	<!-- 2 weeks -->
+	<armor id="22404" name="Festival's Cloak - Bloody Red">
+		<set name="freightable" value="true" />
+		<set name="crystal_type" value="NONE" />
+		<set name="icon" value="BranchSys2.Icon.7anni_cloack_i01" />
+		<set name="price" value="0" />
+		<set name="type" value="NONE" />
+		<set name="weight" value="220" />
+		<set name="durability" value="20160" />
+		<set name="temporal" value="true" />
+		<set name="dropable" value="false" />
+		<set name="sellable" value="false" />
+		<set name="tradeable" value="false" />
+		<set name="displayId" value="21587" />
+		<equip>
+			<slot id="BACK" />
+		</equip>
+		<attributes>
+			<attribute element="fire" value="7" />
+			<attribute element="water" value="7" />
+			<attribute element="wind" value="7" />
+			<attribute element="earth" value="7" />
+			<attribute element="holy" value="7" />
+			<attribute element="unholy" value="7" />
+		</attributes>
+		<for>
+			<add stat="pDef" order="0x10" value="25" />
+			<enchant stat="pDef" order="0x0C" value="0" />
+			<enchant stat="maxHp" order="0x80" value="0" />
+		</for>
+	</armor>
+	<!-- 2 weeks -->
+	<armor id="22405" name="Festival's Cloak - Pearl White">
+		<set name="freightable" value="true" />
+		<set name="crystal_type" value="NONE" />
+		<set name="icon" value="BranchSys2.Icon.7anni_cloack_i02" />
+		<set name="price" value="0" />
+		<set name="type" value="NONE" />
+		<set name="weight" value="220" />
+		<set name="durability" value="20160" />
+		<set name="temporal" value="true" />
+		<set name="dropable" value="false" />
+		<set name="sellable" value="false" />
+		<set name="tradeable" value="false" />
+		<set name="displayId" value="21588" />
+		<equip>
+			<slot id="BACK" />
+		</equip>
+		<attributes>
+			<attribute element="fire" value="7" />
+			<attribute element="water" value="7" />
+			<attribute element="wind" value="7" />
+			<attribute element="earth" value="7" />
+			<attribute element="holy" value="7" />
+			<attribute element="unholy" value="7" />
+		</attributes>
+		<for>
+			<add stat="pDef" order="0x10" value="25" />
+			<enchant stat="pDef" order="0x0C" value="0" />
+			<enchant stat="maxHp" order="0x80" value="0" />
+		</for>
+	</armor>
+	<etcitem id="9168" name="Philosopher's Stone Ore">
+		<set name="class" value="MATHERIALS" />
+		<set name="crystal_type" value="NONE" />
+		<set name="dropable" value="false" />
+		<set name="icon" value="icon.etc_stone_piece_i00" />
+		<set name="stackable" value="true" />
+		<set name="dropable" value="true" /><!-- custom -->
+		<set name="sellable" value="true" /><!-- custom -->
+		<set name="tradeable" value="true" /><!-- custom -->
+		<set name="type" value="MATERIAL" />
+		<set name="weight" value="2" />
+	</etcitem>
+	<etcitem id="9169" name="Philosopher's Stone Conversion Formula">
+		<set name="class" value="MATHERIALS" />
+		<set name="crystal_type" value="NONE" />
+		<set name="dropable" value="false" />
+		<set name="icon" value="icon.etc_trans_form_i00" />
+		<set name="stackable" value="true" />
+		<set name="dropable" value="true" /> <!-- custom -->
+		<set name="sellable" value="true" /><!-- custom -->
+		<set name="tradeable" value="true" /><!-- custom -->
+		<set name="type" value="MATERIAL" />
+		<set name="weight" value="2" />
+	</etcitem>
+	<etcitem id="9170" name="Magic Reagents">
+		<set name="class" value="MATHERIALS" />
+		<set name="crystal_type" value="NONE" />
+		<set name="dropable" value="false" />
+		<set name="icon" value="icon.etc_madicine_bottle_i00" />
+		<set name="stackable" value="true" />
+		<set name="dropable" value="true" /><!-- custom -->
+		<set name="sellable" value="true" /><!-- custom -->
+		<set name="tradeable" value="true" /><!-- custom -->
+		<set name="type" value="MATERIAL" />
+		<set name="weight" value="2" />
+	</etcitem>
+	<!-- Automatic Potions -->
+	<etcitem id="22410" name="CP Potion">
+		<set name="reuse_delay" value="5000" />
+		<set name="class" value="CONSUMABLE" />
+		<set name="crystal_type" value="NONE" />
+		<set name="icon" value="icon.etc_cp_potion_i00" />
+		<set name="price" value="500" />
+		<set name="stackable" value="true" />
+		<set name="type" value="POTION" />
+		<set name="weight" value="100" />
+		<set name="dropable" value="false" />
+		<set name="sellable" value="false" />
+		<set name="tradeable" value="false" />
+		<set name="freightable" value="false" />
+		<set name="destroyable" value="false" />
+		<set name="displayId" value="5591" />
+		<cond msgId="1508">
+			<not>
+				<player olympiad="true" />
+			</not>
+		</cond>
+	</etcitem>
+	<etcitem id="22411" name="Greater CP Potion">
+		<set name="reuse_delay" value="5000" />
+		<set name="class" value="CONSUMABLE" />
+		<set name="crystal_type" value="NONE" />
+		<set name="icon" value="icon.etc_cp_potion_i01" />
+		<set name="price" value="500" />
+		<set name="stackable" value="true" />
+		<set name="type" value="POTION" />
+		<set name="weight" value="100" />
+		<set name="dropable" value="false" />
+		<set name="sellable" value="false" />
+		<set name="tradeable" value="false" />
+		<set name="freightable" value="false" />
+		<set name="destroyable" value="false" />
+		<set name="displayId" value="5592" />
+		<cond msgId="1508">
+			<not>
+				<player olympiad="true" />
+			</not>
+		</cond>
+	</etcitem>
+	<etcitem id="22412" name="Quick Healing Potion">
+		<set name="reuse_delay" value="5000" />
+		<set name="icon" value="icon.etc_potion_red_i00"/>
+		<set name="crystal_type" value="NONE" />
+		<set name="price" value="500" />
+		<set name="stackable" value="true" />
+		<set name="type" value="POTION" />
+		<set name="class" value="CONSUMABLE" />
+		<set name="weight" value="100" />
+		<set name="dropable" value="false" />
+		<set name="sellable" value="false" />
+		<set name="tradeable" value="false" />
+		<set name="freightable" value="false" />
+		<set name="destroyable" value="false" />
+		<set name="displayId" value="13033" />
+		<cond msgId="1508">
+			<not>
+				<player olympiad="true" />
+			</not>
+		</cond>
+	</etcitem>
+	<etcitem id="22413" name="Greater Healing Potion">
+		<set name="reuse_delay" value="5000" />
+    	<set name="icon" value="icon.etc_reagent_white_i00"/>
+    	<set name="crystal_type" value="NONE" />
+		<set name="price" value="500" />
+		<set name="stackable" value="true" />
+		<set name="type" value="POTION" />
+		<set name="class" value="CONSUMABLE" />
+		<set name="weight" value="100" />
+		<set name="dropable" value="false" />
+		<set name="sellable" value="false" />
+		<set name="tradeable" value="false" />
+		<set name="freightable" value="false" />
+		<set name="destroyable" value="false" />
+		<set name="displayId" value="1539" />
+    	<cond msgId="1508">
+			<not>
+				<player olympiad="true" />
+			</not>
+		</cond>
+  	</etcitem>
+	<etcitem id="22414" name="Mana Drug">
+		<set name="reuse_delay" value="5000" />
+   		<set name="icon" value="icon.etc_potion_blue_i00"/>
+    	<set name="crystal_type" value="NONE" />
+		<set name="price" value="500" />
+		<set name="stackable" value="true" />
+		<set name="type" value="POTION" />
+		<set name="class" value="CONSUMABLE" />
+		<set name="weight" value="100" />
+		<set name="dropable" value="false" />
+		<set name="sellable" value="false" />
+		<set name="tradeable" value="false" />
+		<set name="freightable" value="false" />
+		<set name="destroyable" value="false" />
+		<set name="displayId" value="726" />
+		<cond msgId="1508">
+			<not>
+				<player olympiad="true" />
+			</not>
+		</cond>
+  	</etcitem>
+	<etcitem id="22415" name="Mana Potion">
+		<set name="reuse_delay" value="5000" />
+		<set name="icon" value="icon.etc_reagent_blue_i00" />
+    	<set name="crystal_type" value="NONE" />
+		<set name="price" value="500" />
+		<set name="stackable" value="true" />
+		<set name="type" value="POTION" />
+		<set name="class" value="CONSUMABLE" />
+		<set name="weight" value="100" />
+		<set name="dropable" value="false" />
+		<set name="sellable" value="false" />
+		<set name="tradeable" value="false" />
+		<set name="freightable" value="false" />
+		<set name="destroyable" value="false" />
+		<set name="displayId" value="728" />
+		<cond msgId="1508">
+			<not>
+				<player olympiad="true" />
+			</not>
+		</cond>
+	</etcitem>
+	<etcitem id="26000" name="Mouse Coin">
+    	<set name="class" value="OTHER"/>
+    	<set name="crystal_type" value="NONE"/>
+    	<set name="icon" value="icon.mouse_coin_i00"/>
+    	<set name="stackable" value="true"/>
+    	<set name="dropable" value="false"/>
+    	<set name="tradeable" value="false"/>
+    	<set name="sellable" value="false"/>
+    	<set name="type" value="OTHER"/>
+    	<set name="displayId" value="10639"/>
+  	</etcitem>
+</list>

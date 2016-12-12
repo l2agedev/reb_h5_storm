@@ -1,0 +1,96 @@
+<?xml version='1.0' encoding='utf-8'?>
+<list>
+	<config showall="true" notax="true" keepenchanted="true" />
+	<item>
+		<ingredient id="37000" count="3" /> <!-- Gracian Anniversary Coin -->
+		<production id="9546" count="1" /> <!-- Fire Stone -->
+	</item>
+	<item>
+		<ingredient id="37000" count="3" /> <!-- Gracian Anniversary Coin -->
+		<production id="9547" count="1" /> <!-- Water Stone -->
+	</item>
+	<item>
+		<ingredient id="37000" count="3" /> <!-- Gracian Anniversary Coin -->
+		<production id="9548" count="1" /> <!-- Earth Stone -->
+	</item>
+	<item>
+		<ingredient id="37000" count="3" /> <!-- Gracian Anniversary Coin -->
+		<production id="9549" count="1" /> <!-- Wind Stone -->
+	</item>
+	<item>
+		<ingredient id="37000" count="3" /> <!-- Gracian Anniversary Coin -->
+		<production id="9550" count="1" /> <!-- Dark Stone -->
+	</item>
+	<item>
+		<ingredient id="37000" count="3" /> <!-- Gracian Anniversary Coin -->
+		<production id="9551" count="1" /> <!-- Holy Stone -->
+	</item>
+	<item>
+		<ingredient id="37000" count="15" /> <!-- Gracian Anniversary Coin -->
+		<production id="9552" count="1" /> <!-- Fire Crystal -->
+	</item>
+	<item>
+		<ingredient id="37000" count="15" /> <!-- Gracian Anniversary Coin -->
+		<production id="9553" count="1" /> <!-- Water Crystal -->
+	</item>
+	<item>
+		<ingredient id="37000" count="15" /> <!-- Gracian Anniversary Coin -->
+		<production id="9554" count="1" /> <!-- Earth Crystal -->
+	</item>
+	<item>
+		<ingredient id="37000" count="15" /> <!-- Gracian Anniversary Coin -->
+		<production id="9555" count="1" /> <!-- Wind Crystal -->
+	</item>
+	<item>
+		<ingredient id="37000" count="15" /> <!-- Gracian Anniversary Coin -->
+		<production id="9556" count="1" /> <!-- Dark Crystal -->
+	</item>
+	<item>
+		<ingredient id="37000" count="15" /> <!-- Gracian Anniversary Coin -->
+		<production id="9557" count="1" /> <!-- Holy Crystal -->
+	</item>
+	<item>
+		<ingredient id="37000" count="10" /> <!-- Gracian Anniversary Coin -->
+		<production id="14678" count="1" /> <!-- Neolithic Crystal - B -->
+	</item>
+	<item>
+		<ingredient id="37000" count="40" /> <!-- Gracian Anniversary Coin -->
+		<production id="14679" count="1" /> <!-- Neolithic Crystal - A -->
+	</item>
+	<item>
+		<ingredient id="37000" count="100" /> <!-- Gracian Anniversary Coin -->
+		<production id="14680" count="1" /> <!-- Neolithic Crystal - S -->
+	</item>
+	<item>
+		<ingredient id="37000" count="1000" /> <!-- Gracian Anniversary Coin -->
+		<production id="14681" count="1" /> <!-- Neolithic Crystal - S80 -->
+	</item>
+	<item>
+		<ingredient id="37000" count="5000" /> <!-- Gracian Anniversary Coin -->
+		<production id="21579" count="1" /> <!-- Neolithic Crystal - S84 -->
+	</item>
+	<item>
+		<ingredient id="37000" count="2" /> <!-- Gracian Anniversary Coin -->
+		<production id="14166" count="1" /> <!-- Life Stone - Level 84 -->
+	</item>
+	<item>
+		<ingredient id="37000" count="8" /> <!-- Gracian Anniversary Coin -->
+		<production id="14167" count="1" /> <!-- Mid-Grade Life Stone - Level 84 -->
+	</item>
+	<item>
+		<ingredient id="37000" count="20" /> <!-- Gracian Anniversary Coin -->
+		<production id="14168" count="1" /> <!-- High-Grade Life Stone - Level 84 -->
+	</item>
+	<item>
+		<ingredient id="37000" count="30" /> <!-- Gracian Anniversary Coin -->
+		<production id="14169" count="1" /> <!-- Top-Grade Life Stone - Level 84 -->
+	</item>
+	<item>
+		<ingredient id="37000" count="20" /> <!-- Gracian Anniversary Coin -->
+		<production id="6622" count="1" /> <!-- Giant's Codex -->
+	</item>
+	<item>
+		<ingredient id="37000" count="35" /> <!-- Gracian Anniversary Coin -->
+		<production id="9626" count="1" /> <!-- Giant's Codex - Discipline -->
+	</item>
+</list>

@@ -1,0 +1,808 @@
+<?xml version='1.0' encoding='utf-8'?>
+<list>
+	<config showall="true" notax="true" keepenchanted="true" />
+	<item>
+		<production id="2500" count="1" /> <!-- Dark Legion's Edge -->
+		<ingredient id="57" count="20741000" />
+	</item>
+	<item>
+		<production id="2504" count="1" /> <!-- Meteor Shower -->
+		<ingredient id="57" count="14098000" />
+	</item>
+	<item>
+		<production id="8788" count="1" /> <!-- Sirra's Blade - Haste -->
+		<ingredient id="57" count="26968400" />
+	</item>
+	<item>
+		<production id="8789" count="1" /> <!-- Sirra's Blade - Health -->
+		<ingredient id="57" count="26968400" />
+	</item>
+	<item>
+		<production id="8790" count="1" /> <!-- Sirra's Blade - Critical Poison -->
+		<ingredient id="57" count="26968400" />
+	</item>
+	<item>
+		<production id="8791" count="1" /> <!-- Sword of Ipos - Focus -->
+		<ingredient id="57" count="26968400" />
+	</item>
+	<item>
+		<production id="8792" count="1" /> <!-- Sword of Ipos - Haste -->
+		<ingredient id="57" count="26968400" />
+	</item>
+	<item>
+		<production id="8793" count="1" /> <!-- Sword of Ipos - Health -->
+		<ingredient id="57" count="26968400" />
+	</item>
+	<item>
+		<production id="8794" count="1" /> <!-- Barakiel's Axe - Health -->
+		<ingredient id="57" count="26968400" />
+	</item>
+	<item>
+		<production id="8795" count="1" /> <!-- Barakiel's Axe - Haste -->
+		<ingredient id="57" count="26968400" />
+	</item>
+	<item>
+		<production id="8796" count="1" /> <!-- Barakiel's Axe - Focus -->
+		<ingredient id="57" count="26968400" />
+	</item>
+	<item>
+		<production id="8797" count="1" /> <!-- Behemoth's Tuning Fork - Focus -->
+		<ingredient id="57" count="26968400" />
+	</item>
+	<item>
+		<production id="8798" count="1" /> <!-- Behemoth's Tuning Fork - Health -->
+		<ingredient id="57" count="26968400" />
+	</item>
+	<item>
+		<production id="8799" count="1" /> <!-- Behemoth's Tuning Fork - Anger -->
+		<ingredient id="57" count="26968400" />
+	</item>
+	<item>
+		<production id="4903" count="1" /> <!-- Dasparion's Staff -->
+		<ingredient id="57" count="18300000" />
+	</item>
+	<item>
+		<production id="4904" count="1" /> <!-- Dasparion's Staff -->
+		<ingredient id="57" count="18300000" />
+	</item>
+	<item>
+		<production id="4905" count="1" /> <!-- Dasparion's Staff -->
+		<ingredient id="57" count="18300000" />
+	</item>
+	<item>
+		<production id="8800" count="1" /> <!-- Naga Storm - Focus -->
+		<ingredient id="57" count="26968400" />
+	</item>
+	<item>
+		<production id="8801" count="1" /> <!-- Naga Storm - Critical Damage -->
+		<ingredient id="57" count="26968400" />
+	</item>
+	<item>
+		<production id="8802" count="1" /> <!-- Naga Storm - Back Blow -->
+		<ingredient id="57" count="26968400" />
+	</item>
+	<item>
+		<production id="8803" count="1" /> <!-- Tiphon's Spear - Critical Stun -->
+		<ingredient id="57" count="26968400" />
+	</item>
+	<item>
+		<production id="8804" count="1" /> <!-- Tiphon's Spear - Towering Blow -->
+		<ingredient id="57" count="26968400" />
+	</item>
+	<item>
+		<production id="8805" count="1" /> <!-- Tiphon's Spear - Wild Blow -->
+		<ingredient id="57" count="26968400" />
+	</item>
+	<item>
+		<production id="8806" count="1" /> <!-- Shyeed's Bow - Cheap Shot -->
+		<ingredient id="57" count="26968400" />
+	</item>
+	<item>
+		<production id="8807" count="1" /> <!-- Shyeed's Bow - Focus -->
+		<ingredient id="57" count="26968400" />
+	</item>
+	<item>
+		<production id="8808" count="1" /> <!-- Shyeed's Bow - Quick Recovery -->
+		<ingredient id="57" count="26968400" />
+	</item>
+	<item>
+		<production id="8809" count="1" /> <!-- Sobekk's Hurricane - Rsk. Haste -->
+		<ingredient id="57" count="26968400" />
+	</item>
+	<item>
+		<production id="8810" count="1" /> <!-- Sobekk's Hurricane - Haste -->
+		<ingredient id="57" count="26968400" />
+	</item>
+	<item>
+		<production id="8811" count="1" /> <!-- Sobekk's Hurricane - Critical Drain -->
+		<ingredient id="57" count="26968400" />
+	</item>
+	<item>
+		<production id="8812" count="1" /> <!-- Themis' Tongue - Mana Up -->
+		<ingredient id="57" count="26968400" />
+	</item>
+	<item>
+		<production id="8813" count="1" /> <!-- Themis' Tongue - Mental Shield -->
+		<ingredient id="57" count="26968400" />
+	</item>
+	<item>
+		<production id="8814" count="1" /> <!-- Themis' Tongue - Magic Focus -->
+		<ingredient id="57" count="26968400" />
+	</item>
+	<item>
+		<production id="8815" count="1" /> <!-- Cabrio's Hand - Conversion -->
+		<ingredient id="57" count="26968400" />
+	</item>
+	<item>
+		<production id="8816" count="1" /> <!-- Cabrio's Hand - Mana Up -->
+		<ingredient id="57" count="26968400" />
+	</item>
+	<item>
+		<production id="8817" count="1" /> <!-- Cabrio's Hand - Magic Silence -->
+		<ingredient id="57" count="26968400" />
+	</item>
+	<item>
+		<production id="8818" count="1" /> <!-- Daimon Crystal - Mana Up -->
+		<ingredient id="57" count="26968400" />
+	</item>
+	<item>
+		<production id="8819" count="1" /> <!-- Daimon Crystal - Acumen -->
+		<ingredient id="57" count="26968400" />
+	</item>
+	<item>
+		<production id="8820" count="1" /> <!-- Daimon Crystal - Mental Shield -->
+		<ingredient id="57" count="26968400" />
+	</item>
+	<item>
+		<production id="5233" count="1" /> <!-- Keshanberk*Keshanberk -->
+		<ingredient id="57" count="14098000" />
+	</item>
+	<item>
+		<production id="8678" count="1" /> <!-- Sirra's Blade -->
+		<ingredient id="57" count="26968400" />
+	</item>
+	<item>
+		<production id="8679" count="1" /> <!-- Sword of Ipos -->
+		<ingredient id="57" count="26968400" />
+	</item>
+	<item>
+		<production id="8680" count="1" /> <!-- Barakiel's Axe -->
+		<ingredient id="57" count="26968400" />
+	</item>
+	<item>
+		<production id="8681" count="1" /> <!-- Behemoth's Tuning Fork -->
+		<ingredient id="57" count="26968400" />
+	</item>
+	<item>
+		<production id="8682" count="1" /> <!-- Naga Storm -->
+		<ingredient id="57" count="26968400" />
+	</item>
+	<item>
+		<production id="8683" count="1" /> <!-- Tiphon's Spear -->
+		<ingredient id="57" count="26968400" />
+	</item>
+	<item>
+		<production id="8684" count="1" /> <!-- Shyeed's Bow -->
+		<ingredient id="57" count="26968400" />
+	</item>
+	<item>
+		<production id="8685" count="1" /> <!-- Sobekk's Hurricane -->
+		<ingredient id="57" count="26968400" />
+	</item>
+	<item>
+		<production id="8686" count="1" /> <!-- Themis' Tongue -->
+		<ingredient id="57" count="26968400" />
+	</item>
+	<item>
+		<production id="8687" count="1" /> <!-- Cabrio's Hand -->
+		<ingredient id="57" count="26968400" />
+	</item>
+	<item>
+		<production id="8688" count="1" /> <!-- Daimon Crystal -->
+		<ingredient id="57" count="26968400" />
+	</item>
+	<item>
+		<production id="8938" count="1" /> <!-- Damascus * Tallum Blade -->
+		<ingredient id="57" count="26968400" />
+	</item>
+	<item>
+		<production id="9328" count="1" /> <!-- White Lightning -->
+		<ingredient id="57" count="14098000" />
+	</item>
+	<item>
+		<production id="9329" count="1" /> <!-- White Lightning - Critical Poison -->
+		<ingredient id="57" count="14098000" />
+	</item>
+	<item>
+		<production id="9330" count="1" /> <!-- White Lightning - Haste -->
+		<ingredient id="57" count="14098000" />
+	</item>
+	<item>
+		<production id="9331" count="1" /> <!-- White Lightning - Anger -->
+		<ingredient id="57" count="14098000" />
+	</item>
+	<item>
+		<production id="9332" count="1" /> <!-- Divine Pain -->
+		<ingredient id="57" count="14098000" />
+	</item>
+	<item>
+		<production id="9333" count="1" /> <!-- Divine Pain - Haste -->
+		<ingredient id="57" count="14098000" />
+	</item>
+	<item>
+		<production id="9334" count="1" /> <!-- Divine Pain - Critical Damage -->
+		<ingredient id="57" count="14098000" />
+	</item>
+	<item>
+		<production id="9335" count="1" /> <!-- Divine Pain - Focus -->
+		<ingredient id="57" count="14098000" />
+	</item>
+	<item>
+		<production id="9336" count="1" /> <!-- Doomchanter -->
+		<ingredient id="57" count="14098000" />
+	</item>
+	<item>
+		<production id="9337" count="1" /> <!-- Doomchanter - Light -->
+		<ingredient id="57" count="14098000" />
+	</item>
+	<item>
+		<production id="9338" count="1" /> <!-- Doomchanter - Critical Bleed -->
+		<ingredient id="57" count="14098000" />
+	</item>
+	<item>
+		<production id="9339" count="1" /> <!-- Doomchanter - Mana Up -->
+		<ingredient id="57" count="14098000" />
+	</item>
+	<item>
+		<production id="9340" count="1" /> <!-- Lacerator -->
+		<ingredient id="57" count="20741000" />
+	</item>
+	<item>
+		<production id="9341" count="1" /> <!-- Lacerator - Critical Damage -->
+		<ingredient id="57" count="20741000" />
+	</item>
+	<item>
+		<production id="9342" count="1" /> <!-- Lacerator - Health -->
+		<ingredient id="57" count="20741000" />
+	</item>
+	<item>
+		<production id="9343" count="1" /> <!-- Lacerator - Rsk. Focus -->
+		<ingredient id="57" count="20741000" />
+	</item>
+	<item>
+		<production id="9344" count="1" /> <!-- Undertaker -->
+		<ingredient id="57" count="20741000" />
+	</item>
+	<item>
+		<production id="9345" count="1" /> <!-- Undertaker - Health -->
+		<ingredient id="57" count="20741000" />
+	</item>
+	<item>
+		<production id="9346" count="1" /> <!-- Undertaker - Critical Bleed -->
+		<ingredient id="57" count="20741000" />
+	</item>
+	<item>
+		<production id="9347" count="1" /> <!-- Undertaker - Critical Drain -->
+		<ingredient id="57" count="20741000" />
+	</item>
+	<item>
+		<production id="9348" count="1" /> <!-- Reaper -->
+		<ingredient id="57" count="20741000" />
+	</item>
+	<item>
+		<production id="9349" count="1" /> <!-- Reaper - Cheap Shot -->
+		<ingredient id="57" count="20741000" />
+	</item>
+	<item>
+		<production id="9350" count="1" /> <!-- Reaper - Quick Recovery -->
+		<ingredient id="57" count="20741000" />
+	</item>
+	<item>
+		<production id="9351" count="1" /> <!-- Reaper - Critical Poison -->
+		<ingredient id="57" count="20741000" />
+	</item>
+	<item>
+		<production id="9352" count="1" /> <!-- Г‰clair Bijou -->
+		<ingredient id="57" count="26968400" />
+	</item>
+	<item>
+		<production id="9353" count="1" /> <!-- Г‰clair Bijou - Haste -->
+		<ingredient id="57" count="26968400" />
+	</item>
+	<item>
+		<production id="9354" count="1" /> <!-- Г‰clair Bijou - Health -->
+		<ingredient id="57" count="26968400" />
+	</item>
+	<item>
+		<production id="9355" count="1" /> <!-- Г‰clair Bijou - Critical Poison -->
+		<ingredient id="57" count="26968400" />
+	</item>
+	<item>
+		<production id="9356" count="1" /> <!-- Durendal -->
+		<ingredient id="57" count="26968400" />
+	</item>
+	<item>
+		<production id="9357" count="1" /> <!-- Durendal - Focus -->
+		<ingredient id="57" count="26968400" />
+	</item>
+	<item>
+		<production id="9358" count="1" /> <!-- Durendal - Haste -->
+		<ingredient id="57" count="26968400" />
+	</item>
+	<item>
+		<production id="9359" count="1" /> <!-- Durendal - Health -->
+		<ingredient id="57" count="26968400" />
+	</item>
+	<item>
+		<production id="9360" count="1" /> <!-- Screaming Vengeance -->
+		<ingredient id="57" count="26968400" />
+	</item>
+	<item>
+		<production id="9361" count="1" /> <!-- Screaming Vengeance - Cheap Shot -->
+		<ingredient id="57" count="26968400" />
+	</item>
+	<item>
+		<production id="9362" count="1" /> <!-- Screaming Vengeance - Focus -->
+		<ingredient id="57" count="26968400" />
+	</item>
+	<item>
+		<production id="9363" count="1" /> <!-- Screaming Vengeance - Quick Recovery -->
+		<ingredient id="57" count="26968400" />
+	</item>
+	<item>
+		<production id="5596" count="1" /> <!-- Dasparion's Staff - Mana Up -->
+		<ingredient id="57" count="14098000" />
+	</item>
+	<item>
+		<production id="5597" count="1" /> <!-- Dasparion's Staff - Conversion -->
+		<ingredient id="57" count="14098000" />
+	</item>
+	<item>
+		<production id="5598" count="1" /> <!-- Dasparion's Staff - Acumen -->
+		<ingredient id="57" count="14098000" />
+	</item>
+	<item>
+		<production id="5599" count="1" /> <!-- Meteor Shower - Focus -->
+		<ingredient id="57" count="14098000" />
+	</item>
+	<item>
+		<production id="7884" count="1" /> <!-- Infernal Master -->
+		<ingredient id="57" count="14098000" />
+	</item>
+	<item>
+		<production id="7894" count="1" /> <!-- Spiritual Eye -->
+		<ingredient id="57" count="14098000" />
+	</item>
+	<item>
+		<production id="7895" count="1" /> <!-- Flaming Dragon Skull -->
+		<ingredient id="57" count="20741000" />
+	</item>
+	<item>
+		<production id="5600" count="1" /> <!-- Meteor Shower - Critical Bleed -->
+		<ingredient id="57" count="14098000" />
+	</item>
+	<item>
+		<production id="5601" count="1" /> <!-- Meteor Shower - Rsk. Haste -->
+		<ingredient id="57" count="14098000" />
+	</item>
+	<item>
+		<production id="5602" count="1" /> <!-- Elysian - Health -->
+		<ingredient id="57" count="20741000" />
+	</item>
+	<item>
+		<production id="5603" count="1" /> <!-- Elysian - Anger -->
+		<ingredient id="57" count="20741000" />
+	</item>
+	<item>
+		<production id="5604" count="1" /> <!-- Elysian - Critical Drain -->
+		<ingredient id="57" count="20741000" />
+	</item>
+	<item>
+		<production id="5605" count="1" /> <!-- Branch of the Mother Tree - Conversion -->
+		<ingredient id="57" count="20741000" />
+	</item>
+	<item>
+		<production id="5606" count="1" /> <!-- Branch of the Mother Tree - Magic Damage -->
+		<ingredient id="57" count="20741000" />
+	</item>
+	<item>
+		<production id="5607" count="1" /> <!-- Branch of the Mother Tree - Acumen -->
+		<ingredient id="57" count="20741000" />
+	</item>
+	<item>
+		<production id="5608" count="1" /> <!-- Carnage Bow - Light -->
+		<ingredient id="57" count="14098000" />
+	</item>
+	<item>
+		<production id="5609" count="1" /> <!-- Carnage Bow - Critical Bleed -->
+		<ingredient id="57" count="14098000" />
+	</item>
+	<item>
+		<production id="5610" count="1" /> <!-- Carnage Bow - Mana Up -->
+		<ingredient id="57" count="14098000" />
+	</item>
+	<item>
+		<production id="5611" count="1" /> <!-- Soul Bow - Cheap Shot -->
+		<ingredient id="57" count="20741000" />
+	</item>
+	<item>
+		<production id="5612" count="1" /> <!-- Soul Bow - Quick Recovery -->
+		<ingredient id="57" count="20741000" />
+	</item>
+	<item>
+		<production id="5613" count="1" /> <!-- Soul Bow - Critical Poison -->
+		<ingredient id="57" count="20741000" />
+	</item>
+	<item>
+		<production id="5614" count="1" /> <!-- Bloody Orchid - Focus -->
+		<ingredient id="57" count="14098000" />
+	</item>
+	<item>
+		<production id="5615" count="1" /> <!-- Bloody Orchid - Back Blow -->
+		<ingredient id="57" count="14098000" />
+	</item>
+	<item>
+		<production id="5616" count="1" /> <!-- Bloody Orchid - Critical Bleed -->
+		<ingredient id="57" count="14098000" />
+	</item>
+	<item>
+		<production id="5617" count="1" /> <!-- Soul Separator - Guidance -->
+		<ingredient id="57" count="20741000" />
+	</item>
+	<item>
+		<production id="5618" count="1" /> <!-- Soul Separator - Critical Damage -->
+		<ingredient id="57" count="20741000" />
+	</item>
+	<item>
+		<production id="5619" count="1" /> <!-- Soul Separator - Rsk. Haste -->
+		<ingredient id="57" count="20741000" />
+	</item>
+	<item>
+		<production id="5620" count="1" /> <!-- Blood Tornado - Haste -->
+		<ingredient id="57" count="14098000" />
+	</item>
+	<item>
+		<production id="5621" count="1" /> <!-- Blood Tornado - Focus -->
+		<ingredient id="57" count="14098000" />
+	</item>
+	<item>
+		<production id="5622" count="1" /> <!-- Blood Tornado - Anger -->
+		<ingredient id="57" count="14098000" />
+	</item>
+	<item>
+		<production id="5623" count="1" /> <!-- Dragon Grinder - Rsk. Evasion -->
+		<ingredient id="57" count="20741000" />
+	</item>
+	<item>
+		<production id="5624" count="1" /> <!-- Dragon Grinder - Guidance -->
+		<ingredient id="57" count="20741000" />
+	</item>
+	<item>
+		<production id="5625" count="1" /> <!-- Dragon Grinder - Health -->
+		<ingredient id="57" count="20741000" />
+	</item>
+	<item>
+		<production id="5626" count="1" /> <!-- Halberd - Haste -->
+		<ingredient id="57" count="14098000" />
+	</item>
+	<item>
+		<production id="5627" count="1" /> <!-- Halberd - Critical Stun -->
+		<ingredient id="57" count="14098000" />
+	</item>
+	<item>
+		<production id="5628" count="1" /> <!-- Halberd - Wide Blow -->
+		<ingredient id="57" count="14098000" />
+	</item>
+	<item>
+		<production id="5629" count="1" /> <!-- Orcish Halberd -->
+		<ingredient id="57" count="21300000" />
+	</item>
+	<item>
+		<production id="5630" count="1" /> <!-- Orcish Halberd -->
+		<ingredient id="57" count="21300000" />
+	</item>
+	<item>
+		<production id="5631" count="1" /> <!-- Orcish Halberd -->
+		<ingredient id="57" count="21300000" />
+	</item>
+	<item>
+		<production id="5632" count="1" /> <!-- Tallum Glaive - Guidance -->
+		<ingredient id="57" count="20741000" />
+	</item>
+	<item>
+		<production id="5633" count="1" /> <!-- Tallum Glaive - Health -->
+		<ingredient id="57" count="20741000" />
+	</item>
+	<item>
+		<production id="5634" count="1" /> <!-- Tallum Glaive - Wide Blow -->
+		<ingredient id="57" count="20741000" />
+	</item>
+	<item>
+		<production id="5635" count="1" /> <!-- Tallum Blade - Critical Poison -->
+		<ingredient id="57" count="14098000" />
+	</item>
+	<item>
+		<production id="5636" count="1" /> <!-- Tallum Blade - Haste -->
+		<ingredient id="57" count="14098000" />
+	</item>
+	<item>
+		<production id="5637" count="1" /> <!-- Tallum Blade - Anger -->
+		<ingredient id="57" count="14098000" />
+	</item>
+	<item>
+		<production id="5638" count="1" /> <!-- Elemental Sword - M. Atk. -->
+		<ingredient id="57" count="14098000" />
+	</item>
+	<item>
+		<production id="5639" count="1" /> <!-- Elemental Sword - Magic Paralyze -->
+		<ingredient id="57" count="14098000" />
+	</item>
+	<item>
+		<production id="5640" count="1" /> <!-- Elemental Sword - Empower -->
+		<ingredient id="57" count="14098000" />
+	</item>
+	<item>
+		<production id="5641" count="1" /> <!-- Sword of Miracles - M. Atk. -->
+		<ingredient id="57" count="20741000" />
+	</item>
+	<item>
+		<production id="5642" count="1" /> <!-- Sword of Miracles - Magic Silence -->
+		<ingredient id="57" count="20741000" />
+	</item>
+	<item>
+		<production id="5643" count="1" /> <!-- Sword of Miracles - Acumen -->
+		<ingredient id="57" count="20741000" />
+	</item>
+	<item>
+		<production id="5644" count="1" /> <!-- Dragon Slayer - Health -->
+		<ingredient id="57" count="20741000" />
+	</item>
+	<item>
+		<production id="5645" count="1" /> <!-- Dragon Slayer - Critical Bleed -->
+		<ingredient id="57" count="20741000" />
+	</item>
+	<item>
+		<production id="5646" count="1" /> <!-- Dragon Slayer - Critical Drain -->
+		<ingredient id="57" count="20741000" />
+	</item>
+	<item>
+		<production id="5647" count="1" /> <!-- Dark Legion's Edge - Critical Damage -->
+		<ingredient id="57" count="20741000" />
+	</item>
+	<item>
+		<production id="5648" count="1" /> <!-- Dark Legion's Edge - Health -->
+		<ingredient id="57" count="20741000" />
+	</item>
+	<item>
+		<production id="5649" count="1" /> <!-- Dark Legion's Edge - Rsk. Focus -->
+		<ingredient id="57" count="20741000" />
+	</item>
+	<item>
+		<production id="304" count="1" /> <!-- Orcish Halberd -->
+		<ingredient id="57" count="21300000" />
+	</item>
+	<item>
+		<production id="305" count="1" /> <!-- Tallum Glaive -->
+		<ingredient id="57" count="20741000" />
+	</item>
+	<item>
+		<production id="345" count="1" /> <!-- Deathbringer Sword -->
+		<ingredient id="57" count="27000000" />
+	</item>
+	<item>
+		<production id="7902" count="1" /> <!-- Doom Crusher -->
+		<ingredient id="57" count="20741000" />
+	</item>
+	<item>
+		<production id="80" count="1" /> <!-- Tallum Blade -->
+		<ingredient id="57" count="14098000" />
+	</item>
+	<item>
+		<production id="81" count="1" /> <!-- Dragon Slayer -->
+		<ingredient id="57" count="20741000" />
+	</item>
+	<item>
+		<production id="85" count="1" /> <!-- Phantom Sword -->
+		<ingredient id="57" count="18300000" />
+	</item>
+	<item>
+		<production id="98" count="1" /> <!-- Halberd -->
+		<ingredient id="57" count="14098000" />
+	</item>
+	<item>
+		<production id="4720" count="1" /> <!-- Tallum Blade - Health -->
+		<ingredient id="57" count="18300000" />
+	</item>
+	<item>
+		<production id="4721" count="1" /> <!-- Tallum Blade - Rsk. Evasion -->
+		<ingredient id="57" count="18300000" />
+	</item>
+	<item>
+		<production id="4722" count="1" /> <!-- Tallum Blade - Rsk. Haste -->
+		<ingredient id="57" count="18300000" />
+	</item>
+	<item>
+		<production id="4756" count="1" /> <!-- Meteor Shower - Health -->
+		<ingredient id="57" count="18300000" />
+	</item>
+	<item>
+		<production id="4757" count="1" /> <!-- Meteor Shower - Focus -->
+		<ingredient id="57" count="18300000" />
+	</item>
+	<item>
+		<production id="4758" count="1" /> <!-- Meteor Shower - P.Focus -->
+		<ingredient id="57" count="18300000" />
+	</item>
+	<item>
+		<production id="4783" count="1" /> <!-- Bloody Orchid - Evasion -->
+		<ingredient id="57" count="18300000" />
+	</item>
+	<item>
+		<production id="4784" count="1" /> <!-- Bloody Orchid - Focus -->
+		<ingredient id="57" count="18300000" />
+	</item>
+	<item>
+		<production id="4785" count="1" /> <!-- Bloody Orchid - Back Blow -->
+		<ingredient id="57" count="18300000" />
+	</item>
+	<item>
+		<production id="8108" count="1" /> <!-- Infernal Master - Haste -->
+		<ingredient id="57" count="14098000" />
+	</item>
+	<item>
+		<production id="8109" count="1" /> <!-- Infernal Master - Critical Damage -->
+		<ingredient id="57" count="14098000" />
+	</item>
+	<item>
+		<production id="8110" count="1" /> <!-- Infernal Master - Focus -->
+		<ingredient id="57" count="14098000" />
+	</item>
+	<item>
+		<production id="8126" count="1" /> <!-- Destroyer Hammer - Health -->
+		<ingredient id="57" count="14098000" />
+	</item>
+	<item>
+		<production id="8127" count="1" /> <!-- Destroyer Hammer - Haste -->
+		<ingredient id="57" count="14098000" />
+	</item>
+	<item>
+		<production id="8128" count="1" /> <!-- Destroyer Hammer - Critical Drain -->
+		<ingredient id="57" count="14098000" />
+	</item>
+	<item>
+		<production id="8135" count="1" /> <!-- Doom Crusher - Health -->
+		<ingredient id="57" count="20741000" />
+	</item>
+	<item>
+		<production id="8136" count="1" /> <!-- Doom Crusher - Anger -->
+		<ingredient id="57" count="20741000" />
+	</item>
+	<item>
+		<production id="8137" count="1" /> <!-- Doom Crusher - Rsk. Haste -->
+		<ingredient id="57" count="20741000" />
+	</item>
+	<item>
+		<production id="8147" count="1" /> <!-- Spiritual Eye - Mana Up -->
+		<ingredient id="57" count="14098000" />
+	</item>
+	<item>
+		<production id="8148" count="1" /> <!-- Spiritual Eye - Magic Poison -->
+		<ingredient id="57" count="14098000" />
+	</item>
+	<item>
+		<production id="8149" count="1" /> <!-- Spiritual Eye - Acumen -->
+		<ingredient id="57" count="14098000" />
+	</item>
+	<item>
+		<production id="8150" count="1" /> <!-- Flaming Dragon Skull - Acumen -->
+		<ingredient id="57" count="20741000" />
+	</item>
+	<item>
+		<production id="8151" count="1" /> <!-- Flaming Dragon Skull - M. Atk. -->
+		<ingredient id="57" count="20741000" />
+	</item>
+	<item>
+		<production id="8152" count="1" /> <!-- Flaming Dragon Skull - Magic Silence -->
+		<ingredient id="57" count="20741000" />
+	</item>
+	<item>
+		<production id="147" count="1" /> <!-- Tear of Darkness -->
+		<ingredient id="57" count="18300000" />
+	</item>
+	<item>
+		<production id="149" count="1" /> <!-- Sword of Life -->
+		<ingredient id="57" count="18300000" />
+	</item>
+	<item>
+		<production id="150" count="1" /> <!-- Elemental Sword -->
+		<ingredient id="57" count="14098000" />
+	</item>
+	<item>
+		<production id="151" count="1" /> <!-- Sword of Miracles -->
+		<ingredient id="57" count="20741000" />
+	</item>
+	<item>
+		<production id="164" count="1" /> <!-- Elysian -->
+		<ingredient id="57" count="20741000" />
+	</item>
+	<item>
+		<production id="212" count="1" /> <!-- Dasparion's Staff -->
+		<ingredient id="57" count="14098000" />
+	</item>
+	<item>
+		<production id="213" count="1" /> <!-- Branch of the Mother Tree -->
+		<ingredient id="57" count="20741000" />
+	</item>
+	<item>
+		<production id="235" count="1" /> <!-- Bloody Orchid -->
+		<ingredient id="57" count="14098000" />
+	</item>
+	<item>
+		<production id="236" count="1" /> <!-- Soul Separator -->
+		<ingredient id="57" count="20741000" />
+	</item>
+	<item>
+		<production id="269" count="1" /> <!-- Blood Tornado -->
+		<ingredient id="57" count="14098000" />
+	</item>
+	<item>
+		<production id="270" count="1" /> <!-- Dragon Grinder -->
+		<ingredient id="57" count="20741000" />
+	</item>
+	<item>
+		<production id="288" count="1" /> <!-- Carnage Bow -->
+		<ingredient id="57" count="14098000" />
+	</item>
+	<item>
+		<production id="289" count="1" /> <!-- Soul Bow -->
+		<ingredient id="57" count="20741000" />
+	</item>
+	<item>
+		<production id="4807" count="1" /> <!-- Blood Tornado - Critical Drain -->
+		<ingredient id="57" count="18300000" />
+	</item>
+	<item>
+		<production id="4808" count="1" /> <!-- Blood Tornado - Rsk. Evasion -->
+		<ingredient id="57" count="18300000" />
+	</item>
+	<item>
+		<production id="4809" count="1" /> <!-- Blood Tornado - Haste -->
+		<ingredient id="57" count="18300000" />
+	</item>
+	<item>
+		<production id="4831" count="1" /> <!-- Carnage Bow - Critical Bleed -->
+		<ingredient id="57" count="18300000" />
+	</item>
+	<item>
+		<production id="4832" count="1" /> <!-- Carnage Bow - Mana Up -->
+		<ingredient id="57" count="18300000" />
+	</item>
+	<item>
+		<production id="4833" count="1" /> <!-- Carnage Bow - Quick Recovery -->
+		<ingredient id="57" count="18300000" />
+	</item>
+	<item>
+		<production id="4861" count="1" /> <!-- Halberd - Critical Stun -->
+		<ingredient id="57" count="18300000" />
+	</item>
+	<item>
+		<production id="4862" count="1" /> <!-- Halberd - Towering Blow -->
+		<ingredient id="57" count="18300000" />
+	</item>
+	<item>
+		<production id="4863" count="1" /> <!-- Halberd - Wide Blow -->
+		<ingredient id="57" count="18300000" />
+	</item>
+	<item>
+		<production id="5704" count="1" /> <!-- Keshanberk*Keshanberk -->
+		<ingredient id="57" count="18300000" />
+	</item>
+	<item>
+		<production id="5705" count="1" /> <!-- Keshanberk*Damascus -->
+		<ingredient id="57" count="18567400" />
+	</item>
+	<item>
+		<production id="5706" count="1" /> <!-- Damascus*Damascus -->
+		<ingredient id="57" count="20741000" />
+	</item>
+</list>

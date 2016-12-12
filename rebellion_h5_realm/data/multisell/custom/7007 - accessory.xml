@@ -1,0 +1,109 @@
+<?xml version='1.0' encoding='utf-8'?>
+<list>
+	<config showall="true" notax="true" keepenchanted="true" />
+	<!-- Santas Hat -->
+	<item id="1">
+		<ingredient id="6673" count="45" />
+		<production id="9138" count="1" />
+	</item>
+	<!-- Santas Antlers -->
+	<item id="2">
+		<ingredient id="6673" count="45" />
+		<production id="8936" count="1" />
+	</item>
+	<!-- Monocle -->
+	<item id="3">
+		<ingredient id="6673" count="45" />
+		<production id="6846" count="1" />
+	</item>
+	<!-- Pirates Eyepatch -->
+	<item id="4">
+		<ingredient id="6673" count="45" />
+		<production id="6845" count="1" />
+	</item>
+	<!-- outlaws eyepatch -->
+	<item id="5">
+		<ingredient id="6673" count="45" />
+		<production id="7681" count="1" />
+	</item>
+	<!-- eye patch -->
+	<item id="6">
+		<ingredient id="6673" count="45" />
+		<production id="8916" count="1" />
+	</item>
+	<!-- tateossian hairband -->
+	<item id="7">
+		<ingredient id="6673" count="45" />
+		<production id="7060" count="1" />
+	</item>
+	<!-- cat ear -->
+	<item id="8">
+		<ingredient id="6673" count="45" />
+		<production id="6843" count="1" />
+	</item>
+	<!-- raccoon ears -->
+	<item id="9">
+		<ingredient id="6673" count="45" />
+		<production id="7680" count="1" />
+	</item>
+	<!-- rabbit ears -->
+	<item id="10">
+		<ingredient id="6673" count="45" />
+		<production id="7683" count="1" />
+	</item>
+	<!-- fairy antenne -->
+	<item id="11">
+		<ingredient id="6673" count="45" />
+		<production id="8189" count="1" />
+	</item>
+	<!-- demon horns -->
+	<item id="12">
+		<ingredient id="6673" count="45" />
+		<production id="8187" count="1" />
+	</item>
+	<!-- little angel wings -->
+	<item id="13">
+		<ingredient id="6673" count="45" />
+		<production id="8188" count="1" />
+	</item>
+	<!-- party hat -->
+	<item id="14">
+		<ingredient id="6673" count="45" />
+		<production id="8184" count="1" />
+	</item>
+	<!-- blue party hat -->
+	<item id="15">
+		<ingredient id="6673" count="45" />
+		<production id="8557" count="1" />
+	</item>
+	<!-- romantic chapeau -->
+	<item id="16">
+		<ingredient id="6673" count="45" />
+		<production id="8565" count="1" />
+	</item>
+	<!-- feathered hat -->
+	<item id="17">
+		<ingredient id="6673" count="45" />
+		<production id="8185" count="1" />
+	</item>
+	<!-- dapper cap -->
+	<item id="18">
+		<ingredient id="6673" count="45" />
+		<production id="8564" count="1" />
+	</item>
+	<!-- artisans googles -->
+	<item id="19">
+		<ingredient id="6673" count="45" />
+		<production id="8186" count="1" />
+	</item>
+	<!-- wizard hat -->
+	<item id="20">
+		<ingredient id="6673" count="45" />
+		<production id="8563" count="1" />
+	</item>
+	<!-- jester hat -->
+	<item id="21">
+		<ingredient id="6673" count="45" />
+		<production id="8562" count="1" />
+	</item>
+</list>

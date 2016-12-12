@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE list SYSTEM "zone.dtd">
+<list>
+	<zone name="[Event_Lobby]" type="peace_zone">
+		<polygon>
+			<coords loc="184184 -11672 -5550 -5300"/>
+			<coords loc="184184 -13544 -5550 -5300"/>
+			<coords loc="186008 -13496 -5550 -5300"/>
+			<coords loc="185976 -11688 -5550 -5300"/>
+		</polygon>
+	</zone>
+	
+	<!-- Underground Coliseum -->
+	<zone name="[Underground_Coliseum]" type="battle_zone">
+		<set name="enabled" val="false"/>
+		<polygon>
+			<coords loc="-90360 -78856 -11000 -10000"/>
+			<coords loc="-42504 -78856 -12000 -10000" />
+			<coords loc="-42504 -42936 -12000 -10000"/>
+			<coords loc="-90360 -42936 -12000 -10000"/>
+		</polygon>
+	</zone>
+</list>

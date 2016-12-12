@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+	<skill id="9213" levels="1" name="Kukurin">
+		<set name="target" val="TARGET_SELF"/>
+		<set name="skillType" val="TRANSFORMATION"/>
+		<set name="reuseDelay" val="10000"/>
+		<set name="hitTime" val="1000"/>
+		<set name="mpConsume2" val="40"/>
+		<set name="isReuseDelayPermanent" val="true"/>
+		<set name="addSkills" val="619;1"/>
+		<set name="npcId" val="13311"/>
+		<set name="operateType" val="OP_ACTIVE"/>
+		<cond msgId="1509">
+			<not>
+				<player olympiad="true" />
+			</not>
+		</cond>
+		<for>
+			<effect count="1" name="Transformation" time="1800" val="138"/>
+		</for>
+	</skill>
+	<skill id="8600" levels="1" name="Summon Royal Aegis">
+		<set name="target" val="TARGET_SELF"/>
+		<set name="skillType" val="TRANSFORMATION"/>
+		<set name="reuseDelay" val="10000"/>
+		<set name="hitTime" val="1000"/>
+		<set name="mpConsume2" val="40"/>
+		<set name="isReuseDelayPermanent" val="true"/>
+		<set name="addSkills" val="9206;1;619;1"/>
+		<set name="npcId" val="13311"/>
+		<set name="operateType" val="OP_ACTIVE"/>
+		<cond msgId="1509">
+			<not>
+				<player olympiad="true" />
+			</not>
+		</cond>
+		<for>
+			<effect name="Transformation" time="1800" val="129">
+				<mul order="0x30" stat="runSpd" val="1.4"/>
+			</effect>
+		</for>
+	</skill>
+	<skill id="8601" levels="1" name="Summon Battle Scar">
+		<set name="target" val="TARGET_SELF"/>
+		<set name="skillType" val="TRANSFORMATION"/>
+		<set name="reuseDelay" val="10000"/>
+		<set name="hitTime" val="1000"/>
+		<set name="mpConsume2" val="40"/>
+		<set name="isReuseDelayPermanent" val="true"/>
+		<set name="addSkills" val="9206;1;619;1"/>
+		<set name="npcId" val="13312"/>
+		<set name="operateType" val="OP_ACTIVE"/>
+		<cond msgId="1509">
+			<not>
+				<player olympiad="true" />
+			</not>
+		</cond>
+		<for>
+			<effect name="Transformation" time="1800" val="130">
+				<mul order="0x30" stat="runSpd" val="1.4"/>
+			</effect>
+		</for>
+	</skill>
+	<skill id="8602" levels="1" name="Summon Blood Tail">
+		<set name="target" val="TARGET_SELF"/>
+		<set name="skillType" val="TRANSFORMATION"/>
+		<set name="reuseDelay" val="10000"/>
+		<set name="hitTime" val="1000"/>
+		<set name="mpConsume2" val="40"/>
+		<set name="isReuseDelayPermanent" val="true"/>
+		<set name="addSkills" val="9206;1;619;1"/>
+		<set name="npcId" val="13313"/>
+		<set name="operateType" val="OP_ACTIVE"/>
+		<cond msgId="1509">
+			<not>
+				<player olympiad="true" />
+			</not>
+		</cond>
+		<for>
+			<effect name="Transformation" time="1800" val="131">
+				<mul order="0x30" stat="runSpd" val="1.4"/>
+			</effect>
+		</for>
+	</skill>
+	<skill id="8603" levels="1" name="Summon Tempest Arrow">
+		<set name="target" val="TARGET_SELF"/>
+		<set name="skillType" val="TRANSFORMATION"/>
+		<set name="reuseDelay" val="10000"/>
+		<set name="hitTime" val="1000"/>
+		<set name="mpConsume2" val="40"/>
+		<set name="isReuseDelayPermanent" val="true"/>
+		<set name="addSkills" val="9206;1;619;1"/>
+		<set name="npcId" val="13314"/>
+		<set name="operateType" val="OP_ACTIVE"/>
+		<cond msgId="1509">
+			<not>
+				<player olympiad="true" />
+			</not>
+		</cond>
+		<for>
+			<effect name="Transformation" time="1800" val="132">
+				<mul order="0x30" stat="runSpd" val="1.4"/>
+			</effect>
+		</for>
+	</skill>
+	<skill id="8604" levels="1" name="Summon Blue Phantom">
+		<set name="target" val="TARGET_SELF"/>
+		<set name="skillType" val="TRANSFORMATION"/>
+		<set name="reuseDelay" val="10000"/>
+		<set name="hitTime" val="1000"/>
+		<set name="mpConsume2" val="40"/>
+		<set name="isReuseDelayPermanent" val="true"/>
+		<set name="addSkills" val="9206;1;619;1"/>
+		<set name="npcId" val="13315"/>
+		<set name="operateType" val="OP_ACTIVE"/>
+		<cond msgId="1509">
+			<not>
+				<player olympiad="true" />
+			</not>
+		</cond>
+		<for>
+			<effect name="Transformation" time="1800" val="133">
+				<mul order="0x30" stat="runSpd" val="1.4"/>
+			</effect>
+		</for>
+	</skill>
+	<skill id="8605" levels="1" name="Summon White Wing">
+		<set name="target" val="TARGET_SELF"/>
+		<set name="skillType" val="TRANSFORMATION"/>
+		<set name="reuseDelay" val="10000"/>
+		<set name="hitTime" val="1000"/>
+		<set name="mpConsume2" val="40"/>
+		<set name="isReuseDelayPermanent" val="true"/>
+		<set name="addSkills" val="9206;1;619;1"/>
+		<set name="npcId" val="13316"/>
+		<set name="operateType" val="OP_ACTIVE"/>
+		<cond msgId="1509">
+			<not>
+				<player olympiad="true" />
+			</not>
+		</cond>
+		<for>
+			<effect name="Transformation" time="1800" val="134">
+				<mul order="0x30" stat="runSpd" val="1.4"/>
+			</effect>
+		</for>
+	</skill>
+	<skill id="8606" levels="1" name="Summon Swift Melody">
+		<set name="target" val="TARGET_SELF"/>
+		<set name="skillType" val="TRANSFORMATION"/>
+		<set name="reuseDelay" val="10000"/>
+		<set name="hitTime" val="1000"/>
+		<set name="mpConsume2" val="40"/>
+		<set name="isReuseDelayPermanent" val="true"/>
+		<set name="addSkills" val="9206;1;619;1"/>
+		<set name="npcId" val="13317"/>
+		<set name="operateType" val="OP_ACTIVE"/>
+		<cond msgId="1509">
+			<not>
+				<player olympiad="true" />
+			</not>
+		</cond>
+		<for>
+			<effect name="Transformation" time="1800" val="135">
+				<mul order="0x30" stat="runSpd" val="1.4"/>
+			</effect>
+		</for>
+	</skill>
+	<skill id="8607" levels="1" name="Summon Silver Saint">
+		<set name="target" val="TARGET_SELF"/>
+		<set name="skillType" val="TRANSFORMATION"/>
+		<set name="reuseDelay" val="10000"/>
+		<set name="hitTime" val="1000"/>
+		<set name="mpConsume2" val="40"/>
+		<set name="isReuseDelayPermanent" val="true"/>
+		<set name="addSkills" val="9206;1;619;1"/>
+		<set name="npcId" val="13318"/>
+		<set name="operateType" val="OP_ACTIVE"/>
+		<cond msgId="1509">
+			<not>
+				<player olympiad="true" />
+			</not>
+		</cond>
+		<for>
+			<effect name="Transformation" time="1800" val="136">
+				<mul order="0x30" stat="runSpd" val="1.4"/>
+			</effect>
+		</for>
+	</skill>
+	<skill id="9206" levels="1" name="Fast Run">
+		<set name="icon" val="icon.skill9206"/>
+		<set name="target" val="TARGET_SELF"/>
+		<set name="skillType" val="BUFF"/>
+		<set name="operateType" val="OP_ACTIVE"/>
+		<for>
+			<effect count="1" name="Buff" stackType="Hourglass" time="30" val="0" displayId="9206">
+				<mul order="0x30" stat="runSpd" val="1.5"/>
+			</effect>
+		</for>
+		<set name="reuseDelay" val="45000"/>
+	</skill>
+	<skill id="21270" levels="1" name="Ride Tame Princess Ant">
+		<set name="target" val="TARGET_SELF"/>
+		<set name="skillType" val="TRANSFORMATION"/>
+		<set name="isReuseDelayPermanent" val="true"/>
+		<set name="addSkills" val="619;1"/>
+		<set name="operateType" val="OP_ACTIVE"/>
+		<set name="npcId" val="159"/>
+		<for>
+			<effect count="1" name="Transformation" time="1800" val="20008"/>
+		</for>
+	</skill>
+	<skill id="21271" levels="1" name="Ride Black Bear">
+		<set name="target" val="TARGET_SELF"/>
+		<set name="skillType" val="TRANSFORMATION"/>
+		<set name="isReuseDelayPermanent" val="true"/>
+		<set name="addSkills" val="619;1"/>
+		<set name="npcId" val="160"/>
+		<set name="operateType" val="OP_ACTIVE"/>
+		<for>
+			<effect count="1" name="Transformation" time="1800" val="20009"/>
+		</for>
+	</skill>
+	<skill id="21272" levels="1" name="Ride Halloween Witch's Broomstick">
+		<set name="target" val="TARGET_SELF"/>
+		<set name="skillType" val="TRANSFORMATION"/>
+		<set name="isReuseDelayPermanent" val="true"/>
+		<set name="addSkills" val="619;1"/>
+		<set name="npcId" val="161"/>
+		<set name="operateType" val="OP_ACTIVE"/>
+		<for>
+			<effect count="1" name="Transformation" time="1800" val="20010"/>
+		</for>
+	</skill>
+</list>
